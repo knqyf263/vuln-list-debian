@@ -12,13 +12,13 @@
     "qdoc-qt5 (\u003e= 5.15.8~) \u003c!nodoc\u003e, qhelpgenerator-qt5 (\u003e= 5.15.8~) \u003c!nodoc\u003e, qtattributionsscanner-qt5 (\u003e= 5.15.8~) \u003c!nodoc\u003e, qtbase5-doc-html (\u003e= 5.15.8+dfsg~) \u003c!nodoc\u003e"
   ],
   "Checksums-Sha256": [
-    "31ba9d849cc24f6047fcf5382686bc0711943c00567da34f871f33ca07ef46bf 5774 qtwebengine-opensource-src_5.15.13+dfsg-3.dsc a57f7ac892bba5838e983f058dbc109137513ac7ffcef224f595c0c55acce1b0 280874000 qtwebengine-opensource-src_5.15.13+dfsg.orig.tar.xz e1c8a463735d5a774e38568380eeb024a14738b00fb4fedb7c2e6b7a24efdc58 241360 qtwebengine-opensource-src_5.15.13+dfsg-3.debian.tar.xz"
+    "c5d0e9509b9335f14416341a6af2e8cb363e42bf3d39e6fe8847de8fa48a8235 5774 qtwebengine-opensource-src_5.15.13+dfsg-4.dsc a57f7ac892bba5838e983f058dbc109137513ac7ffcef224f595c0c55acce1b0 280874000 qtwebengine-opensource-src_5.15.13+dfsg.orig.tar.xz 106ffc6b9dd37555562f730a24b5f0be52cf35bf4e34b114610508948bcda949 241472 qtwebengine-opensource-src_5.15.13+dfsg-4.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/q/qtwebengine-opensource-src"
   ],
   "Files": [
-    "4e9b131fa5c670b4ee1bb31fdbf83102 5774 qtwebengine-opensource-src_5.15.13+dfsg-3.dsc 8fdffb28837d26384942e7bc3f0b3d2c 280874000 qtwebengine-opensource-src_5.15.13+dfsg.orig.tar.xz 9ff8afb58b231c3b6c666571682f672b 241360 qtwebengine-opensource-src_5.15.13+dfsg-3.debian.tar.xz"
+    "ec93cdb94ac145b212e7cf80e6b94ee0 5774 qtwebengine-opensource-src_5.15.13+dfsg-4.dsc 8fdffb28837d26384942e7bc3f0b3d2c 280874000 qtwebengine-opensource-src_5.15.13+dfsg.orig.tar.xz cf89d2247111e7580921839eed9e1b50 241472 qtwebengine-opensource-src_5.15.13+dfsg-4.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/qt-kde-team/qt/qtwebengine.git"
   ],
   "Version": [
-    "5.15.13+dfsg-3"
+    "5.15.13+dfsg-4"
   ]
 }

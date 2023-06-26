@@ -9,13 +9,13 @@
     "debhelper-compat (= 12), dh-r, r-base-dev (\u003e= 4.3.1), r-cran-mvtnorm (\u003e= 1.0-10), r-cran-survival (\u003e= 2.35-7), r-cran-sandwich (\u003e= 2.3-0), r-cran-th.data (\u003e= 1.0-7-2), r-cran-codetools"
   ],
   "Checksums-Sha256": [
-    "6c25568254d3050e3ae9440ce565616a94f786266fee0f41aab09575314cda3e 1982 multcomp_1.4-24-1.dsc 7e64ed3013620772f802863704f9530eabdf62c1a9df936c3e42636d344fb411 616182 multcomp_1.4-24.orig.tar.gz c0d29bdd71467b66224df3e7438370239d1a354ff55ceb37b7469882a4389e94 4668 multcomp_1.4-24-1.debian.tar.xz"
+    "bb7a7ef33d046aeb7fb772a47c4c4b151b5302c319fd8ab36817591bcb3a0cb6 1982 multcomp_1.4-25-1.dsc 9dfa7821a699e7b6fc99f2b8bf6bc5fecf6e3d83ece814882b5c8ed8faffd282 613666 multcomp_1.4-25.orig.tar.gz 31a82c08263bd6c751a0f9cd12f6f80baf85ed25517b297ebaf4834a6d1281b8 4680 multcomp_1.4-25-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/m/multcomp"
   ],
   "Files": [
-    "0a66fce070e4601f077245ca3a36c731 1982 multcomp_1.4-24-1.dsc d0a82d0dbb4c6aa182c4a1ca1d724511 616182 multcomp_1.4-24.orig.tar.gz be2110d1fb58ac909934fe48543c1875 4668 multcomp_1.4-24-1.debian.tar.xz"
+    "02136b101ae4c58dc669193fe720016f 1982 multcomp_1.4-25-1.dsc b14e77316815f6f1d84e144fe32b6c26 613666 multcomp_1.4-25.orig.tar.gz d9d053170d758164a2636ce6e2464748 4680 multcomp_1.4-25-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -48,6 +48,6 @@
     "https://salsa.debian.org/edd/r-cran-multcomp.git"
   ],
   "Version": [
-    "1.4-24-1"
+    "1.4-25-1"
   ]
 }

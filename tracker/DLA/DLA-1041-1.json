@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[28 Jul 2017] DLA-1041-1 nasm - security update",
-    "Line": 7414,
+    "Line": 7417,
     "ID": "DLA-1041-1",
     "Description": "nasm - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-10686 CVE-2017-11111}",
-      "Line": 7415,
+      "Line": 7418,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-10686",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[wheezy] - nasm 2.10.01-1+deb7u1",
-      "Line": 7416,
+      "Line": 7419,
       "Type": "package",
       "Release": "wheezy",
       "Package": "nasm",

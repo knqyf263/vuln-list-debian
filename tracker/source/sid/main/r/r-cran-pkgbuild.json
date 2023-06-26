@@ -6,16 +6,16 @@
     "r-cran-pkgbuild"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), dh-r, r-base-dev, r-cran-callr (\u003e= 3.2.0), r-cran-cli (\u003e= 3.4.0), r-cran-crayon, r-cran-desc, r-cran-prettyunits, r-cran-processx, r-cran-r6, r-cran-rprojroot, r-cran-withr (\u003e= 2.3.0)"
+    "debhelper-compat (= 13), dh-r, r-base-dev, r-cran-callr, r-cran-cli (\u003e= 3.4.0), r-cran-crayon, r-cran-desc, r-cran-prettyunits, r-cran-processx, r-cran-r6, r-cran-rprojroot"
   ],
   "Checksums-Sha256": [
-    "93482742b3b0709e6077bd864018ad0151ce0b715ea7b5736ea4b66faeabb60f 2383 r-cran-pkgbuild_1.4.0-1.dsc 357f3c40c99650eaa8a715991ff1355a553acb165f217ed204712f698ba55ed6 43739 r-cran-pkgbuild_1.4.0.orig.tar.gz 800d3baa4298d8b2e1b43ec108f0424d13b808652c0b4563534dd44cb890df31 3124 r-cran-pkgbuild_1.4.0-1.debian.tar.xz"
+    "fbdefdb17db480bc188da6ccc63552162988bd70a8b19079708f161d4d00fb32 2347 r-cran-pkgbuild_1.4.1-1.dsc cdb0ace14444f362be9725bd84e9752dab92f4771296504b63b9b8084f5e8a6b 46906 r-cran-pkgbuild_1.4.1.orig.tar.gz 94b27c1d7409ff296083304b9f5d4eed931fda08af6155c76042f17c8004bfaa 3176 r-cran-pkgbuild_1.4.1-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/r-cran-pkgbuild"
   ],
   "Files": [
-    "814b8bbff5068333aa4be5e04f3a4799 2383 r-cran-pkgbuild_1.4.0-1.dsc 8c26542a8ceb156e93b39087b812bfd9 43739 r-cran-pkgbuild_1.4.0.orig.tar.gz a71e66f1c2405f576b25347cfa2df4a8 3124 r-cran-pkgbuild_1.4.0-1.debian.tar.xz"
+    "95b52622ada49db530e5985bda1e9f5f 2347 r-cran-pkgbuild_1.4.1-1.dsc 549c3013b6cdc3af551f12fa83264846 46906 r-cran-pkgbuild_1.4.1.orig.tar.gz bce7e78d1a841c93998aac90ccb52d5a 3176 r-cran-pkgbuild_1.4.1-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest, autopkgtest-pkg-r"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/r-pkg-team/r-cran-pkgbuild.git"
   ],
   "Version": [
-    "1.4.0-1"
+    "1.4.1-1"
   ]
 }

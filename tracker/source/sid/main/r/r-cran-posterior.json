@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-r, r-base-dev, r-cran-abind, r-cran-checkmate, r-cran-rlang (\u003e= 1.0.6), r-cran-tibble (\u003e= 3.1.0), r-cran-vctrs (\u003e= 0.5.0), r-cran-tensora, r-cran-pillar, r-cran-distributional, r-cran-matrixstats"
   ],
   "Checksums-Sha256": [
-    "cdf2b223487e089f881faa1ab63777826fa81c572921a16fd33650659981b6ca 2464 r-cran-posterior_1.4.0+dfsg-1.dsc 647b0814f2da93ab1376fcaad594a9d25c3955cdad41c8d30ac4d827b5ea8df7 213708 r-cran-posterior_1.4.0+dfsg.orig.tar.xz e58759edaaa0e2a3dde15816486b132adbcd1f0d365501095f14f1e22a6ab415 3668 r-cran-posterior_1.4.0+dfsg-1.debian.tar.xz"
+    "154051cf38b684f98e6806e1aa3e26c44862d0b4a3f05bf13d351e5705bca1e8 2464 r-cran-posterior_1.4.1+dfsg-1.dsc 976b525657cb79aab6373d0aad9c6d0ca62923f0389779e6c1970fe331676371 214348 r-cran-posterior_1.4.1+dfsg.orig.tar.xz fb52303e1892288dff8e03c7371372a5ab0fb77efbcbebd9ab35493fa23b5513 3680 r-cran-posterior_1.4.1+dfsg-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/r-cran-posterior"
   ],
   "Files": [
-    "2a5b32b35cf8de3c54e8c942e66baf0e 2464 r-cran-posterior_1.4.0+dfsg-1.dsc 5eef8ae787c42772b2f322dfaf5fe44d 213708 r-cran-posterior_1.4.0+dfsg.orig.tar.xz ef6c56154be8625af2ce103dff540358 3668 r-cran-posterior_1.4.0+dfsg-1.debian.tar.xz"
+    "cd46d75b55d2cb558d28341d01a0c589 2464 r-cran-posterior_1.4.1+dfsg-1.dsc a8d426676c1645bbd3cf54d98e68c9a6 214348 r-cran-posterior_1.4.1+dfsg.orig.tar.xz 1463567020dbf81e3efe450556302c32 3680 r-cran-posterior_1.4.1+dfsg-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/r-pkg-team/r-cran-posterior.git"
   ],
   "Version": [
-    "1.4.0+dfsg-1"
+    "1.4.1+dfsg-1"
   ]
 }

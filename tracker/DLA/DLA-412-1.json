@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[05 Feb 2016] DLA-412-1 linux-2.6 - security update",
-    "Line": 9329,
+    "Line": 9332,
     "ID": "DLA-412-1",
     "Description": "linux-2.6 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-7566 CVE-2015-8767 CVE-2015-8785 CVE-2016-0723 CVE-2016-2069}",
-      "Line": 9330,
+      "Line": 9333,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-7566",
@@ -20,7 +20,7 @@
     },
     {
       "Original": "[squeeze] - linux-2.6 2.6.32-48squeeze19",
-      "Line": 9331,
+      "Line": 9334,
       "Type": "package",
       "Release": "squeeze",
       "Package": "linux-2.6",

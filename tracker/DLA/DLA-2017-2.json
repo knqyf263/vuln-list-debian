@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[01 Dec 2019] DLA-2017-2 asterisk - regression update",
-    "Line": 4426,
+    "Line": 4429,
     "ID": "DLA-2017-2",
     "Description": "asterisk - regression update"
   },
   "Annotations": [
     {
       "Original": "[jessie] - asterisk 1:11.13.1~dfsg-2+deb8u8",
-      "Line": 4427,
+      "Line": 4430,
       "Type": "package",
       "Release": "jessie",
       "Package": "asterisk",

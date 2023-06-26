@@ -9,19 +9,19 @@
     "libgcc0, libgcc300"
   ],
   "Build-Depends": [
-    "m4, autoconf2.64, libtool, gawk, bzip2, binutils-avr (\u003e= 2.26.20160125+Atmel3.6.2), bison, flex, gettext, texinfo, zlib1g-dev, debhelper (\u003e= 7), tar, libmpfr-dev, lsb-release, patchutils, libmpc-dev, dh-autoreconf"
+    "m4, autoconf2.64, libtool, gawk, bzip2, binutils-avr (\u003e= 2.26.20160125+Atmel3.6.2), bison, flex, gettext, texinfo, zlib1g-dev, debhelper (\u003e= 7), tar, libmpfr-dev, lsb-release, libmpc-dev, dh-autoreconf"
   ],
   "Checksums-Sha256": [
-    "cf50edd3fe0ac3c77f0f4d909444fc8407f5e1facc4676c5175a32b03aedf03c 1904 gcc-avr_5.4.0+Atmel3.6.2-4.dsc 282a83501e2e7b9e4911ce3f621809d1b644231745e47894ccd4b9c22de3840d 85778272 gcc-avr_5.4.0+Atmel3.6.2.orig.tar.gz 7f77e3b00b2bda8191e7a5defc4bc782d2ff2e92364219385c69533eb5465418 17095 gcc-avr_5.4.0+Atmel3.6.2-4.diff.gz"
+    "751eafe2822ebc7fd28cb4348462dd33e72e0b8668dba2aea13ed2081e71bdf7 1918 gcc-avr_5.4.0+Atmel3.6.2-5.dsc 282a83501e2e7b9e4911ce3f621809d1b644231745e47894ccd4b9c22de3840d 85778272 gcc-avr_5.4.0+Atmel3.6.2.orig.tar.gz 6cc58789eb6913425763a5ad274ad1ca43b8150ad387408b1720e7030a630293 15904 gcc-avr_5.4.0+Atmel3.6.2-5.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/g/gcc-avr"
   ],
   "Files": [
-    "2ac466e5d1dbe521f2ff115d2e6e57d7 1904 gcc-avr_5.4.0+Atmel3.6.2-4.dsc 0c83078f98d94b470861be6a4203e05b 85778272 gcc-avr_5.4.0+Atmel3.6.2.orig.tar.gz db66ec18dc8672d92f613375068833a5 17095 gcc-avr_5.4.0+Atmel3.6.2-4.diff.gz"
+    "85b368d82173d2fc0330cdbc5d37e719 1918 gcc-avr_5.4.0+Atmel3.6.2-5.dsc 0c83078f98d94b470861be6a4203e05b 85778272 gcc-avr_5.4.0+Atmel3.6.2.orig.tar.gz 7bcc6d0a94a5d7a79bf6140157cfe3ed 15904 gcc-avr_5.4.0+Atmel3.6.2-5.debian.tar.xz"
   ],
   "Format": [
-    "1.0"
+    "3.0 (quilt)"
   ],
   "Maintainer": [
     "Bastian Germann \u003cbage@debian.org\u003e"
@@ -48,6 +48,6 @@
     "https://salsa.debian.org/debian/gcc-avr.git"
   ],
   "Version": [
-    "1:5.4.0+Atmel3.6.2-4"
+    "1:5.4.0+Atmel3.6.2-5"
   ]
 }

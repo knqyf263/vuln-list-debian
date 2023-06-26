@@ -9,13 +9,13 @@
     "ant, debhelper-compat (= 13), default-jdk, help2man, javahelp2, javahelper, libjtharness-java (\u003e= 6.0), libxalan2-java, libhamcrest-java, libtestng7-java, libasmtools-java, libjcommander-java, libslf4j-java, junit5, libguice-java, zip"
   ],
   "Checksums-Sha256": [
-    "6562c73efd206363bdac77903ecf5754817a387ec3314e199ad4d7e57a9133c7 2055 jtreg7_7.2+1-3.dsc ee60429db2059c2f7dd70df581643f4eb731782827d6f20757b2c32c7c92a7c8 504790 jtreg7_7.2+1.orig.tar.gz 5fea1c64a634f682e4df09a35a2e4e77daf109ce801e6abada1f4bd337028fb1 5868 jtreg7_7.2+1-3.debian.tar.xz"
+    "dfb31609c09be81f55bf7d660bc76d758c6dbf2899ccbc68dbb40142cadd8c98 2055 jtreg7_7.2+1-4.dsc ee60429db2059c2f7dd70df581643f4eb731782827d6f20757b2c32c7c92a7c8 504790 jtreg7_7.2+1.orig.tar.gz 368d81aa1a559e625ec60eb40ffe21aeac634a291b0ad115c10c6ea6e003ab1f 6516 jtreg7_7.2+1-4.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/j/jtreg7"
   ],
   "Files": [
-    "697679e60e00206b5ca88d68cfa0f62d 2055 jtreg7_7.2+1-3.dsc 0ef8d4df83846fe951546270f4fbcbc7 504790 jtreg7_7.2+1.orig.tar.gz 59213534c2a2e888904b38dbeaec48c2 5868 jtreg7_7.2+1-3.debian.tar.xz"
+    "3fdf52a372c71c6b410455e4cf1c47de 2055 jtreg7_7.2+1-4.dsc 0ef8d4df83846fe951546270f4fbcbc7 504790 jtreg7_7.2+1.orig.tar.gz df77c419a1a9722c4b716205de98e789 6516 jtreg7_7.2+1-4.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +51,6 @@
     "Matthias Klose \u003cdoko@debian.org\u003e"
   ],
   "Version": [
-    "7.2+1-3"
+    "7.2+1-4"
   ]
 }

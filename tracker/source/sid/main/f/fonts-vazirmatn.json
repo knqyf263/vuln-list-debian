@@ -9,13 +9,13 @@
     "debhelper-compat (= 13)"
   ],
   "Checksums-Sha256": [
-    "a5a2228b51ab8f177ad31136ea7fb551a9d3244279e4ea982faea29f79033e0b 1938 fonts-vazirmatn_33.003-2.dsc 857e4557e29556435f6878834bd02396f3256bbc739e762f4811b7de86c64790 13370135 fonts-vazirmatn_33.003.orig.tar.gz abe06b4ad5a16e3948433645b18dc6a1cc58c862b8b068519d7acb43c68c8da1 3756 fonts-vazirmatn_33.003-2.debian.tar.xz"
+    "60057a41462f04a44b95840bebda5a3f42be8373259b9ee0fa4c6bc7a3ba5324 1938 fonts-vazirmatn_33.003-3.dsc 857e4557e29556435f6878834bd02396f3256bbc739e762f4811b7de86c64790 13370135 fonts-vazirmatn_33.003.orig.tar.gz 2aaccaf48dec61a9f48692845b8953cd38c353613acbfd165d5fcc37afe24159 3792 fonts-vazirmatn_33.003-3.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/f/fonts-vazirmatn"
   ],
   "Files": [
-    "71cf2c8d91e478b5b9bf1fcbc91d47c8 1938 fonts-vazirmatn_33.003-2.dsc ab0d65435acc4c6160d936a9f668b734 13370135 fonts-vazirmatn_33.003.orig.tar.gz 5be531c4ddc85851506a0e7e28ca35ed 3756 fonts-vazirmatn_33.003-2.debian.tar.xz"
+    "9bfd7810997eddfd643c75ecdd7d5315 1938 fonts-vazirmatn_33.003-3.dsc ab0d65435acc4c6160d936a9f668b734 13370135 fonts-vazirmatn_33.003.orig.tar.gz 23af14db60cf52744d744783531780f8 3792 fonts-vazirmatn_33.003-3.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/fonts-team/fonts-vazirmatn.git"
   ],
   "Version": [
-    "33.003-2"
+    "33.003-3"
   ]
 }

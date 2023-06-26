@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[25 Apr 2020] DLA-2186-1 ncmpc - security update",
-    "Line": 3909,
+    "Line": 3912,
     "ID": "DLA-2186-1",
     "Description": "ncmpc - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-9240}",
-      "Line": 3910,
+      "Line": 3913,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-9240"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - ncmpc 0.24-1+deb8u1",
-      "Line": 3911,
+      "Line": 3914,
       "Type": "package",
       "Release": "jessie",
       "Package": "ncmpc",

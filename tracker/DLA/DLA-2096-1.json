@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[06 Feb 2020] DLA-2096-1 ruby-rack-cors - security update",
-    "Line": 4185,
+    "Line": 4188,
     "ID": "DLA-2096-1",
     "Description": "ruby-rack-cors - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-18978}",
-      "Line": 4186,
+      "Line": 4189,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-18978"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - ruby-rack-cors 0.2.9-1+deb8u1",
-      "Line": 4187,
+      "Line": 4190,
       "Type": "package",
       "Release": "jessie",
       "Package": "ruby-rack-cors",

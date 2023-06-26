@@ -9,13 +9,13 @@
     "asciidoc, bison, cmake, debhelper-compat (= 12), docbook-xml, docbook-xsl, flex (\u003e= 2.5.33~), flex (\u003e= 2.5.35~) | flex (\u003c\u003c 2.5.34~), glslc, icoutils, libcurl4-gnutls-dev, libfontconfig-dev, libfreetype6-dev, libfribidi-dev, libglc-dev, libglew-dev, libglm-dev, libharfbuzz-dev, libminiupnpc-dev, libopenal-dev, libopus-dev, libphysfs-dev, libpng-dev, libpopt-dev, libsodium-dev, libsqlite3-dev, libsdl2-dev, libshaderc-dev, libssl-dev, libtheora-dev, libvorbis-dev, libvulkan-dev, libxml2-utils, libxrandr-dev, ninja-build, pkg-config, unzip, xauth, xsltproc, xvfb, zip"
   ],
   "Checksums-Sha256": [
-    "b0f98410890dfdd10f119cd9b39bea81895343ef79bef2ef16acaab84c60c744 2687 warzone2100_4.3.3-3.dsc 3c3cb9988600a10f5500909344c881a94951b4a22a54788cb818a8cd3b47e59e 320439712 warzone2100_4.3.3.orig.tar.xz 0ae4f1213a92fa5541a32811ff72351f66c7c58117133e61c358cae043270c92 26016 warzone2100_4.3.3-3.debian.tar.xz"
+    "2ce6dd31da5c7dc302ce008026a814213145d848985bfbec44c3750e01125cd5 2687 warzone2100_4.3.5-1.dsc 01d608f6f9638e14d7c857df40ad339c1bfc207a05daafe7157ad8652a3405c3 320369492 warzone2100_4.3.5.orig.tar.xz e7907d9fa90cab69ccd547d9f2c1a41e345acc27a964467834aac4c97cd2142b 25640 warzone2100_4.3.5-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/w/warzone2100"
   ],
   "Files": [
-    "652b4bd9fc1c76444f8be217e8a73c45 2687 warzone2100_4.3.3-3.dsc 93c37e634703f85f22405f0ce063a5f9 320439712 warzone2100_4.3.3.orig.tar.xz 402d6bd392da711e3229b74ac6f30f8f 26016 warzone2100_4.3.3-3.debian.tar.xz"
+    "8a16c6671653ad26a9533baaecc1fa3f 2687 warzone2100_4.3.5-1.dsc 8546b6775994a2cd6c3d662e7ad4e660 320369492 warzone2100_4.3.5.orig.tar.xz d3c9f4709d815928d7a4ef075e789fea 25640 warzone2100_4.3.5-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/games-team/warzone2100.git"
   ],
   "Version": [
-    "4.3.3-3"
+    "4.3.5-1"
   ]
 }

@@ -12,13 +12,13 @@
     "ant-optional, default-jdk, default-jdk-doc, junit, libandroid-json-org-java, libcommons-io-java"
   ],
   "Checksums-Sha256": [
-    "dd2e3feafbedc54baa3d637e889da7893b0780e27b8756df54459e07d6e6d45b 2380 starjava-tfcat_1.0+2022.09.09-3.dsc d816932f16e9b11dc6d5e270f8bcd75028ff1f2a759ee228f52ff47a1224b156 27664 starjava-tfcat_1.0+2022.09.09.orig.tar.xz 6e9767fa1911ca471d4444b7bffead04519715a0d76e8f01eeddec6f31c02da8 6780 starjava-tfcat_1.0+2022.09.09-3.debian.tar.xz"
+    "a89713f8c2c0d22b5040802b7218b3c470746379bbeb9bc42b785434601f84f9 2380 starjava-tfcat_1.0+2023.03.20-1.dsc 6bb254455e39e531cfa1cc7fdbe8a1c225776360f7c8df02501ecaf37df94b89 27460 starjava-tfcat_1.0+2023.03.20.orig.tar.xz 0e18990aa9f121099a8b1d64026fc6f0fca6f4d8cbee61d7cf1cfc9a95315d65 6848 starjava-tfcat_1.0+2023.03.20-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/s/starjava-tfcat"
   ],
   "Files": [
-    "4521df080463c4510f2809dbfa8cec0a 2380 starjava-tfcat_1.0+2022.09.09-3.dsc 8eb22374cc6ce4c8e80c1abcf12659d8 27664 starjava-tfcat_1.0+2022.09.09.orig.tar.xz 7628af88bbd88e23f2eff2e68e711b49 6780 starjava-tfcat_1.0+2022.09.09-3.debian.tar.xz"
+    "f82e7d6d99ec4314157d021f3e339b82 2380 starjava-tfcat_1.0+2023.03.20-1.dsc 7b8ecb436ee99857697d9bd53708542f 27460 starjava-tfcat_1.0+2023.03.20.orig.tar.xz d4fcd26631a9aa37314b063e239e550b 6848 starjava-tfcat_1.0+2023.03.20-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -42,7 +42,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest"
@@ -60,6 +60,6 @@
     "https://salsa.debian.org/debian-astro-team/starjava-tfcat.git"
   ],
   "Version": [
-    "1.0+2022.09.09-3"
+    "1.0+2023.03.20-1"
   ]
 }
