@@ -1,0 +1,62 @@
+{
+  "Architecture": [
+    "all"
+  ],
+  "Binary": [
+    "python3-platformdirs"
+  ],
+  "Build-Depends": [
+    "debhelper-compat (= 13), dh-sequence-python3, pybuild-plugin-pyproject, python3-all, python3-appdirs \u003c!nocheck\u003e, python3-hatch-vcs, python3-hatchling, python3-pytest \u003c!nocheck\u003e, python3-pytest-mock \u003c!nocheck\u003e"
+  ],
+  "Checksums-Sha256": [
+    "6e67c8ed28da12135d6a9af45fcbb6093ae65c8b3f30bf8c8072ae245249e670 1701 platformdirs_3.6.0-1.dsc 57e28820ca8094678b807ff529196506d7a21e17156cb1cddb3e74cebce54640 18187 platformdirs_3.6.0.orig.tar.gz 0c0773c319e3ea0897e62cb4574f875e0e14c53d8a9525e8fe7485a2d2a81fc0 3920 platformdirs_3.6.0-1.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/p/platformdirs"
+  ],
+  "Files": [
+    "0de6a7a15e042f4ae85cd372c509ad4a 1701 platformdirs_3.6.0-1.dsc 91918584256a9752143887bd4857c292 18187 platformdirs_3.6.0.orig.tar.gz d9f1ea9cff24a8aa157b7dec98e73a84 3920 platformdirs_3.6.0-1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://github.com/platformdirs/platformdirs"
+  ],
+  "Maintainer": [
+    "Debian Python Team \u003cteam+python@tracker.debian.org\u003e"
+  ],
+  "Package": [
+    "platformdirs"
+  ],
+  "Package-List": [
+    "python3-platformdirs deb python optional arch=all"
+  ],
+  "Priority": [
+    "optional"
+  ],
+  "Section": [
+    "misc"
+  ],
+  "Standards-Version": [
+    "4.6.2"
+  ],
+  "Testsuite": [
+    "autopkgtest"
+  ],
+  "Testsuite-Triggers": [
+    "python3-all, python3-appdirs, python3-pytest, python3-pytest-mock"
+  ],
+  "Uploaders": [
+    "Stefano Rivera \u003cstefanor@debian.org\u003e"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/python-team/packages/platformdirs"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/python-team/packages/platformdirs.git"
+  ],
+  "Version": [
+    "3.6.0-1"
+  ]
+}

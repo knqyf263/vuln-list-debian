@@ -1,0 +1,62 @@
+{
+  "Architecture": [
+    "all"
+  ],
+  "Binary": [
+    "python-django-pgschemas-doc, python3-django-pgschemas"
+  ],
+  "Build-Depends": [
+    "debhelper-compat (= 13), dh-python, pybuild-plugin-pyproject, python3-all, python3-django, python3-poetry, python3-psycopg2, python3-sphinx, python3-sphinx-rtd-theme"
+  ],
+  "Checksums-Sha256": [
+    "e5c4ac8f6a04757e97f32292294400421894987ad7b85dd47ba23ab4d3daa28d 2104 python-django-pgschemas_0.13.1-1.dsc cfbb2077a1439b5506e957f0c410f9818dc22b651a964eac5dec245e3b35d958 114162 python-django-pgschemas_0.13.1.orig.tar.gz 6df456f8a206217220eacfcd503a6c17c683b2914c0fc27835a095e03b5d90c1 4216 python-django-pgschemas_0.13.1-1.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/p/python-django-pgschemas"
+  ],
+  "Files": [
+    "ec071a2bffec434fb48aef4120c26bce 2104 python-django-pgschemas_0.13.1-1.dsc 15eb7153e23d15babf969f8f00bdd9d9 114162 python-django-pgschemas_0.13.1.orig.tar.gz 1ec9f6ad781443d7e1c9bb537673e5ce 4216 python-django-pgschemas_0.13.1-1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://github.com/lorinkoz/django-pgschemas"
+  ],
+  "Maintainer": [
+    "Debian Python Team \u003cteam+python@tracker.debian.org\u003e"
+  ],
+  "Package": [
+    "python-django-pgschemas"
+  ],
+  "Package-List": [
+    "python-django-pgschemas-doc deb doc optional arch=all python3-django-pgschemas deb python optional arch=all"
+  ],
+  "Priority": [
+    "optional"
+  ],
+  "Section": [
+    "misc"
+  ],
+  "Standards-Version": [
+    "4.6.2"
+  ],
+  "Testsuite": [
+    "autopkgtest"
+  ],
+  "Testsuite-Triggers": [
+    "@builddeps@, postgresql, python3-all, python3-pytest, python3-pytest-django"
+  ],
+  "Uploaders": [
+    "Michael Fladischer \u003cfladi@debian.org\u003e,"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/python-team/packages/python-django-pgschemas"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/python-team/packages/python-django-pgschemas.git"
+  ],
+  "Version": [
+    "0.13.1-1"
+  ]
+}

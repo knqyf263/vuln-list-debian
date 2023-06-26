@@ -1,0 +1,65 @@
+{
+  "Architecture": [
+    "all"
+  ],
+  "Binary": [
+    "libwww-perl"
+  ],
+  "Build-Depends": [
+    "debhelper-compat (= 13)"
+  ],
+  "Build-Depends-Indep": [
+    "libencode-locale-perl \u003c!nocheck\u003e, libfile-listing-perl \u003c!nocheck\u003e, libhtml-parser-perl \u003c!nocheck\u003e, libhttp-cookies-perl \u003c!nocheck\u003e, libhttp-cookiejar-perl \u003c!nocheck\u003e, libhttp-daemon-perl (\u003e= 6.12) \u003c!nocheck\u003e, libhttp-date-perl \u003c!nocheck\u003e, libhttp-message-perl \u003c!nocheck\u003e, libhttp-negotiate-perl \u003c!nocheck\u003e, liblwp-mediatypes-perl \u003c!nocheck\u003e, libnet-http-perl \u003c!nocheck\u003e, libtest-fatal-perl \u003c!nocheck\u003e, libtest-leaktrace-perl \u003c!nocheck\u003e, libtest-needs-perl \u003c!nocheck\u003e, libtest-requiresinternet-perl \u003c!nocheck\u003e, libtry-tiny-perl \u003c!nocheck\u003e, liburi-perl \u003c!nocheck\u003e, libwww-robotrules-perl \u003c!nocheck\u003e, netbase \u003c!nocheck\u003e, perl"
+  ],
+  "Checksums-Sha256": [
+    "5cd97662d6e91a52145cfd6e305dff4441f464589dafc2158a523aa540906734 2963 libwww-perl_6.70-1.dsc 34f00d2344757b9c0b55ad35808d53e93d7d92f7a464ec837fe6a73c51fb5969 184130 libwww-perl_6.70.orig.tar.gz 75eab0838e6f5aeec261161d3a1bee4d264cd6e75eacd87268ecda2e899c44eb 11240 libwww-perl_6.70-1.debian.tar.xz"
+  ],
+  "Dgit": [
+    "0f2f1f1484d58f8d2eec7b0485f8dff97dc041cc debian archive/debian/6.70-1 https://git.dgit.debian.org/libwww-perl"
+  ],
+  "Directory": [
+    "pool/main/libw/libwww-perl"
+  ],
+  "Files": [
+    "64c88f8afee5001c34a1ebb4a8ad54a3 2963 libwww-perl_6.70-1.dsc 1f2301cbc155265fbf889c980db78894 184130 libwww-perl_6.70.orig.tar.gz 2d6d530327308ca4c33178cba76d2c85 11240 libwww-perl_6.70-1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://metacpan.org/release/libwww-perl"
+  ],
+  "Maintainer": [
+    "Debian Perl Group \u003cpkg-perl-maintainers@lists.alioth.debian.org\u003e"
+  ],
+  "Package": [
+    "libwww-perl"
+  ],
+  "Package-List": [
+    "libwww-perl deb perl optional arch=all"
+  ],
+  "Priority": [
+    "source"
+  ],
+  "Section": [
+    "perl"
+  ],
+  "Standards-Version": [
+    "4.6.2"
+  ],
+  "Testsuite": [
+    "autopkgtest-pkg-perl"
+  ],
+  "Uploaders": [
+    "Damyan Ivanov \u003cdmn@debian.org\u003e, Dominique Dumont \u003cdod@debian.org\u003e, gregor herrmann \u003cgregoa@debian.org\u003e"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/perl-team/modules/packages/libwww-perl"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/perl-team/modules/packages/libwww-perl.git"
+  ],
+  "Version": [
+    "6.70-1"
+  ]
+}

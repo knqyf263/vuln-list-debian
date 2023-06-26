@@ -1,0 +1,56 @@
+{
+  "Architecture": [
+    "all"
+  ],
+  "Binary": [
+    "calamares-settings-mobian"
+  ],
+  "Build-Depends": [
+    "debhelper-compat (= 13)"
+  ],
+  "Checksums-Sha256": [
+    "4822fae23fcf65cb136696feecef5b80b10cca12e04df28e2a225b6f6ac4e5e5 1808 calamares-settings-mobian_0.3.1.dsc a5d25aa8761285deaa409e918e398c11018728139628fa33bc2d233065cf8fdc 32032 calamares-settings-mobian_0.3.1.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/c/calamares-settings-mobian"
+  ],
+  "Files": [
+    "93448f8732859b1f13b595977ae832c1 1808 calamares-settings-mobian_0.3.1.dsc e689df563d68a93dc8c57f8ce9cfcdf6 32032 calamares-settings-mobian_0.3.1.tar.xz"
+  ],
+  "Format": [
+    "3.0 (native)"
+  ],
+  "Homepage": [
+    "https://salsa.debian.org/Mobian-team/calamares-settings-mobian"
+  ],
+  "Maintainer": [
+    "Jarrah Gosbell \u003cdebian@undef.tools\u003e"
+  ],
+  "Package": [
+    "calamares-settings-mobian"
+  ],
+  "Package-List": [
+    "calamares-settings-mobian deb utils optional arch=all"
+  ],
+  "Priority": [
+    "optional"
+  ],
+  "Section": [
+    "misc"
+  ],
+  "Standards-Version": [
+    "4.6.1"
+  ],
+  "Uploaders": [
+    "Arnaud Ferraris \u003caferraris@debian.org\u003e"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/Mobian-team/calamares-settings-mobian"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/Mobian-team/calamares-settings-mobian.git"
+  ],
+  "Version": [
+    "0.3.1"
+  ]
+}

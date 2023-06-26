@@ -1,0 +1,62 @@
+{
+  "Architecture": [
+    "all"
+  ],
+  "Binary": [
+    "cockpit-machines"
+  ],
+  "Build-Depends": [
+    "debhelper-compat (= 13), gettext (\u003e= 0.19.7), gettext (\u003e= 0.21) | appstream"
+  ],
+  "Checksums-Sha256": [
+    "6880f05c4ae9ea6e112e24ccb6248739c61f7da69b618424eeebe60e67ad6778 2144 cockpit-machines_292-1.dsc 07482207c15f1884caa905e050a75f142473aae9b9f64c287b3f96ed5b430e5d 2033884 cockpit-machines_292.orig.tar.xz f2db044d52c37f2a98049d3ad28da7c4028fdb2da6d746a65ad525ab01dddecd 5800 cockpit-machines_292-1.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/c/cockpit-machines"
+  ],
+  "Files": [
+    "b9a5620e1cc4b820e5608ce5f1bade7b 2144 cockpit-machines_292-1.dsc 9bded051d7c90a099e5649658e10ab6c 2033884 cockpit-machines_292.orig.tar.xz 49706ddb366b97ccc9f8e77930237a9f 5800 cockpit-machines_292-1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://github.com/cockpit-project/cockpit-machines"
+  ],
+  "Maintainer": [
+    "Utopia Maintenance Team \u003cpkg-utopia-maintainers@lists.alioth.debian.org\u003e"
+  ],
+  "Package": [
+    "cockpit-machines"
+  ],
+  "Package-List": [
+    "cockpit-machines deb admin optional arch=all"
+  ],
+  "Priority": [
+    "extra"
+  ],
+  "Section": [
+    "misc"
+  ],
+  "Standards-Version": [
+    "4.6.1"
+  ],
+  "Testsuite": [
+    "autopkgtest"
+  ],
+  "Testsuite-Triggers": [
+    "cockpit-ws, curl"
+  ],
+  "Uploaders": [
+    "Michael Biebl \u003cbiebl@debian.org\u003e, Martin Pitt \u003cmpitt@debian.org\u003e,"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/debian/cockpit-machines"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/debian/cockpit-machines.git"
+  ],
+  "Version": [
+    "292-1"
+  ]
+}

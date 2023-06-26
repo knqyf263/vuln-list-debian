@@ -1,0 +1,56 @@
+{
+  "Architecture": [
+    "all"
+  ],
+  "Binary": [
+    "deluge, deluge-common, deluge-console, deluge-gtk, deluge-web, deluged"
+  ],
+  "Build-Depends": [
+    "debhelper-compat (= 13)"
+  ],
+  "Build-Depends-Indep": [
+    "dh-python, intltool, python3-all, python3-setuptools, python3-wheel, unzip"
+  ],
+  "Checksums-Sha256": [
+    "bf8746ae27b1547b78e8e48151a215310ce7c36d8599897b9fd7f370b1ab3d9c 2235 deluge_2.1.1-4.dsc b60f86955aa32f873790f65efe2c005db2c95c5ef7221d8c8366f270ff236952 2536480 deluge_2.1.1.orig.tar.xz 787fbcdfbd2a2fad2b839ca4fea355df13511bdb138871cdfe73004080ed4083 24404 deluge_2.1.1-4.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/d/deluge"
+  ],
+  "Files": [
+    "0f2781f22d35afd5107bfe69e24500cd 2235 deluge_2.1.1-4.dsc 88fb82c47fea4304b0763c7a5814051c 2536480 deluge_2.1.1.orig.tar.xz 85b1d0d76ec9af9b3a704d53f6d10f7e 24404 deluge_2.1.1-4.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://deluge-torrent.org"
+  ],
+  "Maintainer": [
+    "Daniel Baumann \u003cdaniel.baumann@progress-linux.org\u003e"
+  ],
+  "Package": [
+    "deluge"
+  ],
+  "Package-List": [
+    "deluge deb net optional arch=all deluge-common deb net optional arch=all deluge-console deb net optional arch=all deluge-gtk deb net optional arch=all deluge-web deb net optional arch=all deluged deb net optional arch=all"
+  ],
+  "Priority": [
+    "source"
+  ],
+  "Section": [
+    "net"
+  ],
+  "Standards-Version": [
+    "4.6.2"
+  ],
+  "Vcs-Browser": [
+    "https://git.progress-linux.org/users/daniel.baumann/debian/packages/deluge"
+  ],
+  "Vcs-Git": [
+    "https://git.progress-linux.org/users/daniel.baumann/debian/packages/deluge"
+  ],
+  "Version": [
+    "2.1.1-4"
+  ]
+}

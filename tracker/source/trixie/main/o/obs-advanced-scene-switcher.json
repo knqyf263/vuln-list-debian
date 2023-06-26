@@ -1,0 +1,59 @@
+{
+  "Architecture": [
+    "any all"
+  ],
+  "Binary": [
+    "obs-advanced-scene-switcher, obs-advanced-scene-switcher-data"
+  ],
+  "Build-Depends": [
+    "cmake, debhelper-compat (= 13), libasio-dev, libcurl4-openssl-dev, libobs-dev (\u003e= 26.1.2), libopencv-dev, libproc2-dev | libprocps-dev, libxss-dev, libxtst-dev, libwebsocketpp-dev, qtbase5-dev"
+  ],
+  "Checksums-Sha256": [
+    "73548e4798375f06cb711e1a02e265f0ccf53dadd2bfea3e55d1f6870ac95207 2403 obs-advanced-scene-switcher_1.20.5-1.dsc b96ceda4ef400d614c731e9ffb984be0b0d911854bb060147bc9ed1c7caf617e 1791985 obs-advanced-scene-switcher_1.20.5.orig.tar.gz 1b39abaa0d94c2aa082edd3510f94062a276c9ee2b1f76122e818b43077d9695 6432 obs-advanced-scene-switcher_1.20.5-1.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/o/obs-advanced-scene-switcher"
+  ],
+  "Files": [
+    "dc0e4c496c844185dcd53cd95a83fe69 2403 obs-advanced-scene-switcher_1.20.5-1.dsc e44e3b696491325b33f436b960f70319 1791985 obs-advanced-scene-switcher_1.20.5.orig.tar.gz 00fd3bf022a37dece50acdcf5adbd440 6432 obs-advanced-scene-switcher_1.20.5-1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://obsproject.com/forum/resources/advanced-scene-switcher.395/"
+  ],
+  "Maintainer": [
+    "Joao Eriberto Mota Filho \u003ceriberto@debian.org\u003e"
+  ],
+  "Package": [
+    "obs-advanced-scene-switcher"
+  ],
+  "Package-List": [
+    "obs-advanced-scene-switcher deb video optional arch=any obs-advanced-scene-switcher-data deb video optional arch=all"
+  ],
+  "Priority": [
+    "optional"
+  ],
+  "Section": [
+    "misc"
+  ],
+  "Standards-Version": [
+    "4.6.2"
+  ],
+  "Testsuite": [
+    "autopkgtest"
+  ],
+  "Testsuite-Triggers": [
+    "g++"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/debian/obs-advanced-scene-switcher"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/debian/obs-advanced-scene-switcher.git"
+  ],
+  "Version": [
+    "1.20.5-1"
+  ]
+}

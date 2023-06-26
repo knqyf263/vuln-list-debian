@@ -1,0 +1,56 @@
+{
+  "Architecture": [
+    "any"
+  ],
+  "Binary": [
+    "trafficserver, trafficserver-experimental-plugins, trafficserver-dev"
+  ],
+  "Build-Depends": [
+    "debhelper-compat (= 12), libssl-dev, tcl-dev, libexpat1-dev, libpcre3-dev, libtool, libcap-dev [linux-any], graphviz, bison [linux-any], flex [linux-any], dpkg-dev (\u003e= 1.16.1~), pkg-config, libgeoip-dev, libluajit-5.1-dev, libboost-dev, libhwloc-dev, default-libmysqlclient-dev, python3-distro, python3-sphinx, plantuml, python3-sphinxcontrib.plantuml, libxml2-dev, libncurses-dev, libcurl4-openssl-dev, libkyotocabinet-dev, libmemcached-dev, libbrotli-dev, libcrypto++-dev, libjansson-dev, libcjose-dev, libyaml-cpp-dev (\u003e= 0.6.2~), libunwind-dev [i386 amd64 ppc64el armhf arm64 mipsel mips64el mips]"
+  ],
+  "Checksums-Sha256": [
+    "5ecc0cc5e4bfda48dacc46fc1e4b12ce3e79af46c362aca14f240e6aacd31034 2901 trafficserver_8.1.6+ds-1~deb10u1.dsc 9d6f5b5f0ae509ec532db2cdb064b6f53aa4227ee1884e7e709d6c0aff14f44f 7919492 trafficserver_8.1.6+ds.orig.tar.xz 5e7c45029d3c80b5c5db011cfd655864f54111f15ec51a9751b618eae6089b73 46016 trafficserver_8.1.6+ds-1~deb10u1.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/updates/main/t/trafficserver"
+  ],
+  "Files": [
+    "ddac86d04572aaf1dcd8423451fb3450 2901 trafficserver_8.1.6+ds-1~deb10u1.dsc ba43a14f4526e88c39eeea9d3a7f2fd7 7919492 trafficserver_8.1.6+ds.orig.tar.xz e07903b3b6641fb2450dc5fe8909415f 46016 trafficserver_8.1.6+ds-1~deb10u1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://trafficserver.apache.org/"
+  ],
+  "Maintainer": [
+    "Jean Baptiste Favre \u003cdebian@jbfavre.org\u003e"
+  ],
+  "Package": [
+    "trafficserver"
+  ],
+  "Package-List": [
+    "trafficserver deb web optional arch=any trafficserver-dev deb web optional arch=any trafficserver-experimental-plugins deb web optional arch=any"
+  ],
+  "Priority": [
+    "extra"
+  ],
+  "Section": [
+    "web"
+  ],
+  "Standards-Version": [
+    "4.5.1"
+  ],
+  "Uploaders": [
+    "Aron Xu \u003caron@debian.org\u003e, Emanuele Rocca \u003cema@debian.org\u003e"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/debian/trafficserver"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/debian/trafficserver.git"
+  ],
+  "Version": [
+    "8.1.6+ds-1~deb10u1"
+  ]
+}

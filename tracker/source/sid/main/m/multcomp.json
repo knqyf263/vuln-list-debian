@@ -1,0 +1,53 @@
+{
+  "Architecture": [
+    "all"
+  ],
+  "Binary": [
+    "r-cran-multcomp"
+  ],
+  "Build-Depends": [
+    "debhelper-compat (= 12), dh-r, r-base-dev (\u003e= 4.3.1), r-cran-mvtnorm (\u003e= 1.0-10), r-cran-survival (\u003e= 2.35-7), r-cran-sandwich (\u003e= 2.3-0), r-cran-th.data (\u003e= 1.0-7-2), r-cran-codetools"
+  ],
+  "Checksums-Sha256": [
+    "6c25568254d3050e3ae9440ce565616a94f786266fee0f41aab09575314cda3e 1982 multcomp_1.4-24-1.dsc 7e64ed3013620772f802863704f9530eabdf62c1a9df936c3e42636d344fb411 616182 multcomp_1.4-24.orig.tar.gz c0d29bdd71467b66224df3e7438370239d1a354ff55ceb37b7469882a4389e94 4668 multcomp_1.4-24-1.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/m/multcomp"
+  ],
+  "Files": [
+    "0a66fce070e4601f077245ca3a36c731 1982 multcomp_1.4-24-1.dsc d0a82d0dbb4c6aa182c4a1ca1d724511 616182 multcomp_1.4-24.orig.tar.gz be2110d1fb58ac909934fe48543c1875 4668 multcomp_1.4-24-1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://cran.r-project.org/package=multcomp"
+  ],
+  "Maintainer": [
+    "Dirk Eddelbuettel \u003cedd@debian.org\u003e"
+  ],
+  "Package": [
+    "multcomp"
+  ],
+  "Package-List": [
+    "r-cran-multcomp deb gnu-r optional arch=all"
+  ],
+  "Priority": [
+    "source"
+  ],
+  "Section": [
+    "gnu-r"
+  ],
+  "Standards-Version": [
+    "4.6.2"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/edd/r-cran-multcomp"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/edd/r-cran-multcomp.git"
+  ],
+  "Version": [
+    "1.4-24-1"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "Architecture": [
+    "any"
+  ],
+  "Binary": [
+    "abcmidi"
+  ],
+  "Build-Depends": [
+    "debhelper-compat (= 13)"
+  ],
+  "Checksums-Sha256": [
+    "6bbaab810e878713403575a103b515ba64d91d0d995cd8878374e2698c393f15 2028 abcmidi_20230530+ds1-1.dsc c27fa779dbc1cf46b7a2293c81db166575c51ef5b4329bd6e5177ef4dd7185d0 394692 abcmidi_20230530+ds1.orig.tar.xz b189119320e7073f164bddb6ae637aecef458428e88f37ddfc702bfd6c44e438 8164 abcmidi_20230530+ds1-1.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/a/abcmidi"
+  ],
+  "Files": [
+    "08a70845f7bcaf00b9e66c6faa185379 2028 abcmidi_20230530+ds1-1.dsc 0d7506b2d0dab0a4ae8e0998d78e123e 394692 abcmidi_20230530+ds1.orig.tar.xz 62e6c20a58ecdf26a0dac7fe1ce0a004 8164 abcmidi_20230530+ds1-1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://ifdo.ca/~seymour/runabc/top.html"
+  ],
+  "Maintainer": [
+    "Debian Multimedia Maintainers \u003cdebian-multimedia@lists.debian.org\u003e"
+  ],
+  "Package": [
+    "abcmidi"
+  ],
+  "Package-List": [
+    "abcmidi deb sound optional arch=any"
+  ],
+  "Priority": [
+    "source"
+  ],
+  "Section": [
+    "sound"
+  ],
+  "Standards-Version": [
+    "4.6.2"
+  ],
+  "Testsuite": [
+    "autopkgtest"
+  ],
+  "Testsuite-Triggers": [
+    "gzip"
+  ],
+  "Uploaders": [
+    "Dennis Braun \u003csnd@debian.org\u003e"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/multimedia-team/abcmidi"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/multimedia-team/abcmidi.git"
+  ],
+  "Version": [
+    "20230530+ds1-1"
+  ]
+}

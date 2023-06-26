@@ -1,0 +1,56 @@
+{
+  "Architecture": [
+    "any"
+  ],
+  "Binary": [
+    "arbtt"
+  ],
+  "Build-Depends": [
+    "cdbs, haskell-devscripts (\u003e= 0.16.14), debhelper (\u003e= 10), ghc, libghc-mtl-dev, libghc-binary-dev, libghc-time-dev, libghc-aeson-dev (\u003e= 0.10), libghc-aeson-dev (\u003c\u003c 1.5), libghc-x11-dev (\u003e= 1.9), libghc-parsec3-dev, libghc-pcre-light-dev, libghc-utf8-string-dev, libghc-deepseq-dev, libghc-strict-dev, libghc-terminal-progress-bar-dev (\u003e= 0.2), libghc-terminal-progress-bar-dev (\u003c\u003c 0.5), libghc-bytestring-progress-dev, libghc-conduit-dev (\u003e= 1.2), libghc-conduit-dev (\u003c\u003c 1.4), libghc-exceptions-dev (\u003e= 0.8), libghc-resourcet-dev (\u003e= 1.2), libghc-unliftio-core-dev, libxss-dev, docbook-xsl, fop, xsltproc"
+  ],
+  "Checksums-Sha256": [
+    "c279f4f599c35a3189b1eef8ebf571ab832e1ae42dc04428f0c445860f9addbf 2513 arbtt_0.11.1-1.dsc 782d9081704f788257dd9a829e2db49d65288709350dfad76f8b9b8125bc9c76 89736 arbtt_0.11.1.orig.tar.gz afc68cce784247a4ac4def20d5d0fa1ec3400b6565bdc1c0b103decb64ebd548 3524 arbtt_0.11.1-1.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/a/arbtt"
+  ],
+  "Files": [
+    "2484c8e1b549d0dba3a67e7449095bfa 2513 arbtt_0.11.1-1.dsc c3ff2bda3fc53d8ce7b880749317d013 89736 arbtt_0.11.1.orig.tar.gz 916961bc9689d1f2c62b760538d1fd19 3524 arbtt_0.11.1-1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "http://hackage.haskell.org/package/arbtt"
+  ],
+  "Maintainer": [
+    "Debian Haskell Group \u003cpkg-haskell-maintainers@lists.alioth.debian.org\u003e"
+  ],
+  "Package": [
+    "arbtt"
+  ],
+  "Package-List": [
+    "arbtt deb haskell optional arch=any"
+  ],
+  "Priority": [
+    "source"
+  ],
+  "Section": [
+    "haskell"
+  ],
+  "Standards-Version": [
+    "4.5.1"
+  ],
+  "Uploaders": [
+    "Robert Greener \u003crob@robgreener.com\u003e"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/haskell-team/DHG_packages"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/haskell-team/DHG_packages.git"
+  ],
+  "Version": [
+    "0.11.1-1"
+  ]
+}

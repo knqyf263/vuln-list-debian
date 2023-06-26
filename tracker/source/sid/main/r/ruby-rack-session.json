@@ -1,0 +1,62 @@
+{
+  "Architecture": [
+    "all"
+  ],
+  "Binary": [
+    "ruby-rack-session"
+  ],
+  "Build-Depends": [
+    "debhelper-compat (= 13), ruby-minitest, ruby-minitest-global-expectations, gem2deb (\u003e= 1), ruby-rack (\u003e= 3.0.0~)"
+  ],
+  "Checksums-Sha256": [
+    "4317a88f4ce9f544acdb2e4cbdc202e9939b36e86c81ac80b0e3b2bd6be93065 2195 ruby-rack-session_0.3.0-1.dsc b48f917449e03fe4668f129c74a9568054a82264b5dc13a31b39218013ac3aa5 20068 ruby-rack-session_0.3.0.orig.tar.gz 775e1e691c2668019af71b1d05b52dde4c9e6e621c19562da47f3ed92105b369 3420 ruby-rack-session_0.3.0-1.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/r/ruby-rack-session"
+  ],
+  "Files": [
+    "ffaaeb4374b621057d15c94676c4c1ce 2195 ruby-rack-session_0.3.0-1.dsc 816b15fafc3bb9ffa2ef8c781cd1dc2f 20068 ruby-rack-session_0.3.0.orig.tar.gz b664fd444e391c5ae547028725009004 3420 ruby-rack-session_0.3.0-1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://github.com/rack/rack-session"
+  ],
+  "Maintainer": [
+    "Debian Ruby Extras Maintainers \u003cpkg-ruby-extras-maintainers@lists.alioth.debian.org\u003e"
+  ],
+  "Package": [
+    "ruby-rack-session"
+  ],
+  "Package-List": [
+    "ruby-rack-session deb ruby optional arch=all"
+  ],
+  "Priority": [
+    "optional"
+  ],
+  "Ruby-Versions": [
+    "all"
+  ],
+  "Section": [
+    "misc"
+  ],
+  "Standards-Version": [
+    "4.6.1"
+  ],
+  "Testsuite": [
+    "autopkgtest-pkg-ruby"
+  ],
+  "Uploaders": [
+    "Lucas Kanashiro \u003ckanashiro@debian.org\u003e"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/ruby-team/ruby-rack-session"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/ruby-team/ruby-rack-session.git"
+  ],
+  "Version": [
+    "0.3.0-1"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "Architecture": [
+    "all"
+  ],
+  "Binary": [
+    "golang-github-bep-helpers-dev"
+  ],
+  "Build-Depends": [
+    "debhelper-compat (= 13), dh-sequence-golang, golang-any (\u003e= 2:1.18~), golang-github-frankban-quicktest-dev (\u003e= 1.14.3)"
+  ],
+  "Checksums-Sha256": [
+    "a782805e0f7527f97caf2d0f1690ec8f3962b8c7eca6ab2e00fce0ab57cc00e2 2282 golang-github-bep-helpers_0.4.0-1.dsc 3e76c7b920afc6acfee334410a225bbb798bd802f9bed758d6b2d12ba98ce4dc 8064 golang-github-bep-helpers_0.4.0.orig.tar.gz ade7466d688ae4aa6b0fcbda76c2a4b6698febe8957431e8021c402d1a60c7ec 2224 golang-github-bep-helpers_0.4.0-1.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/g/golang-github-bep-helpers"
+  ],
+  "Files": [
+    "ad8a63bd4d80c09801a0a7a3aab5efd6 2282 golang-github-bep-helpers_0.4.0-1.dsc 12c589c714083117230858ee96d79f36 8064 golang-github-bep-helpers_0.4.0.orig.tar.gz a2a6a342ad40af30a7bcca0276ef7371 2224 golang-github-bep-helpers_0.4.0-1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Go-Import-Path": [
+    "github.com/bep/helpers"
+  ],
+  "Homepage": [
+    "https://github.com/bep/helpers"
+  ],
+  "Maintainer": [
+    "Debian Go Packaging Team \u003cteam+pkg-go@tracker.debian.org\u003e"
+  ],
+  "Package": [
+    "golang-github-bep-helpers"
+  ],
+  "Package-List": [
+    "golang-github-bep-helpers-dev deb golang optional arch=all"
+  ],
+  "Priority": [
+    "optional"
+  ],
+  "Section": [
+    "misc"
+  ],
+  "Standards-Version": [
+    "4.6.2"
+  ],
+  "Testsuite": [
+    "autopkgtest-pkg-go"
+  ],
+  "Uploaders": [
+    "Anthony Fok \u003cfoka@debian.org\u003e"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/go-team/packages/golang-github-bep-helpers"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/go-team/packages/golang-github-bep-helpers.git"
+  ],
+  "Version": [
+    "0.4.0-1"
+  ]
+}

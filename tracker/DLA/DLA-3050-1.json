@@ -1,0 +1,27 @@
+{
+  "Header": {
+    "Original": "[10 Jun 2022] DLA-3050-1 vlc - security update",
+    "Line": 1270,
+    "ID": "DLA-3050-1",
+    "Description": "vlc - security update"
+  },
+  "Annotations": [
+    {
+      "Original": "{CVE-2020-26664}",
+      "Line": 1271,
+      "Type": "xref",
+      "Bugs": [
+        "CVE-2020-26664"
+      ]
+    },
+    {
+      "Original": "[stretch] - vlc 3.0.12-0+deb9u1",
+      "Line": 1272,
+      "Type": "package",
+      "Release": "stretch",
+      "Package": "vlc",
+      "Kind": "fixed",
+      "Version": "3.0.12-0+deb9u1"
+    }
+  ]
+}

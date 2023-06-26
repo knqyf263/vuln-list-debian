@@ -1,0 +1,53 @@
+{
+  "Architecture": [
+    "any"
+  ],
+  "Binary": [
+    "cbmc, jbmc"
+  ],
+  "Build-Depends": [
+    "debhelper-compat (= 13), bison, flex, minisat (\u003e= 1:2.2.1-2), zlib1g-dev, gdb [amd64], libxml2-utils, python-is-python3, z3, default-jdk-headless [!arc !hppa !hurd-i386 !kfreebsd-amd64 !kfreebsd-i386], libmaven-dependency-plugin-java [!arc !hppa !hurd-i386 !kfreebsd-amd64 !kfreebsd-i386], libmaven-install-plugin-java [!arc !hppa !hurd-i386 !kfreebsd-amd64 !kfreebsd-i386], maven-debian-helper [!arc !hppa !hurd-i386 !kfreebsd-amd64 !kfreebsd-i386]"
+  ],
+  "Checksums-Sha256": [
+    "d08ec5535a25ca68979212e5010e662b6ff22ff8291d8b394e05279b2c6ca8ea 2962 cbmc_5.84.0-5.dsc 70863817bba398e8bb252c96ec1fbe35d20882f9061c920189893080f14646ab 14582 cbmc_5.84.0.orig-java-cprover-api.tar.gz 13eb3b8513de999d52eb071d7118b147f8511390c3cb30a6c3be29ada3b5b3c9 299209 cbmc_5.84.0.orig-java-models-library.tar.gz f07ddc51eeffa9e167996d886984b6e4961ec1058e8624518957e2b5d1979cb4 8975338 cbmc_5.84.0.orig.tar.gz 0d6ba429b65399646a4b0def3005047648adf3145160d05bdae5880e76ee6ad7 54976 cbmc_5.84.0-5.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/c/cbmc"
+  ],
+  "Files": [
+    "38f2c8dc0a2219855feffb317f3a9c20 2962 cbmc_5.84.0-5.dsc 245cc4a092fb84d4c8a1333c793f1adc 14582 cbmc_5.84.0.orig-java-cprover-api.tar.gz 6ba4b12d1ad0ee6f917128fa61df4015 299209 cbmc_5.84.0.orig-java-models-library.tar.gz 0298953d57eadbec1ffdaf9d04f07cde 8975338 cbmc_5.84.0.orig.tar.gz 667f94a8c820766089237cbfb77508ca 54976 cbmc_5.84.0-5.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "http://www.cprover.org/cbmc/"
+  ],
+  "Maintainer": [
+    "Michael Tautschnig \u003cmt@debian.org\u003e"
+  ],
+  "Package": [
+    "cbmc"
+  ],
+  "Package-List": [
+    "cbmc deb science optional arch=any jbmc deb science optional arch=alpha,amd64,arm64,armel,armhf,i386,ia64,m68k,mips64el,mipsel,powerpc,ppc64,ppc64el,riscv64,s390x,sh4,sparc64,x32"
+  ],
+  "Priority": [
+    "source"
+  ],
+  "Section": [
+    "science"
+  ],
+  "Standards-Version": [
+    "4.6.2"
+  ],
+  "Testsuite": [
+    "autopkgtest"
+  ],
+  "Testsuite-Triggers": [
+    "gcc, libc6-dev"
+  ],
+  "Version": [
+    "5.84.0-5"
+  ]
+}

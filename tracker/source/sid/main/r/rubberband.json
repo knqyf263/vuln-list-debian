@@ -1,0 +1,62 @@
+{
+  "Architecture": [
+    "any"
+  ],
+  "Binary": [
+    "librubberband2, librubberband-dev, rubberband-cli, rubberband-ladspa, rubberband-lv2, rubberband-vamp"
+  ],
+  "Build-Depends": [
+    "cmake, debhelper-compat (= 13), docbook-to-man, ladspa-sdk, libboost-test-dev, libfftw3-dev, libsamplerate0-dev, libsndfile1-dev, libspeexdsp-dev, lv2-dev, meson, pkg-config, vamp-plugin-sdk"
+  ],
+  "Checksums-Sha256": [
+    "01615756804a8bd95712df81f4da158a623ced6f7cc6d7c84e6e19a2836332f5 2610 rubberband_3.2.1+dfsg-1.dsc 6e0b168b42b9aa57a81d42f35e3c49053f867d69118119aa2e6ddcfc643b4a0f 203348 rubberband_3.2.1+dfsg.orig.tar.xz 63117f8a2bc41c108bb56bb7ed266646ffe169f1eaa19475aaeb7370f214259e 11912 rubberband_3.2.1+dfsg-1.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/r/rubberband"
+  ],
+  "Files": [
+    "83d620da2785b48402acdcb3685bd15b 2610 rubberband_3.2.1+dfsg-1.dsc ace8956290fbef4df9fe65cea70d4ba0 203348 rubberband_3.2.1+dfsg.orig.tar.xz 0e51ba7a8b42cff84b6856268aca969d 11912 rubberband_3.2.1+dfsg-1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://www.breakfastquay.com/rubberband/"
+  ],
+  "Maintainer": [
+    "Debian Multimedia Maintainers \u003cdebian-multimedia@lists.debian.org\u003e"
+  ],
+  "Package": [
+    "rubberband"
+  ],
+  "Package-List": [
+    "librubberband-dev deb libdevel optional arch=any librubberband2 deb libs optional arch=any rubberband-cli deb sound optional arch=any rubberband-ladspa deb sound optional arch=any rubberband-lv2 deb sound optional arch=any rubberband-vamp deb sound optional arch=any"
+  ],
+  "Priority": [
+    "source"
+  ],
+  "Section": [
+    "sound"
+  ],
+  "Standards-Version": [
+    "4.6.2"
+  ],
+  "Testsuite": [
+    "autopkgtest"
+  ],
+  "Testsuite-Triggers": [
+    "bpm-tools, csound-doc, gzip, sox"
+  ],
+  "Uploaders": [
+    "Jaromír Mikeš \u003cmira.mikes@seznam.cz\u003e, Dennis Braun \u003csnd@debian.org\u003e"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/multimedia-team/rubberband"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/multimedia-team/rubberband.git"
+  ],
+  "Version": [
+    "3.2.1+dfsg-1"
+  ]
+}

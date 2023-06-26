@@ -1,0 +1,62 @@
+{
+  "Architecture": [
+    "all"
+  ],
+  "Binary": [
+    "golang-github-felixge-httpsnoop-dev"
+  ],
+  "Build-Depends": [
+    "debhelper-compat (= 13), dh-sequence-golang, golang-any"
+  ],
+  "Checksums-Sha256": [
+    "fc972b15f849de918328257d946d46b71db30fc6d6c0644c671c86a966a2f4aa 2305 golang-github-felixge-httpsnoop_1.0.3-2.dsc 6c8f1ff85d90b4af6e6158d33e9fb7a2fe86dcb2c61b1082e8d755a868d466dd 11662 golang-github-felixge-httpsnoop_1.0.3.orig.tar.gz c4dba0a99f19f7b57d1784e7095502365a5a4be387333fe749a22e9ca58b878f 2288 golang-github-felixge-httpsnoop_1.0.3-2.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/g/golang-github-felixge-httpsnoop"
+  ],
+  "Files": [
+    "8d0eb84c39b78280c4a8ad25608eb563 2305 golang-github-felixge-httpsnoop_1.0.3-2.dsc 04309f3918e76c734e6e78ec1fbfa9ef 11662 golang-github-felixge-httpsnoop_1.0.3.orig.tar.gz c735260b96ca4f7ec4f72d527796092c 2288 golang-github-felixge-httpsnoop_1.0.3-2.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Go-Import-Path": [
+    "github.com/felixge/httpsnoop"
+  ],
+  "Homepage": [
+    "https://github.com/felixge/httpsnoop"
+  ],
+  "Maintainer": [
+    "Debian Go Packaging Team \u003cteam+pkg-go@tracker.debian.org\u003e"
+  ],
+  "Package": [
+    "golang-github-felixge-httpsnoop"
+  ],
+  "Package-List": [
+    "golang-github-felixge-httpsnoop-dev deb golang optional arch=all"
+  ],
+  "Priority": [
+    "optional"
+  ],
+  "Section": [
+    "misc"
+  ],
+  "Standards-Version": [
+    "4.6.2"
+  ],
+  "Testsuite": [
+    "autopkgtest-pkg-go"
+  ],
+  "Uploaders": [
+    "Thomas Goirand \u003czigo@debian.org\u003e,"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/go-team/packages/golang-github-felixge-httpsnoop"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/go-team/packages/golang-github-felixge-httpsnoop.git"
+  ],
+  "Version": [
+    "1.0.3-2"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "Architecture": [
+    "all"
+  ],
+  "Binary": [
+    "python3-reportlab, python-reportlab-doc"
+  ],
+  "Build-Depends": [
+    "debhelper-compat (= 13), dh-python, python3-all-dev, python3-setuptools, libfreetype-dev, sharutils"
+  ],
+  "Build-Depends-Indep": [
+    "python3-pil, python3-sphinx"
+  ],
+  "Checksums-Sha256": [
+    "41a4a02edb3ac3061d70b8b3254e33562f658e209e5cd3a757642e28b265f266 2133 python-reportlab_4.0.4-1.dsc 7f70b3b56aff5f11cb4136c51a0f5a56fe6e4c8fbbac7b903076db99a8ef31c1 3132866 python-reportlab_4.0.4.orig.tar.gz 738e69adddfbfa5ed4ef36dfc1ec0b552a4ed580f9303b97473d3157160c0b8b 12100 python-reportlab_4.0.4-1.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/p/python-reportlab"
+  ],
+  "Files": [
+    "e5f818c45acf05e84dda8b081f9a9bee 2133 python-reportlab_4.0.4-1.dsc eadd2f06fc4dbfd802666cbdd9ce8603 3132866 python-reportlab_4.0.4.orig.tar.gz dab02721df506b0a9bb809fc2b85f21f 12100 python-reportlab_4.0.4-1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://www.reportlab.com/opensource/"
+  ],
+  "Maintainer": [
+    "Georges Khaznadar \u003cgeorgesk@debian.org\u003e"
+  ],
+  "Package": [
+    "python-reportlab"
+  ],
+  "Package-List": [
+    "python-reportlab-doc deb doc optional arch=all python3-reportlab deb python optional arch=all"
+  ],
+  "Priority": [
+    "source"
+  ],
+  "Section": [
+    "python"
+  ],
+  "Standards-Version": [
+    "4.6.2"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/python-team/python-reportlab"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/python-team/python-reportlab.git"
+  ],
+  "Version": [
+    "4.0.4-1"
+  ]
+}

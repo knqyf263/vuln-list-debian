@@ -1,0 +1,50 @@
+{
+  "Architecture": [
+    "amd64"
+  ],
+  "Binary": [
+    "python3-sptag, sptag"
+  ],
+  "Build-Depends": [
+    "cmake (\u003e= 3.12.0~), debhelper-compat (= 13), dh-sequence-python3, libboost-dev (\u003e= 1.66~), libboost-filesystem-dev (\u003e= 1.66~) \u003c!nocheck\u003e, libboost-system-dev (\u003e= 1.66~), libboost-test-dev (\u003e= 1.66~) \u003c!nocheck\u003e, libnuma-dev, libzstd-dev, python3-dev, swig (\u003e= 3.0~)"
+  ],
+  "Checksums-Sha256": [
+    "fee11c0fcd295a1ae4f400dd8bc97a5e36483e1bdbc29c9004fbd16e3708ec9f 2173 sptag_0.0~git20230612.2ffaec6+ds-1.dsc a351173a8eea87437801ff55dd2bb092eb61b9199d5fc4e153b7071c19f6f690 1260348 sptag_0.0~git20230612.2ffaec6+ds.orig.tar.xz ea65538551b54392cba690e89974bad495fcabe8d0f458f9b92199b5601f7416 29692 sptag_0.0~git20230612.2ffaec6+ds-1.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/s/sptag"
+  ],
+  "Files": [
+    "f314a58feb816b970201bddb9acb7ec5 2173 sptag_0.0~git20230612.2ffaec6+ds-1.dsc bf3abbdb786bcc7f57b74278ac09a702 1260348 sptag_0.0~git20230612.2ffaec6+ds.orig.tar.xz 7d86d025bb4693fe0f866486dd391137 29692 sptag_0.0~git20230612.2ffaec6+ds-1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://github.com/microsoft/SPTAG"
+  ],
+  "Maintainer": [
+    "Paul Wise \u003cpabs@debian.org\u003e"
+  ],
+  "Package": [
+    "sptag"
+  ],
+  "Package-List": [
+    "python3-sptag deb python optional arch=amd64 sptag deb math optional arch=amd64"
+  ],
+  "Priority": [
+    "extra"
+  ],
+  "Section": [
+    "misc"
+  ],
+  "Standards-Version": [
+    "4.6.2"
+  ],
+  "Testsuite": [
+    "autopkgtest-pkg-python"
+  ],
+  "Version": [
+    "0.0~git20230612.2ffaec6+ds-1"
+  ]
+}

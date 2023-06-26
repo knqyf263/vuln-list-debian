@@ -1,0 +1,53 @@
+{
+  "Architecture": [
+    "any"
+  ],
+  "Binary": [
+    "gcc-avr"
+  ],
+  "Build-Conflicts": [
+    "libgcc0, libgcc300"
+  ],
+  "Build-Depends": [
+    "m4, autoconf2.64, libtool, gawk, bzip2, binutils-avr (\u003e= 2.26.20160125+Atmel3.6.2), bison, flex, gettext, texinfo, zlib1g-dev, debhelper (\u003e= 7), tar, libmpfr-dev, lsb-release, patchutils, libmpc-dev, dh-autoreconf"
+  ],
+  "Checksums-Sha256": [
+    "cf50edd3fe0ac3c77f0f4d909444fc8407f5e1facc4676c5175a32b03aedf03c 1904 gcc-avr_5.4.0+Atmel3.6.2-4.dsc 282a83501e2e7b9e4911ce3f621809d1b644231745e47894ccd4b9c22de3840d 85778272 gcc-avr_5.4.0+Atmel3.6.2.orig.tar.gz 7f77e3b00b2bda8191e7a5defc4bc782d2ff2e92364219385c69533eb5465418 17095 gcc-avr_5.4.0+Atmel3.6.2-4.diff.gz"
+  ],
+  "Directory": [
+    "pool/main/g/gcc-avr"
+  ],
+  "Files": [
+    "2ac466e5d1dbe521f2ff115d2e6e57d7 1904 gcc-avr_5.4.0+Atmel3.6.2-4.dsc 0c83078f98d94b470861be6a4203e05b 85778272 gcc-avr_5.4.0+Atmel3.6.2.orig.tar.gz db66ec18dc8672d92f613375068833a5 17095 gcc-avr_5.4.0+Atmel3.6.2-4.diff.gz"
+  ],
+  "Format": [
+    "1.0"
+  ],
+  "Maintainer": [
+    "Bastian Germann \u003cbage@debian.org\u003e"
+  ],
+  "Package": [
+    "gcc-avr"
+  ],
+  "Package-List": [
+    "gcc-avr deb devel optional arch=any"
+  ],
+  "Priority": [
+    "source"
+  ],
+  "Section": [
+    "devel"
+  ],
+  "Standards-Version": [
+    "3.9.5"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/debian/gcc-avr"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/debian/gcc-avr.git"
+  ],
+  "Version": [
+    "1:5.4.0+Atmel3.6.2-4"
+  ]
+}

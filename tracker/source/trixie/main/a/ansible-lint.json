@@ -1,0 +1,56 @@
+{
+  "Architecture": [
+    "all"
+  ],
+  "Binary": [
+    "ansible-lint"
+  ],
+  "Build-Depends": [
+    "debhelper-compat (= 13), dh-python, pybuild-plugin-pyproject, python3-all, python3-setuptools, python3-setuptools-scm"
+  ],
+  "Checksums-Sha256": [
+    "b07325596cbc337631ce60c7f19fba5f13c9cfc2c8800a7ec456bbb48442c64a 2111 ansible-lint_6.17.1-1.dsc 288f9eb09b04153cea4b6a47c707ef33e69e2d40df4ee977295c8764345341a3 427049 ansible-lint_6.17.1.orig.tar.gz f49944dd4a5756646410c25ef5c14617be962a97b81138c5fe8e66308c597166 7708 ansible-lint_6.17.1-1.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/a/ansible-lint"
+  ],
+  "Files": [
+    "97e99b469ed15278014abb103d6d6b7a 2111 ansible-lint_6.17.1-1.dsc 97242a59f14a3d3e10bb3927744eb0ba 427049 ansible-lint_6.17.1.orig.tar.gz 1c1c13271c98b772c01b850ff1ee4134 7708 ansible-lint_6.17.1-1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://github.com/ansible-community/ansible-lint"
+  ],
+  "Maintainer": [
+    "Debian Python Team \u003cteam+python@tracker.debian.org\u003e"
+  ],
+  "Package": [
+    "ansible-lint"
+  ],
+  "Package-List": [
+    "ansible-lint deb misc optional arch=all"
+  ],
+  "Priority": [
+    "extra"
+  ],
+  "Section": [
+    "misc"
+  ],
+  "Standards-Version": [
+    "4.6.2"
+  ],
+  "Uploaders": [
+    "Samuel Henrique \u003csamueloph@debian.org\u003e, Gregory Colpart \u003creg@debian.org\u003e"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/python-team/packages/ansible-lint"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/python-team/packages/ansible-lint.git"
+  ],
+  "Version": [
+    "6.17.1-1"
+  ]
+}

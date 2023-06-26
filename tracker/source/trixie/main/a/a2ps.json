@@ -1,0 +1,53 @@
+{
+  "Architecture": [
+    "any"
+  ],
+  "Binary": [
+    "a2ps"
+  ],
+  "Build-Depends": [
+    "bison, bzip2, debhelper-compat (= 13), docbook-to-man, emacs-nox | emacsen, file, flex, ghostscript, gperf, graphicsmagick-imagemagick-compat, groff-base, gv, help2man, html2ps, libgc-dev, libpaper-dev, lpr, pkg-config, psutils, texinfo, texlive-base-bin"
+  ],
+  "Checksums-Sha256": [
+    "3764a3cc5665d4e401a0a14eb064896c49cd8e8a595a6fb74418aa45d7a9aa87 2268 a2ps_4.15.4-1.dsc 4a063f84ba89d86be14a6704ca35fd130083b572f1376b439a1b79b67b206dd7 3570970 a2ps_4.15.4.orig.tar.gz b547d066b6437ce684ef2c0be21001a79c4ba89c7429b557f6aa8e18902f98db 488 a2ps_4.15.4.orig.tar.gz.asc 87da6ac439c9952cd67f06bbce3ea17e4b72439e22ee40037ff5953ed9aecff8 19872 a2ps_4.15.4-1.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/a/a2ps"
+  ],
+  "Files": [
+    "4155d16b434de76f40f2c58fdd962f4d 2268 a2ps_4.15.4-1.dsc 9fc7e8b04379b78d3be21c1b6b212c73 3570970 a2ps_4.15.4.orig.tar.gz 8d9dec8d49dba19f850efc4322e0eed0 488 a2ps_4.15.4.orig.tar.gz.asc 65b6940f0d429b5149412be183b047d4 19872 a2ps_4.15.4-1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://www.gnu.org/software/a2ps/"
+  ],
+  "Maintainer": [
+    "Debian QA Group \u003cpackages@qa.debian.org\u003e"
+  ],
+  "Package": [
+    "a2ps"
+  ],
+  "Package-List": [
+    "a2ps deb text optional arch=any"
+  ],
+  "Priority": [
+    "source"
+  ],
+  "Section": [
+    "text"
+  ],
+  "Standards-Version": [
+    "4.6.2"
+  ],
+  "Vcs-Browser": [
+    "https://browse.dgit.debian.org/a2ps.git/"
+  ],
+  "Vcs-Git": [
+    "https://git.dgit.debian.org/a2ps.git"
+  ],
+  "Version": [
+    "1:4.15.4-1"
+  ]
+}

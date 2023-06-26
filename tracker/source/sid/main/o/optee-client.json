@@ -1,0 +1,47 @@
+{
+  "Architecture": [
+    "arm64 armhf"
+  ],
+  "Binary": [
+    "optee-client-dev, libteeacl0.1.0, libteec1, libckteec0, libseteec0, tee-supplicant"
+  ],
+  "Build-Depends": [
+    "debhelper-compat (= 12), docbook-xml, docbook-xsl, pkg-config, uuid-dev, xsltproc"
+  ],
+  "Checksums-Sha256": [
+    "21a725e568abbd34ca1bb2c0c043728697a04ced2aaf10be135b2d04a0272f16 2193 optee-client_3.20.0-1.dsc 69414c424b8dbed11ce1ae0d812817eda2ef4f42a1bef762e5ca3b6fed80764c 105418 optee-client_3.20.0.orig.tar.gz bf27c2fae631180e8f106ed3158ff31eb4862aeeb68cbbeabdbb3f74e1c2e20f 6260 optee-client_3.20.0-1.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/o/optee-client"
+  ],
+  "Files": [
+    "77d02b2c7f12334ff70e0895a1d58fea 2193 optee-client_3.20.0-1.dsc 14dd4ac7af6ece4d9e69aebbeb882568 105418 optee-client_3.20.0.orig.tar.gz 5fa2b8480f048e225c11d714e4294c24 6260 optee-client_3.20.0-1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://github.com/OP-TEE/optee_client"
+  ],
+  "Maintainer": [
+    "Ying-Chun Liu (PaulLiu) \u003cpaulliu@debian.org\u003e"
+  ],
+  "Package": [
+    "optee-client"
+  ],
+  "Package-List": [
+    "libckteec0 deb libs optional arch=arm64,armhf libseteec0 deb libs optional arch=arm64,armhf libteeacl0.1.0 deb libs optional arch=arm64,armhf libteec1 deb libs optional arch=arm64,armhf optee-client-dev deb libdevel optional arch=arm64,armhf tee-supplicant deb libs optional arch=arm64,armhf"
+  ],
+  "Priority": [
+    "optional"
+  ],
+  "Section": [
+    "misc"
+  ],
+  "Standards-Version": [
+    "4.5.1"
+  ],
+  "Version": [
+    "3.20.0-1"
+  ]
+}

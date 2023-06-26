@@ -1,0 +1,56 @@
+{
+  "Architecture": [
+    "i386 amd64 arm64 armhf ppc64el all"
+  ],
+  "Binary": [
+    "chromium, chromium-l10n, chromium-shell, chromium-driver, chromium-common, chromium-sandbox"
+  ],
+  "Build-Depends": [
+    "debhelper (\u003e= 11), devscripts, lld, clang, clang-format, python3, pkg-config, ninja-build, python3-jinja2, python3-pkg-resources, ca-certificates, elfutils, wget, flex, yasm, xvfb, wdiff, gperf, bison, brotli, nodejs, rollup, valgrind, xz-utils, x11-apps, xcb-proto, xfonts-base, libx11-xcb-dev, libxshmfence-dev, libgl1-mesa-dev, libglu1-mesa-dev, libegl1-mesa-dev, libgles2-mesa-dev, libopenh264-dev, generate-ninja, mesa-common-dev, rapidjson-dev, libva-dev, libxt-dev, libre2-dev, libgbm-dev, libpng-dev, libxss-dev, libelf-dev, libpci-dev, libcap-dev, libdrm-dev, libffi-dev, libkrb5-dev, libexif-dev, libflac-dev, libudev-dev, libpipewire-0.3-dev, libopus-dev, libwebp-dev, libxtst-dev, libjpeg-dev, libxml2-dev, libgtk-3-dev, libxslt1-dev, liblcms2-dev, libpulse-dev, libpam0g-dev, libbrotli-dev, libdouble-conversion-dev, libxnvctrl-dev, libwoff-dev, libsnappy-dev, libglib2.0-dev, libasound2-dev, libjsoncpp-dev, libspeechd-dev, libminizip-dev, libhunspell-dev, libxcb-dri3-dev, libusb-1.0-0-dev, libopenjp2-7-dev, libmodpbase64-dev, libnss3-dev, libnspr4-dev, libcups2-dev, libevent-dev, libevdev-dev, libgcrypt20-dev, libcurl4-openssl-dev, fonts-ipafont-gothic, fonts-ipafont-mincho"
+  ],
+  "Checksums-Sha256": [
+    "8a8b24f60be627616c2bacac831fcf00002b335dee28d102a47b5d330ba5f83e 3694 chromium_114.0.5735.133-1.dsc 40fb6968f547b677e25ad665b2638ed3f76583b8c6ebafec703fb30f27dd0e85 636230868 chromium_114.0.5735.133.orig.tar.xz 70edc914ffb635ce64106860ffdf7f5ab26569abe2d5b4596a6da2a2ec07ce31 357156 chromium_114.0.5735.133-1.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/c/chromium"
+  ],
+  "Files": [
+    "4235e9253d2dd5f11fd841d78ae395f4 3694 chromium_114.0.5735.133-1.dsc 3ee8089910afc580505b38278b305a0d 636230868 chromium_114.0.5735.133.orig.tar.xz 9b8b08c87dde484488176871c713e875 357156 chromium_114.0.5735.133-1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "http://www.chromium.org/Home"
+  ],
+  "Maintainer": [
+    "Debian Chromium Team \u003cchromium@packages.debian.org\u003e"
+  ],
+  "Package": [
+    "chromium"
+  ],
+  "Package-List": [
+    "chromium deb web optional arch=i386,amd64,arm64,armhf,ppc64el chromium-common deb web optional arch=i386,amd64,arm64,armhf,ppc64el chromium-driver deb web optional arch=i386,amd64,arm64,armhf,ppc64el chromium-l10n deb localization optional arch=all chromium-sandbox deb web optional arch=i386,amd64,arm64,armhf,ppc64el chromium-shell deb web optional arch=i386,amd64,arm64,armhf,ppc64el"
+  ],
+  "Priority": [
+    "extra"
+  ],
+  "Section": [
+    "misc"
+  ],
+  "Standards-Version": [
+    "4.5.0"
+  ],
+  "Uploaders": [
+    "Andres Salomon \u003cdilinger@debian.org\u003e, Timothy Pearson \u003ctpearson@raptorengineering.com\u003e,"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/chromium-team/chromium"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/chromium-team/chromium.git"
+  ],
+  "Version": [
+    "114.0.5735.133-1"
+  ]
+}

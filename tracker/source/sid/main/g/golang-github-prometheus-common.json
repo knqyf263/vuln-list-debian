@@ -1,0 +1,62 @@
+{
+  "Architecture": [
+    "all"
+  ],
+  "Binary": [
+    "golang-github-prometheus-common-dev"
+  ],
+  "Build-Depends": [
+    "debhelper-compat (= 13), dh-sequence-golang, golang-any, golang-github-aws-aws-sdk-go-dev, golang-github-go-kit-log-dev, golang-github-golang-protobuf-1-5-dev, golang-github-julienschmidt-httprouter-dev, golang-github-mwitkow-go-conntrack-dev, golang-github-prometheus-client-golang-dev (\u003e= 1.15.1), golang-github-prometheus-client-model-dev (\u003e= 0.4.0), golang-golang-x-net-dev, golang-golang-x-oauth2-dev, golang-google-protobuf-dev, golang-gopkg-alecthomas-kingpin.v2-dev, golang-gopkg-yaml.v2-dev (\u003e= 2.2.1), golang-protobuf-extensions-dev"
+  ],
+  "Checksums-Sha256": [
+    "e08380ca4f18769995c3c97dde30341e616974a3f8f1e689ce2d04f6b6834a9f 2923 golang-github-prometheus-common_0.44.0-3.dsc 1006a51e2c39efd5e7a483ce11b635b69aaa1b9f56fb64b21f5f69d7aa325077 133035 golang-github-prometheus-common_0.44.0.orig.tar.gz 024e1020e80a42b2496b147c7f495ecb21c0f3db819710dffc64c910eb54d74a 6908 golang-github-prometheus-common_0.44.0-3.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/g/golang-github-prometheus-common"
+  ],
+  "Files": [
+    "918ba6f4f8239f46001ef81887bf7414 2923 golang-github-prometheus-common_0.44.0-3.dsc 5e5b50124f24f82e08c13ad8048f90b0 133035 golang-github-prometheus-common_0.44.0.orig.tar.gz 24d202e083885269d4bff2ae27a30d5b 6908 golang-github-prometheus-common_0.44.0-3.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Go-Import-Path": [
+    "github.com/prometheus/common"
+  ],
+  "Homepage": [
+    "https://github.com/prometheus/common"
+  ],
+  "Maintainer": [
+    "Debian Go Packaging Team \u003cteam+pkg-go@tracker.debian.org\u003e"
+  ],
+  "Package": [
+    "golang-github-prometheus-common"
+  ],
+  "Package-List": [
+    "golang-github-prometheus-common-dev deb golang optional arch=all"
+  ],
+  "Priority": [
+    "extra"
+  ],
+  "Section": [
+    "golang"
+  ],
+  "Standards-Version": [
+    "4.6.2"
+  ],
+  "Testsuite": [
+    "autopkgtest-pkg-go"
+  ],
+  "Uploaders": [
+    "Martina Ferrari \u003ctina@debian.org\u003e, Anthony Fok \u003cfoka@debian.org\u003e, Lucas Kanashiro \u003ckanashiro@debian.org\u003e, Daniel Swarbrick \u003cdswarbrick@debian.org\u003e,"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/go-team/packages/golang-github-prometheus-common"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/go-team/packages/golang-github-prometheus-common.git"
+  ],
+  "Version": [
+    "0.44.0-3"
+  ]
+}

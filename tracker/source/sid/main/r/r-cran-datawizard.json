@@ -1,0 +1,62 @@
+{
+  "Architecture": [
+    "all"
+  ],
+  "Binary": [
+    "r-cran-datawizard"
+  ],
+  "Build-Depends": [
+    "debhelper-compat (= 13), dh-r, r-base-dev, r-cran-insight (\u003e= 0.19.1)"
+  ],
+  "Checksums-Sha256": [
+    "8025dbd924f55dace1a68760264cb30501772094fe0e90dbf9cea860396bf0a4 2535 r-cran-datawizard_0.7.1+dfsg-1.dsc 32439d116f6c3ea22cc517bd48fabf6da1dd05fcadbb8111dcd82ec924eda565 246488 r-cran-datawizard_0.7.1+dfsg.orig.tar.xz 03745886613aab44c02e53419f6aa166ef7a968207012af82d8903f06df80d48 3236 r-cran-datawizard_0.7.1+dfsg-1.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/r/r-cran-datawizard"
+  ],
+  "Files": [
+    "b8fff71eddea4ac08b1e8682704b1151 2535 r-cran-datawizard_0.7.1+dfsg-1.dsc 54df469f68a88e1b608bb65ade00cd72 246488 r-cran-datawizard_0.7.1+dfsg.orig.tar.xz efa7b08d79eebb167ca2b3bfa3624fbf 3236 r-cran-datawizard_0.7.1+dfsg-1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://cran.r-project.org/package=datawizard"
+  ],
+  "Maintainer": [
+    "Debian R Packages Maintainers \u003cr-pkg-team@alioth-lists.debian.net\u003e"
+  ],
+  "Package": [
+    "r-cran-datawizard"
+  ],
+  "Package-List": [
+    "r-cran-datawizard deb gnu-r optional arch=all"
+  ],
+  "Priority": [
+    "extra"
+  ],
+  "Section": [
+    "misc"
+  ],
+  "Standards-Version": [
+    "4.6.2"
+  ],
+  "Testsuite": [
+    "autopkgtest, autopkgtest-pkg-r"
+  ],
+  "Testsuite-Triggers": [
+    "r-cran-bayestestr, r-cran-boot, r-cran-brms, r-cran-data.table, r-cran-dplyr, r-cran-effectsize, r-cran-gamm4, r-cran-ggplot2, r-cran-haven, r-cran-httr, r-cran-knitr, r-cran-lme4, r-cran-parameters, r-cran-poorman, r-cran-psych, r-cran-readr, r-cran-readxl, r-cran-rio, r-cran-rmarkdown, r-cran-rstanarm, r-cran-testthat, r-cran-tidyr, r-cran-withr"
+  ],
+  "Uploaders": [
+    "Andreas Tille \u003ctille@debian.org\u003e"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/r-pkg-team/r-cran-datawizard"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/r-pkg-team/r-cran-datawizard.git"
+  ],
+  "Version": [
+    "0.7.1+dfsg-1"
+  ]
+}

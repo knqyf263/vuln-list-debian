@@ -1,0 +1,56 @@
+{
+  "Architecture": [
+    "any"
+  ],
+  "Binary": [
+    "deja-dup"
+  ],
+  "Build-Depends": [
+    "appstream-util, dbus, debhelper-compat (= 13), desktop-file-utils, dh-sequence-gnome, itstool, libadwaita-1-dev (\u003e= 1.2), libglib2.0-bin, libglib2.0-dev (\u003e= 2.70), libgpg-error-dev, libgtk-4-dev, libjson-glib-dev (\u003e= 1.2), libpackagekit-glib2-dev (\u003e= 1.2), libsecret-1-dev (\u003e= 0.18.6), libsoup-3.0-dev, meson (\u003e= 0.59), pkg-config, valac (\u003e= 0.36)"
+  ],
+  "Checksums-Sha256": [
+    "d94a47687c1127287dff257fae0b8c371d3a9128ddc470dbe4ac719a6b671c72 2339 deja-dup_44.1-1.dsc 248e780b6e7cb75b83d035794ad82f48c03a4a8c7aa50dd4f4c91956d4f9451b 1007397 deja-dup_44.1.orig.tar.bz2 ef20d2f93bf9941c9090b5ee9a112ef916c885fe51f7d77409034301a8790dc2 8324 deja-dup_44.1-1.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/d/deja-dup"
+  ],
+  "Files": [
+    "87159ed47ce57224e467b3abf9f3802b 2339 deja-dup_44.1-1.dsc 816a85520aee9612f81e325218dce7b1 1007397 deja-dup_44.1.orig.tar.bz2 856ae95db840154865b30be16c69bba4 8324 deja-dup_44.1-1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://launchpad.net/deja-dup"
+  ],
+  "Maintainer": [
+    "Debian GNOME Maintainers \u003cpkg-gnome-maintainers@lists.alioth.debian.org\u003e"
+  ],
+  "Package": [
+    "deja-dup"
+  ],
+  "Package-List": [
+    "deja-dup deb utils optional arch=any"
+  ],
+  "Priority": [
+    "source"
+  ],
+  "Section": [
+    "utils"
+  ],
+  "Standards-Version": [
+    "4.6.2"
+  ],
+  "Uploaders": [
+    "Iain Lane \u003claney@debian.org\u003e, Jeremy Bicha \u003cjbicha@ubuntu.com\u003e, Laurent Bigonville \u003cbigon@debian.org\u003e, Sebastien Bacher \u003cseb128@debian.org\u003e"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/gnome-team/deja-dup"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/gnome-team/deja-dup.git"
+  ],
+  "Version": [
+    "44.1-1"
+  ]
+}

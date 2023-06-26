@@ -1,0 +1,47 @@
+{
+  "Architecture": [
+    "any all"
+  ],
+  "Binary": [
+    "libtiff6, libtiffxx6, libtiff-dev, libtiff5-dev, libtiff-tools, libtiff-opengl, libtiff-doc"
+  ],
+  "Build-Depends": [
+    "debhelper-compat (= 13), freeglut3-dev, libglu1-mesa-dev, libjbig-dev, libjpeg-dev, liblzma-dev, libzstd-dev, libwebp-dev, libxi-dev, zlib1g-dev, libdeflate-dev, liblerc-dev [!s390x !hppa !powerpc !ppc64 !sparc64], sphinx \u003c!nodoc\u003e"
+  ],
+  "Checksums-Sha256": [
+    "c9f5ab085dacbd5e2d90236db420428906c33a6e79681484a553b37ed3c3ceaa 2283 tiff_4.5.1~rc3-1.dsc dee24a6f0d4ff10ddc8afe16e731bb622bbdec4ce64d9e01f6515df0a7aabe50 2059965 tiff_4.5.1~rc3.orig.tar.bz2 39bb39d826e401a6b40ef22388dbc023eda5ba417ce6781d716292532c2117c2 21800 tiff_4.5.1~rc3-1.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/t/tiff"
+  ],
+  "Files": [
+    "835cb3996f3bdea50e2da92d53b60503 2283 tiff_4.5.1~rc3-1.dsc 69f06a3ba8836e4d6baef4f8d249ff8f 2059965 tiff_4.5.1~rc3.orig.tar.bz2 16c315a434007fd72929abc58ae4baa3 21800 tiff_4.5.1~rc3-1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://libtiff.gitlab.io/libtiff/"
+  ],
+  "Maintainer": [
+    "Laszlo Boszormenyi (GCS) \u003cgcs@debian.org\u003e"
+  ],
+  "Package": [
+    "tiff"
+  ],
+  "Package-List": [
+    "libtiff-dev deb libdevel optional arch=any libtiff-doc deb doc optional arch=all libtiff-opengl deb graphics optional arch=any libtiff-tools deb graphics optional arch=any libtiff5-dev deb oldlibs optional arch=any libtiff6 deb libs optional arch=any libtiffxx6 deb libs optional arch=any"
+  ],
+  "Priority": [
+    "source"
+  ],
+  "Section": [
+    "libs"
+  ],
+  "Standards-Version": [
+    "4.6.1"
+  ],
+  "Version": [
+    "4.5.1~rc3-1"
+  ]
+}

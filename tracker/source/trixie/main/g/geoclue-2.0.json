@@ -1,0 +1,56 @@
+{
+  "Architecture": [
+    "any all"
+  ],
+  "Binary": [
+    "geoclue-2.0, geoclue-2-demo, geoclue-doc, libgeoclue-2-0, libgeoclue-2-dev, gir1.2-geoclue-2.0, libgeoclue-doc"
+  ],
+  "Build-Depends": [
+    "debhelper-compat (= 12), dh-apparmor, dh-exec, gobject-introspection (\u003e= 0.9.6), intltool (\u003e= 0.40.0), libavahi-client-dev (\u003e= 0.6.10), libavahi-glib-dev (\u003e= 0.6.10), libgirepository1.0-dev (\u003e= 0.9.6), libglib2.0-dev (\u003e= 2.44.0), libjson-glib-dev (\u003e= 0.14), libmm-glib-dev (\u003e= 1.6) [linux-any], libnotify-dev, libsoup-3.0-dev, meson (\u003e= 0.47.2), pkg-config, valac"
+  ],
+  "Build-Depends-Indep": [
+    "gtk-doc-tools \u003c!nodoc\u003e, libglib2.0-doc \u003c!nodoc\u003e"
+  ],
+  "Checksums-Sha256": [
+    "e1da53cb29f4765e6f0d976f8fb10ff4b3f294e102a19714d56220b465bb5172 2399 geoclue-2.0_2.6.0-3.dsc cdc9efcb98ce81284d7a6c3c899330481ffdca44bba3c18b9e530618298aa4a0 94890 geoclue-2.0_2.6.0.orig.tar.bz2 6996eff455d6f264665e74e817a9c523c31479635a9929fc98eeeb548b223699 15288 geoclue-2.0_2.6.0-3.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/g/geoclue-2.0"
+  ],
+  "Files": [
+    "13fc93acf3947ac3a98def8a64008afe 2399 geoclue-2.0_2.6.0-3.dsc 07ed45bc145e87d7f76fa521d5412f29 94890 geoclue-2.0_2.6.0.orig.tar.bz2 affba896039c841faf79e796e53f8033 15288 geoclue-2.0_2.6.0-3.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://gitlab.freedesktop.org/geoclue/geoclue/wikis/home"
+  ],
+  "Maintainer": [
+    "Laurent Bigonville \u003cbigon@debian.org\u003e"
+  ],
+  "Package": [
+    "geoclue-2.0"
+  ],
+  "Package-List": [
+    "geoclue-2-demo deb utils optional arch=any geoclue-2.0 deb utils optional arch=any geoclue-doc deb doc optional arch=all profile=!nodoc gir1.2-geoclue-2.0 deb introspection optional arch=any libgeoclue-2-0 deb libs optional arch=any libgeoclue-2-dev deb libdevel optional arch=any libgeoclue-doc deb doc optional arch=all profile=!nodoc"
+  ],
+  "Priority": [
+    "optional"
+  ],
+  "Section": [
+    "misc"
+  ],
+  "Standards-Version": [
+    "4.6.2"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/freedesktop-team/geoclue-2.0"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/freedesktop-team/geoclue-2.0.git"
+  ],
+  "Version": [
+    "2.6.0-3"
+  ]
+}

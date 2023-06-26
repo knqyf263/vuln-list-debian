@@ -1,0 +1,53 @@
+{
+  "Architecture": [
+    "all"
+  ],
+  "Binary": [
+    "python3-pyqtconsole"
+  ],
+  "Build-Depends": [
+    "dh-python, python3-setuptools, python3-all, python3-pytest, debhelper (\u003e= 13)"
+  ],
+  "Checksums-Sha256": [
+    "1f1aade9140d882a75bed6cc342ed4308716461d918d8a31db70d2d1bb147a6a 1955 python-pyqtconsole_1.2.2-1.dsc fcc2337a34925455f3d1681ff268ef2787d33914cafa1eb75d351af1ab2add52 20631 python-pyqtconsole_1.2.2.orig.tar.gz 3f07755be065a6e4775523205102439c0c10f7e115f0526d9a55bfd77465a2a8 1956 python-pyqtconsole_1.2.2-1.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/p/python-pyqtconsole"
+  ],
+  "Files": [
+    "437bc8688ad2ccf5464e8c74549a4e85 1955 python-pyqtconsole_1.2.2-1.dsc 049bc24aad1982f460e49b5923213d7f 20631 python-pyqtconsole_1.2.2.orig.tar.gz fc4d0c69e4e9f68aff1d17e7fbfc36df 1956 python-pyqtconsole_1.2.2-1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://github.com/marcus-oscarsson/pyqtconsole"
+  ],
+  "Maintainer": [
+    "Debian Python Team \u003cteam+python@tracker.debian.org\u003e"
+  ],
+  "Package": [
+    "python-pyqtconsole"
+  ],
+  "Package-List": [
+    "python3-pyqtconsole deb python optional arch=all"
+  ],
+  "Priority": [
+    "optional"
+  ],
+  "Section": [
+    "misc"
+  ],
+  "Standards-Version": [
+    "4.6.1"
+  ],
+  "Testsuite": [
+    "autopkgtest"
+  ],
+  "Uploaders": [
+    "Roland Mas \u003clolando@debian.org\u003e"
+  ],
+  "Version": [
+    "1.2.2-1"
+  ]
+}

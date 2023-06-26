@@ -1,0 +1,56 @@
+{
+  "Architecture": [
+    "any all"
+  ],
+  "Binary": [
+    "dsda-doom, prboom-plus, prboom-plus-game-server"
+  ],
+  "Build-Depends": [
+    "bash-completion, cmake, debhelper-compat (= 13), fluidsynth, libdumb1-dev, libfluidsynth-dev, libgl-dev, libgl-dev:native, libglu1-mesa-dev | libglu-dev, libglu1-mesa-dev:native | libglu-dev:native, libmad0-dev, libportmidi-dev [linux-any], libsdl2-dev (\u003e= 2.0.7), libsdl2-dev:native (\u003e= 2.0.7), libsdl2-image-dev, libsdl2-mixer-dev, libsdl2-mixer-dev:native, libsdl2-net-dev, libvorbis-dev, libzip-dev, zipcmp, zipmerge, ziptool"
+  ],
+  "Checksums-Sha256": [
+    "ae153ff3566d188ec5884fc052e9e885c0bb87e68d57c413d57f933e72107b1e 2537 dsda-doom_0.26.2+dfsg-1.dsc dcffed00a74dfcd980d2cffd285de213d8836355e0043ceb1c73294615466cfd 1514624 dsda-doom_0.26.2+dfsg.orig.tar.xz 16774abfb70c4962697fec23b2fe84668c101772581d4942e3a4f09d4fd4cd42 20452 dsda-doom_0.26.2+dfsg-1.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/d/dsda-doom"
+  ],
+  "Files": [
+    "8ef60127cf32203bef69a33a264d9da9 2537 dsda-doom_0.26.2+dfsg-1.dsc 7f41ba0f398417ef40f84ccbdf3cd87c 1514624 dsda-doom_0.26.2+dfsg.orig.tar.xz dde23c2c0ecee25f88042d4722e4d8a3 20452 dsda-doom_0.26.2+dfsg-1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://github.com/kraflab/dsda-doom"
+  ],
+  "Maintainer": [
+    "Debian Games Team \u003cpkg-games-devel@lists.alioth.debian.org\u003e"
+  ],
+  "Package": [
+    "dsda-doom"
+  ],
+  "Package-List": [
+    "dsda-doom deb games optional arch=any prboom-plus deb oldlibs optional arch=all prboom-plus-game-server deb oldlibs optional arch=all"
+  ],
+  "Priority": [
+    "optional"
+  ],
+  "Section": [
+    "misc"
+  ],
+  "Standards-Version": [
+    "4.6.2"
+  ],
+  "Uploaders": [
+    "Fabian Greffrath \u003cfabian@debian.org\u003e"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/games-team/dsda-doom"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/games-team/dsda-doom.git"
+  ],
+  "Version": [
+    "0.26.2+dfsg-1"
+  ]
+}

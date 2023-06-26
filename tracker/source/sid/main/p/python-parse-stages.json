@@ -1,0 +1,65 @@
+{
+  "Architecture": [
+    "all"
+  ],
+  "Binary": [
+    "python3-parse-stages"
+  ],
+  "Build-Depends": [
+    "debhelper-compat (= 13), dh-sequence-python3, dh-sequence-single-binary, pybuild-plugin-pyproject, python3-all, python3-pyparsing (\u003e\u003e 3), python3-setuptools (\u003e\u003e 61)"
+  ],
+  "Checksums-Sha256": [
+    "1bc9e06e0eac89c603cd3302a63e9c8ef85a03e2e4b0b9c87eb72b8cf763aca7 2655 python-parse-stages_0.1.1-1.dsc 3c8eba6c98f2a281cc00a91e9fb37c8591c9c5f80c550f0f2f9d387db0f69526 12081 python-parse-stages_0.1.1.orig.tar.gz 7f99b1024ce612b5c833dcb8b5611b03787c1ee260df13746658299221f97933 833 python-parse-stages_0.1.1.orig.tar.gz.asc 78ff3db4be22efa9cae145b12c5188e94277c5757cf9a6e5c7964a8a9825feb4 4888 python-parse-stages_0.1.1-1.debian.tar.xz"
+  ],
+  "Dgit": [
+    "4b22c491597b735d13cc10dcc5103ef51ac682d9 debian archive/debian/0.1.1-1 https://git.dgit.debian.org/python-parse-stages"
+  ],
+  "Directory": [
+    "pool/main/p/python-parse-stages"
+  ],
+  "Files": [
+    "f4002ed57cb68dd589b51e56a60a78d6 2655 python-parse-stages_0.1.1-1.dsc aff570520049d62b3bf9f37009dd26c7 12081 python-parse-stages_0.1.1.orig.tar.gz 2410abb1a30c9b6e308e48f908ea8c2d 833 python-parse-stages_0.1.1.orig.tar.gz.asc 6aa42857def9ad03d7cc5e1cda4918ed 4888 python-parse-stages_0.1.1-1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://gitlab.com/ppentchev/parse-stages"
+  ],
+  "Maintainer": [
+    "Debian Python Team \u003cteam+python@tracker.debian.org\u003e"
+  ],
+  "Package": [
+    "python-parse-stages"
+  ],
+  "Package-List": [
+    "python3-parse-stages deb python optional arch=all"
+  ],
+  "Priority": [
+    "optional"
+  ],
+  "Section": [
+    "misc"
+  ],
+  "Standards-Version": [
+    "4.6.2"
+  ],
+  "Testsuite": [
+    "autopkgtest"
+  ],
+  "Testsuite-Triggers": [
+    "python3-pytest"
+  ],
+  "Uploaders": [
+    "Peter Pentchev \u003croam@debian.org\u003e"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/python-team/packages/parse-stages"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/python-team/packages/parse-stages.git"
+  ],
+  "Version": [
+    "0.1.1-1"
+  ]
+}

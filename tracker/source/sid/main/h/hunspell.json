@@ -1,0 +1,56 @@
+{
+  "Architecture": [
+    "any"
+  ],
+  "Binary": [
+    "libhunspell-dev, libhunspell-1.7-0, hunspell, hunspell-tools"
+  ],
+  "Build-Depends": [
+    "debhelper-compat (= 13), gettext, libncurses5-dev, libncursesw5-dev, libreadline-dev"
+  ],
+  "Checksums-Sha256": [
+    "694c1efa440eb7528af723b6f87c9b2afb218f2bd3bdbde37dd2b1e6f5dc2a82 2344 hunspell_1.7.2+really1.7.1-2.dsc b2d9c5369c2cc7f321cb5983fda2dbf007dce3d9e17519746840a6f0c4bf7444 1074306 hunspell_1.7.2+really1.7.1.orig.tar.gz 147eda0feeea7bbf3d605e169b737328139bd794a67c54934e4a459b8b12a6ed 23156 hunspell_1.7.2+really1.7.1-2.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/h/hunspell"
+  ],
+  "Files": [
+    "68929aa6879230fbafb7a5bd462f8921 2344 hunspell_1.7.2+really1.7.1-2.dsc 0ba8a8ce20c6336a7b76af16d8cfd243 1074306 hunspell_1.7.2+really1.7.1.orig.tar.gz 58a6baf2e3629a8e82bac78d32beea83 23156 hunspell_1.7.2+really1.7.1-2.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://hunspell.github.io/"
+  ],
+  "Maintainer": [
+    "Debian LibreOffice Maintainers \u003cdebian-openoffice@lists.debian.org\u003e"
+  ],
+  "Package": [
+    "hunspell"
+  ],
+  "Package-List": [
+    "hunspell deb text optional arch=any hunspell-tools deb text optional arch=any libhunspell-1.7-0 deb libs optional arch=any libhunspell-dev deb libdevel optional arch=any"
+  ],
+  "Priority": [
+    "source"
+  ],
+  "Section": [
+    "text"
+  ],
+  "Standards-Version": [
+    "4.6.0"
+  ],
+  "Uploaders": [
+    "Rene Engelhard \u003crene@debian.org\u003e, Chris Halls \u003challs@debian.org\u003e, Tim Retout \u003cdiocles@debian.org\u003e,"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/libreoffice-team/hunspell"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/libreoffice-team/hunspell.git"
+  ],
+  "Version": [
+    "1.7.2+really1.7.1-2"
+  ]
+}

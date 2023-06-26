@@ -1,0 +1,59 @@
+{
+  "Architecture": [
+    "all"
+  ],
+  "Binary": [
+    "apt-clone"
+  ],
+  "Build-Depends": [
+    "debhelper (\u003e= 7.0.50~), dh-python, gettext, intltool, python3-all"
+  ],
+  "Checksums-Sha256": [
+    "0a4678821d82faf3b823c3ac272c05ceb7300ef526e40286805d5272b66c3f2a 1742 apt-clone_0.4.3+nmu1.dsc 1fd368c0292b3c481f75e204907f02754e2b963cbfd393cd723699d8d35be661 459376 apt-clone_0.4.3+nmu1.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/a/apt-clone"
+  ],
+  "Files": [
+    "a557b8cadcf166b69541713be8705788 1742 apt-clone_0.4.3+nmu1.dsc 32129900e5eff83ec043aebfdc271ffe 459376 apt-clone_0.4.3+nmu1.tar.xz"
+  ],
+  "Format": [
+    "3.0 (native)"
+  ],
+  "Homepage": [
+    "https://launchpad.net/apt-clone"
+  ],
+  "Maintainer": [
+    "Michael Vogt \u003cmichael.vogt@ubuntu.com\u003e"
+  ],
+  "Package": [
+    "apt-clone"
+  ],
+  "Package-List": [
+    "apt-clone deb admin extra arch=all"
+  ],
+  "Priority": [
+    "source"
+  ],
+  "Section": [
+    "admin"
+  ],
+  "Standards-Version": [
+    "3.9.2"
+  ],
+  "Testsuite": [
+    "autopkgtest"
+  ],
+  "Testsuite-Triggers": [
+    "make, pycodestyle, pyflakes3, python3-apt, python3-distro-info, python3-mock, ubuntu-keyring"
+  ],
+  "Uploaders": [
+    "Alessio Treglia \u003calessio@debian.org\u003e"
+  ],
+  "Vcs-Git": [
+    "https://github.com/mvo5/apt-clone"
+  ],
+  "Version": [
+    "0.4.3+nmu1"
+  ]
+}

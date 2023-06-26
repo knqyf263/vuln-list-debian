@@ -1,0 +1,42 @@
+{
+  "Header": {
+    "Original": "[26 Oct 2005] DSA-548-2 imlib - unsanitised input",
+    "Line": 17016,
+    "ID": "DSA-548-2",
+    "Description": "imlib - unsanitised input"
+  },
+  "Annotations": [
+    {
+      "Original": "{CVE-2004-0817}",
+      "Line": 17017,
+      "Type": "xref",
+      "Bugs": [
+        "CVE-2004-0817"
+      ]
+    },
+    {
+      "Original": "[woody] - imlib 1.9.14-2woody3",
+      "Line": 17018,
+      "Type": "package",
+      "Release": "woody",
+      "Package": "imlib",
+      "Kind": "fixed",
+      "Version": "1.9.14-2woody3"
+    },
+    {
+      "Original": "[sarge] - imlib 1.9.14-16.2",
+      "Line": 17019,
+      "Type": "package",
+      "Release": "sarge",
+      "Package": "imlib",
+      "Kind": "fixed",
+      "Version": "1.9.14-16.2"
+    },
+    {
+      "Original": "NOTE: Initial -1 fix was incomplete",
+      "Line": 17020,
+      "Type": "NOTE",
+      "Description": "Initial -1 fix was incomplete"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "Architecture": [
+    "all"
+  ],
+  "Binary": [
+    "mail-expire"
+  ],
+  "Build-Depends": [
+    "debhelper (\u003e= 10)"
+  ],
+  "Checksums-Sha256": [
+    "c551ee8cc3d5ff811e4ed83c3ea862465e18f3eafefadde7cf7708c54bdb920b 1522 mail-expire_0.9.2.dsc 40833e9c934970f3b4c629a32e542edf936b38b93e7224f07170b538b763fcd9 10444 mail-expire_0.9.2.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/m/mail-expire"
+  ],
+  "Files": [
+    "c73415b24a96f965263693a78e118392 1522 mail-expire_0.9.2.dsc d134a60632c25d62c22b2958a1f00dc2 10444 mail-expire_0.9.2.tar.xz"
+  ],
+  "Format": [
+    "3.0 (native)"
+  ],
+  "Maintainer": [
+    "Eduard Bloch \u003cblade@debian.org\u003e"
+  ],
+  "Package": [
+    "mail-expire"
+  ],
+  "Package-List": [
+    "mail-expire deb utils optional arch=all"
+  ],
+  "Priority": [
+    "source"
+  ],
+  "Section": [
+    "utils"
+  ],
+  "Standards-Version": [
+    "4.6.2"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/blade/mail-expire"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/blade/mail-expire.git"
+  ],
+  "Version": [
+    "0.9.2"
+  ]
+}

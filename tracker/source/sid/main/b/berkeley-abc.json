@@ -1,0 +1,59 @@
+{
+  "Architecture": [
+    "any"
+  ],
+  "Binary": [
+    "berkeley-abc"
+  ],
+  "Build-Depends": [
+    "debhelper-compat (= 13), libbz2-dev, libreadline-dev, zlib1g-dev"
+  ],
+  "Checksums-Sha256": [
+    "b53ce3ce7640d951eb9b7008087e3a29ef7df19f043205641a1e84e63e669d70 2257 berkeley-abc_1.01+20230520gita5a6254+dfsg-1.dsc 60a2062807e1ab2133eadcb427fea34aada675601c6767ef8ba6c2f325f3dcf5 3902248 berkeley-abc_1.01+20230520gita5a6254+dfsg.orig.tar.xz 31ade193f42e77afb73597171db34fa572cfffbc4aad9eade146f6dcc47bf222 16524 berkeley-abc_1.01+20230520gita5a6254+dfsg-1.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/b/berkeley-abc"
+  ],
+  "Files": [
+    "c1745cc7a1d2958daacebca3d3898c5d 2257 berkeley-abc_1.01+20230520gita5a6254+dfsg-1.dsc 53e6730da97699fec18ca89470628ae5 3902248 berkeley-abc_1.01+20230520gita5a6254+dfsg.orig.tar.xz 43ee1b98164cf05889b68cbde80bba31 16524 berkeley-abc_1.01+20230520gita5a6254+dfsg-1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://www.eecs.berkeley.edu/~alanmi/abc/"
+  ],
+  "Maintainer": [
+    "Debian Science Maintainers \u003cdebian-science-maintainers@lists.alioth.debian.org\u003e"
+  ],
+  "Package": [
+    "berkeley-abc"
+  ],
+  "Package-List": [
+    "berkeley-abc deb electronics optional arch=any"
+  ],
+  "Priority": [
+    "optional"
+  ],
+  "Section": [
+    "misc"
+  ],
+  "Standards-Version": [
+    "4.6.1"
+  ],
+  "Testsuite": [
+    "autopkgtest"
+  ],
+  "Uploaders": [
+    "Ruben Undheim \u003cruben.undheim@gmail.com\u003e, Daniel Gröber \u003cdxld@darkboxed.org\u003e"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/science-team/berkeley-abc"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/science-team/berkeley-abc.git"
+  ],
+  "Version": [
+    "1.01+20230520gita5a6254+dfsg-1"
+  ]
+}

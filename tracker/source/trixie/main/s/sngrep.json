@@ -1,0 +1,56 @@
+{
+  "Architecture": [
+    "any"
+  ],
+  "Binary": [
+    "sngrep"
+  ],
+  "Build-Depends": [
+    "debhelper-compat (= 13), libgcrypt20-dev, libgnutls28-dev | gnutls-dev, libncurses-dev, libpcap-dev, libpcre2-dev"
+  ],
+  "Checksums-Sha256": [
+    "fc35ad3ca26ec757ca127741778731b8671d5a11748108d19182fc22ccd3958f 1670 sngrep_1.7.0-1.dsc 2e5ba3a4d6486ea00bd73d2cceff383ba162dcd6d0170ae74cfa3b1c206e2cb1 248947 sngrep_1.7.0.orig.tar.gz 778a3a680d06180b3e9d7fe12c38fe128002795736064d8706da59cc569fc319 553 sngrep_1.7.0.orig.tar.gz.asc 370f489d15d20a1222339a4a2a990aaddb6cc38b10fcb34d8302747e669d45c4 5348 sngrep_1.7.0-1.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/s/sngrep"
+  ],
+  "Files": [
+    "6d6e5d80ace88541425a174b1ae56880 1670 sngrep_1.7.0-1.dsc ee3cc7bd75adeb713411aa678e45ae4c 248947 sngrep_1.7.0.orig.tar.gz fdbebbf19ad989586868686babb80c19 553 sngrep_1.7.0.orig.tar.gz.asc 2cb21e52cbecd7207bf61d67ac4e9999 5348 sngrep_1.7.0-1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://github.com/irontec/sngrep"
+  ],
+  "Maintainer": [
+    "Debian VoIP Team \u003cpkg-voip-maintainers@lists.alioth.debian.org\u003e"
+  ],
+  "Package": [
+    "sngrep"
+  ],
+  "Package-List": [
+    "sngrep deb comm optional arch=any"
+  ],
+  "Priority": [
+    "optional"
+  ],
+  "Section": [
+    "misc"
+  ],
+  "Standards-Version": [
+    "4.6.2"
+  ],
+  "Uploaders": [
+    "Ivan Alonso \u003ckaian@irontec.com\u003e, Victor Seva \u003cvseva@debian.org\u003e,"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/pkg-voip-team/sngrep/"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/pkg-voip-team/sngrep.git"
+  ],
+  "Version": [
+    "1.7.0-1"
+  ]
+}

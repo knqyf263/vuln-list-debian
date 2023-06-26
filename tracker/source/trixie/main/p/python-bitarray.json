@@ -1,0 +1,62 @@
+{
+  "Architecture": [
+    "any"
+  ],
+  "Binary": [
+    "python3-bitarray"
+  ],
+  "Build-Depends": [
+    "debhelper-compat (= 13), dh-python, pandoc, python3-all, python3-all-dev, python3-setuptools"
+  ],
+  "Checksums-Sha256": [
+    "5d63a887aad1e7e91bd0b12fea0071332af3c55ffb71fdb8c7a2b94ce19fb2bb 2161 python-bitarray_2.7.5-1.dsc 680855cdfddce847241c339e423f03177ecd20e7052152d3fe55b8f35ca47de4 171909 python-bitarray_2.7.5.orig.tar.gz 9fbd7a6cf2573e59e89d6088db092d1e648d70a2d6606054d20d58d7aa6f1fb3 4984 python-bitarray_2.7.5-1.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/p/python-bitarray"
+  ],
+  "Files": [
+    "570e2e3c6232ea02ec28a076962933dd 2161 python-bitarray_2.7.5-1.dsc 01f9eb72a0a1479ca808218d47d2ac0a 171909 python-bitarray_2.7.5.orig.tar.gz bc228ad2b3628122669c58f325ea5b10 4984 python-bitarray_2.7.5-1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://github.com/ilanschnell/bitarray"
+  ],
+  "Maintainer": [
+    "Debian Python Team \u003cteam+python@tracker.debian.org\u003e"
+  ],
+  "Package": [
+    "python-bitarray"
+  ],
+  "Package-List": [
+    "python3-bitarray deb python optional arch=any"
+  ],
+  "Priority": [
+    "source"
+  ],
+  "Section": [
+    "python"
+  ],
+  "Standards-Version": [
+    "4.6.2"
+  ],
+  "Testsuite": [
+    "autopkgtest"
+  ],
+  "Testsuite-Triggers": [
+    "python3-all"
+  ],
+  "Uploaders": [
+    "Jan Dittberner \u003cjandd@debian.org\u003e, Scott Kitterman \u003cscott@kitterman.com\u003e"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/python-team/packages/python-bitarray"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/python-team/packages/python-bitarray.git"
+  ],
+  "Version": [
+    "2.7.5-1"
+  ]
+}

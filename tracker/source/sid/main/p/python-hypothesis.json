@@ -1,0 +1,59 @@
+{
+  "Architecture": [
+    "all"
+  ],
+  "Binary": [
+    "python3-hypothesis, python-hypothesis-doc"
+  ],
+  "Build-Depends": [
+    "debhelper-compat (= 13), dh-sequence-python3, dh-sequence-sphinxdoc \u003c!nodoc\u003e, python3-all, python3-attr, python3-coverage, python3-dateutil \u003c!nocheck\u003e \u003c!nodoc\u003e, python3-django \u003c!nodoc\u003e, python3-exceptiongroup, python3-flaky \u003c!nocheck\u003e, python3-lark \u003c!nodoc\u003e, python3-mock \u003c!nocheck\u003e, python3-numpy \u003c!nocheck\u003e, python3-numpy \u003c!nodoc\u003e, python3-pexpect \u003c!nocheck\u003e, python3-pytest \u003c!nocheck\u003e, python3-setuptools, python3-sortedcontainers, python3-sphinx \u003c!nodoc\u003e, python3-sphinx-rtd-theme \u003c!nodoc\u003e, python3-tz \u003c!nocheck\u003e"
+  ],
+  "Checksums-Sha256": [
+    "fa81d1b64a43454c6096df5a880e06750277352df2f6c9994b0644df1f909859 2553 python-hypothesis_6.74.0-1.dsc 01655acc423b8eb55eace507099b6f0da945d5e20d7de3f7fe8afd9ec41f6e2a 9363435 python-hypothesis_6.74.0.orig.tar.gz 432fa7fe640d7952e88c6d51fd4176f70d4c95437e12331d930647967be96db7 12880 python-hypothesis_6.74.0-1.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/p/python-hypothesis"
+  ],
+  "Files": [
+    "8e1e08361d0ccfb6d18cd17e6ec9c917 2553 python-hypothesis_6.74.0-1.dsc e148361e438dab05af7801eabd4f598c 9363435 python-hypothesis_6.74.0.orig.tar.gz 916f0f43f5c76a6d1d2b05ef50a7d3d3 12880 python-hypothesis_6.74.0-1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://github.com/HypothesisWorks/hypothesis"
+  ],
+  "Maintainer": [
+    "Debian Python Team \u003cteam+python@tracker.debian.org\u003e"
+  ],
+  "Package": [
+    "python-hypothesis"
+  ],
+  "Package-List": [
+    "python-hypothesis-doc deb doc optional arch=all profile=!nodoc python3-hypothesis deb python optional arch=all"
+  ],
+  "Priority": [
+    "optional"
+  ],
+  "Section": [
+    "misc"
+  ],
+  "Standards-Version": [
+    "4.6.2"
+  ],
+  "Testsuite": [
+    "autopkgtest-pkg-pybuild"
+  ],
+  "Uploaders": [
+    "Tristan Seligmann \u003cmithrandi@debian.org\u003e, Vincent Bernat \u003cbernat@debian.org\u003e,"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/python-team/packages/python-hypothesis"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/python-team/packages/python-hypothesis.git"
+  ],
+  "Version": [
+    "6.74.0-1"
+  ]
+}

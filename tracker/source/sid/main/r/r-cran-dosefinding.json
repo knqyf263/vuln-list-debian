@@ -1,0 +1,62 @@
+{
+  "Architecture": [
+    "any"
+  ],
+  "Binary": [
+    "r-cran-dosefinding"
+  ],
+  "Build-Depends": [
+    "debhelper-compat (= 13), dh-r, r-base-dev, r-cran-ggplot2, r-cran-lattice, r-cran-mvtnorm"
+  ],
+  "Checksums-Sha256": [
+    "0132f42ed9ad02f9433a58da82d72c10b87442d59f8a5429ea37fb3d7d724068 2281 r-cran-dosefinding_1.0-4-1.dsc 62b7c67be561049003e2ed8eeec9bb71d2d1a3b0d998fced2206a188ddc1dccf 1217045 r-cran-dosefinding_1.0-4.orig.tar.gz c723c9ede50d428378f62cc8085c61e668d0c0a451c3c9b12937ba9ef04ea1c6 4020 r-cran-dosefinding_1.0-4-1.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/r/r-cran-dosefinding"
+  ],
+  "Files": [
+    "a1d4c89b31ef0c992e27e5bd989438bc 2281 r-cran-dosefinding_1.0-4-1.dsc 69b75c6b76b0d0c29e9e998359b2cd9c 1217045 r-cran-dosefinding_1.0-4.orig.tar.gz 2dbde5ebedfd0bbb09657acba71caf96 4020 r-cran-dosefinding_1.0-4-1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://cran.r-project.org/package=DoseFinding"
+  ],
+  "Maintainer": [
+    "Debian R Packages Maintainers \u003cr-pkg-team@alioth-lists.debian.net\u003e"
+  ],
+  "Package": [
+    "r-cran-dosefinding"
+  ],
+  "Package-List": [
+    "r-cran-dosefinding deb gnu-r optional arch=any"
+  ],
+  "Priority": [
+    "optional"
+  ],
+  "Section": [
+    "misc"
+  ],
+  "Standards-Version": [
+    "4.6.2"
+  ],
+  "Testsuite": [
+    "autopkgtest, autopkgtest-pkg-r"
+  ],
+  "Testsuite-Triggers": [
+    "r-cran-multcomp, r-cran-numderiv, r-cran-quadprog, r-cran-rsolnp, r-cran-runit, r-cran-testthat"
+  ],
+  "Uploaders": [
+    "Andreas Tille \u003ctille@debian.org\u003e"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/r-pkg-team/r-cran-dosefinding"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/r-pkg-team/r-cran-dosefinding.git"
+  ],
+  "Version": [
+    "1.0-4-1"
+  ]
+}

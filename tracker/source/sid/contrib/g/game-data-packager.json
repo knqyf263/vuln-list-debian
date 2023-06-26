@@ -1,0 +1,65 @@
+{
+  "Architecture": [
+    "all i386"
+  ],
+  "Binary": [
+    "game-data-packager, etqw, etqw-server, game-data-packager-runtime, quake, quake-server, quake2, quake2-server, quake3, quake3-server, quake4, quake4-server"
+  ],
+  "Build-Depends": [
+    "bash-completion, dbus-daemon, debhelper-compat (= 13), dh-apparmor, dh-sequence-cruft, dh-sequence-python3, imagemagick, inkscape (\u003e= 1.0~), meson (\u003e= 0.56.0), pyflakes3, python3:any, python3-debian, python3-yaml:any, xmlstarlet, zip"
+  ],
+  "Checksums-Sha256": [
+    "08d7bc6a47717ec7e61144eccc2246af22d14eca8f52a625338ecb2904eb0bef 2985 game-data-packager_74.dsc fd2ac589cd526295594359e7c21ccbc6338ebbda96833cb9117d84636ff8caa2 7241328 game-data-packager_74.tar.xz"
+  ],
+  "Dgit": [
+    "23c0a73b16a042a6a2ce0f673f24b14619f22630 debian archive/debian/74 https://git.dgit.debian.org/game-data-packager"
+  ],
+  "Directory": [
+    "pool/contrib/g/game-data-packager"
+  ],
+  "Files": [
+    "83d3ad9d37e1191bf2895bd61cbb0e88 2985 game-data-packager_74.dsc e81c09caac2ce43a309e5d989053cee8 7241328 game-data-packager_74.tar.xz"
+  ],
+  "Format": [
+    "3.0 (native)"
+  ],
+  "Homepage": [
+    "https://wiki.debian.org/Games/GameDataPackager"
+  ],
+  "Maintainer": [
+    "Debian Games Team \u003cpkg-games-devel@lists.alioth.debian.org\u003e"
+  ],
+  "Package": [
+    "game-data-packager"
+  ],
+  "Package-List": [
+    "etqw deb contrib/games optional arch=i386 etqw-server deb contrib/games optional arch=i386 game-data-packager deb contrib/games optional arch=all game-data-packager-runtime deb contrib/games optional arch=all quake deb contrib/games optional arch=all quake-server deb contrib/games optional arch=all quake2 deb contrib/games optional arch=all quake2-server deb contrib/games optional arch=all quake3 deb contrib/games optional arch=all quake3-server deb contrib/games optional arch=all quake4 deb contrib/games optional arch=i386 quake4-server deb contrib/games optional arch=i386"
+  ],
+  "Priority": [
+    "source"
+  ],
+  "Section": [
+    "contrib/games"
+  ],
+  "Standards-Version": [
+    "4.6.2"
+  ],
+  "Testsuite": [
+    "autopkgtest"
+  ],
+  "Testsuite-Triggers": [
+    "@builddeps@, pkexec, policykit-1, python3-gi, sudo, zip"
+  ],
+  "Uploaders": [
+    "Alexandre Detiste \u003calexandre.detiste@gmail.com\u003e, David Banks \u003camoebae@gmail.com\u003e, Jack Coulter \u003cjscinoz@gmail.com\u003e, Jonathan Dowland \u003cjmtd@debian.org\u003e, Simon McVittie \u003csmcv@debian.org\u003e,"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/games-team/game-data-packager"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/games-team/game-data-packager.git"
+  ],
+  "Version": [
+    "74"
+  ]
+}

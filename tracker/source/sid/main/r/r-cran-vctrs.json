@@ -1,0 +1,62 @@
+{
+  "Architecture": [
+    "any"
+  ],
+  "Binary": [
+    "r-cran-vctrs"
+  ],
+  "Build-Depends": [
+    "debhelper-compat (= 13), dh-r, r-base-dev, r-cran-cli (\u003e= 3.4.0), r-cran-glue, r-cran-lifecycle (\u003e= 1.0.3), r-cran-rlang (\u003e= 1.1.0)"
+  ],
+  "Checksums-Sha256": [
+    "4f664d47fa23195e9cf5cdcdb5c189777fc53a2281f6b8e8bdd79c87f2758c65 2255 r-cran-vctrs_0.6.2-1.dsc feecabe11f6c55e04377d36fa59842187f0a6fe52aaf867c08289a948781ee84 964633 r-cran-vctrs_0.6.2.orig.tar.gz 32be64f54991573387d3b9c391f95fbc7d9ff3c136149df35b3422bdd6c39549 3904 r-cran-vctrs_0.6.2-1.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/r/r-cran-vctrs"
+  ],
+  "Files": [
+    "4d8a5b18d004fc83c17570030b6e8b9b 2255 r-cran-vctrs_0.6.2-1.dsc cccc39d36216f8e7ee817dd7bd850af8 964633 r-cran-vctrs_0.6.2.orig.tar.gz 7228b5f6b3b9a02bdd6192b30e0b93b7 3904 r-cran-vctrs_0.6.2-1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://cran.r-project.org/package=vctrs"
+  ],
+  "Maintainer": [
+    "Debian R Packages Maintainers \u003cr-pkg-team@alioth-lists.debian.net\u003e"
+  ],
+  "Package": [
+    "r-cran-vctrs"
+  ],
+  "Package-List": [
+    "r-cran-vctrs deb gnu-r optional arch=any"
+  ],
+  "Priority": [
+    "extra"
+  ],
+  "Section": [
+    "misc"
+  ],
+  "Standards-Version": [
+    "4.6.2"
+  ],
+  "Testsuite": [
+    "autopkgtest, autopkgtest-pkg-r"
+  ],
+  "Testsuite-Triggers": [
+    "r-cran-bit64, r-cran-dplyr, r-cran-generics, r-cran-testthat, r-cran-tibble, r-cran-waldo, r-cran-xml2"
+  ],
+  "Uploaders": [
+    "Andreas Tille \u003ctille@debian.org\u003e"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/r-pkg-team/r-cran-vctrs"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/r-pkg-team/r-cran-vctrs.git"
+  ],
+  "Version": [
+    "0.6.2-1"
+  ]
+}

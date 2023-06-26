@@ -1,0 +1,56 @@
+{
+  "Architecture": [
+    "any all"
+  ],
+  "Binary": [
+    "minexpert2, minexpert2-doc"
+  ],
+  "Build-Depends": [
+    "debhelper (\u003e= 13.3.4), dpkg-dev (\u003e= 1.21.22), inkscape, libgomp1, qt6-base-dev, libqt6svg6-dev, libqt6core5compat6-dev, cmake, daps, libjs-jquery, libjs-highlight.js, texlive-fonts-extra, fonts-ebgaramond-extra, fonts-urw-base35, libqcustomplot-dev, libisospec++-dev, libquazip1-qt6-dev, zlib1g-dev, libpappsomspp-dev (\u003e= 0.9.12), libpappsomspp-widget-dev (\u003e= 0.9.12), docbook-xml, docbook-to-man"
+  ],
+  "Checksums-Sha256": [
+    "c8ec8563f1ec0d952d650833a41f0e0e907bdc42f34eea76c80d82b0842001de 2375 minexpert2_9.2.0-1.dsc a82760ab6b6da5efe3c9aae0586d5f1f0313d7cba9b3cbda035939be0771a285 57828122 minexpert2_9.2.0.orig.tar.gz 764e3c267dfdcdfc3eed257c236ada28055711f59cb1395bb5a788ea745de233 287548 minexpert2_9.2.0-1.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/m/minexpert2"
+  ],
+  "Files": [
+    "4bd5609328faa4a9dd28c742fd612262 2375 minexpert2_9.2.0-1.dsc 3422b5b09943283a52e8192dd7d15d50 57828122 minexpert2_9.2.0.orig.tar.gz bcace7d19fe080e85167f7d90db5b499 287548 minexpert2_9.2.0-1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "http://www.msxpertsuite.org/"
+  ],
+  "Maintainer": [
+    "The Debichem Group \u003cdebichem-devel@lists.alioth.debian.org\u003e"
+  ],
+  "Package": [
+    "minexpert2"
+  ],
+  "Package-List": [
+    "minexpert2 deb science optional arch=any minexpert2-doc deb doc optional arch=all"
+  ],
+  "Priority": [
+    "extra"
+  ],
+  "Section": [
+    "misc"
+  ],
+  "Standards-Version": [
+    "4.6.2"
+  ],
+  "Uploaders": [
+    "Filippo Rusconi \u003clopippo@debian.org\u003e"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/debichem-team/minexpert2"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/debichem-team/minexpert2.git"
+  ],
+  "Version": [
+    "9.2.0-1"
+  ]
+}

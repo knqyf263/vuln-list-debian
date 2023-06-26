@@ -1,0 +1,59 @@
+{
+  "Architecture": [
+    "any"
+  ],
+  "Binary": [
+    "libmicrohttpd-dev, libmicrohttpd12"
+  ],
+  "Build-Depends": [
+    "autoconf, automake, debhelper-compat (= 13), libcurl4-gnutls-dev \u003c!nocheck\u003e, libgnutls28-dev, pkg-config, socat [!hurd-i386] \u003c!nocheck\u003e, texinfo, zzuf \u003c!nocheck\u003e"
+  ],
+  "Checksums-Sha256": [
+    "2a53a58d11f77944f0bd949cb0b616a067d0f9d3b2626aaa309f6490af434a22 2265 libmicrohttpd_0.9.77-2.dsc 52251766f412e70b0d22a36d1c3084d5a1944b03f0c978eac212552cb2e32bb1 1102936 libmicrohttpd_0.9.77.orig.tar.xz 2b033da1bab120a0831651ceac60f01b429eb3396dcb1216dea1e80170eee8c9 17064 libmicrohttpd_0.9.77-2.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/libm/libmicrohttpd"
+  ],
+  "Files": [
+    "5a9d3e11e91938ce004bea340064c427 2265 libmicrohttpd_0.9.77-2.dsc 5a5ace8f40df279e960b99ee85f75e01 1102936 libmicrohttpd_0.9.77.orig.tar.xz 91c29d3c1cd31e5fcf33150d7ebfa27e 17064 libmicrohttpd_0.9.77-2.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://www.gnu.org/software/libmicrohttpd/"
+  ],
+  "Maintainer": [
+    "Daniel Baumann \u003cdaniel.baumann@progress-linux.org\u003e"
+  ],
+  "Package": [
+    "libmicrohttpd"
+  ],
+  "Package-List": [
+    "libmicrohttpd-dev deb libdevel optional arch=any libmicrohttpd12 deb libs optional arch=any"
+  ],
+  "Priority": [
+    "source"
+  ],
+  "Section": [
+    "httpd"
+  ],
+  "Standards-Version": [
+    "4.6.2"
+  ],
+  "Testsuite": [
+    "autopkgtest"
+  ],
+  "Testsuite-Triggers": [
+    "build-essential, pkg-config"
+  ],
+  "Vcs-Browser": [
+    "https://git.progress-linux.org/users/daniel.baumann/debian/packages/libmicrohttpd"
+  ],
+  "Vcs-Git": [
+    "https://git.progress-linux.org/users/daniel.baumann/debian/packages/libmicrohttpd"
+  ],
+  "Version": [
+    "0.9.77-2"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "Architecture": [
+    "all"
+  ],
+  "Binary": [
+    "ruby-rackup"
+  ],
+  "Build-Depends": [
+    "debhelper-compat (= 13), gem2deb (\u003e= 1), help2man, ruby-minitest, ruby-minitest-global-expectations, ruby-rack (\u003e= 3.0.0~), ruby-webrick"
+  ],
+  "Checksums-Sha256": [
+    "248f38353c5ff888b938e142d18a188ccbf4592f54ead28210f442b6652aa227 2147 ruby-rackup_0.2.2-1.dsc f229bdd30f45dee10a4f85f2ec030262c75b4cc8df8fb12fc0dff432cf04086c 20221 ruby-rackup_0.2.2.orig.tar.gz 8b263f3322892308dc4c86fa4c314b004ca69ef6829e41f26403ee7edb5d6ddb 3176 ruby-rackup_0.2.2-1.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/r/ruby-rackup"
+  ],
+  "Files": [
+    "7dcd0e640bc805778b478106fb77145c 2147 ruby-rackup_0.2.2-1.dsc 5724efab74bf1f1dd235e97794d94e0a 20221 ruby-rackup_0.2.2.orig.tar.gz f5334920abcc941876956f07755ed92d 3176 ruby-rackup_0.2.2-1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://github.com/rack/rackup"
+  ],
+  "Maintainer": [
+    "Debian Ruby Extras Maintainers \u003cpkg-ruby-extras-maintainers@lists.alioth.debian.org\u003e"
+  ],
+  "Package": [
+    "ruby-rackup"
+  ],
+  "Package-List": [
+    "ruby-rackup deb ruby optional arch=all"
+  ],
+  "Priority": [
+    "optional"
+  ],
+  "Ruby-Versions": [
+    "all"
+  ],
+  "Section": [
+    "misc"
+  ],
+  "Standards-Version": [
+    "4.6.1"
+  ],
+  "Testsuite": [
+    "autopkgtest-pkg-ruby"
+  ],
+  "Uploaders": [
+    "Lucas Kanashiro \u003ckanashiro@debian.org\u003e"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/ruby-team/ruby-rackup"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/ruby-team/ruby-rackup.git"
+  ],
+  "Version": [
+    "0.2.2-1"
+  ]
+}
