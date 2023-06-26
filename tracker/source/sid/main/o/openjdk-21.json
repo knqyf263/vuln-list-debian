@@ -12,13 +12,13 @@
     "graphviz, pandoc"
   ],
   "Checksums-Sha256": [
-    "fd79ce9551b5736eab5f680ceaf575205ffdaf2b2bb1fd406c7d0e084d6301ae 4490 openjdk-21_21~27ea-4.dsc 388e5238f2c6d21740e8441987dffd862508a7ba906827d4ccdd4912a88fa883 66149640 openjdk-21_21~27ea.orig.tar.xz fa7dfc4fc2d699028e0c49c38b97615461df0e9d0b99a2dc306a2af32cfe4746 202964 openjdk-21_21~27ea-4.debian.tar.xz"
+    "6f39521f4243b6329504bd3dee19655b06485de2a1b140cac7120d3a91f90ff0 4490 openjdk-21_21~28ea-1.dsc b8ffd4b9f0984e0a7b572e0a3ed525c12777d89ec6fb1aea266a22279fd67b87 66172656 openjdk-21_21~28ea.orig.tar.xz f8ffbe59e86d423086909217f6f425245dbb5d27a7ba0da5488b108537477563 203020 openjdk-21_21~28ea-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/o/openjdk-21"
   ],
   "Files": [
-    "ae9465c7dff07638a846a5940bdcfa5f 4490 openjdk-21_21~27ea-4.dsc 947295c09dd64bc9d55bac2beda76f0a 66149640 openjdk-21_21~27ea.orig.tar.xz 0717646b31d02ab0d011907e02341b93 202964 openjdk-21_21~27ea-4.debian.tar.xz"
+    "39c382e1c19eeb95fed56ba524603b14 4490 openjdk-21_21~28ea-1.dsc 2e4cee409edc84265c58e0483bc31d59 66172656 openjdk-21_21~28ea.orig.tar.xz 88a9224526175deccb2d77460caa947a 203020 openjdk-21_21~28ea-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/openjdk-team/openjdk.git"
   ],
   "Version": [
-    "21~27ea-4"
+    "21~28ea-1"
   ]
 }

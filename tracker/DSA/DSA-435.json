@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[06 Feb 2004] DSA-435 mpg123 - heap overflow",
-    "Line": 17404,
+    "Line": 17405,
     "ID": "DSA-435",
     "Description": "mpg123 - heap overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2003-0865}",
-      "Line": 17405,
+      "Line": 17406,
       "Type": "xref",
       "Bugs": [
         "CVE-2003-0865"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - mpg123 0.59r-13woody2",
-      "Line": 17406,
+      "Line": 17407,
       "Type": "package",
       "Release": "woody",
       "Package": "mpg123",

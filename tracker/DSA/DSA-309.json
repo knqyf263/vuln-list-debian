@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[06 Jun 2003] DSA-309 eterm - buffer overflow",
-    "Line": 17798,
+    "Line": 17799,
     "ID": "DSA-309",
     "Description": "eterm - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2003-0382}",
-      "Line": 17799,
+      "Line": 17800,
       "Type": "xref",
       "Bugs": [
         "CVE-2003-0382"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - eterm 0.9.2-0pre2002042903.1",
-      "Line": 17800,
+      "Line": 17801,
       "Type": "package",
       "Release": "woody",
       "Package": "eterm",

@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-apache2, libcap-dev, libcups2-dev, libjson-c-dev, libjudy-dev, liblz4-dev, libmnl-dev, libnetfilter-acct-dev, libprotobuf-dev, libsnappy-dev, libssl-dev, libuv1-dev, libyaml-dev, pkg-config, protobuf-compiler, uuid-dev, zlib1g-dev"
   ],
   "Checksums-Sha256": [
-    "c5222f85affd15a732cbde6e48434cf8a7d4b93d59c91ad376189d43a0e19f67 2626 netdata_1.40.0-1.dsc 62bc6b58145097575d05ae294e46dc8c04e64f37fdc5c39ec53d7ebb94be3927 12865916 netdata_1.40.0.orig.tar.xz 534e4154d548f375527a22dd224b390eda640980153ec084aad5caae7690fd36 668484 netdata_1.40.0-1.debian.tar.xz"
+    "65de5636724cb6eca17c3787fff0bcc930cc7a3ec7799b9fabf170a8cc28731e 2626 netdata_1.40.0-2.dsc 62bc6b58145097575d05ae294e46dc8c04e64f37fdc5c39ec53d7ebb94be3927 12865916 netdata_1.40.0.orig.tar.xz 593f84f45a69d726d928536c7574eb88cbc6ff6f4dc3e16587dcf9d70af84a58 667820 netdata_1.40.0-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/n/netdata"
   ],
   "Files": [
-    "e560fec53e334f3f1e3aeecf02369a5a 2626 netdata_1.40.0-1.dsc e22c61a605cbfa4c95156fc2b4587c1d 12865916 netdata_1.40.0.orig.tar.xz e355eaeeb7f2a371c63f86ba08f6cbc2 668484 netdata_1.40.0-1.debian.tar.xz"
+    "87bbd17262241a0e140d0802e132a9ca 2626 netdata_1.40.0-2.dsc e22c61a605cbfa4c95156fc2b4587c1d 12865916 netdata_1.40.0.orig.tar.xz 32cd2151c15cea459c11f4f5a9b637f8 667820 netdata_1.40.0-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +51,6 @@
     "https://git.progress-linux.org/users/daniel.baumann/debian/packages/netdata"
   ],
   "Version": [
-    "1.40.0-1"
+    "1.40.0-2"
   ]
 }

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[20 Sep 2018] DSA-4298-1 hylafax - security update",
-    "Line": 3773,
+    "Line": 3774,
     "ID": "DSA-4298-1",
     "Description": "hylafax - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-17141}",
-      "Line": 3774,
+      "Line": 3775,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-17141"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - hylafax 3:6.0.6-7+deb9u1",
-      "Line": 3775,
+      "Line": 3776,
       "Type": "package",
       "Release": "stretch",
       "Package": "hylafax",

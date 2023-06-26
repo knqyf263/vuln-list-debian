@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-ocaml, libbase-ocaml-dev, libppx-cold-ocaml-dev, libppx-compare-ocaml-dev, libppx-here-ocaml-dev, libppx-sexp-conv-ocaml-dev, libppxlib-ocaml-dev, ocaml-dune, ocaml-nox"
   ],
   "Checksums-Sha256": [
-    "874892ae923cf24c2db8677a76cd96f318766d1d74cbfe6377bad9cc9f0c0e48 2226 ppx-assert_0.16.0-1.dsc 265ab1ea89526044728db6b035db76897749a1f3b136353acbb601559fafb065 7419 ppx-assert_0.16.0.orig.tar.gz 5e5ab8bcd4df67a5e573278aed00d0a7745db8cbd034e28efe0b4518378fb767 2156 ppx-assert_0.16.0-1.debian.tar.xz"
+    "5323dc2771754f5d51d8da9f8f83714fe73fdd3058a34409cf3e35fc07f8479c 2226 ppx-assert_0.16.0-2.dsc 265ab1ea89526044728db6b035db76897749a1f3b136353acbb601559fafb065 7419 ppx-assert_0.16.0.orig.tar.gz a2ab673764272b4b17f8319c2c8f3ae8c2eb4bce0761d94862e7166e17eab4a7 2204 ppx-assert_0.16.0-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/ppx-assert"
   ],
   "Files": [
-    "5c094dae9f18076f75ff3626676efad8 2226 ppx-assert_0.16.0-1.dsc 8d7210d316fb20ab980533fc520331c9 7419 ppx-assert_0.16.0.orig.tar.gz c769cf5648a44df9e13420febcd52a48 2156 ppx-assert_0.16.0-1.debian.tar.xz"
+    "730cc2b0fbca429bfe58e45f288c8192 2226 ppx-assert_0.16.0-2.dsc 8d7210d316fb20ab980533fc520331c9 7419 ppx-assert_0.16.0.orig.tar.gz b6d0ea6fee600878b90b02f3f20d425c 2204 ppx-assert_0.16.0-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/ocaml-team/ppx-assert.git"
   ],
   "Version": [
-    "0.16.0-1"
+    "0.16.0-2"
   ]
 }

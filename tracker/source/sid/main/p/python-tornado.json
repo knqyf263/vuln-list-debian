@@ -9,13 +9,13 @@
     "ca-certificates, debhelper-compat (= 13), dh-python, python3-all-dev, python3-doc, python3-mock, python3-pycurl, python3-setuptools, python3-singledispatch, python3-sphinx, python3-sphinx-rtd-theme, python3-sphinxcontrib-asyncio, python3-twisted"
   ],
   "Checksums-Sha256": [
-    "07a26ea3ce08596f81d259cad2a126e36a9822130f535f6e651fb5c3e779e0f4 2524 python-tornado_6.2.0-3.dsc c2e902e4771eb90b057c7629fa239a59ecae63052919c3b5e61253f2c8a5f0d6 519040 python-tornado_6.2.0.orig.tar.gz 426dfef1b53a73676dcc0b6d97622bb08ed74f25801eafa3495ce70ea6b6f4b7 9868 python-tornado_6.2.0-3.debian.tar.xz"
+    "85452c0470754f0ad1b251a26d9857c268ae145c79c24347956cf4808f776801 2549 python-tornado_6.3.2-1.dsc 1e3c5e1b283eb8932ba0f2634b1f5509af72c4fbf982222e290db3f22ee3a09a 523865 python-tornado_6.3.2.orig.tar.gz 2bfc84336f4b348739a240157aedb1c976843c7be408e0f843331068fc03efe9 9848 python-tornado_6.3.2-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/python-tornado"
   ],
   "Files": [
-    "22ba3aec8a9a0647e7d21ee11120a135 2524 python-tornado_6.2.0-3.dsc ac5546f18d57171df7f711aefbd518c6 519040 python-tornado_6.2.0.orig.tar.gz 7b43fc1d2fae5f73490884fd0d29bf1b 9868 python-tornado_6.2.0-3.debian.tar.xz"
+    "4c1ea538d32b5f9e729f6a1d2088743a 2549 python-tornado_6.3.2-1.dsc 1b57e51e50754a5c4ef419859b416373 523865 python-tornado_6.3.2.orig.tar.gz 6c7f581f22836c25b45ee01271240e58 9848 python-tornado_6.3.2-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "python"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/python-team/packages/python-tornado.git"
   ],
   "Version": [
-    "6.2.0-3"
+    "6.3.2-1"
   ]
 }

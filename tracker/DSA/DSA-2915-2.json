@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[30 Apr 2014] DSA-2915-2 dpkg - security update",
-    "Line": 8449,
+    "Line": 8450,
     "ID": "DSA-2915-2",
     "Description": "dpkg - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2014-3127 CVE-2014-3227}",
-      "Line": 8450,
+      "Line": 8451,
       "Type": "xref",
       "Bugs": [
         "CVE-2014-3127",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[squeeze] - dpkg 1.15.10",
-      "Line": 8451,
+      "Line": 8452,
       "Type": "package",
       "Release": "squeeze",
       "Package": "dpkg",
@@ -26,7 +26,7 @@
     },
     {
       "Original": "[wheezy] - dpkg 1.16.14",
-      "Line": 8452,
+      "Line": 8453,
       "Type": "package",
       "Release": "wheezy",
       "Package": "dpkg",

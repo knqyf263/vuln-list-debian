@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[26 May 2006] DSA-1075-1 awstats - programming error",
-    "Line": 14800,
+    "Line": 14801,
     "ID": "DSA-1075-1",
     "Description": "awstats - programming error"
   },
   "Annotations": [
     {
       "Original": "{CVE-2006-2644 CVE-2006-1945}",
-      "Line": 14801,
+      "Line": 14802,
       "Type": "xref",
       "Bugs": [
         "CVE-2006-2644",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[sarge] - awstats 6.4-1sarge3 (bug #365910)",
-      "Line": 14802,
+      "Line": 14803,
       "Type": "package",
       "Release": "sarge",
       "Package": "awstats",

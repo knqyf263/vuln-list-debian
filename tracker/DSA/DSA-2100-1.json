@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[30 Aug 2010] DSA-2100-1 openssl - double free",
-    "Line": 11240,
+    "Line": 11241,
     "ID": "DSA-2100-1",
     "Description": "openssl - double free"
   },
   "Annotations": [
     {
       "Original": "{CVE-2010-2939}",
-      "Line": 11241,
+      "Line": 11242,
       "Type": "xref",
       "Bugs": [
         "CVE-2010-2939"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[lenny] - openssl 0.9.8g-15+lenny8",
-      "Line": 11242,
+      "Line": 11243,
       "Type": "package",
       "Release": "lenny",
       "Package": "openssl",

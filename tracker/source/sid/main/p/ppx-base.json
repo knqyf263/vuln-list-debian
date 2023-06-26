@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-ocaml, help2man, libppx-cold-ocaml-dev, libppx-compare-ocaml-dev, libppx-enumerate-ocaml-dev, libppx-globalize-ocaml-dev, libppx-hash-ocaml-dev, libppx-sexp-conv-ocaml-dev, libppxlib-ocaml-dev, ocaml-dune, ocaml-nox"
   ],
   "Checksums-Sha256": [
-    "9f04132d77a91cb0eeb12498dca1904266c3555e84afa2ba6cfd8b463890e491 2245 ppx-base_0.16.0-1.dsc cea0e5a30a99a8b182fcd0f67d676bd554759b34f46b78e349530eea3f49d02e 2996 ppx-base_0.16.0.orig.tar.gz 5b104bce1ad41ff7cbcc4e38759b2dac89ab0794606f620cf9719439288c4e2a 2152 ppx-base_0.16.0-1.debian.tar.xz"
+    "6bb612adb34649f7f6a08c7afa841b9e5aec8d0480d5b0fe3191d667b9d4e543 2245 ppx-base_0.16.0-2.dsc cea0e5a30a99a8b182fcd0f67d676bd554759b34f46b78e349530eea3f49d02e 2996 ppx-base_0.16.0.orig.tar.gz 1071429bbaad8d620bd5b21feb11f4891f4a901315e96c1d8a2db1f864059f00 2204 ppx-base_0.16.0-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/ppx-base"
   ],
   "Files": [
-    "623c570ff1237e87a6ade61d5b2fb13d 2245 ppx-base_0.16.0-1.dsc 43e4beafc2313992bfdb6acb89d838c5 2996 ppx-base_0.16.0.orig.tar.gz 9b37e9e95e32e70371ca830a5b162bc1 2152 ppx-base_0.16.0-1.debian.tar.xz"
+    "1af1583fb6af435696751745268cf17d 2245 ppx-base_0.16.0-2.dsc 43e4beafc2313992bfdb6acb89d838c5 2996 ppx-base_0.16.0.orig.tar.gz 0d77322abac3e4e879390e85bf03e521 2204 ppx-base_0.16.0-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/ocaml-team/ppx-base.git"
   ],
   "Version": [
-    "0.16.0-1"
+    "0.16.0-2"
   ]
 }
