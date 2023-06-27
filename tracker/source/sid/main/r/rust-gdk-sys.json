@@ -9,13 +9,13 @@
     "debhelper (\u003e= 12), dh-cargo (\u003e= 25), cargo:native \u003c!nocheck\u003e, rustc:native \u003c!nocheck\u003e, libstd-rust-dev \u003c!nocheck\u003e, librust-cairo-sys-rs-0.16+default-dev \u003c!nocheck\u003e, librust-gdk-pixbuf-sys-0.16+default-dev \u003c!nocheck\u003e, librust-gio-sys-0.16+default-dev \u003c!nocheck\u003e, librust-glib-sys-0.16+default-dev \u003c!nocheck\u003e, librust-gobject-sys-0.16+default-dev \u003c!nocheck\u003e, librust-libc-0.2+default-dev \u003c!nocheck\u003e, librust-pango-sys-0.16+default-dev \u003c!nocheck\u003e, librust-pkg-config-0.3+default-dev (\u003e= 0.3.7-~~) \u003c!nocheck\u003e, librust-system-deps-6+default-dev \u003c!nocheck\u003e, libgtk-3-dev \u003c!nocheck\u003e"
   ],
   "Checksums-Sha256": [
-    "f693bc70e0081b779d75b53713398d6759b8d6ab210345b3e4ee3db22a9b3119 2774 rust-gdk-sys_0.16.0-2.dsc d76354f97a913e55b984759a997b693aa7dc71068c9e98bcce51aa167a0a5c5a 73303 rust-gdk-sys_0.16.0.orig.tar.gz 700d85ee24bf8a4acd38876ac0b596274576d834279c085a18c428a534196958 3232 rust-gdk-sys_0.16.0-2.debian.tar.xz"
+    "86f38fff65dfdb4b9d6dfe16cddd99222772249ecc0d1bceb5d15efa8e154d9c 2774 rust-gdk-sys_0.16.0-3.dsc d76354f97a913e55b984759a997b693aa7dc71068c9e98bcce51aa167a0a5c5a 73303 rust-gdk-sys_0.16.0.orig.tar.gz 54164646b344fd3e8bb3a6674c11d3655277025bf49e7177ec636f7d1ced0a96 3464 rust-gdk-sys_0.16.0-3.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/rust-gdk-sys"
   ],
   "Files": [
-    "057b9538a6f3b5f9a63f9a0d47eb0650 2774 rust-gdk-sys_0.16.0-2.dsc a3cd3cc1b79040705bea19d7baf74c40 73303 rust-gdk-sys_0.16.0.orig.tar.gz 43a27365c76d3e08876b701191209cd0 3232 rust-gdk-sys_0.16.0-2.debian.tar.xz"
+    "77ae33be9686749e69af4edfa788e427 2774 rust-gdk-sys_0.16.0-3.dsc a3cd3cc1b79040705bea19d7baf74c40 73303 rust-gdk-sys_0.16.0.orig.tar.gz 54849976baf9c85755b38431131e7a8b 3464 rust-gdk-sys_0.16.0-3.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/rust-team/debcargo-conf.git [src/gdk-sys]"
   ],
   "Version": [
-    "0.16.0-2"
+    "0.16.0-3"
   ]
 }

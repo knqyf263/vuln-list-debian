@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), meson, libpython3-dev [amd64 arm64 armhf] \u003c!nocheck\u003e, python3-numpy [amd64 arm64 armhf] \u003c!nocheck\u003e, python3-scipy [amd64 arm64 armhf] \u003c!nocheck\u003e"
   ],
   "Checksums-Sha256": [
-    "eee9c47fd30a105a82b4e7cf446776ef85da85769bbdd9a891d219d4beb8f0cd 2208 liblc3_1.0.3-3.dsc 33318036a4b83af697b328e55e8c5fab9763836083bccb586f4dc2e644c24991 261702 liblc3_1.0.3.orig.tar.gz cdf5b02dc2f8a47e5a5feca829c530faadba4490a958831fe41dec79e9865e6d 2412 liblc3_1.0.3-3.debian.tar.xz"
+    "1c992d6f671ca70a8cd0eb1f5b31787ea16f2007bdb9c84fd6ce287b8c1c7804 2208 liblc3_1.0.3-4.dsc 33318036a4b83af697b328e55e8c5fab9763836083bccb586f4dc2e644c24991 261702 liblc3_1.0.3.orig.tar.gz a3c7f5b8b8123e96135a7c795eed709bae928f4f489fa3b5664b11842131f4ba 2452 liblc3_1.0.3-4.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/libl/liblc3"
   ],
   "Files": [
-    "be1714f973796ac1d93efd584a93ba6a 2208 liblc3_1.0.3-3.dsc 62432d3621224d69a5b0a16a3dc98735 261702 liblc3_1.0.3.orig.tar.gz dfdceb1bb2a7df4fc5eb5d1839aef872 2412 liblc3_1.0.3-3.debian.tar.xz"
+    "efdbbeef127ca886654206b57e6b9992 2208 liblc3_1.0.3-4.dsc 62432d3621224d69a5b0a16a3dc98735 261702 liblc3_1.0.3.orig.tar.gz 083b60951eb0ed516d9bef1e438f0534 2452 liblc3_1.0.3-4.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/multimedia-team/liblc3.git"
   ],
   "Version": [
-    "1.0.3-3"
+    "1.0.3-4"
   ]
 }

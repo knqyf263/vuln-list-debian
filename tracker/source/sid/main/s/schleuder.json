@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dirmngr, gem2deb, procps, rake, ruby-activerecord (\u003e= 6.0~), ruby-bcrypt, ruby-charlock-holmes, ruby-database-cleaner, ruby-factory-bot, ruby-gpgme, ruby-mail, ruby-mail-gpg, ruby-rack-test, ruby-rspec, ruby-sinatra, ruby-sinatra-contrib, ruby-sqlite3, ruby-thor, thin"
   ],
   "Checksums-Sha256": [
-    "1040ae622fb80d586e808cfa8da8469f9224f4d845cf5612375067fe344fa1a8 1677 schleuder_4.0.3-8.dsc 121fe3dff20845063cd06c945f958a4ee7791b15eb506034941cf65e3099f047 291499 schleuder_4.0.3.orig.tar.gz 0cce33a1b66b6c8b8d4f23bfa56dc258c1bd7060f9d52c342641ef600013b399 24164 schleuder_4.0.3-8.debian.tar.xz"
+    "41953388923a615dd5ffb4668d8f454daaadec3e192985fa87035f39eb01a25a 1677 schleuder_4.0.3-9.dsc 121fe3dff20845063cd06c945f958a4ee7791b15eb506034941cf65e3099f047 291499 schleuder_4.0.3.orig.tar.gz cdf763a84282c74e02a5e503376a78c3fe493c22aa34858c0c5a1ff07093b3ea 24200 schleuder_4.0.3-9.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/s/schleuder"
   ],
   "Files": [
-    "6fb7e067cf63a26707d0059f09787a05 1677 schleuder_4.0.3-8.dsc 4624a90ac4ec27b43af72aa913208b69 291499 schleuder_4.0.3.orig.tar.gz b45370f6d401b92f3e14fe024d1460f0 24164 schleuder_4.0.3-8.debian.tar.xz"
+    "cc5a9431c506c0301d623b965cd60df5 1677 schleuder_4.0.3-9.dsc 4624a90ac4ec27b43af72aa913208b69 291499 schleuder_4.0.3.orig.tar.gz d80986d58af0983f7031a1122d62016b 24200 schleuder_4.0.3-9.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -60,6 +60,6 @@
     "https://salsa.debian.org/ruby-team/schleuder.git"
   ],
   "Version": [
-    "4.0.3-8"
+    "4.0.3-9"
   ]
 }

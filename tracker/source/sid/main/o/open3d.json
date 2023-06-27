@@ -12,7 +12,7 @@
     "pandoc \u003c!nodoc\u003e, dh-sequence-sphinxdoc \u003c!nodoc\u003e"
   ],
   "Checksums-Sha256": [
-    "1a58ffca81b06b8cf0de48fc167aabca9721a9dd3659988f9a8959562f2cbd60 3666 open3d_0.17.0+ds-3.dsc e01bfd4540d9c43fb08e8170e803e0dc8daa76a4543a9eae15f975c22d979b84 178768 open3d_0.17.0+ds.orig-PoissonRecon.tar.xz 1507224b293fe1c9c87ba6b4af0def1ddb10b3e6340f83c9a62752e2bc06e382 41394932 open3d_0.17.0+ds.orig.tar.xz 2b8a7b7b3544bc92fd6204c0ab9250f6fc066a9b6ca2f4e30c233e57ee18ac83 997144 open3d_0.17.0+ds-3.debian.tar.xz"
+    "dc69e963d0e3bb816497b145835ca08bbb8b0dd1e89768dd0d9960c70ba3e333 3666 open3d_0.17.0+ds-4.dsc e01bfd4540d9c43fb08e8170e803e0dc8daa76a4543a9eae15f975c22d979b84 178768 open3d_0.17.0+ds.orig-PoissonRecon.tar.xz 1507224b293fe1c9c87ba6b4af0def1ddb10b3e6340f83c9a62752e2bc06e382 41394932 open3d_0.17.0+ds.orig.tar.xz df2e544edde48d67f7b7d912bdd947040e57cbd1e53726753ae8bffdda65b9c2 997180 open3d_0.17.0+ds-4.debian.tar.xz"
   ],
   "Description": [
     "Library for 3D data processing Open3D is an open-source library that supports rapid development of software that deals with 3D data. The Open3D frontend exposes a set of carefully selected data structures and algorithms in both C++ and Python. The backend is highly optimized and is set up for parallelization."
@@ -21,7 +21,7 @@
     "pool/main/o/open3d"
   ],
   "Files": [
-    "6ee1f64a0af1879987ef0680325cc2a9 3666 open3d_0.17.0+ds-3.dsc eece7cb288ac15755eae036a3a6cbd0a 178768 open3d_0.17.0+ds.orig-PoissonRecon.tar.xz bc2f5d13bed7b002bdfd6606e4849d7e 41394932 open3d_0.17.0+ds.orig.tar.xz 37930e4736273fcb3e6761bb30d8dca2 997144 open3d_0.17.0+ds-3.debian.tar.xz"
+    "dc3153086e3e8fc941403179071f8e3f 3666 open3d_0.17.0+ds-4.dsc eece7cb288ac15755eae036a3a6cbd0a 178768 open3d_0.17.0+ds.orig-PoissonRecon.tar.xz bc2f5d13bed7b002bdfd6606e4849d7e 41394932 open3d_0.17.0+ds.orig.tar.xz 3a5016c3221e71a634501b4387b9ffc5 997180 open3d_0.17.0+ds-4.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -63,6 +63,6 @@
     "https://salsa.debian.org/science-team/open3d.git"
   ],
   "Version": [
-    "0.17.0+ds-3"
+    "0.17.0+ds-4"
   ]
 }

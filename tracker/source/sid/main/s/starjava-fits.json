@@ -9,16 +9,16 @@
     "ant, debhelper-compat (= 13), dh-exec, javahelper"
   ],
   "Build-Depends-Indep": [
-    "ant-optional, default-jdk, default-jdk-doc, junit, libfits-java, starlink-array-java, starlink-table-java (\u003e= 4.1.3~), starlink-util-java (\u003e= 1.0+2022.09.23~)"
+    "ant-optional, default-jdk, default-jdk-doc, junit, libfits-java, starlink-array-java, starlink-table-java (\u003e= 4.1.4~), starlink-util-java (\u003e= 1.0+2022.09.23~)"
   ],
   "Checksums-Sha256": [
-    "550c909d8e5d2d43f9f36b3760e1435d96646edabc819bb1fc11d0f935687558 2432 starjava-fits_0.1+2022.07.21-1.dsc fafb80412a46e21918a54c32dc05fabb83f771a9f9589ea473e8e395a025fbf5 135360 starjava-fits_0.1+2022.07.21.orig.tar.xz 315bba865e75d75546ed78940ee6726ac1c1c3070ba177586aff8bb848299023 6776 starjava-fits_0.1+2022.07.21-1.debian.tar.xz"
+    "ae8bc707194d43ef05ceb456f981b3111e126d34027bf896c11170adfd528ed3 2432 starjava-fits_0.1+2022.11.11-1.dsc f14af4831de9970661d117b8499e8985eb547a2286bbf3e159ab57330e5f9979 135924 starjava-fits_0.1+2022.11.11.orig.tar.xz f6551e12badbd61dc146e46626d21b755d6945669778aa9d2b438301b46dcdd2 6840 starjava-fits_0.1+2022.11.11-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/s/starjava-fits"
   ],
   "Files": [
-    "aa21ec30a1569769e0e3b5dde8ef33c0 2432 starjava-fits_0.1+2022.07.21-1.dsc 3dce32515e7884fc67831f61370f50ec 135360 starjava-fits_0.1+2022.07.21.orig.tar.xz c40709e94a1ea588c90578c73b7a3d77 6776 starjava-fits_0.1+2022.07.21-1.debian.tar.xz"
+    "c7190ef1b99d7e910474b02aead37269 2432 starjava-fits_0.1+2022.11.11-1.dsc adfe3bcafa7256af966c6b35e3ffd5de 135924 starjava-fits_0.1+2022.11.11.orig.tar.xz 7fdbff3331b2553412c46ca215cd87cb 6840 starjava-fits_0.1+2022.11.11-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -42,7 +42,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest"
@@ -60,6 +60,6 @@
     "https://salsa.debian.org/debian-astro-team/starjava-fits.git"
   ],
   "Version": [
-    "0.1+2022.07.21-1"
+    "0.1+2022.11.11-1"
   ]
 }

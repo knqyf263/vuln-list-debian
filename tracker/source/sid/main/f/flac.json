@@ -12,13 +12,13 @@
     "doxygen"
   ],
   "Checksums-Sha256": [
-    "2f855e77c68e3e9818b47553bb4f33918fb558fe9cf58b30a089a99f811d3beb 2278 flac_1.4.2+ds-2.dsc 47274ac8fcb1f0e6caa91d29f943925d7a40c0a3f6357c3275773bdb1ee46638 792804 flac_1.4.2+ds.orig.tar.xz 8e3132e8e4a6e459c5a360c8a7e85c2aa6e2a0612687ef124ff65bcae82e90d8 18820 flac_1.4.2+ds-2.debian.tar.xz"
+    "673feacf939a2c2e893ba69c3c923009927b7fabfc1579679550d67717d8990f 2278 flac_1.4.3+ds-1.dsc 6ab48719bb60a38b391736518116b70ac55952963853ff27fc5206eb2bc108fc 769468 flac_1.4.3+ds.orig.tar.xz fd5c97aae84a9c9b42951963e02799f2ea94a37b84701bd8821896090c2bed31 17172 flac_1.4.3+ds-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/f/flac"
   ],
   "Files": [
-    "0da493cf39a4878a9f202cbde5b08dcd 2278 flac_1.4.2+ds-2.dsc 7bc4402cc34cf56fe826bafd7d040fdd 792804 flac_1.4.2+ds.orig.tar.xz 5a56809289fff02fc506205257dca315 18820 flac_1.4.2+ds-2.debian.tar.xz"
+    "c6138887c6fcecffbe9882e649ad9abb 2278 flac_1.4.3+ds-1.dsc ce2853e6a3db52a0ae2a16645be1514e 769468 flac_1.4.3+ds.orig.tar.xz 32427d36facf96de001cacbc443ebb45 17172 flac_1.4.3+ds-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/multimedia-team/flac.git"
   ],
   "Version": [
-    "1.4.2+ds-2"
+    "1.4.3+ds-1"
   ]
 }

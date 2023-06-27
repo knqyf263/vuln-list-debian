@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-python, python3-all, python3-mock, python3-setuptools, pybuild-plugin-pyproject"
   ],
   "Checksums-Sha256": [
-    "b450d37fa963d50276e961f1d8318361e027d875b02a62f2e22df48ec61c1a26 1926 port-for_0.6.3-1.dsc e45a48308c7bf70964ad5a60c586fb6dff37ca6579b58c1f9328a771bc18cb45 26100 port-for_0.6.3.orig.tar.xz 99bd5b9bd247a8fa7a5c1a95f797f8b8cd37b6235b827f752f00060354e2feec 2160 port-for_0.6.3-1.debian.tar.xz"
+    "42e831584cd9f23480440bd54b6ad9b828cd4f1b8f2d8b7d9e5df5d7088ec810 1926 port-for_0.7.0-1.dsc 61e7762a4d73c3abcdf18483c3d09bef1235c146d3fb02330f8460316fb28c78 26804 port-for_0.7.0.orig.tar.xz fc6e52116fd7e3903dc71c5ce1d3b253c77f3ba938a1d8a8d7403dd38e76cf9a 2316 port-for_0.7.0-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/port-for"
   ],
   "Files": [
-    "526d412eb83b2f793646599e12e7f7fb 1926 port-for_0.6.3-1.dsc 239483e4c90b011d42b95763709319a7 26100 port-for_0.6.3.orig.tar.xz 03396b0cb2bd7153c1593dcb5c21ce06 2160 port-for_0.6.3-1.debian.tar.xz"
+    "478493533607f640df20f9035078de60 1926 port-for_0.7.0-1.dsc e6f2d5a098d64589fb1eba98399d203a 26804 port-for_0.7.0.orig.tar.xz 3f7bf15de0cb703c01d89e0b59e5fc49 2316 port-for_0.7.0-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Vcs-Browser": [
     "https://salsa.debian.org/david.kunz/port-for"
@@ -48,6 +48,6 @@
     "https://salsa.debian.org/david.kunz/port-for.git"
   ],
   "Version": [
-    "0.6.3-1"
+    "0.7.0-1"
   ]
 }

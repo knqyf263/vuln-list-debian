@@ -6,16 +6,16 @@
     "librust-xkbcommon-dev"
   ],
   "Build-Depends": [
-    "debhelper (\u003e= 11), dh-cargo (\u003e= 18), cargo:native \u003c!nocheck\u003e, rustc:native \u003c!nocheck\u003e, libstd-rust-dev \u003c!nocheck\u003e, librust-libc-0.2+default-dev \u003c!nocheck\u003e, librust-memmap-0.7+default-dev \u003c!nocheck\u003e, libxkbcommon-dev \u003c!nocheck\u003e"
+    "debhelper (\u003e= 12), dh-cargo (\u003e= 25), cargo:native \u003c!nocheck\u003e, rustc:native \u003c!nocheck\u003e, libstd-rust-dev \u003c!nocheck\u003e, librust-libc-0.2+default-dev (\u003e= 0.2.125-~~) \u003c!nocheck\u003e, librust-memmap2-0.5+default-dev (\u003e= 0.5.3-~~) \u003c!nocheck\u003e, libxkbcommon-dev \u003c!nocheck\u003e"
   ],
   "Checksums-Sha256": [
-    "71e091b9619add9e41e7eb8a30fe24cdf2a0381de51f658cd5b1a2f521434e4e 2251 rust-xkbcommon_0.4.0-2.dsc fda0ea5f7ddabd51deeeda7799bee06274112f577da7dd3d954b8eda731b2fce 57500 rust-xkbcommon_0.4.0.orig.tar.gz ac41c43989c2db4145ca831c6b3c32b0abaa3405863c6b8a698119008acde61b 3196 rust-xkbcommon_0.4.0-2.debian.tar.xz"
+    "70e8a998d14e602228d04ef6fa1c4f580dff27ebe1c05d18acedf4677ad3d615 2334 rust-xkbcommon_0.5.0-1.dsc acbee136714379ab22da0280207fdb7f47e0bb940adea97731b65598b8c7a92e 58155 rust-xkbcommon_0.5.0.orig.tar.gz 56eb7adbc83486dde39d9ea07f1fe96c35cad5a158f071be1a520ac01b9aacca 3108 rust-xkbcommon_0.5.0-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/rust-xkbcommon"
   ],
   "Files": [
-    "257517e3c16af615f443b2266e0bcc94 2251 rust-xkbcommon_0.4.0-2.dsc 709b63baf65f35e2832bf38a7ebbc26e 57500 rust-xkbcommon_0.4.0.orig.tar.gz 1aa16fbce9cec77094cb5375cc34edd0 3196 rust-xkbcommon_0.4.0-2.debian.tar.xz"
+    "bad321725dc504e3dd9f19985e501398 2334 rust-xkbcommon_0.5.0-1.dsc d964f2928b3cb9bd65df806935b548e9 58155 rust-xkbcommon_0.5.0.orig.tar.gz c9a85758f57617069746becaaf459b71 3108 rust-xkbcommon_0.5.0-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -36,16 +36,16 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.4.1"
+    "4.6.1"
   ],
   "Testsuite": [
     "autopkgtest"
   ],
   "Testsuite-Triggers": [
-    "dh-cargo"
+    "dh-cargo, librust-evdev-0.11+default-dev"
   ],
   "Uploaders": [
-    "Arnaud Ferraris \u003carnaud.ferraris@collabora.com\u003e"
+    "Arnaud Ferraris \u003caferraris@debian.org\u003e"
   ],
   "Vcs-Browser": [
     "https://salsa.debian.org/rust-team/debcargo-conf/tree/master/src/xkbcommon"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/rust-team/debcargo-conf.git [src/xkbcommon]"
   ],
   "Version": [
-    "0.4.0-2"
+    "0.5.0-1"
   ]
 }
