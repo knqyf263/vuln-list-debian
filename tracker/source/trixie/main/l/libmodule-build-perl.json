@@ -9,19 +9,19 @@
     "debhelper-compat (= 13)"
   ],
   "Build-Depends-Indep": [
-    "libcpan-meta-perl \u003c!nocheck\u003e, libpar-dist-perl \u003c!nocheck\u003e, libtest-harness-perl \u003c!nocheck\u003e, perl"
+    "dh-sequence-bash-completion, libcpan-meta-perl \u003c!nocheck\u003e, libpar-dist-perl \u003c!nocheck\u003e, libtest-harness-perl \u003c!nocheck\u003e, perl"
   ],
   "Checksums-Sha256": [
-    "ace9957ca546ae90793d2555ecff3fc8e415c676fecd93183420c3d87f9acfa7 2644 libmodule-build-perl_0.423200-1.dsc 67c82ee245d94ba06decfa25572ab75fdcd26a9009094289d8f45bc54041771b 303820 libmodule-build-perl_0.423200.orig.tar.gz 59f912d6ea838e88cca9f3f19770ca8c5a925885f262bb24343ec988f75a0796 9748 libmodule-build-perl_0.423200-1.debian.tar.xz"
+    "1145bde094ce963ad559cd8de49daf4a68873d07648d25a6d4f5d4b5283a3d6e 2673 libmodule-build-perl_0.423400-1.dsc 66aeac6127418be5e471ead3744648c766bd01482825c5b66652675f2bc86a8f 311666 libmodule-build-perl_0.423400.orig.tar.gz 3e38b02df337b502ea37b1a5c05576ea55cb8090d6a1492a90120913ef686888 9560 libmodule-build-perl_0.423400-1.debian.tar.xz"
   ],
   "Dgit": [
-    "5c53a29cceab7ac17ec4110919835347f61012bd debian archive/debian/0.423200-1 https://git.dgit.debian.org/libmodule-build-perl"
+    "fd1d084d999c662bfe79d8b5a942ad5a90fc285f debian archive/debian/0.423400-1 https://git.dgit.debian.org/libmodule-build-perl"
   ],
   "Directory": [
     "pool/main/libm/libmodule-build-perl"
   ],
   "Files": [
-    "09b985bccd4cd6c7274531095b5490c4 2644 libmodule-build-perl_0.423200-1.dsc 144885f1cbaf9420017bbed696ec6b83 303820 libmodule-build-perl_0.423200.orig.tar.gz 859f9299e20e8d019d0f4e2b97780f72 9748 libmodule-build-perl_0.423200-1.debian.tar.xz"
+    "87f9323a4241a1056a5168bfd51e7b08 2673 libmodule-build-perl_0.423400-1.dsc 0032d0c0bc36a3b68ef41c947829d5e3 311666 libmodule-build-perl_0.423400.orig.tar.gz 708302f7e8eb90fdb9d3385083fa5f92 9560 libmodule-build-perl_0.423400-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -60,6 +60,6 @@
     "https://salsa.debian.org/perl-team/modules/packages/libmodule-build-perl.git"
   ],
   "Version": [
-    "0.423200-1"
+    "0.423400-1"
   ]
 }

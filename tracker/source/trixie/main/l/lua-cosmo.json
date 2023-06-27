@@ -6,16 +6,16 @@
     "lua-cosmo"
   ],
   "Build-Depends": [
-    "debhelper (\u003e= 9), dh-lua (\u003e= 12), shake"
+    "debhelper-compat (= 13), dh-lua (\u003e= 12), shake"
   ],
   "Checksums-Sha256": [
-    "e4ac899861328ad64bbe82fb621e94330a09ffa1a0dd437ac83dc3940400d4d8 1889 lua-cosmo_13.01.30-3.dsc 170e4ec0be960ebc728029a3fab574d4623cd0577b4770e473cc5a95b9daccbf 25595 lua-cosmo_13.01.30.orig.tar.gz 3a7a5ce2c7cc2ac7424e390b2b140a802716a7a01041621137ea0b4680a47fba 3156 lua-cosmo_13.01.30-3.debian.tar.xz"
+    "31ec037f398c98987c01a22e3b916e5fee13187b52355a7dfc2617793b8e743c 1896 lua-cosmo_13.01.30-5.dsc 170e4ec0be960ebc728029a3fab574d4623cd0577b4770e473cc5a95b9daccbf 25595 lua-cosmo_13.01.30.orig.tar.gz 5282e6b033c1fb6a0047c87cbb534a845fcb99e318c994093cf679afb24d588c 3340 lua-cosmo_13.01.30-5.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/l/lua-cosmo"
   ],
   "Files": [
-    "35390dbfa589c8a23c49ebb8b465d98d 1889 lua-cosmo_13.01.30-3.dsc 90fcd0fc4a37e05356f764730936d50c 25595 lua-cosmo_13.01.30.orig.tar.gz da5ef934853daa077b5ad10a8a58b0a5 3156 lua-cosmo_13.01.30-3.debian.tar.xz"
+    "5e40d8573d7373be5a01894083a2e990 1896 lua-cosmo_13.01.30-5.dsc 90fcd0fc4a37e05356f764730936d50c 25595 lua-cosmo_13.01.30.orig.tar.gz 8799332a1f9d7a95c7b88d978d1edb6e 3340 lua-cosmo_13.01.30-5.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "interpreters"
   ],
   "Standards-Version": [
-    "3.9.3"
+    "4.6.2"
   ],
   "Vcs-Browser": [
     "http://git.debian.org/?p=pkg-lua/lua-cosmo.git"
@@ -48,6 +48,6 @@
     "git://git.debian.org/git/pkg-lua/lua-cosmo.git"
   ],
   "Version": [
-    "13.01.30-3"
+    "13.01.30-5"
   ]
 }

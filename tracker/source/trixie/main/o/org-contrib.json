@@ -9,16 +9,16 @@
     "debhelper-compat (= 13), dh-elpa"
   ],
   "Checksums-Sha256": [
-    "9ddef2e1b320e8f6ee8b8b0518b9c355fbd3b27fe93743e477308295e95fb885 2237 org-contrib_0.4+git20220927.1.6422b26-1.dsc 97a674df5ee984318b2640ae89fb9e6770f0c92027981973ee013d39669e6a30 144928 org-contrib_0.4+git20220927.1.6422b26.orig.tar.xz 9c17cc765b85d752d00c30a2e41ebafb4b43636b3e9d35a58c5bf9996ebd6a11 6320 org-contrib_0.4+git20220927.1.6422b26-1.debian.tar.xz"
+    "2c5bdc6dd3477c18f1715369f6be1ed273bc5fe99c49454f3406c0a82fd21465 2077 org-contrib_0.4.1-1.dsc 6fa782774f6852c47aaa970d268bac27490bb42d49564297141c54e0e9fed197 145088 org-contrib_0.4.1.orig.tar.xz cf23962fc0defee0fd57007458ce1a5dec68cff028a6c34f164d741f39058912 6796 org-contrib_0.4.1-1.debian.tar.xz"
   ],
   "Dgit": [
-    "e3e0c9af4a29c5d00b9c29f53a7d78f266670972 debian archive/debian/0.4+git20220927.1.6422b26-1 https://git.dgit.debian.org/org-contrib"
+    "640a7cc49f356034d04b37f0e353060dec8005c4 debian archive/debian/0.4.1-1 https://git.dgit.debian.org/org-contrib"
   ],
   "Directory": [
     "pool/main/o/org-contrib"
   ],
   "Files": [
-    "c3e7136466c8a7b818f1625b9b0460c1 2237 org-contrib_0.4+git20220927.1.6422b26-1.dsc 0cfe380356b2ea9e56e9c5fc058fbfcd 144928 org-contrib_0.4+git20220927.1.6422b26.orig.tar.xz dc6ff05e5886d045c223f27a2e293da1 6320 org-contrib_0.4+git20220927.1.6422b26-1.debian.tar.xz"
+    "ee5008948de53968643b9ed5ff833599 2077 org-contrib_0.4.1-1.dsc f7f2b0100381eb1438aaf0aec78eb7e1 145088 org-contrib_0.4.1.orig.tar.xz 7abb23f412a5a208f757baf9cbf9b850 6796 org-contrib_0.4.1-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/emacsen-team/org-contrib.git"
   ],
   "Version": [
-    "0.4+git20220927.1.6422b26-1"
+    "0.4.1-1"
   ]
 }

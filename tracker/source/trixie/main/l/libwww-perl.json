@@ -12,16 +12,16 @@
     "libencode-locale-perl \u003c!nocheck\u003e, libfile-listing-perl \u003c!nocheck\u003e, libhtml-parser-perl \u003c!nocheck\u003e, libhttp-cookies-perl \u003c!nocheck\u003e, libhttp-cookiejar-perl \u003c!nocheck\u003e, libhttp-daemon-perl (\u003e= 6.12) \u003c!nocheck\u003e, libhttp-date-perl \u003c!nocheck\u003e, libhttp-message-perl \u003c!nocheck\u003e, libhttp-negotiate-perl \u003c!nocheck\u003e, liblwp-mediatypes-perl \u003c!nocheck\u003e, libnet-http-perl \u003c!nocheck\u003e, libtest-fatal-perl \u003c!nocheck\u003e, libtest-leaktrace-perl \u003c!nocheck\u003e, libtest-needs-perl \u003c!nocheck\u003e, libtest-requiresinternet-perl \u003c!nocheck\u003e, libtry-tiny-perl \u003c!nocheck\u003e, liburi-perl \u003c!nocheck\u003e, libwww-robotrules-perl \u003c!nocheck\u003e, netbase \u003c!nocheck\u003e, perl"
   ],
   "Checksums-Sha256": [
-    "5cd97662d6e91a52145cfd6e305dff4441f464589dafc2158a523aa540906734 2963 libwww-perl_6.70-1.dsc 34f00d2344757b9c0b55ad35808d53e93d7d92f7a464ec837fe6a73c51fb5969 184130 libwww-perl_6.70.orig.tar.gz 75eab0838e6f5aeec261161d3a1bee4d264cd6e75eacd87268ecda2e899c44eb 11240 libwww-perl_6.70-1.debian.tar.xz"
+    "773bbf1f29fadfaa95e1ef88465af99fad1522b86ba2456b17d560d94b1e12ea 2963 libwww-perl_6.71-1.dsc 9d852d92c1f087d838adcb4107c4ff69887e7e5bdb742f984639c4c18dddb6e7 184513 libwww-perl_6.71.orig.tar.gz 1e3a8b71806401797f9772fc324c98101ee686ab20b685134af8a0f7145f8fc6 11260 libwww-perl_6.71-1.debian.tar.xz"
   ],
   "Dgit": [
-    "0f2f1f1484d58f8d2eec7b0485f8dff97dc041cc debian archive/debian/6.70-1 https://git.dgit.debian.org/libwww-perl"
+    "6cf5e51b56fcde0a5f5939e002ea94a05a1a99f9 debian archive/debian/6.71-1 https://git.dgit.debian.org/libwww-perl"
   ],
   "Directory": [
     "pool/main/libw/libwww-perl"
   ],
   "Files": [
-    "64c88f8afee5001c34a1ebb4a8ad54a3 2963 libwww-perl_6.70-1.dsc 1f2301cbc155265fbf889c980db78894 184130 libwww-perl_6.70.orig.tar.gz 2d6d530327308ca4c33178cba76d2c85 11240 libwww-perl_6.70-1.debian.tar.xz"
+    "5173327bf5ed2367284fff7d5da42997 2963 libwww-perl_6.71-1.dsc 02b75a4ba1c74863e120c8f569c8bf39 184513 libwww-perl_6.71.orig.tar.gz f226af65acda1d8e23dc5cda1c0cd8b7 11260 libwww-perl_6.71-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -60,6 +60,6 @@
     "https://salsa.debian.org/perl-team/modules/packages/libwww-perl.git"
   ],
   "Version": [
-    "6.70-1"
+    "6.71-1"
   ]
 }

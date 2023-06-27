@@ -12,16 +12,16 @@
     "libboolean-perl \u003c!nocheck\u003e, libclone-perl \u003c!nocheck\u003e, libdate-calc-perl \u003c!nocheck\u003e, libdatetime-perl \u003c!nocheck\u003e, libdatetime-hires-perl \u003c!nocheck\u003e, libdatetime-timezone-perl \u003c!nocheck\u003e, liblist-moreutils-perl \u003c!nocheck\u003e, libmodule-util-perl \u003c!nocheck\u003e, libparams-validate-perl \u003c!nocheck\u003e, libtest-mocktime-hires-perl \u003c!nocheck\u003e, libtest-pod-coverage-perl \u003c!nocheck\u003e, libtest-pod-perl \u003c!nocheck\u003e"
   ],
   "Checksums-Sha256": [
-    "4d2e2ca46a8e7e5ca62ee92a41d3af115ddb07efc6e9dac9bbaa770378395b7f 3053 libdatetime-format-natural-perl_1.16-1.dsc 0882796b5d3ad5187a6d41dfe4722e0717a516e5f7e6a94aaf32bdbb8c9ef138 86312 libdatetime-format-natural-perl_1.16.orig.tar.gz f9952f3c0d0ed080b105d3325c008f9b12ef1dab5126f68c3bbda66ed2a8a157 5256 libdatetime-format-natural-perl_1.16-1.debian.tar.xz"
+    "16355f685ff0ba4a2b247a83412e90635b4222fc1705a57ef1968f426f19c4fc 3053 libdatetime-format-natural-perl_1.17-1.dsc de8ac8f0904c23b83a88bd4e5b86d82fcc4b9e8bc5584eed0b5217eb9ef817fe 86635 libdatetime-format-natural-perl_1.17.orig.tar.gz 571fdf3b516a8ea107a10944b6f9b0d9d2ae332f873080db0cf7e8afc6ddf40d 5264 libdatetime-format-natural-perl_1.17-1.debian.tar.xz"
   ],
   "Dgit": [
-    "9add166d9e901dc57e5d176809c2b9b9dfb901ed debian archive/debian/1.16-1 https://git.dgit.debian.org/libdatetime-format-natural-perl"
+    "ad9ff458dd8170316c611b940507b3add9aae844 debian archive/debian/1.17-1 https://git.dgit.debian.org/libdatetime-format-natural-perl"
   ],
   "Directory": [
     "pool/main/libd/libdatetime-format-natural-perl"
   ],
   "Files": [
-    "fed556239d8d1dc2438b588695a66b2e 3053 libdatetime-format-natural-perl_1.16-1.dsc cd2d34fd04ffa4473ad37a944e7fbd2f 86312 libdatetime-format-natural-perl_1.16.orig.tar.gz e9ca8fad395bc800265b52d140910f07 5256 libdatetime-format-natural-perl_1.16-1.debian.tar.xz"
+    "bc64c4fcdde5e47db35b997c72534486 3053 libdatetime-format-natural-perl_1.17-1.dsc bba0530f1de1d05d7fe8c0c7ac0eb1c4 86635 libdatetime-format-natural-perl_1.17.orig.tar.gz 942391bec1fdb39139b14d84194927ba 5264 libdatetime-format-natural-perl_1.17-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -60,6 +60,6 @@
     "https://salsa.debian.org/perl-team/modules/packages/libdatetime-format-natural-perl.git"
   ],
   "Version": [
-    "1.16-1"
+    "1.17-1"
   ]
 }

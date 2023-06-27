@@ -9,13 +9,13 @@
     "cmake, debhelper-compat (= 13), dh-python, dh-sequence-python3, docbook-xml, docbook-xsl, libpcre3-dev, libqt5charts5-dev, libtinyxml2-dev, python3-all, qt5-qmake, qtbase5-dev, qtbase5-dev-tools, qttools5-dev, xsltproc"
   ],
   "Checksums-Sha256": [
-    "7d77739e9be59af1e79bff716c5cf04a7c933a765b679b5fe680d8ef7cb8b9d7 2143 cppcheck_2.11-1.dsc ef7d77c16e6903834cc016986a60157918a90958e981863746a7f3147bfb94c6 3535336 cppcheck_2.11.orig.tar.gz 6bb62a47dd7a4ce6f75e0c2b7f4cd3dad1039abc09e6926959fa16c36c49c070 12460 cppcheck_2.11-1.debian.tar.xz"
+    "56cba843886ffe3c909b08e3c7bef64440a7ef748ed0be538f9da5caf13fb083 2143 cppcheck_2.11-2.dsc ef7d77c16e6903834cc016986a60157918a90958e981863746a7f3147bfb94c6 3535336 cppcheck_2.11.orig.tar.gz a31f661a48b1e91a3cd3da7252efcabe4f9ed0bb7ef635bb0a0bc24d059c14fb 12620 cppcheck_2.11-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/c/cppcheck"
   ],
   "Files": [
-    "94c99b3201fecf89c71c5fd5c7847b2b 2143 cppcheck_2.11-1.dsc a1480b6a56f381bd7b37ed5aba6d23cf 3535336 cppcheck_2.11.orig.tar.gz 2ff925fdd885c37b9c7cf4385cb36d3a 12460 cppcheck_2.11-1.debian.tar.xz"
+    "f3713d56923644f5e114311364e81a4e 2143 cppcheck_2.11-2.dsc a1480b6a56f381bd7b37ed5aba6d23cf 3535336 cppcheck_2.11.orig.tar.gz 05b5e61e0ca6a1656ce521b1367aa183 12620 cppcheck_2.11-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/reichel/cppcheck.git"
   ],
   "Version": [
-    "2.11-1"
+    "2.11-2"
   ]
 }

@@ -9,13 +9,13 @@
     "cairosvg, debhelper-compat (= 13), libdbus-1-dev, libgtk-3-dev, libnotify-dev"
   ],
   "Checksums-Sha256": [
-    "454c18f0e3f5edf6890419d7c107848268d667695fd622b2e70571c1c2e77c90 1903 dhcpcd-ui_0.7.8-1.dsc 4170a07b8bbba65b30f8da8a15a4d776cbf17d030b666516821d450f594a9d6c 135028 dhcpcd-ui_0.7.8.orig.tar.xz e240519e8dfbf0a4bea592d85faba724d17a28a90eb7d4f3bd4cb866fd406236 3056 dhcpcd-ui_0.7.8-1.debian.tar.xz"
+    "3d322e1fb38ccba04499aaaeb5605e4a57cd6eddd1ba78de61994a9987ef5b2e 1753 dhcpcd-ui_0.7.9-3.dsc daa4759174e89af76c06340add3cd296c0f3e1fac196911108368e41f10f7bb6 104100 dhcpcd-ui_0.7.9.orig.tar.xz e84106f01ab11fc8c7b6ec0e10926f0b8f8e20bb5b64a9ce38963ec219694d6f 5256 dhcpcd-ui_0.7.9-3.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/d/dhcpcd-ui"
   ],
   "Files": [
-    "2a85f98e8ca49de6120ae6f01f2b58a0 1903 dhcpcd-ui_0.7.8-1.dsc 15ebe8406f2eef980e379900010adcd5 135028 dhcpcd-ui_0.7.8.orig.tar.xz 33f4cbcfc0af1b41d50a0778f4761682 3056 dhcpcd-ui_0.7.8-1.debian.tar.xz"
+    "76a4772ae20381d85427be04a5e76c0a 1753 dhcpcd-ui_0.7.9-3.dsc e3b0b1506688c71742a65a76c740a0e0 104100 dhcpcd-ui_0.7.9.orig.tar.xz fd70829da9378f044fda78aa29b12eec 5256 dhcpcd-ui_0.7.9-3.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "net"
   ],
   "Standards-Version": [
-    "4.5.1"
+    "4.6.2"
   ],
   "Vcs-Browser": [
     "https://salsa.debian.org/debian/dhcpcd-ui"
@@ -48,6 +48,6 @@
     "https://salsa.debian.org/debian/dhcpcd-ui.git"
   ],
   "Version": [
-    "0.7.8-1"
+    "0.7.9-3"
   ]
 }

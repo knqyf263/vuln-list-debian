@@ -6,16 +6,16 @@
     "wings3d"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 12), grep-dctrl, erlang-dev (\u003e= 1:18.0), erlang-esdl-dev (\u003e= 1.2), erlang-cl, erlang-wx, libgl1-mesa-dev | libgl-dev, libglu1-mesa-dev | libglu-dev, libjpeg-dev"
+    "debhelper-compat (= 13), grep-dctrl, erlang-dev (\u003e= 1:18.0), erlang-cl, erlang-wx, libgl-dev, libglu1-mesa-dev | libglu-dev, libjpeg-dev"
   ],
   "Checksums-Sha256": [
-    "768b7bc2982a8a9a2c6144e0ec91a4b64c47035d98462ac2a9ba54ff4443c86c 2077 wings3d_2.2.9-2.dsc ba2340d32b83fae55c7f6213168068c1b94637f9e7215fd6a52534b5c570d3bf 3449999 wings3d_2.2.9.orig.tar.bz2 e93271599fbd7fab4947d7106e050f5424a0e88922a4351aa1b71650fbb44bb3 14392 wings3d_2.2.9-2.debian.tar.xz"
+    "3ccdd3f671754288a4fd5542427bfe32a2396cf1ed53cd5e2c9f56e8d8e55c22 2033 wings3d_2.2.9-3.dsc ba2340d32b83fae55c7f6213168068c1b94637f9e7215fd6a52534b5c570d3bf 3449999 wings3d_2.2.9.orig.tar.bz2 e05dd949b089eff2cdb15118711a276fa3ddc349106355590cb02e239fedc249 14376 wings3d_2.2.9-3.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/w/wings3d"
   ],
   "Files": [
-    "3d5720b8a93552d2abd1ddc48b2443ed 2077 wings3d_2.2.9-2.dsc 611b583bec2c013eed908129d0e90f62 3449999 wings3d_2.2.9.orig.tar.bz2 6e83255e6120190e6d0a5f84fee20da1 14392 wings3d_2.2.9-2.debian.tar.xz"
+    "04815f51e118b176ce9de0ab0731a88e 2033 wings3d_2.2.9-3.dsc 611b583bec2c013eed908129d0e90f62 3449999 wings3d_2.2.9.orig.tar.bz2 eb85da1d7c3ab8b0029e8df1fef242d1 14376 wings3d_2.2.9-3.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "graphics"
   ],
   "Standards-Version": [
-    "4.6.0"
+    "4.6.2"
   ],
   "Uploaders": [
     "Sergei Golovan \u003csgolovan@debian.org\u003e"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/erlang-team/packages/wings3d.git"
   ],
   "Version": [
-    "2.2.9-2"
+    "2.2.9-3"
   ]
 }

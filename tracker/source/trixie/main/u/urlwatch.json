@@ -9,16 +9,16 @@
     "debhelper-compat (= 13), dh-python, python3-all, python3-setuptools, python3-sphinx, dh-sequence-sphinxdoc"
   ],
   "Build-Depends-Indep": [
-    "python3:any (\u003e= 3.6), python3-appdirs, python3-minidb (\u003e= 2.0.6), python3-pytest, python3-pycodestyle, python3-requests, python3-yaml, python3-lxml, python3-cssselect, python3-docutils"
+    "python3:any (\u003e= 3.7), python3-appdirs, python3-minidb (\u003e= 2.0.6), python3-pytest, python3-pycodestyle, python3-requests, python3-yaml, python3-lxml, python3-cssselect, python3-docutils"
   ],
   "Checksums-Sha256": [
-    "8b33650fc3cb28695075641a9162a6dde847bebb65ddcc6ea560aeb9538cb73f 2023 urlwatch_2.25-1.dsc a77d915d0f2bf688dcec392b78c8b587360bbdba5179036524a33280ec4c780d 166848 urlwatch_2.25.orig.tar.gz 695bfeddbf506647d222a47b2a949a03e3c5583a1bd1438d49730cfe1edb4702 9056 urlwatch_2.25-1.debian.tar.xz"
+    "ffe901b5edb3c0f878ed241c0d3342e688d0b9b611e582fe5e7bfed5415f14b8 2173 urlwatch_2.28-1.dsc 940d82f75b1358e40ea6244d79989de3fd474e0ddeacef378e59cabb7f5ebbe8 174071 urlwatch_2.28.orig.tar.gz 2189f3571efbfebecb009eb21b90c3ac8c4b4d1893aa106240546c03e9f1fcce 8976 urlwatch_2.28-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/u/urlwatch"
   ],
   "Files": [
-    "3f8d8c00d7b16990762e00def2c6c94b 2023 urlwatch_2.25-1.dsc 9d8c212f47d10cdae0e1203f14350d9d 166848 urlwatch_2.25.orig.tar.gz deb0fb3f4724fc447dd255493c63ef1f 9056 urlwatch_2.25-1.debian.tar.xz"
+    "33fb6adce0810faa9394321474e22cdd 2173 urlwatch_2.28-1.dsc 7bc0e1b8193751657227c707c30ac998 174071 urlwatch_2.28.orig.tar.gz b52f02ae16285d2f32ef43e075a2f9b9 8976 urlwatch_2.28-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -42,7 +42,7 @@
     "web"
   ],
   "Standards-Version": [
-    "4.6.0"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest, autopkgtest-pkg-python"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/mwerlen/urlwatch.git"
   ],
   "Version": [
-    "2.25-1"
+    "2.28-1"
   ]
 }

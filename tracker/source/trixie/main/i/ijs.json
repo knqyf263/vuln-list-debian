@@ -6,19 +6,19 @@
     "libijs-dev, libijs-0.35, libijs-doc"
   ],
   "Build-Depends": [
-    "cdbs, autotools-dev, libtool, automake1.11, autoconf, debhelper (\u003e= 9~)"
+    "cdbs, autotools-dev, libtool, automake, autoconf, debhelper (\u003e= 9~)"
   ],
   "Build-Depends-Indep": [
     "docbook, docbook-utils, ghostscript"
   ],
   "Checksums-Sha256": [
-    "24ca5cfd3aa05fb20281c81afd81b006d2fad058683d7ef43d51a860614cd18c 2073 ijs_0.35-15.dsc 901fffb73e42dae343a8285a31d9c4e82dc3856d36be30adbdb564bdd27161d6 344262 ijs_0.35.orig.tar.gz 5a9e755fb15f822a002308ae20b28b66926f77a352b6e73a57169cd61a4b1e4d 10340 ijs_0.35-15.debian.tar.xz"
+    "fe622b8e2da680b454ad5597f5d7bdbd9a936f1becbeb247e4b00c9016ba7e25 1927 ijs_0.35-15.1.dsc 901fffb73e42dae343a8285a31d9c4e82dc3856d36be30adbdb564bdd27161d6 344262 ijs_0.35.orig.tar.gz 0567e02f71c0bff3ecda8787ab676a565388746164a1ae834278e6700844001e 10348 ijs_0.35-15.1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/i/ijs"
   ],
   "Files": [
-    "366491873ac1c98d8b4789e73623a5ab 2073 ijs_0.35-15.dsc 0cc4dfdb3d5aadf39c9334fa95098c20 344262 ijs_0.35.orig.tar.gz 8f02f8a2c7ae374f8f01400856c2a6b1 10340 ijs_0.35-15.debian.tar.xz"
+    "4393fee78baaf816d6241dc8666ff77b 1927 ijs_0.35-15.1.dsc 0cc4dfdb3d5aadf39c9334fa95098c20 344262 ijs_0.35.orig.tar.gz 0454d9f837e50a71a3e0fa193129edaa 10348 ijs_0.35-15.1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/printing-team/ijs.git"
   ],
   "Version": [
-    "0.35-15"
+    "0.35-15.1"
   ]
 }

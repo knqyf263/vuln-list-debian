@@ -9,16 +9,16 @@
     "debhelper-compat (= 13), netbase \u003c!nocheck\u003e, perl-xs-dev, perl:native"
   ],
   "Checksums-Sha256": [
-    "e13e670980b78783b7cae3a286e7fd57a7a9870052357f85bdaca5107e7c81b3 2331 libsocket-perl_2.036-1.dsc 1cd8272bccde8098183a60a274b3eda0764cc6984db97f5474b28bebfe2c6b70 45426 libsocket-perl_2.036.orig.tar.gz b76c2c47c78054f922d0466e22bce2f2a3a1d3988639a63d192ba89113393aac 3496 libsocket-perl_2.036-1.debian.tar.xz"
+    "903e442367941ce4ec7cf7f8b3601dde9f7b05302ef38c5ac6b2c57a9ee44073 2331 libsocket-perl_2.037-1.dsc 85448811e9e274374404634f3c208afa936ee4d223e76251ea9868315b0c812f 45999 libsocket-perl_2.037.orig.tar.gz 362118e324a734e79062c1004c67b34e44df9db51cde175954a5fc9c11901027 3528 libsocket-perl_2.037-1.debian.tar.xz"
   ],
   "Dgit": [
-    "c1cfe6780accbaa5b5309f6af0adba3a551be56b debian archive/debian/2.036-1 https://git.dgit.debian.org/libsocket-perl"
+    "73cc8567e8f35c6a72938af0684b2890e19d753c debian archive/debian/2.037-1 https://git.dgit.debian.org/libsocket-perl"
   ],
   "Directory": [
     "pool/main/libs/libsocket-perl"
   ],
   "Files": [
-    "1406669e49eeac56c9e79bfb7739fb5f 2331 libsocket-perl_2.036-1.dsc a57be9d0da85a942ad8f459505b41380 45426 libsocket-perl_2.036.orig.tar.gz 53ffefd5c70d2e57adea2590c5a1dd94 3496 libsocket-perl_2.036-1.debian.tar.xz"
+    "13e7a17dd227b0a46d78b8ee2492c9a8 2331 libsocket-perl_2.037-1.dsc f07c0b560fcd1be487e1961039afa775 45999 libsocket-perl_2.037.orig.tar.gz ce555cb388071fa9fae4e491cbdee504 3528 libsocket-perl_2.037-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -42,7 +42,7 @@
     "perl"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest-pkg-perl"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/perl-team/modules/packages/libsocket-perl.git"
   ],
   "Version": [
-    "2.036-1"
+    "2.037-1"
   ]
 }

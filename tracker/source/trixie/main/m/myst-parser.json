@@ -6,16 +6,16 @@
     "python3-myst-parser"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), dh-python, flit, pybuild-plugin-pyproject, python3-all, python3-bs4 \u003c!nocheck\u003e, python3-markdown-it (\u003e= 1.0.0), python3-mdit-py-plugins (\u003e= 0.2.8) \u003c!nocheck\u003e, python3-pytest \u003c!nocheck\u003e, python3-pytest-regressions \u003c!nocheck\u003e, python3-sphinx (\u003e= 3.1.0), python3-typing-extensions"
+    "debhelper-compat (= 13), dh-python, flit, pybuild-plugin-pyproject, python3-all, python3-bs4 \u003c!nocheck\u003e, python3-markdown-it (\u003e= 1.0.0), python3-mdit-py-plugins (\u003e= 0.2.8) \u003c!nocheck\u003e, python3-pytest \u003c!nocheck\u003e, python3-pytest-regressions \u003c!nocheck\u003e, python3-sphinx (\u003e= 3.1.0)"
   ],
   "Checksums-Sha256": [
-    "5ba5b109597b113035fe8f94d00b0424a1b7408e641015dc273f1e4b6600f718 2516 myst-parser_0.18.1-2.dsc 8da06c60167b792d0235aee5f1efd1b9ecdd010daa57409603a5b62e9b09315d 769288 myst-parser_0.18.1.orig.tar.gz 6069a0d2513d821f342abb5d0f004b3899e8f333fb75e9e128883a1307500e85 3540 myst-parser_0.18.1-2.debian.tar.xz"
+    "5116ba33f2a8470916e0170c0694b464e9a48d271172c5f47d80224ac87f6811 2453 myst-parser_2.0.0-1.dsc 6d03d257af6e7a4f336aaccd400e13537a85a0c260a58f95de51618c46b51579 815453 myst-parser_2.0.0.orig.tar.gz 5d5c8ab3f52ee77f88c5ff8ead1ce8b60a48aed88d0cdc706132c6f49a26ea39 3664 myst-parser_2.0.0-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/m/myst-parser"
   ],
   "Files": [
-    "e92a76177e7f0b4bbcaace8828e31c80 2516 myst-parser_0.18.1-2.dsc 732e0014a80121b0dfba4038d2f310bd 769288 myst-parser_0.18.1.orig.tar.gz fad9627c7b80de883cd53bbcd3728736 3540 myst-parser_0.18.1-2.debian.tar.xz"
+    "c52b772a018b119a54355e198d91d746 2453 myst-parser_2.0.0-1.dsc b8e7f916b255982f0ea382a7cffc8bdf 815453 myst-parser_2.0.0.orig.tar.gz 35a621c87b37b081fee311fe9a92f343 3664 myst-parser_2.0.0-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,13 +39,13 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1.1"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest"
   ],
   "Testsuite-Triggers": [
-    "python3-all, python3-bs4, python3-markdown-it, python3-mdit-py-plugins, python3-pytest, python3-pytest-cov, python3-pytest-regressions, python3-sphinx, python3-typing-extensions"
+    "python3-all, python3-bs4, python3-markdown-it, python3-mdit-py-plugins, python3-pytest, python3-pytest-cov, python3-pytest-regressions, python3-sphinx"
   ],
   "Uploaders": [
     "Emmanuel Arias \u003ceamanu@yaerobi.com\u003e,"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/python-team/packages/myst-parser.git"
   ],
   "Version": [
-    "0.18.1-2"
+    "2.0.0-1"
   ]
 }

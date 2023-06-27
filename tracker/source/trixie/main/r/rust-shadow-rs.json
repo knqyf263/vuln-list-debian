@@ -6,16 +6,16 @@
     "librust-shadow-rs-dev"
   ],
   "Build-Depends": [
-    "debhelper (\u003e= 12), dh-cargo (\u003e= 25), cargo:native \u003c!nocheck\u003e, rustc:native \u003c!nocheck\u003e, libstd-rust-dev \u003c!nocheck\u003e, librust-const-format-0.2+default-dev (\u003e= 0.2.22-~~) \u003c!nocheck\u003e, librust-git2-0.16-dev \u003c!nocheck\u003e, librust-is-debug-1+default-dev (\u003e= 1.0.1-~~) \u003c!nocheck\u003e, librust-time-0.3+default-dev (\u003e= 0.3.9-~~) \u003c!nocheck\u003e, librust-time-0.3+formatting-dev (\u003e= 0.3.9-~~) \u003c!nocheck\u003e, librust-time-0.3+local-offset-dev (\u003e= 0.3.9-~~) \u003c!nocheck\u003e, librust-time-0.3+parsing-dev (\u003e= 0.3.9-~~) \u003c!nocheck\u003e"
+    "debhelper (\u003e= 12), dh-cargo (\u003e= 25), cargo:native \u003c!nocheck\u003e, rustc:native \u003c!nocheck\u003e, libstd-rust-dev \u003c!nocheck\u003e, librust-const-format-0.2+default-dev (\u003e= 0.2.30-~~) \u003c!nocheck\u003e, librust-is-debug-1+default-dev (\u003e= 1.0.1-~~) \u003c!nocheck\u003e, librust-time-0.3+default-dev (\u003e= 0.3.9-~~) \u003c!nocheck\u003e, librust-time-0.3+formatting-dev (\u003e= 0.3.9-~~) \u003c!nocheck\u003e, librust-time-0.3+local-offset-dev (\u003e= 0.3.9-~~) \u003c!nocheck\u003e, librust-time-0.3+parsing-dev (\u003e= 0.3.9-~~) \u003c!nocheck\u003e"
   ],
   "Checksums-Sha256": [
-    "2322cc9a7a4c475a35040433b8d0f7a9828213aeafcc06c36443095b869f7619 2636 rust-shadow-rs_0.20.0-2.dsc 8da90bd2a722461267a2c5d20b2c6de76dba087348e60484fd6c3fbb48b766d6 24773 rust-shadow-rs_0.20.0.orig.tar.gz b0705e0ce24ec0390c062291658f9eb3bf8e31654029c007f06f06b3e433a549 3368 rust-shadow-rs_0.20.0-2.debian.tar.xz"
+    "488987f81c6b9c24b3630a9677ccfccd93d16af8ade838b20775262bf19774b6 2618 rust-shadow-rs_0.23.0-1.dsc 970538704756fd0bb4ec8cb89f80674afb661e7c0fe716f9ba5be57717742300 26963 rust-shadow-rs_0.23.0.orig.tar.gz a013a99021aa799b3c0661c1c19e1aa3f6da3171ddcd9e0d3bf97d4638dba571 3488 rust-shadow-rs_0.23.0-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/rust-shadow-rs"
   ],
   "Files": [
-    "b1682f7c1d0865b9a24fb839fd5e4664 2636 rust-shadow-rs_0.20.0-2.dsc 31ecea5d53b035fd9315fb747b879d1d 24773 rust-shadow-rs_0.20.0.orig.tar.gz 61d1d9b2dd5ac43129d052a57f357bee 3368 rust-shadow-rs_0.20.0-2.debian.tar.xz"
+    "0150fd981aa82d2b70dd6cf4a5d5a652 2618 rust-shadow-rs_0.23.0-1.dsc 9560a189b18f4e4e2886824a5a9ca9e4 26963 rust-shadow-rs_0.23.0.orig.tar.gz 797d282e167e0c23e9223ae060a4a023 3488 rust-shadow-rs_0.23.0-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/rust-team/debcargo-conf.git [src/shadow-rs]"
   ],
   "Version": [
-    "0.20.0-2"
+    "0.23.0-1"
   ]
 }

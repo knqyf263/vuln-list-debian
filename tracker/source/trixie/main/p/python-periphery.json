@@ -6,16 +6,16 @@
     "python3-periphery, python-periphery-doc"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), dh-python, python3-all, python3-setuptools, python3-sphinx, python3-sphinx-rtd-theme"
+    "debhelper-compat (= 13), dh-python, pybuild-plugin-pyproject, python3-all, python3-setuptools, python3-sphinx, python3-sphinx-rtd-theme"
   ],
   "Checksums-Sha256": [
-    "6abf97389fa9762beb986345962741c50f57ce710279a1e366089b780e1e42c2 2206 python-periphery_2.3.0-2.dsc 385716bdbd11fcf2c5728548c3d42f12ebc0974faa64fa1a98b89b4a44dc004c 35060 python-periphery_2.3.0.orig.tar.gz f0fe2212e197f3ec04fbd8c09a5fb93681e1f73c9ab61e2bda3b79db50abb4e8 2868 python-periphery_2.3.0-2.debian.tar.xz"
+    "1d0aec6ad9529dd1281eb429fbed97a2b3bb0e8ce3056f2c566b3a4dd0d8fab2 1887 python-periphery_2.4.1-1.dsc 7d5fec33c8699865fb861b743def5b4892da05952b3fe8aabdb8662dba877675 38351 python-periphery_2.4.1.orig.tar.gz d4aaab62fd1ccca2cbe88ffde2be41eaf27c1d7187a3577c576a78ab7e290f71 2968 python-periphery_2.4.1-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/python-periphery"
   ],
   "Files": [
-    "1cb48e34db7d573918a5342967a5d00a 2206 python-periphery_2.3.0-2.dsc 269716055f63f0c49b176a8c000757ba 35060 python-periphery_2.3.0.orig.tar.gz 66a2868d54ebd450098b0e67c8b93176 2868 python-periphery_2.3.0-2.debian.tar.xz"
+    "3002d61b197c3cf372c49cf82d7b6624 1887 python-periphery_2.4.1-1.dsc 80070beb4dca355ec300e7b076ffaa76 38351 python-periphery_2.4.1.orig.tar.gz 332234566651f16824e6e52cac81f95f 2968 python-periphery_2.4.1-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.0"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest-pkg-python"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/python-team/packages/python-periphery.git"
   ],
   "Version": [
-    "2.3.0-2"
+    "2.4.1-1"
   ]
 }

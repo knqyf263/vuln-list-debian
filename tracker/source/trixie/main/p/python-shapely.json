@@ -6,16 +6,16 @@
     "python3-shapely"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 12), dh-python, libgeos-dev (\u003e= 3.3.0), pybuild-plugin-pyproject, python3-all, python3-all-dev, python3-matplotlib, python3-numpy, python3-pytest, python3-setuptools, cython3"
+    "debhelper-compat (= 13), dh-python, libgeos-dev (\u003e= 3.3.0), pybuild-plugin-pyproject, python3-all, python3-all-dev, python3-matplotlib, python3-numpy, python3-pytest, python3-setuptools, cython3"
   ],
   "Checksums-Sha256": [
-    "c174d14e903144782efcc25a650eb4802756456b9fdd50d17781645b1461f182 2200 python-shapely_1.8.5-2.dsc f4aee829f3fba115891f80007a745953ca7b1c29073465a4be9f364ef202d4b2 323108 python-shapely_1.8.5.orig.tar.gz 536b1a54f62ed90ba9c6e0b5fb855f01ab34002fbe437360b32b3023af298e98 13140 python-shapely_1.8.5-2.debian.tar.xz"
+    "1e473508214d1583a901a540087e4c42ede64bb4933439f43710a2b990d6faae 2200 python-shapely_2.0.1-1.dsc 93d754ddf07f1607dc7189881518da2d8e6f19cba5bcd1969875a0101592531d 325843 python-shapely_2.0.1.orig.tar.gz 08a205c55e9fb9e165b0d21176bca9ac96981d581cf409f6316a617c2ee83abd 10076 python-shapely_2.0.1-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/python-shapely"
   ],
   "Files": [
-    "083367c4b552f46a0e77e7d106ebd87f 2200 python-shapely_1.8.5-2.dsc 2eff3641627484406d5c81c433c3c146 323108 python-shapely_1.8.5.orig.tar.gz 3ecfe663986e9a0da2e402e312c3751e 13140 python-shapely_1.8.5-2.debian.tar.xz"
+    "4d927247ef4d5dc8fdd9a31493e2308a 2200 python-shapely_2.0.1-1.dsc 8ce1f7dc4062f05adb0bd13d27f88c18 325843 python-shapely_2.0.1.orig.tar.gz 692eaed5b57161e0f860304ad8ca21ac 10076 python-shapely_2.0.1-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "python"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Uploaders": [
     "Pietro Battiston \u003cme@pietrobattiston.it\u003e, Bas Couwenberg \u003csebastic@debian.org\u003e"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/debian-gis-team/python-shapely.git"
   ],
   "Version": [
-    "1.8.5-2"
+    "2.0.1-1"
   ]
 }

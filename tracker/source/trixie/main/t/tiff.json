@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), freeglut3-dev, libglu1-mesa-dev, libjbig-dev, libjpeg-dev, liblzma-dev, libzstd-dev, libwebp-dev, libxi-dev, zlib1g-dev, libdeflate-dev, liblerc-dev [!s390x !hppa !powerpc !ppc64 !sparc64], sphinx \u003c!nodoc\u003e"
   ],
   "Checksums-Sha256": [
-    "c9f5ab085dacbd5e2d90236db420428906c33a6e79681484a553b37ed3c3ceaa 2283 tiff_4.5.1~rc3-1.dsc dee24a6f0d4ff10ddc8afe16e731bb622bbdec4ce64d9e01f6515df0a7aabe50 2059965 tiff_4.5.1~rc3.orig.tar.bz2 39bb39d826e401a6b40ef22388dbc023eda5ba417ce6781d716292532c2117c2 21800 tiff_4.5.1~rc3-1.debian.tar.xz"
+    "bf793f20bff42d1f2b3deced6d2ffffc3c5f7561c24e3523b7bfcf2b1cd3f6f7 2255 tiff_4.5.1-1.dsc f932502df730d3394bdac47d6f930a23dfa3b1868289813841673fd5cff13ebc 2058175 tiff_4.5.1.orig.tar.bz2 57b592ec3644d707be690036fbba43aa65bb7734555a4ec3e83aa8044afce3b5 21812 tiff_4.5.1-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/t/tiff"
   ],
   "Files": [
-    "835cb3996f3bdea50e2da92d53b60503 2283 tiff_4.5.1~rc3-1.dsc 69f06a3ba8836e4d6baef4f8d249ff8f 2059965 tiff_4.5.1~rc3.orig.tar.bz2 16c315a434007fd72929abc58ae4baa3 21800 tiff_4.5.1~rc3-1.debian.tar.xz"
+    "e52f2fd8a3466bdc967341ce1f04bc4b 2255 tiff_4.5.1-1.dsc 0202ebf62ea653ea5371dd4e8f5fab2a 2058175 tiff_4.5.1.orig.tar.bz2 dc4cf5f6a5bab99da7b2d323943989cc 21812 tiff_4.5.1-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -42,6 +42,6 @@
     "4.6.1"
   ],
   "Version": [
-    "4.5.1~rc3-1"
+    "4.5.1-1"
   ]
 }

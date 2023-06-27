@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-python, pybuild-plugin-pyproject, python3-all, python3-setuptools"
   ],
   "Checksums-Sha256": [
-    "5c7391ab1d5e56f9f8a2526287c11bb18e47478f69100e39849d0a04e283b793 1894 python-watson-developer-cloud_6.1.0-1.dsc d21697d152a8201f9b6c365e1905d3570c677924bbb3ade9cefc1f679f1b2a48 227136 python-watson-developer-cloud_6.1.0.orig.tar.xz f892b5332cc2c5becc96a4c239b0fb3dfb4e376f8dc42fe244aac84ab7660068 3352 python-watson-developer-cloud_6.1.0-1.debian.tar.xz"
+    "1c6194a171ad25280f0e9a516efff0a08df5a76920a113bdeeccd002e9626212 1892 python-watson-developer-cloud_7.0.0-1.dsc 747020f5b03e49ab8b7ec2bdd4c64d95d50c1cb86ec0b470df86f0bfaa2b9065 238920 python-watson-developer-cloud_7.0.0.orig.tar.xz 0c84bfc467dc42f2468ea1953cd52acca3e3b2bbc128a75e709fbcff2ece3327 3400 python-watson-developer-cloud_7.0.0-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/python-watson-developer-cloud"
   ],
   "Files": [
-    "e1a6784f8ad0fdf0443bfa57e7174397 1894 python-watson-developer-cloud_6.1.0-1.dsc b7c1c79a7ab5217696686d96a6db0733 227136 python-watson-developer-cloud_6.1.0.orig.tar.xz db3798cc22183cb4df918658a0440de9 3352 python-watson-developer-cloud_6.1.0-1.debian.tar.xz"
+    "ea34f807ff13bb0cad64687fcc07d1ee 1892 python-watson-developer-cloud_7.0.0-1.dsc d0bd5f5e026ff9417c23ac006cbcec90 238920 python-watson-developer-cloud_7.0.0.orig.tar.xz 45d47f2bf6062d5b108fb220c60413a9 3400 python-watson-developer-cloud_7.0.0-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1.0"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest-pkg-python"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/python-team/packages/watson-developer-cloud.git"
   ],
   "Version": [
-    "6.1.0-1"
+    "7.0.0-1"
   ]
 }

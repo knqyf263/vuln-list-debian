@@ -6,19 +6,19 @@
     "ibus, ibus-data, ibus-tests, libibus-1.0-5, libibus-1.0-dev, ibus-gtk, ibus-gtk3, ibus-gtk4, ibus-wayland, ibus-doc, gir1.2-ibus-1.0, python3-ibus-1.0"
   ],
   "Build-Depends": [
-    "dbus-x11 \u003c!nocheck\u003e, debhelper-compat (= 13), dh-exec, desktop-file-utils, dh-python, gettext, gnome-pkg-tools, gobject-introspection, gtk-doc-tools \u003c!nodoc\u003e, iso-codes, libdconf-dev, libgirepository1.0-dev, libglib2.0-dev, libgtk-3-bin, libgtk-3-dev, libgtk-4-bin, libgtk-4-dev, libgtk2.0-dev, libnotify-dev, libtool, libwayland-dev [linux-any], pkg-config, python-gi-dev, python3-all, systemd [linux-any], unicode-cldr-core, unicode-data (\u003e= 13.0.0-2), valac, xauth \u003c!nocheck\u003e, xvfb \u003c!nocheck\u003e"
+    "dbus-x11 \u003c!nocheck\u003e, debhelper-compat (= 13), dh-exec, desktop-file-utils, dh-python, gettext, gnome-pkg-tools, gobject-introspection, gtk-doc-tools \u003c!nodoc\u003e, iso-codes, libdconf-dev, libgirepository1.0-dev, libglib2.0-dev, libgtk-3-bin, libgtk-3-dev, libgtk-4-bin, libgtk-4-dev, libgtk2.0-dev, libnotify-dev, libtool, libwayland-dev [linux-any], pkg-config, python-gi-dev, python3-all, systemd [linux-any], unicode-cldr-core, unicode-data (\u003e= 13.0.0-2), valac, xauth \u003c!nocheck\u003e, xkb-data (\u003e= 2.38), xvfb \u003c!nocheck\u003e"
   ],
   "Build-Depends-Indep": [
     "libglib2.0-doc \u003c!nodoc\u003e"
   ],
   "Checksums-Sha256": [
-    "147a5bc19a1edcd13efc8f3b0c653594bc11a493041113da3f7077023246aecf 2823 ibus_1.5.27-5.dsc 6efbda5adb96f607cf7108d1e270962c0729a59c9ea6d58eea2dde0e3cbb97df 3779541 ibus_1.5.27.orig.tar.gz 6bc8feb1389d63baedd00b85992ef2c0b5259758fd1ab2742a283823a24c54bf 31444 ibus_1.5.27-5.debian.tar.xz"
+    "488274bdf6e1c6f7f399bda3ee2301e7a81858a0ec6947b21b926dbec4c5e9d7 2843 ibus_1.5.28-5.dsc 6c9ff3a7576c3d61264f386030f47ee467eb7298c8104367002986e008765667 3871246 ibus_1.5.28.orig.tar.gz fc58c65418ed6ef9c47887801954a00a7b5c0b7b1006779b8f9db4d9b133fb35 32848 ibus_1.5.28-5.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/i/ibus"
   ],
   "Files": [
-    "c8792f08eea26e4a68757f24ed909482 2823 ibus_1.5.27-5.dsc 3590d33fbd84e041acb75fcee818b504 3779541 ibus_1.5.27.orig.tar.gz f8e9752aa162d12961d9157b2abf7c98 31444 ibus_1.5.27-5.debian.tar.xz"
+    "e137bf50b024d54519fa506ad98cd0f3 2843 ibus_1.5.28-5.dsc e788203d60e2b9cf56d95f1ee73a6898 3871246 ibus_1.5.28.orig.tar.gz 08373160a1d352d4d8e8608307156e08 32848 ibus_1.5.28-5.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/debian/ibus.git"
   ],
   "Version": [
-    "1.5.27-5"
+    "1.5.28-5"
   ]
 }

@@ -6,19 +6,19 @@
     "python3-pymatgen, python-pymatgen-doc"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), pymatgen-test-files (\u003e= 2023.05.31~) \u003c!nocheck\u003e, dh-python, dh-sequence-python3, cython3, pybuild-plugin-pyproject, python3-setuptools, python3-all-dev, python3-pytest, python3-matplotlib (\u003e= 1.5~), python3-monty (\u003e= 3.0.2~), python3-networkx (\u003e= 2.2~), python3-numpy (\u003e= 1.20.1~), python3-palettable (\u003e= 3.1.1~), python3-pandas (\u003e= 1.1.3~), python3-plotly (\u003e= 4.5.0~), python3-pybtex (\u003e= 0.22.2~), python3-requests (\u003e= 2.24.0~), python3-ruamel.yaml (\u003e= 0.17.0~), python3-scipy (\u003e= 1.5.2~), python3-spglib (\u003e= 2.0.2~), python3-sympy (\u003e= 1.6.2~), python3-tabulate (\u003e= 0.8.7~), python3-tqdm (\u003e= 4.41.0~), python3-uncertainties (\u003e= 3.1.4~), python3-ase (\u003e= 3.22.1~), python3-bs4 (\u003e= 4.9.1~), python3-vtk9, python3-h5py (\u003e= 2.10.0~), python3-netcdf4 (\u003e= 1.5.8~), python3-phonopy, python3-openbabel"
+    "debhelper-compat (= 13), pymatgen-test-files (\u003e= 2023.05.31~) \u003c!nocheck\u003e, dh-python, dh-sequence-python3, cython3, pybuild-plugin-pyproject, python3-setuptools, python3-all-dev, python3-pytest, python3-frozendict, python3-matplotlib (\u003e= 1.5~), python3-monty (\u003e= 3.0.2~), python3-networkx (\u003e= 2.2~), python3-numpy (\u003e= 1.20.1~), python3-palettable (\u003e= 3.1.1~), python3-pandas (\u003e= 1.1.3~), python3-plotly (\u003e= 4.5.0~), python3-pybtex (\u003e= 0.22.2~), python3-requests (\u003e= 2.24.0~), python3-ruamel.yaml (\u003e= 0.17.0~), python3-scipy (\u003e= 1.5.2~), python3-spglib (\u003e= 2.0.2~), python3-sympy (\u003e= 1.6.2~), python3-tabulate (\u003e= 0.8.7~), python3-tqdm (\u003e= 4.41.0~), python3-uncertainties (\u003e= 3.1.4~), python3-ase (\u003e= 3.22.1~), python3-bs4 (\u003e= 4.9.1~), python3-vtk9, python3-h5py (\u003e= 2.10.0~), python3-netcdf4 (\u003e= 1.5.8~), python3-phonopy, python3-openbabel"
   ],
   "Build-Depends-Indep": [
     "dh-sequence-sphinxdoc \u003c!nodoc\u003e, libjs-jquery \u003c!nodoc\u003e, libjs-mathjax \u003c!nodoc\u003e, python3-sphinx-rtd-theme \u003c!nodoc\u003e"
   ],
   "Checksums-Sha256": [
-    "88b99b8af52dfa569b74c8bd846e835167983e4be9e4a50296636e272a759a86 3085 pymatgen_2023.05.31+dfsg1-1.dsc 45bc8fe66244c98b9739a1b15ef4eee1d4dc1abf2a2ab92c44b9ecf35e0c2a47 41673848 pymatgen_2023.05.31+dfsg1.orig.tar.xz 3c97975d85c0783499c481dffe343cdd3cbb83f46088da96b8e2b63936642dee 14624 pymatgen_2023.05.31+dfsg1-1.debian.tar.xz"
+    "39d923ba4aaaf9c29d1f97398d109f23e93f2f70fe982c909a08b5e30543e408 3105 pymatgen_2023.06.23+dfsg1-1.dsc 23cdc7c37895bbb3dd53161181c6b3c24ca5d252f0b0a96df3c6717acfe33933 41689716 pymatgen_2023.06.23+dfsg1.orig.tar.xz 7c985121ab147026e2ea19bd8ac9969de303343bec6172f2fcce5e1b8003eaaf 15232 pymatgen_2023.06.23+dfsg1-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/pymatgen"
   ],
   "Files": [
-    "0ffc7d08a8948441a2d58b1305b51d06 3085 pymatgen_2023.05.31+dfsg1-1.dsc 638f712d44827acef49bfb75f824a77d 41673848 pymatgen_2023.05.31+dfsg1.orig.tar.xz 1c1740daf7dd46715243fd96b97dd45f 14624 pymatgen_2023.05.31+dfsg1-1.debian.tar.xz"
+    "ec26a88de07418ad9ac877a75124f9f2 3105 pymatgen_2023.06.23+dfsg1-1.dsc eca44a75e1a654ec380f52e4fea0e174 41689716 pymatgen_2023.06.23+dfsg1.orig.tar.xz b9870a099d3830d1b43106fde4a2483f 15232 pymatgen_2023.06.23+dfsg1-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -60,6 +60,6 @@
     "https://salsa.debian.org/debichem-team/pymatgen.git"
   ],
   "Version": [
-    "2023.05.31+dfsg1-1"
+    "2023.06.23+dfsg1-1"
   ]
 }

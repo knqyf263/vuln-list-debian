@@ -15,13 +15,13 @@
     "graphviz"
   ],
   "Checksums-Sha256": [
-    "9305801c953c15c49d53daca675aae326764a894e8ceadb4839e40e34a434a33 8146 boost1.81_1.81.0-5.1.dsc 449afecf5ef98edc0a46826cde6af98d1fb95c2e92962fa8c9e3eb1e8a2928ec 73772548 boost1.81_1.81.0.orig.tar.xz 42cba5e325c8880f1015f099ac00a7d3622534f35ab740dc130550a16b4c850a 375956 boost1.81_1.81.0-5.1.debian.tar.xz"
+    "051aef5d175143ebf5aa69ade1a4177ec9e1aa1875ec26960148a03fddc16047 8751 boost1.81_1.81.0-5.2.dsc 449afecf5ef98edc0a46826cde6af98d1fb95c2e92962fa8c9e3eb1e8a2928ec 73772548 boost1.81_1.81.0.orig.tar.xz 2a0495d963749c500af7b795301893fb8e539d13d772cdd81bfcb95b79716286 377108 boost1.81_1.81.0-5.2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/b/boost1.81"
   ],
   "Files": [
-    "fd1d33daf345a150b5a4b0418c8abb65 8146 boost1.81_1.81.0-5.1.dsc 741196e0d95b45fe5e75205d80a6ec2d 73772548 boost1.81_1.81.0.orig.tar.xz 28df7b06dcfd213e7d4f37e3baa8f7d8 375956 boost1.81_1.81.0-5.1.debian.tar.xz"
+    "ed123f344f66dfe73938ec1c47139a3c 8751 boost1.81_1.81.0-5.2.dsc 741196e0d95b45fe5e75205d80a6ec2d 73772548 boost1.81_1.81.0.orig.tar.xz 44ebccecba152a6986cea284b5b71707 377108 boost1.81_1.81.0-5.2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -63,6 +63,6 @@
     "https://salsa.debian.org/debian/boost.git"
   ],
   "Version": [
-    "1.81.0-5.1"
+    "1.81.0-5.2"
   ]
 }

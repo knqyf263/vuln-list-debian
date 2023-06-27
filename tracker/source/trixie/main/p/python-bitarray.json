@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-python, pandoc, python3-all, python3-all-dev, python3-setuptools"
   ],
   "Checksums-Sha256": [
-    "5d63a887aad1e7e91bd0b12fea0071332af3c55ffb71fdb8c7a2b94ce19fb2bb 2161 python-bitarray_2.7.5-1.dsc 680855cdfddce847241c339e423f03177ecd20e7052152d3fe55b8f35ca47de4 171909 python-bitarray_2.7.5.orig.tar.gz 9fbd7a6cf2573e59e89d6088db092d1e648d70a2d6606054d20d58d7aa6f1fb3 4984 python-bitarray_2.7.5-1.debian.tar.xz"
+    "dde0690caae35c4bdb318a7196d4371c8d7df673e4f48868eda34c2444874496 2161 python-bitarray_2.7.6-1.dsc 71b6dced5f4802abcae0b92d6fbc7c6073af69bb83b9dfaf0e9558693b2b9146 171920 python-bitarray_2.7.6.orig.tar.gz a5741bc8225d0dbe4d08d051432d07b8d74dcf77f0327996d8caaf45d5ea7227 5000 python-bitarray_2.7.6-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/python-bitarray"
   ],
   "Files": [
-    "570e2e3c6232ea02ec28a076962933dd 2161 python-bitarray_2.7.5-1.dsc 01f9eb72a0a1479ca808218d47d2ac0a 171909 python-bitarray_2.7.5.orig.tar.gz bc228ad2b3628122669c58f325ea5b10 4984 python-bitarray_2.7.5-1.debian.tar.xz"
+    "445835c37f556b49f374756df74fa69e 2161 python-bitarray_2.7.6-1.dsc 95eae9a8bc45024d6933a9e1d51d6cb1 171920 python-bitarray_2.7.6.orig.tar.gz 9bacf812741484358eaeeefcff424773 5000 python-bitarray_2.7.6-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/python-team/packages/python-bitarray.git"
   ],
   "Version": [
-    "2.7.5-1"
+    "2.7.6-1"
   ]
 }

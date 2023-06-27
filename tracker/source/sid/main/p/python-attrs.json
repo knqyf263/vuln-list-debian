@@ -6,16 +6,16 @@
     "python3-attr, python-attr-doc"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), dh-sequence-python3, dh-sequence-sphinxdoc, pybuild-plugin-pyproject, python3-all, python3-doc, python3-hypothesis, python3-myst-parser, python3-pytest, python3-setuptools, python3-sphinx, python3-sphinx-rtd-theme, python3-zope.interface"
+    "debhelper-compat (= 13), dh-sequence-python3, dh-sequence-sphinxdoc, pybuild-plugin-pyproject, python3-all, python3-doc, python3-hatchling, python3-hatch-fancy-pypi-readme, python3-hatch-vcs, python3-hypothesis, python3-myst-parser, python3-pytest, python3-sphinx, python3-sphinx-rtd-theme, python3-zope.interface"
   ],
   "Checksums-Sha256": [
-    "3faa1718a0e880e58d294f7f91c4c94ce67eede51728208c4c8a091d0140dabc 2156 python-attrs_22.2.0-1.dsc 7fae80170e208d470076102e4e7593e28fce140077b14768c2182f8c5de4a29a 206232 python-attrs_22.2.0.orig.tar.gz d162a4bde9021f66be6b4131e15cda623d48bb9bdda7f653e3ea145d0d99536e 5876 python-attrs_22.2.0-1.debian.tar.xz"
+    "4cd05f79e20fc313b6f30422c70dd4d930b234753225057a7090988554d4a2d7 2207 python-attrs_23.1.0-1.dsc 97f10ba391edd597205d663c11330867a224492b5ce67c88788fa6d5760629d3 210845 python-attrs_23.1.0.orig.tar.gz 17f09842c1fdd0439b817af134518ed0c2103131266b4ede745243163b967e0c 5948 python-attrs_23.1.0-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/python-attrs"
   ],
   "Files": [
-    "7379c6661e0d7448265ced090a089b63 2156 python-attrs_22.2.0-1.dsc 756421e313935a369d868a06584dd55d 206232 python-attrs_22.2.0.orig.tar.gz 86d582935b8c9cef6f8f587a21194a41 5876 python-attrs_22.2.0-1.debian.tar.xz"
+    "b888beb2e289c5bb8069dd1758574cb4 2207 python-attrs_23.1.0-1.dsc 24070e6a9aa7115ef6bfec26ee3d7de5 210845 python-attrs_23.1.0.orig.tar.gz 555856fd22230adbfe59ce5b046e3733 5948 python-attrs_23.1.0-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/python-team/packages/python-attrs.git"
   ],
   "Version": [
-    "22.2.0-1"
+    "23.1.0-1"
   ]
 }

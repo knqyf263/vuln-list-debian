@@ -9,13 +9,13 @@
     "debhelper-compat (= 13)"
   ],
   "Checksums-Sha256": [
-    "15fc6e957ca840fe78a161bd125fa12f56a104a5e447ef93f59a256b72766024 1651 dh-coq_0.5.dsc c1299f565a91f17c2bbfbc372ac88424b7d309fbae94de966da1dce989ebcf88 7540 dh-coq_0.5.tar.xz"
+    "cd0ff4d6d08d7c7b800ab9c4334aa8de91b961e998f7c097e7d6beae34584df8 1651 dh-coq_0.6.dsc aff56877ab8b28c97bcff9c3d73f14543c26378e53377969fcb33e4ee753d897 7608 dh-coq_0.6.tar.xz"
   ],
   "Directory": [
     "pool/main/d/dh-coq"
   ],
   "Files": [
-    "85194dee3bdec1bb9e95b78074f5e02b 1651 dh-coq_0.5.dsc ea81f75e3e536df413d4dd6c2fed44df 7540 dh-coq_0.5.tar.xz"
+    "f48b4848e19f644ab428b80d12f52121 1651 dh-coq_0.6.dsc d6e392c64ae644bae75b911f29a79741 7608 dh-coq_0.6.tar.xz"
   ],
   "Format": [
     "3.0 (native)"
@@ -36,7 +36,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Uploaders": [
     "Julien Puydt \u003cjpuydt@debian.org\u003e"
@@ -48,6 +48,6 @@
     "https://salsa.debian.org/ocaml-team/dh-coq.git"
   ],
   "Version": [
-    "0.5"
+    "0.6"
   ]
 }

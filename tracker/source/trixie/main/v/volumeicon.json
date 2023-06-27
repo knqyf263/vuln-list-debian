@@ -6,22 +6,22 @@
     "volumeicon-alsa"
   ],
   "Build-Depends": [
-    "debhelper (\u003e= 10), intltool, libgtk-3-dev, libasound2-dev, libnotify-dev"
+    "debhelper-compat (= 13), intltool, libgtk-3-dev, libasound2-dev, libnotify-dev"
   ],
   "Checksums-Sha256": [
-    "429468cd535190894297a86c7eff098e06b0209d0c3dc69f86129d7844353e88 2020 volumeicon_0.5.1+git20170117-1.dsc 76fa10a37664594eee6e2222215b8cfb53e47091cf240715c9ad854cb7dbbe31 56636 volumeicon_0.5.1+git20170117.orig.tar.xz 9b5cbf832257c10e5ff191234eb47ad11d0a1cd08b84c9f075e333af54d44fbd 4300 volumeicon_0.5.1+git20170117-1.debian.tar.xz"
+    "352fde2073769e5493d4b6c7977421d3e7eb480578e5df6e67a4a5ea51717228 1864 volumeicon_0.5.1+git20230228-1.dsc 83e7744bfe5dba7301dda98aa19d776847bddcb29be56ec8ec02e4ad6781f841 60628 volumeicon_0.5.1+git20230228.orig.tar.xz 1ffa85a8162c03a3cbd9a757a065b078c0ed11c4e801a0dbaad2218b559d96e1 4528 volumeicon_0.5.1+git20230228-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/v/volumeicon"
   ],
   "Files": [
-    "7ac880debd6c212a3ab9aad3d7839594 2020 volumeicon_0.5.1+git20170117-1.dsc 177192f5ad8a942379a7640be7a7e14b 56636 volumeicon_0.5.1+git20170117.orig.tar.xz 17c6db58757de3a2b9bee84a75c5d248 4300 volumeicon_0.5.1+git20170117-1.debian.tar.xz"
+    "d990efbeb74eb4caca1c9a6c5d987f87 1864 volumeicon_0.5.1+git20230228-1.dsc a086c65c91278e4fefd34b6dabaa1a0b 60628 volumeicon_0.5.1+git20230228.orig.tar.xz 1bb0f7899fc441223060015bea61a748 4528 volumeicon_0.5.1+git20230228-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
   ],
   "Homepage": [
-    "http://softwarebakery.com/maato/volumeicon.html"
+    "http://nullwise.com/volumeicon.html"
   ],
   "Maintainer": [
     "Mateusz Łukasik \u003cmati75@linuxmint.pl\u003e"
@@ -39,7 +39,7 @@
     "sound"
   ],
   "Standards-Version": [
-    "4.0.0"
+    "4.6.2"
   ],
   "Vcs-Browser": [
     "https://github.com/mati75/volumeicon-debian.git"
@@ -48,6 +48,6 @@
     "https://github.com/mati75/volumeicon-debian.git"
   ],
   "Version": [
-    "0.5.1+git20170117-1"
+    "0.5.1+git20230228-1"
   ]
 }

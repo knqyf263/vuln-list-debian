@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-sequence-golang, golang-any"
   ],
   "Checksums-Sha256": [
-    "fc972b15f849de918328257d946d46b71db30fc6d6c0644c671c86a966a2f4aa 2305 golang-github-felixge-httpsnoop_1.0.3-2.dsc 6c8f1ff85d90b4af6e6158d33e9fb7a2fe86dcb2c61b1082e8d755a868d466dd 11662 golang-github-felixge-httpsnoop_1.0.3.orig.tar.gz c4dba0a99f19f7b57d1784e7095502365a5a4be387333fe749a22e9ca58b878f 2288 golang-github-felixge-httpsnoop_1.0.3-2.debian.tar.xz"
+    "4d8dd84ca3345f4e7893c4f2d0e0379b86104e4b5484e2bfda4db089a17773d5 1675 golang-github-felixge-httpsnoop_1.0.3-3.dsc 6c8f1ff85d90b4af6e6158d33e9fb7a2fe86dcb2c61b1082e8d755a868d466dd 11662 golang-github-felixge-httpsnoop_1.0.3.orig.tar.gz 13ed08f60bf5d20d1896d8b338291ddbe0bcc9accaface6c8f7768acca142399 2524 golang-github-felixge-httpsnoop_1.0.3-3.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/g/golang-github-felixge-httpsnoop"
   ],
   "Files": [
-    "8d0eb84c39b78280c4a8ad25608eb563 2305 golang-github-felixge-httpsnoop_1.0.3-2.dsc 04309f3918e76c734e6e78ec1fbfa9ef 11662 golang-github-felixge-httpsnoop_1.0.3.orig.tar.gz c735260b96ca4f7ec4f72d527796092c 2288 golang-github-felixge-httpsnoop_1.0.3-2.debian.tar.xz"
+    "bd92163d19ba8dcfe7cafbce762b2a9c 1675 golang-github-felixge-httpsnoop_1.0.3-3.dsc 04309f3918e76c734e6e78ec1fbfa9ef 11662 golang-github-felixge-httpsnoop_1.0.3.orig.tar.gz 822dec6fefdd49a90598e5b60717a194 2524 golang-github-felixge-httpsnoop_1.0.3-3.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/go-team/packages/golang-github-felixge-httpsnoop.git"
   ],
   "Version": [
-    "1.0.3-2"
+    "1.0.3-3"
   ]
 }

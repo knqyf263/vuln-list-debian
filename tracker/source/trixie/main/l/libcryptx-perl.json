@@ -9,16 +9,16 @@
     "debhelper-compat (= 13), libjson-perl \u003c!nocheck\u003e, libmath-bigint-perl \u003c!nocheck\u003e, perl-xs-dev, perl:native"
   ],
   "Checksums-Sha256": [
-    "476ea0234572cf2931987187c189946850ab8c663d53f97ab51b97a9fa99ad56 2377 libcryptx-perl_0.077-1.dsc f741cd3a371f7754e790d174ff80c8f7fc1b120f95a0ab482bbe26a5246726a9 1647312 libcryptx-perl_0.077.orig.tar.gz 47e4c22ad1933094b8c5a694f6875194b8ee387052b928901619c9be58018a52 5240 libcryptx-perl_0.077-1.debian.tar.xz"
+    "9b4662b6bcb5d1f5a21d2fee94f61265000122aed02bb5a152ccc4b083eafc9a 2377 libcryptx-perl_0.078-1.dsc 93160b1242f7d5743cb3c931b8efc7cb39821d0e32f94f96933f1e88e618bcbd 1647544 libcryptx-perl_0.078.orig.tar.gz 6c2d8715515a42f3f6cc8368962b373028dfbd9f92b13497e2a6cb450715d2cb 5252 libcryptx-perl_0.078-1.debian.tar.xz"
   ],
   "Dgit": [
-    "42e03d42f60226f0a63a2c0ba31e127027d86c03 debian archive/debian/0.077-1 https://git.dgit.debian.org/libcryptx-perl"
+    "5ac0a817d688c51b3ee0109aac17d73dcbbc8645 debian archive/debian/0.078-1 https://git.dgit.debian.org/libcryptx-perl"
   ],
   "Directory": [
     "pool/main/libc/libcryptx-perl"
   ],
   "Files": [
-    "53f297702f8eaba54981a2affb2c7cdd 2377 libcryptx-perl_0.077-1.dsc 48a7d9463ac6521bd8529b3737673b10 1647312 libcryptx-perl_0.077.orig.tar.gz faf33560d04fea498067a27b2be80ce0 5240 libcryptx-perl_0.077-1.debian.tar.xz"
+    "7d3741265446bef2c4331c49389e19d3 2377 libcryptx-perl_0.078-1.dsc 24b34ceda18bbfa582b02646e9d297ea 1647544 libcryptx-perl_0.078.orig.tar.gz ba78ab3c755041d9220bc68a12f8e53b 5252 libcryptx-perl_0.078-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -42,7 +42,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest-pkg-perl"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/perl-team/modules/packages/libcryptx-perl.git"
   ],
   "Version": [
-    "0.077-1"
+    "0.078-1"
   ]
 }

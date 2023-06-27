@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-python, dh-sequence-python3, libpython3-all-dev, python3-all-dev:any, python3-setuptools"
   ],
   "Checksums-Sha256": [
-    "0becdd87cc1e344b09daaa5cf94267ac467fe75ea831fc28af8cd518af291c42 2053 markupsafe_2.1.2-1.dsc abcabc8c2b26036d62d4c746381a6f7cf60aafcc653198ad678306986b09450d 19080 markupsafe_2.1.2.orig.tar.gz 1165a4439404a0a34d9e2d533b5f8750567a3e4588337d4e25796b8525262f76 3624 markupsafe_2.1.2-1.debian.tar.xz"
+    "08252dfba2653e7ae7fbec679bb7fe20e15145fbf1ac0b8f195a89c8c9004db3 2053 markupsafe_2.1.3-1.dsc af598ed32d6ae86f1b747b82783958b1a4ab8f617b06fe68795c7f026abbdcad 19132 markupsafe_2.1.3.orig.tar.gz 284564d32c3ddd1631e5eb3ea98c8e0d3b55d0f7ade6976228cbeccaf4884e30 3632 markupsafe_2.1.3-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/m/markupsafe"
   ],
   "Files": [
-    "a944e201e0728b2ed52fa53b9d833e07 2053 markupsafe_2.1.2-1.dsc 02f337b98aef11bd0fee9c5ae860173b 19080 markupsafe_2.1.2.orig.tar.gz 0db5160dfa9d7b3b23f8141bb809a732 3624 markupsafe_2.1.2-1.debian.tar.xz"
+    "1769902cb1ac1a577e13069a2d8d42b4 2053 markupsafe_2.1.3-1.dsc ca33f119bd0551ce15837f58bb180214 19132 markupsafe_2.1.3.orig.tar.gz 5617f6e70c78e7d22176a55a66327e9b 3632 markupsafe_2.1.3-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/python-team/packages/markupsafe.git"
   ],
   "Version": [
-    "2.1.2-1"
+    "2.1.3-1"
   ]
 }

@@ -9,13 +9,13 @@
     "bash-completion, ca-certificates, dh-python, fdupes, cython3-dbg (\u003e= 0.17), python3 (\u003e= 2.6.6-3), python3-all-dbg (\u003e= 2.6.6-3), python3-all-dev (\u003e= 2.6.6-3), python3-configobj (\u003e= 4.7.2+ds-2), python3-coverage \u003c!nocheck\u003e, python3-dulwich (\u003e= 0.21.2), python3-docutils, python3-fastbencode, python3-fastimport (\u003e= 0.9.8), python3-launchpadlib, python3-merge3, python3-paramiko, python3-patiencediff, python3-setuptools, python3-setuptools-gettext, python3-setuptools-rust, python3-six, python3-sphinx (\u003e= 1.0.7+dfsg), python3-subunit \u003c!nocheck\u003e, python3-testtools (\u003e= 0.9.5~) \u003c!nocheck\u003e, python3-yaml, debhelper-compat (= 13), librust-pkg-version-dev, librust-pyo3-dev, librust-regex+aho-corasick-dev, rustc"
   ],
   "Checksums-Sha256": [
-    "640c593d41e4037200827b0e347d824458274d59aadd76c9baa8cbb6199473d4 2562 breezy_3.3.2-3.dsc 937ed998f88871a9640dca731ea9ebf090488b12bf0cb46755cc669f360e2661 8694891 breezy_3.3.2.orig.tar.gz bc824b97745d96fee3ae733752c451a479d8dbd6cc6fa57c209a7ff4198e4170 75344 breezy_3.3.2-3.debian.tar.xz"
+    "a7838d0d34722c843894256a21a2798d62998a577616f9820e5b128f06cb274b 2562 breezy_3.3.3-1.dsc 984aa4ee609ee389c4f0b4ec5dd71608a7034991deca502d591d57a6d73e30d2 8690282 breezy_3.3.3.orig.tar.gz 7e506b26b9123f19232a4ee7902e4fe2f5d233df85733991386cfd025e6daba2 74596 breezy_3.3.3-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/b/breezy"
   ],
   "Files": [
-    "f21e3f807c3cd26cca9be4a43e6cba21 2562 breezy_3.3.2-3.dsc d5c4293bc93d588a990a6744b34cd76a 8694891 breezy_3.3.2.orig.tar.gz 6231f98b7b57bdfa7a0139d7822968ad 75344 breezy_3.3.2-3.debian.tar.xz"
+    "7d1a7a16225d2761a1dc01f0563544e4 2562 breezy_3.3.3-1.dsc 39799932dd47278b9db9a3372bb735ca 8690282 breezy_3.3.3.orig.tar.gz a6715f62af5d8f694f74557354bbc3d8 74596 breezy_3.3.3-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest"
@@ -57,6 +57,6 @@
     "https://code.launchpad.net/~jelmer/debian/sid/breezy/main/"
   ],
   "Version": [
-    "3.3.2-3"
+    "3.3.3-1"
   ]
 }

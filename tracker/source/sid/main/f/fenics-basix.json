@@ -12,13 +12,13 @@
     "doxygen, graphviz"
   ],
   "Checksums-Sha256": [
-    "50cf6aa9a844c034166f768fbd8d1b002125672776a3f22ac0bfd602482b2991 2770 fenics-basix_0.6.0-2.dsc 687ae53153c98facac4080dcdc7081701db1dcea8c5e7ae3feb72aec17f83304 609574 fenics-basix_0.6.0.orig.tar.gz d3a5e859dcfee15b8c6cda6b76c2acfe87a4b1bd7a00aad71d5e3d2a3adc8de0 8952 fenics-basix_0.6.0-2.debian.tar.xz"
+    "fc4f739e43cadce8cf636a763beeb1d06c710daa4b4574958d8016c827ddc36f 2770 fenics-basix_0.6.0-3.dsc 687ae53153c98facac4080dcdc7081701db1dcea8c5e7ae3feb72aec17f83304 609574 fenics-basix_0.6.0.orig.tar.gz f7a163d06e9e4895e7cbcd1d06ecc6345e4f4f86316889114a0d5ca4a0205624 9000 fenics-basix_0.6.0-3.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/f/fenics-basix"
   ],
   "Files": [
-    "3c51db411a6c972c1b121ee883e41197 2770 fenics-basix_0.6.0-2.dsc c74b2c84714eef45f61c3c97e1dc2660 609574 fenics-basix_0.6.0.orig.tar.gz ffe32d512d7f8dc92bd8e2153d4ca311 8952 fenics-basix_0.6.0-2.debian.tar.xz"
+    "05a710f48cac117a38e5fa5c6432fbb8 2770 fenics-basix_0.6.0-3.dsc c74b2c84714eef45f61c3c97e1dc2660 609574 fenics-basix_0.6.0.orig.tar.gz dd832df2ba5d5c722183d422a3ae3ec9 9000 fenics-basix_0.6.0-3.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -60,6 +60,6 @@
     "https://salsa.debian.org/science-team/fenics/fenics-basix.git"
   ],
   "Version": [
-    "0.6.0-2"
+    "0.6.0-3"
   ]
 }

@@ -6,16 +6,16 @@
     "unmass"
   ],
   "Build-Depends": [
-    "debhelper (\u003e= 11), dh-autoreconf"
+    "debhelper-compat (= 13), dh-autoreconf"
   ],
   "Checksums-Sha256": [
-    "455f00964a4367c90fb8471b9bcdfdf6a97192d9469ca2ea80cab89a966952fb 1714 unmass_0.9-5.dsc ed3829e4a73592ed3b0628a8ded27b4aec052d39b2083dac5213fcd628054e51 393735 unmass_0.9.orig.tar.gz 7033d6fbd2a90813690317cdc023c0965250ee2cb6c70948b271093c9af8f606 2812 unmass_0.9-5.debian.tar.xz"
+    "3497a4b1d41d0c26e6f219867d3d8637de36f28bc5e0ebb2fb019147cb17c5d1 1720 unmass_0.9-7.dsc ed3829e4a73592ed3b0628a8ded27b4aec052d39b2083dac5213fcd628054e51 393735 unmass_0.9.orig.tar.gz f275c2d3cd8fa9387df2cd7bba9796d0e407c47dea9aa180153cdc3b6101a8d9 3008 unmass_0.9-7.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/u/unmass"
   ],
   "Files": [
-    "3760f1140344188b30c03225c5bbb9e6 1714 unmass_0.9-5.dsc feba286425d2957b447887bd325af283 393735 unmass_0.9.orig.tar.gz 456c0c8d02dee2d26614f7bd5b9b7faa 2812 unmass_0.9-5.debian.tar.xz"
+    "9ae26afcf3eecf3e5846f56372f42338 1720 unmass_0.9-7.dsc feba286425d2957b447887bd325af283 393735 unmass_0.9.orig.tar.gz 8210b1a0eb0334d36ccf4aa1f4d18054 3008 unmass_0.9-7.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,9 +39,9 @@
     "utils"
   ],
   "Standards-Version": [
-    "4.1.4"
+    "4.6.2"
   ],
   "Version": [
-    "0.9-5"
+    "0.9-7"
   ]
 }

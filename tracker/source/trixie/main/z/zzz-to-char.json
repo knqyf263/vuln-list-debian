@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-elpa"
   ],
   "Checksums-Sha256": [
-    "e95dfd7a33f27c7610598c4d87bfa362b1c02e865b7d20ee09daf81e8a4565f1 1947 zzz-to-char_0.1.3-3.dsc a828b7b7e7daf7b52cfac7c95a4f66f2468e1232caa8ac6ad732c3aef410a529 2540 zzz-to-char_0.1.3.orig.tar.gz 929ab1cde64e8cbb0d52cbda9fb41276160a0e8b039aba1bc3d6e09089741b2b 2988 zzz-to-char_0.1.3-3.debian.tar.xz"
+    "9c1e24d12fccc95fbc2e9fde4f76d228557722681e5285640564193f040cec7e 1947 zzz-to-char_1.0.0-1.dsc 0f3aa361d97bcc06b1e27b39f24da758122a17f246326548d0caa485f1fd5c2c 2965 zzz-to-char_1.0.0.orig.tar.gz bd39fc95e2b1e3e30f0c5631a01a32395608451d110fac61f0b1199bcfd2f5d7 3080 zzz-to-char_1.0.0-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/z/zzz-to-char"
   ],
   "Files": [
-    "83907d33ca7408c9c11f0cff207909a3 1947 zzz-to-char_0.1.3-3.dsc 0b48b30afd7781aa6072ddb6730ad5ac 2540 zzz-to-char_0.1.3.orig.tar.gz d776c311c46a6d0f7c794d444c2c4397 2988 zzz-to-char_0.1.3-3.debian.tar.xz"
+    "de3441c22433e07c1bf3b069cea90c14 1947 zzz-to-char_1.0.0-1.dsc 2eb263f27dc4dbd45f97ebd580b871bd 2965 zzz-to-char_1.0.0.orig.tar.gz 9218ef1b5ee643d81accb98c8b05d662 3080 zzz-to-char_1.0.0-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.5.1"
+    "4.6.2"
   ],
   "Uploaders": [
     "Lev Lamberov \u003cdogsleg@debian.org\u003e"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/emacsen-team/zzz-to-char.git"
   ],
   "Version": [
-    "0.1.3-3"
+    "1.0.0-1"
   ]
 }

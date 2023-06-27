@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-sequence-python3, python3-all, python3-setuptools, python3-sphinx"
   ],
   "Checksums-Sha256": [
-    "37d35acf9748054a76244b87b99a99b86f6d1938193731d3cfa0c4777e709200 2252 python-pallets-sphinx-themes_2.0.3-1.dsc 330e1896c941649305999a514e1db0b1eb514b6452fd5ee97738335d47b9214c 20835 python-pallets-sphinx-themes_2.0.3.orig.tar.gz 5f6dde0ea57c1187349cd612ae8a476e242188fc4b0ba8206bbb3cf4b61ee928 3960 python-pallets-sphinx-themes_2.0.3-1.debian.tar.xz"
+    "41efd522eb9b8692aeae2da52816c76661b0bf8c4b456b94dabd40716b6c1b40 2252 python-pallets-sphinx-themes_2.1.1-1.dsc 8f856df9218f01cfe9396e6d423d308254f1d06568b9fc357f2fdce763118d1b 22349 python-pallets-sphinx-themes_2.1.1.orig.tar.gz 5eba187dc19b51f7c9bae1420a5c445a1afa8763eca87df851395ea86b06c912 4004 python-pallets-sphinx-themes_2.1.1-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/python-pallets-sphinx-themes"
   ],
   "Files": [
-    "a058aca3c3208d898aced933ebc710e2 2252 python-pallets-sphinx-themes_2.0.3-1.dsc 3f263d6cf1e2f022023a86c2d3f9a4a4 20835 python-pallets-sphinx-themes_2.0.3.orig.tar.gz 3a10d6f42f66267a242f264522bbe408 3960 python-pallets-sphinx-themes_2.0.3-1.debian.tar.xz"
+    "8d9e73f9565f7d2bf7f4b281a60b68ee 2252 python-pallets-sphinx-themes_2.1.1-1.dsc 7072fffc37a9d1790c98b8ae15f1f25d 22349 python-pallets-sphinx-themes_2.1.1.orig.tar.gz c0a78445797ab9b9f0d4f12b34e97c4c 4004 python-pallets-sphinx-themes_2.1.1-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/python-team/packages/python-pallets-sphinx-themes.git"
   ],
   "Version": [
-    "2.0.3-1"
+    "2.1.1-1"
   ]
 }

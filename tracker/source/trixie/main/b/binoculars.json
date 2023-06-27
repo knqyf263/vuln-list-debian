@@ -9,16 +9,16 @@
     "debhelper-compat (= 13), dh-python, gir1.2-hkl-5.0, python3, python3-gi, python3-h5py, python3-numpy, python3-pyfai, python3-pymca5, python3-setuptools, python3-sphinx, python3-xrayutilities"
   ],
   "Checksums-Sha256": [
-    "d8c4548d97e15c829140303c17a868db4b0d2abb3b346a11edf049cf57abfdd4 2528 binoculars_0.0.13-1.dsc 46027079a7cb379de4c8f3de92a8611f946434b1b2455fc432fb1314b7da7c9c 226241 binoculars_0.0.13.orig.tar.gz d8417a832079a121c6497c75b1839aad79d06b063ecad071b3c56444c2f8bd38 3612 binoculars_0.0.13-1.debian.tar.xz"
+    "5749536538fd1d6d3e0ed2aeeb98180465ca1d80d5dfd47fee94b89a08869280 2528 binoculars_0.0.14-1.dsc 7e86dfdb1f8e2b10b3bc12aee8b8b6d76f5788e348c3a72450550cb94467462d 226254 binoculars_0.0.14.orig.tar.gz 3c3d586fe314ac253d02fc360f45f1e3b82d6b7b2893482e606f5b6f21918a53 3616 binoculars_0.0.14-1.debian.tar.xz"
   ],
   "Dgit": [
-    "47541b15f7f6b1a1fab7110d7b8baa42ab8f9646 debian archive/debian/0.0.13-1 https://git.dgit.debian.org/binoculars"
+    "ad9ac583e6ec56bddf1bdc580e3199c5d74d01a8 debian archive/debian/0.0.14-1 https://git.dgit.debian.org/binoculars"
   ],
   "Directory": [
     "pool/main/b/binoculars"
   ],
   "Files": [
-    "e08f4ae4513a13e74005f83d81463fe1 2528 binoculars_0.0.13-1.dsc ffb36d59fff9dcd808ffa79aeffc87f3 226241 binoculars_0.0.13.orig.tar.gz f3b23555035daabcc48142c3052f16c8 3612 binoculars_0.0.13-1.debian.tar.xz"
+    "62cf250d23b8facf9d7ee9d25de1035c 2528 binoculars_0.0.14-1.dsc 419bb67b60da4b7c79b06562adf4be7d 226254 binoculars_0.0.14.orig.tar.gz 536206d4d1d55d6fbefc10ea7f969053 3616 binoculars_0.0.14-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -60,6 +60,6 @@
     "https://salsa.debian.org/science-team/binoculars.git"
   ],
   "Version": [
-    "0.0.13-1"
+    "0.0.14-1"
   ]
 }

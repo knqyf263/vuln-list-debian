@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), libice-dev, libsm-dev, libx11-dev, libxau-dev, libxdmcp-dev"
   ],
   "Checksums-Sha256": [
-    "f00de7477e30baee3d1a6b36ea1d870e5e99c8457e78c8720a083c97357ed190 1932 gifsicle_1.93-2.dsc 941c0b1c3ebc748949a0d14363f0fb3c9d2c06ee122b3548315b9233eb956d88 479435 gifsicle_1.93.orig.tar.gz a96cdf55cbfde9cf5b60f9b2d27fe0117216671d69bb9b758056d10614ba8e78 6060 gifsicle_1.93-2.debian.tar.xz"
+    "120cd9e5fd40b3e63f9c4f93b3475433ffe292360e1f5dbd8c36c085479ecb23 1927 gifsicle_1.94-1.dsc ed3ae1bcb3e69c172e82963b84c260cb0fab00a3ba3587ea2042af4bbefcce6a 480324 gifsicle_1.94.orig.tar.gz f7c783313895c666ba8bf177d8f560fdd2430b28a437c2bbe8cf2c9bfb5f6402 6136 gifsicle_1.94-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/g/gifsicle"
   ],
   "Files": [
-    "7d6680738302d43e7d569c0e612f776b 1932 gifsicle_1.93-2.dsc beb45d12d78293a660dc3fb7c667a50b 479435 gifsicle_1.93.orig.tar.gz b7c118db16a5ed413309e5b42ea10ec5 6060 gifsicle_1.93-2.debian.tar.xz"
+    "164e604db5ac63033ed3b2de39546838 1927 gifsicle_1.94-1.dsc 44303cd0eebdc5bc1adfc7b742bce130 480324 gifsicle_1.94.orig.tar.gz 25a54e6d39f70ecdd4c47446aa8d0916 6136 gifsicle_1.94-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -24,7 +24,7 @@
     "http://www.lcdf.org/gifsicle/"
   ],
   "Maintainer": [
-    "Gürkan Myczko \u003cgurkan@phys.ethz.ch\u003e"
+    "Gürkan Myczko \u003ctar@debian.org\u003e"
   ],
   "Package": [
     "gifsicle"
@@ -39,7 +39,7 @@
     "graphics"
   ],
   "Standards-Version": [
-    "4.5.1"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/debian/gifsicle.git"
   ],
   "Version": [
-    "1.93-2"
+    "1.94-1"
   ]
 }

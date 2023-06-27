@@ -15,13 +15,13 @@
     "graphviz"
   ],
   "Checksums-Sha256": [
-    "864ad1a08599ac878b277acbd55cd29602ca575951a986f5f3e5a63f423fef04 8487 boost1.74_1.74.0+ds1-21.dsc 192f5df504d282cb81288f88232d8af45b64a9ab531e1c7cf8ae955f16f6bb28 60678948 boost1.74_1.74.0+ds1.orig.tar.xz 6549dab4824c781e0510272ac352f9e0367d4d47c16c94989e5ec7447fd8f0d8 373640 boost1.74_1.74.0+ds1-21.debian.tar.xz"
+    "4c1ca440507ccfd1e80c8d4d54cad0e838d612916d917344ef330a101be7aa61 8495 boost1.74_1.74.0+ds1-21.1.dsc 192f5df504d282cb81288f88232d8af45b64a9ab531e1c7cf8ae955f16f6bb28 60678948 boost1.74_1.74.0+ds1.orig.tar.xz 5d7fec5a32fa4e95d85c8d67b3c0c00de1fba58251ee01c467f7f5e5a9cd5fe4 375220 boost1.74_1.74.0+ds1-21.1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/b/boost1.74"
   ],
   "Files": [
-    "d0ba4b863eb1d94b3c6827b5cbdf350e 8487 boost1.74_1.74.0+ds1-21.dsc 1394c19c58a017e195b3f54c7f38b0a5 60678948 boost1.74_1.74.0+ds1.orig.tar.xz b1a83749d0e1d5a3003196e10c965449 373640 boost1.74_1.74.0+ds1-21.debian.tar.xz"
+    "47ea9d385b13e937fc8b705180bdae6d 8495 boost1.74_1.74.0+ds1-21.1.dsc 1394c19c58a017e195b3f54c7f38b0a5 60678948 boost1.74_1.74.0+ds1.orig.tar.xz e20c9df11519d7cd56d27a736435adc4 375220 boost1.74_1.74.0+ds1-21.1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -63,6 +63,6 @@
     "https://salsa.debian.org/debian/boost.git"
   ],
   "Version": [
-    "1.74.0+ds1-21"
+    "1.74.0+ds1-21.1"
   ]
 }

@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-python, python3-all, sqlite3"
   ],
   "Checksums-Sha256": [
-    "8f45e84ebfaaf3ba68ec38398de05793851107eae62e7042d7533926e7a81e52 1981 cppman_0.5.4+dfsg1-2.dsc 191f5deb04761c97f62c1ceaaea8d0ffe278e6591e3afe5fd1a28cd90296122e 33652 cppman_0.5.4+dfsg1.orig.tar.xz 3ebbdbe0365fe3837ea793e58815aa43195c8dff1ec8d2febc352135563c07ea 155852 cppman_0.5.4+dfsg1-2.debian.tar.xz"
+    "f02197664bfa60beb01fa5edcdd53ac6c2a564c12bc68559a7c9568f8a0027e1 1974 cppman_0.5.6+dfsg-1.dsc 62f8cf6e4daee41306d1238a3ec246f7185a7b053e9b6e157b64be27f1f931d4 35040 cppman_0.5.6+dfsg.orig.tar.xz d3f175afdf6e2da4240505ddfc2c56d5aef62c6c2750ba1b8987be4e4dd7ff0a 206084 cppman_0.5.6+dfsg-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/c/cppman"
   ],
   "Files": [
-    "fbae35cf5ede2a968ae63d7a418b3da5 1981 cppman_0.5.4+dfsg1-2.dsc 6ae583173694a7b8eeecd24db38da528 33652 cppman_0.5.4+dfsg1.orig.tar.xz 5abf7e9a9ce18f17ac3f55675a98dd7f 155852 cppman_0.5.4+dfsg1-2.debian.tar.xz"
+    "0620c171b0c44174086f26bd2cde0117 1974 cppman_0.5.6+dfsg-1.dsc 6331743807083b392026d61bdbf52cdf 35040 cppman_0.5.6+dfsg.orig.tar.xz 05273ee40cbcc81b27c43c1df4da4b69 206084 cppman_0.5.6+dfsg-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Uploaders": [
     "ChangZhuo Chen (陳昌倬) \u003cczchen@debian.org\u003e"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/python-team/packages/cppman.git"
   ],
   "Version": [
-    "0.5.4+dfsg1-2"
+    "0.5.6+dfsg-1"
   ]
 }

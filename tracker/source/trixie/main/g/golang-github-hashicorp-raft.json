@@ -6,16 +6,16 @@
     "golang-github-hashicorp-raft-dev"
   ],
   "Build-Depends": [
-    "debhelper (\u003e= 12~), dh-golang, golang-any, golang-github-armon-go-metrics-dev, golang-github-hashicorp-go-hclog-dev (\u003e= 0.9.2~), golang-github-hashicorp-go-msgpack-dev (\u003e= 0.5.5~)"
+    "debhelper-compat (= 12), dh-golang, golang-any, golang-github-armon-go-metrics-dev, golang-github-hashicorp-go-hclog-dev (\u003e= 0.9.2~), golang-github-hashicorp-go-msgpack-dev (\u003e= 0.5.5~)"
   ],
   "Checksums-Sha256": [
-    "a79f04f00eadc656a81002475cdd39c9e59885808a897a7d67879c667524d669 2408 golang-github-hashicorp-raft_1.1.2-1.dsc 6c3383ee430aa6b421cc4cb4cbc485b0e612bda2e94e88d416d13d65d375dc89 103160 golang-github-hashicorp-raft_1.1.2.orig.tar.xz 3877bf052d5719266221189613502262d1be1af152c736d3dc8ed49734ad6dd8 8980 golang-github-hashicorp-raft_1.1.2-1.debian.tar.xz"
+    "6b45a7d4ddf2fda76950ac8a874c48e9db669fc97624a9dc3e21ce5e0b590da5 2446 golang-github-hashicorp-raft_1.1.2-2.dsc 6c3383ee430aa6b421cc4cb4cbc485b0e612bda2e94e88d416d13d65d375dc89 103160 golang-github-hashicorp-raft_1.1.2.orig.tar.xz 921b4147c965f1a716d953bda2ba3a5a752063ac0fd55ed5bcd50addf9142273 3904 golang-github-hashicorp-raft_1.1.2-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/g/golang-github-hashicorp-raft"
   ],
   "Files": [
-    "501972580ae7c9478ed4c3d4b7d76c81 2408 golang-github-hashicorp-raft_1.1.2-1.dsc 65844d5b08afa2d62ea4dedaf43e6047 103160 golang-github-hashicorp-raft_1.1.2.orig.tar.xz 036528358012213daa0588e86be2a3d4 8980 golang-github-hashicorp-raft_1.1.2-1.debian.tar.xz"
+    "32e2d413d853b969ee09889da082b665 2446 golang-github-hashicorp-raft_1.1.2-2.dsc 65844d5b08afa2d62ea4dedaf43e6047 103160 golang-github-hashicorp-raft_1.1.2.orig.tar.xz 13b0378801415eee7300a3a78a0e30d5 3904 golang-github-hashicorp-raft_1.1.2-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/go-team/packages/golang-github-hashicorp-raft.git"
   ],
   "Version": [
-    "1.1.2-1"
+    "1.1.2-2"
   ]
 }

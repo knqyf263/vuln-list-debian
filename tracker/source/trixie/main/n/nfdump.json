@@ -9,13 +9,13 @@
     "bison, debhelper-compat (= 12), flex, libbz2-dev, libpcap-dev, librrd-dev, libz-dev, pkg-config, tzdata"
   ],
   "Checksums-Sha256": [
-    "c16ac6c9900375faf71f6f9f859c5e3be7a91938c8e90e94c8f8b7fc93cab4d8 2013 nfdump_1.7.1-2.dsc b06e0a7cee1dc641f67f404049ecee9b4d0ee1113542798d7df022ed9f2f4609 741446 nfdump_1.7.1.orig.tar.gz 1b70720865ae78dfc7615da1ae2dc9a1707f3adb9ffa00af378d4de36bb6edb9 10932 nfdump_1.7.1-2.debian.tar.xz"
+    "0dae57bf12f34a26011dc9492ece3a3723eaeb777b31fff6e0376ca3b5874f68 2013 nfdump_1.7.1-3.dsc b06e0a7cee1dc641f67f404049ecee9b4d0ee1113542798d7df022ed9f2f4609 741446 nfdump_1.7.1.orig.tar.gz 300a3dcdd289c3c5992fd06a647339e684d22691abf5c525ca325ba35e77b1a2 11380 nfdump_1.7.1-3.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/n/nfdump"
   ],
   "Files": [
-    "a013614a761c24bf9039d8c34a8b620a 2013 nfdump_1.7.1-2.dsc 14000174cadb0b6230ef930f1a8c7c71 741446 nfdump_1.7.1.orig.tar.gz 664c848373d640e6e4734b1ceab8f4c4 10932 nfdump_1.7.1-2.debian.tar.xz"
+    "ee1c5afed9a7e8b98d84a6f0e873003c 2013 nfdump_1.7.1-3.dsc 14000174cadb0b6230ef930f1a8c7c71 741446 nfdump_1.7.1.orig.tar.gz bfcb848637ea2fa8ab905dcbc68e171c 11380 nfdump_1.7.1-3.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/debian/nfdump.git -b unstable"
   ],
   "Version": [
-    "1.7.1-2"
+    "1.7.1-3"
   ]
 }

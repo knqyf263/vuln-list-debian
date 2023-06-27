@@ -9,19 +9,19 @@
     "debhelper-compat (= 13)"
   ],
   "Build-Depends-Indep": [
-    "libcpanel-json-xs-perl \u003c!nocheck\u003e, libjson-pp-perl \u003c!nocheck\u003e, libjson-xs-perl \u003c!nocheck\u003e, libtest-needs-perl (\u003e= 0.002006) \u003c!nocheck\u003e, perl"
+    "libcpanel-json-xs-perl \u003c!nocheck\u003e, libjson-pp-perl \u003c!nocheck\u003e, libjson-xs-perl \u003c!nocheck\u003e, libtest-needs-perl \u003c!nocheck\u003e, perl"
   ],
   "Checksums-Sha256": [
-    "ce3ef636117f10d54342a40d57489236e7b5c240ea46a6a699ad214a88c58680 2551 libjson-maybexs-perl_1.004004-1.dsc 7ca5921306a544f621705dce987fe955b1a6833d0b195c094626a19dca094dba 22610 libjson-maybexs-perl_1.004004.orig.tar.gz 466d42a525a5d06bf23ee0501eb87329025301d7f3fc75c0bc98e22318589386 2880 libjson-maybexs-perl_1.004004-1.debian.tar.xz"
+    "560a07188bcea1484793fe587bf1ab8dffa80ea5e2f4d1be6215a76a2b3fe5bd 2537 libjson-maybexs-perl_1.004005-1.dsc f5b6bc19f579e66b7299f8748b8ac3e171936dc4e7fcb72a8a257a9bd482a331 23133 libjson-maybexs-perl_1.004005.orig.tar.gz 12d7efa5824920cb436609a16d57bd47ebbe6bf1e30be7d1871fab88e461cac5 2912 libjson-maybexs-perl_1.004005-1.debian.tar.xz"
   ],
   "Dgit": [
-    "e74aef3625959cdf164b70337dbdd39358ebacc4 debian archive/debian/1.004004-1 https://git.dgit.debian.org/libjson-maybexs-perl"
+    "7399c41f5fe68b83b3cc56741ac80874b8916fec debian archive/debian/1.004005-1 https://git.dgit.debian.org/libjson-maybexs-perl"
   ],
   "Directory": [
     "pool/main/libj/libjson-maybexs-perl"
   ],
   "Files": [
-    "ed6fa4d8f391c7ee18bc0e08255f9190 2551 libjson-maybexs-perl_1.004004-1.dsc 294fbf4020f57458556834d32ac59887 22610 libjson-maybexs-perl_1.004004.orig.tar.gz 9704babccb1e59ef2c62a0609a4f30b7 2880 libjson-maybexs-perl_1.004004-1.debian.tar.xz"
+    "a2cffef61f8c87112bdf5ae0cd57ccc0 2537 libjson-maybexs-perl_1.004005-1.dsc bee9d0cba3f87e05e9613684e4ee2159 23133 libjson-maybexs-perl_1.004005.orig.tar.gz 7dabdfe5793a1ce87ed3cfcb516a7588 2912 libjson-maybexs-perl_1.004005-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -45,7 +45,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest-pkg-perl"
@@ -60,6 +60,6 @@
     "https://salsa.debian.org/perl-team/modules/packages/libjson-maybexs-perl.git"
   ],
   "Version": [
-    "1.004004-1"
+    "1.004005-1"
   ]
 }

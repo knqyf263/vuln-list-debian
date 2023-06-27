@@ -9,13 +9,13 @@
     "cython3, debhelper-compat (= 13), dh-python, dh-sequence-python3, libsystemd-dev, pkg-config, python3-all-dev, python3-lxml \u003c!nocheck\u003e, python3-mock \u003c!nocheck\u003e, python3-setuptools, python3-six"
   ],
   "Checksums-Sha256": [
-    "69798c1228b7cc4a1bfcbdfb1e4304542002463dbe1395dafdd9453518986f0f 2227 pystemd_0.11.0-1.dsc 0440e95f50392b69acacff76d0ec33df02201e8128428ff4221a6f78f72d9125 284136 pystemd_0.11.0.orig.tar.gz 8cd1d323cd2d15ad49741ef2631412deb9c1c06c34e98d91d9d28973a2b151b9 3128 pystemd_0.11.0-1.debian.tar.xz"
+    "993a4c27d8eb33bf2e268295ea3a602d8d0e81fc02ef37da4ff8600f670c40b3 2227 pystemd_0.13.2-1.dsc 4dcfa4b13a55685c49d3d17c10631eca18c33770f66316f8ef2337b8951cc144 308397 pystemd_0.13.2.orig.tar.gz 8b498e392eb39b247eeae1827b127df3232b29bba269f0c41fc5c2e18942ceaf 3252 pystemd_0.13.2-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/pystemd"
   ],
   "Files": [
-    "b25d10c4fd2a4bb3d1d8d3579616809a 2227 pystemd_0.11.0-1.dsc 6db97d1b9645fad5217802bf33c2f384 284136 pystemd_0.11.0.orig.tar.gz fd7913200ec0cc8387692abf8d259069 3128 pystemd_0.11.0-1.debian.tar.xz"
+    "3a448172df24eb23718d85426ece1714 2227 pystemd_0.13.2-1.dsc 780fe0d823723085993bcc1680c31284 308397 pystemd_0.13.2.orig.tar.gz 1da92d3559ddb2831e945d34e3d72f8a 3252 pystemd_0.13.2-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/python-team/packages/pystemd.git"
   ],
   "Version": [
-    "0.11.0-1"
+    "0.13.2-1"
   ]
 }

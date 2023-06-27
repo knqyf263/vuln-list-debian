@@ -15,13 +15,13 @@
     "wasi-libc (\u003e= 0.0~git20220510.9886d3d~~) \u003c!nowasm\u003e, wasi-libc (\u003c= 0.0~git20220510.9886d3d++) \u003c!nowasm\u003e, clang-15:native"
   ],
   "Checksums-Sha256": [
-    "4746d4ce89d5ad88357131be4979fb28f3dcf588206c2ae0ab42c3e09d7de463 3221 rustc_1.65.0+dfsg1-1.dsc 169203805528f15f0a641de5f891d51ed505f340e717499afc60298d8b84a521 38066356 rustc_1.65.0+dfsg1.orig.tar.xz ef9401b89313eab3de14ca7d3934928bbe3b54fa6b138866353f41ef30f46182 96656 rustc_1.65.0+dfsg1-1.debian.tar.xz"
+    "0f7ca71954bc49a8f5ad563bfd004fd2870df90c8b7ab841653d5a40eaee74ea 3546 rustc_1.65.0+dfsg1-2.dsc 169203805528f15f0a641de5f891d51ed505f340e717499afc60298d8b84a521 38066356 rustc_1.65.0+dfsg1.orig.tar.xz 7435c3125b9c4dd019860d6f34a383d8ba93be26c9772f84b6bb0093af8b08c9 96684 rustc_1.65.0+dfsg1-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/rustc"
   ],
   "Files": [
-    "034f3bb31834dc6d7c052bc569069ef1 3221 rustc_1.65.0+dfsg1-1.dsc bc538c4e85df2d25477e8da56c7873ac 38066356 rustc_1.65.0+dfsg1.orig.tar.xz 3168a2a8c8ad7df08d7b0535e7461192 96656 rustc_1.65.0+dfsg1-1.debian.tar.xz"
+    "b416194428bb523e90475cf957a25dba 3546 rustc_1.65.0+dfsg1-2.dsc bc538c4e85df2d25477e8da56c7873ac 38066356 rustc_1.65.0+dfsg1.orig.tar.xz e7f7cf2cd1f881eced6900ca31d9c04f 96684 rustc_1.65.0+dfsg1-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/rust-team/rust.git"
   ],
   "Version": [
-    "1.65.0+dfsg1-1"
+    "1.65.0+dfsg1-2"
   ]
 }

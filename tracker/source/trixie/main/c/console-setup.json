@@ -12,13 +12,13 @@
     "xkb-data (\u003e= 1.6), locales-all, sharutils"
   ],
   "Checksums-Sha256": [
-    "5557688a422aa8ed927a95ac7a3f96639993e6773dd118bab1bf72b19cefd7c2 3231 console-setup_1.221.dsc 2764c09e2bd06a927f62cae0a9995c05698db67a2f9ac11fcebef7e8dba6c63c 2601020 console-setup_1.221.tar.xz"
+    "4ae3c2a84516d907f4a2fbc14975f2ed8841409716f059c6f6239c427bdee149 2857 console-setup_1.222.dsc 60f759afed744b0242f75c90e25a168a7c360d4f2c4278b9a9badc850f2c5e02 2601648 console-setup_1.222.tar.xz"
   ],
   "Directory": [
     "pool/main/c/console-setup"
   ],
   "Files": [
-    "bd1329c46193fbd88e823eb6efc063d4 3231 console-setup_1.221.dsc 672fb9440a5592a0b404e27908a20adf 2601020 console-setup_1.221.tar.xz"
+    "d8e991f411562eb067d072a3cfbd95b9 2857 console-setup_1.222.dsc f41dab27660127f4198b828d33388b86 2601648 console-setup_1.222.tar.xz"
   ],
   "Format": [
     "3.0 (native)"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/installer-team/console-setup.git"
   ],
   "Version": [
-    "1.221"
+    "1.222"
   ]
 }
