@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-exec, libacl1-dev, libcap-dev [linux-any], libldap-dev, default-libmysqlclient-dev, libncurses-dev, libpam-dev, libpcre2-dev, libpq-dev, libsqlite3-dev, libssl-dev, libwrap0-dev, unixodbc-dev, zlib1g-dev, libgeoip-dev, libmemcached-dev, libhiredis-dev, libsodium-dev, libmd-dev, libidn2-dev"
   ],
   "Checksums-Sha256": [
-    "8a451b24f5e9eb23b06a1c052213b0d49b1f8aa6b22d9feffeacb673f54a1e53 3240 proftpd-dfsg_1.3.8+dfsg-6.dsc b80e706614949e04f250fadea0a5e424da7c8fe43f30dbadbbbbac8dc0220ead 19437185 proftpd-dfsg_1.3.8+dfsg.orig.tar.gz 2d5dccccc8886112598bf704228689ef788f07a4a7d857c64ea279af4e6a6a09 79364 proftpd-dfsg_1.3.8+dfsg-6.debian.tar.xz"
+    "9c42cf1010c0f84c587a8e908b2949c230b5437af6799d43dc414b7543169f02 3240 proftpd-dfsg_1.3.8+dfsg-7.dsc b80e706614949e04f250fadea0a5e424da7c8fe43f30dbadbbbbac8dc0220ead 19437185 proftpd-dfsg_1.3.8+dfsg.orig.tar.gz 2e63b2895af4f94fe446d1455c4c511748ebd980604bed19e146b7c55a92306a 79248 proftpd-dfsg_1.3.8+dfsg-7.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/proftpd-dfsg"
   ],
   "Files": [
-    "d8e141e3e74336d7458d16139adbde22 3240 proftpd-dfsg_1.3.8+dfsg-6.dsc 6cdf6413cdeb1ad7f0f45469a221f52a 19437185 proftpd-dfsg_1.3.8+dfsg.orig.tar.gz 052dc65ae082e63db6be676b31cdaff4 79364 proftpd-dfsg_1.3.8+dfsg-6.debian.tar.xz"
+    "1e73040bfcedd565e98f7354a00f6fc3 3240 proftpd-dfsg_1.3.8+dfsg-7.dsc 6cdf6413cdeb1ad7f0f45469a221f52a 19437185 proftpd-dfsg_1.3.8+dfsg.orig.tar.gz 272ad470f0f9e41a10de1f880356bb1f 79248 proftpd-dfsg_1.3.8+dfsg-7.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/debian-proftpd-team/proftpd.git"
   ],
   "Version": [
-    "1.3.8+dfsg-6"
+    "1.3.8+dfsg-7"
   ]
 }

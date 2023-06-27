@@ -1,0 +1,62 @@
+{
+  "Architecture": [
+    "all"
+  ],
+  "Binary": [
+    "python3-cron-descriptor"
+  ],
+  "Build-Depends": [
+    "debhelper-compat (= 13), dh-python, gettext, pybuild-plugin-pyproject, python3-all, python3-pytest, python3-setuptools"
+  ],
+  "Checksums-Sha256": [
+    "ed7ac393b23c78fe4abb55393d2d5b18c9612a1091ddeca44b726b3ca2bd2e98 1885 python-cron-descriptor_1.4-1.dsc a74746ef4e36cebe85c7affc7d41f009a5bf8d4df3fee3f7cc99a7f56e97cb24 43216 python-cron-descriptor_1.4.orig.tar.gz bbbdc1b75bb810479bfc39c032fff4e19f4972e5bc835876d506ce944ca00d05 2512 python-cron-descriptor_1.4-1.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/p/python-cron-descriptor"
+  ],
+  "Files": [
+    "50f6cfcba02d4bf3806fede565c19943 1885 python-cron-descriptor_1.4-1.dsc 31bc0002146ef6fb0b3c358fa463b7fe 43216 python-cron-descriptor_1.4.orig.tar.gz 188b44d4503f3f4cfb1e661480777109 2512 python-cron-descriptor_1.4-1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://github.com/Salamek/cron-descriptor"
+  ],
+  "Maintainer": [
+    "Debian Python Team \u003cteam+python@tracker.debian.org\u003e"
+  ],
+  "Package": [
+    "python-cron-descriptor"
+  ],
+  "Package-List": [
+    "python3-cron-descriptor deb python optional arch=all"
+  ],
+  "Priority": [
+    "optional"
+  ],
+  "Section": [
+    "misc"
+  ],
+  "Standards-Version": [
+    "4.6.2"
+  ],
+  "Testsuite": [
+    "autopkgtest"
+  ],
+  "Testsuite-Triggers": [
+    "@builddeps@, python3-all"
+  ],
+  "Uploaders": [
+    "Michael Fladischer \u003cfladi@debian.org\u003e,"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/python-team/packages/python-cron-descriptor"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/python-team/packages/python-cron-descriptor.git"
+  ],
+  "Version": [
+    "1.4-1"
+  ]
+}

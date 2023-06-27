@@ -12,13 +12,13 @@
     "gtk-doc-tools \u003c!nodoc\u003e, libglib2.0-doc \u003c!nodoc\u003e"
   ],
   "Checksums-Sha256": [
-    "e257825c5669e57466fd5bb28a995e4e9019a1584956d8eb644fe205dafb1513 2934 accountsservice_23.13.9-1.dsc adda4cdeae24fa0992e7df3ffff9effa7090be3ac233a3edfdf69d5a9c9b924f 636064 accountsservice_23.13.9.orig.tar.xz b891bbe9b2a2e88a88a1a968bc8f887d8dd8b7a7d68a35382796fdd0a967d0b8 20204 accountsservice_23.13.9-1.debian.tar.xz"
+    "70e9310679010eda788ce02a47291a0f4c6c6ac4f6ead959a647e000121c27c8 2934 accountsservice_23.13.9-2.dsc adda4cdeae24fa0992e7df3ffff9effa7090be3ac233a3edfdf69d5a9c9b924f 636064 accountsservice_23.13.9.orig.tar.xz 5ac032ec2343082efaa10622974922352180d0fbcb5e6a289c34181cff07dab2 21312 accountsservice_23.13.9-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/a/accountsservice"
   ],
   "Files": [
-    "2ae737fc5cb3e9f8300545f91476bbcd 2934 accountsservice_23.13.9-1.dsc 03dccfe1b306b7ca19743e86d118e64d 636064 accountsservice_23.13.9.orig.tar.xz 76705d7cba367363f30cc3dc248525ed 20204 accountsservice_23.13.9-1.debian.tar.xz"
+    "79e0bb67c1b6c9a944b18065bf97deb0 2934 accountsservice_23.13.9-2.dsc 03dccfe1b306b7ca19743e86d118e64d 636064 accountsservice_23.13.9.orig.tar.xz 196de3bb9aa4612ffeb37b96c1b06691 21312 accountsservice_23.13.9-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -60,6 +60,6 @@
     "https://salsa.debian.org/freedesktop-team/accountsservice.git"
   ],
   "Version": [
-    "23.13.9-1"
+    "23.13.9-2"
   ]
 }

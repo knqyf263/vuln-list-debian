@@ -6,16 +6,16 @@
     "evdi-dkms, libevdi0, libevdi0-dev"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), dh-sequence-dkms, dh-exec, libdrm-dev"
+    "debhelper-compat (= 13), dh-dkms, dkms, dh-exec, libdrm-dev"
   ],
   "Checksums-Sha256": [
-    "6d07b478885fd3b602a5e6230bec6e6aab305748ae190d87350ad33e34c1f9e6 2061 evdi_1.12.0+dfsg-0.3.dsc f59e5d11919b0f33d23c63cce619bc66087f6097bf8d22ff5d0d117a26dec34c 42300 evdi_1.12.0+dfsg.orig.tar.xz 6bcff6734355d6a3a0c1872971aab09f5e98cefd2f36a5e0ef54f0ea8c425582 5276 evdi_1.12.0+dfsg-0.3.debian.tar.xz"
+    "5525b9f9d8cf19d07d4bbc454079de612d5298afdf275d86300cf933ce7295a9 2212 evdi_1.14.0+dfsg-0.1.dsc d52ac645178981af1ff7b714184507e8332f2d0d2829e05e592d3de2780ce736 46540 evdi_1.14.0+dfsg.orig.tar.xz 93322fccfd237070d9c4bcfb6304bdf813af8f508f55ed45656972f0ba056079 5200 evdi_1.14.0+dfsg-0.1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/e/evdi"
   ],
   "Files": [
-    "96d870f3b3c4fd04ef4c111e3c0a1c6a 2061 evdi_1.12.0+dfsg-0.3.dsc d72e1ca4bed4b962eecae210eda46e3a 42300 evdi_1.12.0+dfsg.orig.tar.xz 747b195f87f4b1bea8e3faf54e378198 5276 evdi_1.12.0+dfsg-0.3.debian.tar.xz"
+    "92601cbb5295a8bd8010a2ed07d60e74 2212 evdi_1.14.0+dfsg-0.1.dsc 9ada7f30b3bd1a35efde6c64d4874dc7 46540 evdi_1.14.0+dfsg.orig.tar.xz 2edd831916df4a5b0bea6a6f4864d4e6 5200 evdi_1.14.0+dfsg-0.1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -42,7 +42,10 @@
     "4.5.0"
   ],
   "Testsuite": [
-    "autopkgtest-pkg-dkms"
+    "autopkgtest"
+  ],
+  "Testsuite-Triggers": [
+    "dkms"
   ],
   "Vcs-Browser": [
     "https://salsa.debian.org/hansto-guest/evdi"
@@ -51,6 +54,6 @@
     "https://salsa.debian.org/hansto-guest/evdi.git"
   ],
   "Version": [
-    "1.12.0+dfsg-0.3"
+    "1.14.0+dfsg-0.1"
   ]
 }

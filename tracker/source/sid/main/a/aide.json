@@ -9,13 +9,13 @@
     "bison, check, debconf-utils, debhelper-compat (= 13), autoconf-archive, flex (\u003e= 2.5.32), libacl1-dev, libattr1-dev, libaudit-dev [linux-any], libcap-dev [linux-any], libext2fs-dev (\u003e= 1.46.2), libmhash-dev (\u003e= 0.9.7), libpcre2-dev, libselinux1-dev [linux-any], pkg-config, po-debconf (\u003e= 0.5.0), zlib1g-dev"
   ],
   "Checksums-Sha256": [
-    "570d2ad75dc06a04e0d6b116cb7569b8dfed083765a07e2ee4556e331c55184c 2579 aide_0.18.3-2.dsc d47da12c4bf085bfdf1828e087a1db5195a4d217ff4c89f40dbd94e2a887a6a2 382694 aide_0.18.3.orig.tar.gz 701f24027a4ffeee6a643c61e74eab75ef6a99316e5c0889c833395b6cca54a2 659 aide_0.18.3.orig.tar.gz.asc 86401bcbed3d641d796d6b82e9a4e832e52fd5ffe67d0f4882e2a44934f356dc 108084 aide_0.18.3-2.debian.tar.xz"
+    "a07c0de2a78b90298622f8d757ffdb0d4ebf488cbb29418f1aa7dbe49611bf06 2341 aide_0.18.4-1.dsc 4f7e2c7f49f3ca25fdafad6170390a4d8c8334af17bbd48ad34dbd6dde4ee757 382874 aide_0.18.4.orig.tar.gz 42674fd7ba6fd90f5f5df9f7fcb5439e9d389041a3f88378b57ca5e435c9e0da 107700 aide_0.18.4-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/a/aide"
   ],
   "Files": [
-    "3fdbd356c0d39f386a7b81e6ba9e1ccd 2579 aide_0.18.3-2.dsc 69e744c02fff14007c5c56ca4bb5a6db 382694 aide_0.18.3.orig.tar.gz 954db54f657543c5fea877f782a2bcf9 659 aide_0.18.3.orig.tar.gz.asc daf26d959ea0d8959b7baa0503afde1c 108084 aide_0.18.3-2.debian.tar.xz"
+    "d1b27613170e3845154bc867dece6070 2341 aide_0.18.4-1.dsc 667ce9fac3b5318df79e203ab21dd911 382874 aide_0.18.4.orig.tar.gz e6b411d1410723baf6e9fc4f618cba17 107700 aide_0.18.4-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/debian/aide.git"
   ],
   "Version": [
-    "0.18.3-2"
+    "0.18.4-1"
   ]
 }

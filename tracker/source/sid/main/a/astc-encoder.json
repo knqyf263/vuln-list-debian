@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), cmake, libstb-dev, libtinyexr-dev, libz-dev, pkg-config \u003c!nocheck\u003e, libgtest-dev \u003c!nocheck\u003e"
   ],
   "Checksums-Sha256": [
-    "7258b4f715726b7b75bb2ba667c7d5a351693dbc35995458d419ecf87846832f 2038 astc-encoder_4.5.0+ds-1.dsc 7db1c480cb816aa3309e8bf16b4a01a03426eca3efb67d9c9d4c92523c0221c8 33772176 astc-encoder_4.5.0+ds.orig.tar.xz 8f1dc3275cc43f4435531a4abdb0d4e6625a0b221d5c29d52bc63f825db36e4f 13248 astc-encoder_4.5.0+ds-1.debian.tar.xz"
+    "0853f9d6230ec35aff2fe0d8d999698cc900fcf7788ea643c13bcf3b58a1646a 2038 astc-encoder_4.5.0+ds-2.dsc 7db1c480cb816aa3309e8bf16b4a01a03426eca3efb67d9c9d4c92523c0221c8 33772176 astc-encoder_4.5.0+ds.orig.tar.xz 22bc5c32841f4f1b2f01d312cf160c2f39c98cc48a4fb4333d85b238213ffc93 13484 astc-encoder_4.5.0+ds-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/a/astc-encoder"
   ],
   "Files": [
-    "58d6367354fd928034274cb7b5c13788 2038 astc-encoder_4.5.0+ds-1.dsc aa6771e5da4a314d7c7b6bd75893e15c 33772176 astc-encoder_4.5.0+ds.orig.tar.xz 4b32174f884e2a821708bc976a1ec932 13248 astc-encoder_4.5.0+ds-1.debian.tar.xz"
+    "b18166e61182c21b6a837df476001192 2038 astc-encoder_4.5.0+ds-2.dsc aa6771e5da4a314d7c7b6bd75893e15c 33772176 astc-encoder_4.5.0+ds.orig.tar.xz 3fdd4b28557105c5ec668904772963c4 13484 astc-encoder_4.5.0+ds-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/roehling/astc-encoder.git"
   ],
   "Version": [
-    "4.5.0+ds-1"
+    "4.5.0+ds-2"
   ]
 }

@@ -12,16 +12,16 @@
     "libcapture-tiny-perl \u003c!nocheck\u003e, libcpan-distnameinfo-perl \u003c!nocheck\u003e, libhttp-tiny-perl \u003c!nocheck\u003e, libio-interactive-perl \u003c!nocheck\u003e, libjson-perl \u003c!nocheck\u003e, libmodule-corelist-perl \u003c!nocheck\u003e, libmodule-cpanfile-perl \u003c!nocheck\u003e, libmodule-extract-version-perl \u003c!nocheck\u003e, libperlio-gzip-perl \u003c!nocheck\u003e, libtest-simple-perl \u003c!nocheck\u003e, libversion-perl \u003c!nocheck\u003e, libyaml-tiny-perl \u003c!nocheck\u003e, perl"
   ],
   "Checksums-Sha256": [
-    "ff73fd62cf28c11a2283bd446ea356ffc9c05f9b2fb1555e6557d8e56828ef6a 2820 libcpan-audit-perl_20230309.004-1.dsc 473aef92da184cc6354aa886f10bf04678efa2f1e99b167fa3e9ef5ce1a64b5e 684175 libcpan-audit-perl_20230309.004.orig.tar.gz afce728ae74b81fa480f8575fbe9d98349f6efccb1cb2bf3019bd93111f94314 2944 libcpan-audit-perl_20230309.004-1.debian.tar.xz"
+    "210b93c7e28c08bff049c18bb9dbdf1cce8eac5b88e6ecee99b3a1db70817ada 2820 libcpan-audit-perl_20230601.002-1.dsc 9c83415c6c54e51c6389bf7ed8ef4c848654662bcaf25669c8ff7540bd09976a 691788 libcpan-audit-perl_20230601.002.orig.tar.gz f38dfb1a0dc911f1d6aa33da7879994cbf000cd310c80630afd2c2d3171b6ed7 2972 libcpan-audit-perl_20230601.002-1.debian.tar.xz"
   ],
   "Dgit": [
-    "40ed9d3a920bd1c5bbfdf358c5dbba7eaef8d46b debian archive/debian/20230309.004-1 https://git.dgit.debian.org/libcpan-audit-perl"
+    "a3311a82ea33e0c02aa6740c4d238e74ec299d97 debian archive/debian/20230601.002-1 https://git.dgit.debian.org/libcpan-audit-perl"
   ],
   "Directory": [
     "pool/main/libc/libcpan-audit-perl"
   ],
   "Files": [
-    "42b4dd865658541393761647a41a2817 2820 libcpan-audit-perl_20230309.004-1.dsc cd7a45d5d25bf95b390b9961629a34f2 684175 libcpan-audit-perl_20230309.004.orig.tar.gz 818776dcf0394379809da3054b544572 2944 libcpan-audit-perl_20230309.004-1.debian.tar.xz"
+    "228dbababa61312bcb01c804a936640f 2820 libcpan-audit-perl_20230601.002-1.dsc a1ecd18252b48e964b86c2472b84da0e 691788 libcpan-audit-perl_20230601.002.orig.tar.gz 90a53731b7f7db3f273caa6c439ce84a 2972 libcpan-audit-perl_20230601.002-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -60,6 +60,6 @@
     "https://salsa.debian.org/perl-team/modules/packages/libcpan-audit-perl.git"
   ],
   "Version": [
-    "20230309.004-1"
+    "20230601.002-1"
   ]
 }

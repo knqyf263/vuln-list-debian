@@ -9,13 +9,13 @@
     "cmake, debhelper-compat (= 13), dh-python, dh-sequence-python3, dh-sequence-numpy3, libblas-dev, libgtest-dev, liblapack-dev, libpython3-dev, python3-dev:any, python3-numpy, python3-setuptools, swig"
   ],
   "Checksums-Sha256": [
-    "e5efbd150d50b8bf8f20a34f0ecc786ae501a3b3f66531e2fe488a800fba112d 2064 faiss_1.7.4-2.dsc d9a7b31bf7fd6eb32c10b7ea7ff918160eed5be04fe63bb7b4b4b5f2bbde01ad 909408 faiss_1.7.4.orig.tar.gz e78ab6ca155361390b1f77c2443a6e679480f61a4c4181869b6783b4d5133782 7148 faiss_1.7.4-2.debian.tar.xz"
+    "b0abd0afe0279598c249e2f8b09d525db0422af113e5eec54565d8b286ccaec2 2064 faiss_1.7.4-3.dsc d9a7b31bf7fd6eb32c10b7ea7ff918160eed5be04fe63bb7b4b4b5f2bbde01ad 909408 faiss_1.7.4.orig.tar.gz 2a6f98dfd81581537acf5339e328fc77226a5e871c803822170977cd6d21dc34 6740 faiss_1.7.4-3.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/f/faiss"
   ],
   "Files": [
-    "af23c254d92e5227ec1e1d5a1eef3579 2064 faiss_1.7.4-2.dsc e1f96b228ec6a0819bc65efb9d196ec6 909408 faiss_1.7.4.orig.tar.gz eede754f68e7808a8ed7e049b8de2c81 7148 faiss_1.7.4-2.debian.tar.xz"
+    "f6933193d8ccf92fe3351d567271d0a7 2064 faiss_1.7.4-3.dsc e1f96b228ec6a0819bc65efb9d196ec6 909408 faiss_1.7.4.orig.tar.gz 9a6903ad1cde412dd7030793e63a6beb 6740 faiss_1.7.4-3.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/deeplearning-team/faiss.git"
   ],
   "Version": [
-    "1.7.4-2"
+    "1.7.4-3"
   ]
 }

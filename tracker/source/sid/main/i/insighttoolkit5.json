@@ -6,16 +6,16 @@
     "libinsighttoolkit5.3, libinsighttoolkit5-dev, insighttoolkit5-examples"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), cmake, swig, castxml (\u003e= 0.3.4-2), libvtk9-dev, zlib1g-dev, libdouble-conversion-dev, libexpat-dev, libpng-dev, libtiff-dev, libfftw3-dev, libdcmtk-dev, libgdcm-dev, libgtest-dev, uuid-dev, libminc-dev, libnifti2-dev, libhdf5-dev"
+    "debhelper-compat (= 13), cmake, swig, castxml (\u003e= 0.3.4-2), libvtk9-dev, qtbase5-dev, libvtk9-qt-dev, zlib1g-dev, libdouble-conversion-dev, libexpat-dev, libpng-dev, libtiff-dev, libfftw3-dev, libdcmtk-dev, libgdcm-dev, libgtest-dev, uuid-dev, libminc-dev, libnifti2-dev, libhdf5-dev"
   ],
   "Checksums-Sha256": [
-    "e3f5a8563336a827788fb912649598b68b3d7684500f4275b2e03714053e5689 2483 insighttoolkit5_5.3.0-2.dsc 9cb116d5624cac01fca21566704574ac354f57dbd198e2d25be7d7048d1fa3b5 356479300 insighttoolkit5_5.3.0.orig.tar.xz a988577d6eadf24b95c0814cd8748b99a1f171b39795a20364667cbd2f5f2d6c 22408 insighttoolkit5_5.3.0-2.debian.tar.xz"
+    "7b6dd6c36a9f69234129bd77eb2cbe92125b7d8f0fdf43a95883269db0f96d4f 2512 insighttoolkit5_5.3.0-3.dsc 9cb116d5624cac01fca21566704574ac354f57dbd198e2d25be7d7048d1fa3b5 356479300 insighttoolkit5_5.3.0.orig.tar.xz 9a66e96869f399f5119aa3894db62096afdd45cb2346abd822f1943939094753 22520 insighttoolkit5_5.3.0-3.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/i/insighttoolkit5"
   ],
   "Files": [
-    "ccea1a026c8a9a16947a1d3a1decbfc4 2483 insighttoolkit5_5.3.0-2.dsc e32ca722398ae1d8a181297509825adf 356479300 insighttoolkit5_5.3.0.orig.tar.xz ce07f0ed870fa5bed5e7e6c636bcb344 22408 insighttoolkit5_5.3.0-2.debian.tar.xz"
+    "264207f8b252d6d21dec373cdc042243 2512 insighttoolkit5_5.3.0-3.dsc e32ca722398ae1d8a181297509825adf 356479300 insighttoolkit5_5.3.0.orig.tar.xz 9b7608309ae7d51b91cd070a41c0c436 22520 insighttoolkit5_5.3.0-3.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/med-team/insighttoolkit.git"
   ],
   "Version": [
-    "5.3.0-2"
+    "5.3.0-3"
   ]
 }
