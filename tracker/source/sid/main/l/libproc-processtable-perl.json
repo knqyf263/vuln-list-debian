@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), perl-xs-dev, perl:native"
   ],
   "Checksums-Sha256": [
-    "049a05fb5d45bdb9b357b6eb5a75d84ac20ede7d3cec2729371a0269db2a94dd 2460 libproc-processtable-perl_0.635-1.dsc a045b887d524523b60abf611cf3ea47dda0b343b33ee014a63fa8989556858e3 95534 libproc-processtable-perl_0.635.orig.tar.gz 1769ffe390fd31e48e6b3407ac6e7407e5c50c6415e15f58aa2fe7b808f20060 7528 libproc-processtable-perl_0.635-1.debian.tar.xz"
+    "4f2b6831cd712ac96452655c8e23b3f1626d4f8ee3cf0f2b3d9879683a3ccfce 2460 libproc-processtable-perl_0.636-1.dsc 944224ffb00fc1ef35069633770a0afda8623b5c7532d1e4ab48a9df394890fd 95667 libproc-processtable-perl_0.636.orig.tar.gz 4580c6b538157666684c414ede40013efc8907dad81f1f9254c5d732a12a6784 7544 libproc-processtable-perl_0.636-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/libp/libproc-processtable-perl"
   ],
   "Files": [
-    "eabb595045f1bdca2f7a88f61ea23ad5 2460 libproc-processtable-perl_0.635-1.dsc ad34742c76d7381637f634402bef28cd 95534 libproc-processtable-perl_0.635.orig.tar.gz cb611e3f8918b05a4d72ba94599b3d5d 7528 libproc-processtable-perl_0.635-1.debian.tar.xz"
+    "c52417d8856556ecbf01683e597f12ee 2460 libproc-processtable-perl_0.636-1.dsc 2bcf49ae769a2ea1c1e0c69d2ca90061 95667 libproc-processtable-perl_0.636.orig.tar.gz d82fb880329eae627c912d05307fc44c 7544 libproc-processtable-perl_0.636-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/perl-team/modules/packages/libproc-processtable-perl.git"
   ],
   "Version": [
-    "0.635-1"
+    "0.636-1"
   ]
 }

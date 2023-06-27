@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), gettext, libncurses5-dev, libncursesw5-dev, libreadline-dev"
   ],
   "Checksums-Sha256": [
-    "694c1efa440eb7528af723b6f87c9b2afb218f2bd3bdbde37dd2b1e6f5dc2a82 2344 hunspell_1.7.2+really1.7.1-2.dsc b2d9c5369c2cc7f321cb5983fda2dbf007dce3d9e17519746840a6f0c4bf7444 1074306 hunspell_1.7.2+really1.7.1.orig.tar.gz 147eda0feeea7bbf3d605e169b737328139bd794a67c54934e4a459b8b12a6ed 23156 hunspell_1.7.2+really1.7.1-2.debian.tar.xz"
+    "60d1bcb2248abb98561b56012d4158d7b32cfc2439c8e9afce0f7a6c8c7b69e6 2344 hunspell_1.7.2+really1.7.2-7.dsc 11ddfa39afe28c28539fe65fc4f1592d410c1e9b6dd7d8a91ca25d85e9ec65b8 1536202 hunspell_1.7.2+really1.7.2.orig.tar.gz 2dce76c44f4fad9423ae53549b5aaf9eb768ff167de1009fefbabf1a26d70a2c 24516 hunspell_1.7.2+really1.7.2-7.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/h/hunspell"
   ],
   "Files": [
-    "68929aa6879230fbafb7a5bd462f8921 2344 hunspell_1.7.2+really1.7.1-2.dsc 0ba8a8ce20c6336a7b76af16d8cfd243 1074306 hunspell_1.7.2+really1.7.1.orig.tar.gz 58a6baf2e3629a8e82bac78d32beea83 23156 hunspell_1.7.2+really1.7.1-2.debian.tar.xz"
+    "0c6242dea7437a06b8daddc21ae92d99 2344 hunspell_1.7.2+really1.7.2-7.dsc a68c45e3a3e8de6816d6801e4fff6e9a 1536202 hunspell_1.7.2+really1.7.2.orig.tar.gz 7f6c648059c8931ee0311c9044b9fe5a 24516 hunspell_1.7.2+really1.7.2-7.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/libreoffice-team/hunspell.git"
   ],
   "Version": [
-    "1.7.2+really1.7.1-2"
+    "1.7.2+really1.7.2-7"
   ]
 }

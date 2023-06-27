@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), bison, flex, minisat (\u003e= 1:2.2.1-2), zlib1g-dev, gdb [amd64], libxml2-utils, python-is-python3, z3, default-jdk-headless [!arc !hppa !hurd-i386 !kfreebsd-amd64 !kfreebsd-i386], libmaven-dependency-plugin-java [!arc !hppa !hurd-i386 !kfreebsd-amd64 !kfreebsd-i386], libmaven-install-plugin-java [!arc !hppa !hurd-i386 !kfreebsd-amd64 !kfreebsd-i386], maven-debian-helper [!arc !hppa !hurd-i386 !kfreebsd-amd64 !kfreebsd-i386]"
   ],
   "Checksums-Sha256": [
-    "dea00926498044150e7e11417eecd3dd84bbcb10f5465b1a7cc94deae5eb1cbb 2962 cbmc_5.84.0-6.dsc 70863817bba398e8bb252c96ec1fbe35d20882f9061c920189893080f14646ab 14582 cbmc_5.84.0.orig-java-cprover-api.tar.gz 13eb3b8513de999d52eb071d7118b147f8511390c3cb30a6c3be29ada3b5b3c9 299209 cbmc_5.84.0.orig-java-models-library.tar.gz f07ddc51eeffa9e167996d886984b6e4961ec1058e8624518957e2b5d1979cb4 8975338 cbmc_5.84.0.orig.tar.gz ad9a0908a6673092701b1ff42a8aaca5c54b0753f49ef72a7daf3cf6ff25e039 56280 cbmc_5.84.0-6.debian.tar.xz"
+    "38b5c24a807d07ed122c1f195d5747c8c6df8071f7631a93b620d0acbe20e8cc 2957 cbmc_5.84.0-7.dsc 70863817bba398e8bb252c96ec1fbe35d20882f9061c920189893080f14646ab 14582 cbmc_5.84.0.orig-java-cprover-api.tar.gz 13eb3b8513de999d52eb071d7118b147f8511390c3cb30a6c3be29ada3b5b3c9 299209 cbmc_5.84.0.orig-java-models-library.tar.gz f07ddc51eeffa9e167996d886984b6e4961ec1058e8624518957e2b5d1979cb4 8975338 cbmc_5.84.0.orig.tar.gz a594321be4a8902c4cdd86f99f55b58d335a89e6fcbf6ecfaac78b0ad7c8a577 56432 cbmc_5.84.0-7.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/c/cbmc"
   ],
   "Files": [
-    "876111401564d8ea6639a56eff662452 2962 cbmc_5.84.0-6.dsc 245cc4a092fb84d4c8a1333c793f1adc 14582 cbmc_5.84.0.orig-java-cprover-api.tar.gz 6ba4b12d1ad0ee6f917128fa61df4015 299209 cbmc_5.84.0.orig-java-models-library.tar.gz 0298953d57eadbec1ffdaf9d04f07cde 8975338 cbmc_5.84.0.orig.tar.gz 611f6c94df4427f6af9e413d166c671a 56280 cbmc_5.84.0-6.debian.tar.xz"
+    "cf1de1acc275172dcf3404394446559c 2957 cbmc_5.84.0-7.dsc 245cc4a092fb84d4c8a1333c793f1adc 14582 cbmc_5.84.0.orig-java-cprover-api.tar.gz 6ba4b12d1ad0ee6f917128fa61df4015 299209 cbmc_5.84.0.orig-java-models-library.tar.gz 0298953d57eadbec1ffdaf9d04f07cde 8975338 cbmc_5.84.0.orig.tar.gz 9c1eefa10ab8296f777516eac1f2fba4 56432 cbmc_5.84.0-7.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -45,9 +45,9 @@
     "autopkgtest"
   ],
   "Testsuite-Triggers": [
-    "gcc, libc6-dev"
+    "libc6-dev"
   ],
   "Version": [
-    "5.84.0-6"
+    "5.84.0-7"
   ]
 }

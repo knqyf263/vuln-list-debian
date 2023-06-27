@@ -9,13 +9,13 @@
     "debhelper-compat (= 12), cmake (\u003e= 3.10), intltool (\u003e= 0.40), libgtk-3-dev, libgstreamer1.0-dev, libnotify-dev, libayatana-appindicator3-dev, libglib2.0-dev, gnome-icon-theme (\u003e= 2.15.91), libxml2-dev, gnome-common"
   ],
   "Checksums-Sha256": [
-    "b1bb140c7ac81c712a5c872f55372757d789774e8505000a10c6742d6119313d 2182 alarm-clock-applet_0.4.1-4.dsc 2483804fd6a2a3f6035f9eb4926ab9c74c2a95f68a904dde2df59765a252300b 208601 alarm-clock-applet_0.4.1.orig.tar.gz 18ee1d183b2f6aeaf2df3926c141f1c353ffb0825b77077f7940222438f0a308 6700 alarm-clock-applet_0.4.1-4.debian.tar.xz"
+    "370fb26697bf418654852ca13133a0906480abce1c432faae1581823458a76a5 2182 alarm-clock-applet_0.4.1-5.dsc 2483804fd6a2a3f6035f9eb4926ab9c74c2a95f68a904dde2df59765a252300b 208601 alarm-clock-applet_0.4.1.orig.tar.gz 91966cb2973f4895c8e9a1f21beaf7c317f2c862024a818f24fc1531c3376b64 6728 alarm-clock-applet_0.4.1-5.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/a/alarm-clock-applet"
   ],
   "Files": [
-    "c265061a00cf4bcd5a05320103ab5c52 2182 alarm-clock-applet_0.4.1-4.dsc 5be11d3bc84be80c2a15f143a6920af7 208601 alarm-clock-applet_0.4.1.orig.tar.gz 044387ec7f7ee9fb91d60316273d982d 6700 alarm-clock-applet_0.4.1-4.debian.tar.xz"
+    "5d16068e512fac784925dbac99c3c991 2182 alarm-clock-applet_0.4.1-5.dsc 5be11d3bc84be80c2a15f143a6920af7 208601 alarm-clock-applet_0.4.1.orig.tar.gz df7cb74d072d2265ebdebd0b4a7dab57 6728 alarm-clock-applet_0.4.1-5.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/debian/alarm-clock-applet.git"
   ],
   "Version": [
-    "0.4.1-4"
+    "0.4.1-5"
   ]
 }

@@ -6,16 +6,16 @@
     "jdupes"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13)"
+    "debhelper-compat (= 13), libjodycode-dev"
   ],
   "Checksums-Sha256": [
-    "0c4de0987fac4c30737e6721c749f0b096a838c67238cb1b98cd2025c5481327 1890 jdupes_1.21.3-1.dsc 8992d0ff1fe135c685063ce3c9d69d54f1f19f1b32845e84441f888218063cc0 155979 jdupes_1.21.3.orig.tar.gz f7599031821af777d5b500a3ce2f9ed4457704260ce46d4185589d51ee74bd38 13752 jdupes_1.21.3-1.debian.tar.xz"
+    "01c04ddab4d6eb100df51a2e8f9225a575f4b47c440c5c8ae878e3be859d56d0 1907 jdupes_1.25.2-1.dsc c137d07a70bcf70e15e92365df6b69bd210bb7856b6f10a860529aa7afc324a7 154491 jdupes_1.25.2.orig.tar.gz 38728b98681c1ac46011969943d6d12ef108ed53ded1c6cdd07bf4f74ef2150d 13808 jdupes_1.25.2-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/j/jdupes"
   ],
   "Files": [
-    "44fa6f7f1561c49d7108cdb672f3adb6 1890 jdupes_1.21.3-1.dsc 3379afa8c343f21712f96d03d48e1712 155979 jdupes_1.21.3.orig.tar.gz fd479fc85a9bd830f753eae703a729a7 13752 jdupes_1.21.3-1.debian.tar.xz"
+    "9cca220c7689be3b00b9a9da2c3bfc5b 1907 jdupes_1.25.2-1.dsc f73b1607fa8d2afe0aeba0b4fe4dd9cc 154491 jdupes_1.25.2.orig.tar.gz e3edca8175af4fd99e2ad3ce17646345 13808 jdupes_1.25.2-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/debian/jdupes.git"
   ],
   "Version": [
-    "1.21.3-1"
+    "1.25.2-1"
   ]
 }
