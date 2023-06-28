@@ -6,19 +6,16 @@
     "nedit"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 12), libmotif-dev, libx11-dev, libxt-dev, x11proto-core-dev, bison, perl"
+    "debhelper-compat (= 13), libmotif-dev, libx11-dev, libxt-dev, x11proto-core-dev, bison, perl"
   ],
   "Checksums-Sha256": [
-    "0eb89173023f767212a97d70d9e2ba0b748ee1a15fcd7ca278d7f329e80e1a6a 1622 nedit_5.7-3.dsc add9ac79ff973528ad36c86858238bac4f59896c27dbf285cbe6a4d425fca17a 1344754 nedit_5.7.orig.tar.gz 5d80b324211bfb5b70483edf26f2c3aea47cd20d643729f70f66851a527cbf97 35024 nedit_5.7-3.debian.tar.xz"
-  ],
-  "Dgit": [
-    "5c278a15777a9558a507559440e123982dfa83fb debian archive/debian/1%5.7-3 https://git.dgit.debian.org/nedit"
+    "92910de8ef84de67c2d3b5045875c496d862bfd8ff902fd4b9dcf963764bc520 1865 nedit_5.7-5.dsc add9ac79ff973528ad36c86858238bac4f59896c27dbf285cbe6a4d425fca17a 1344754 nedit_5.7.orig.tar.gz 32bf3fc15dbb6154838a34d560ca5b0f3e7744301f4c15f8a2af8ad2ea3d0764 35212 nedit_5.7-5.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/n/nedit"
   ],
   "Files": [
-    "ae8be50f276f22e9ae5b0df1467c5c6c 1622 nedit_5.7-3.dsc c0fad4e2526ca0478e4250d5ebec4a28 1344754 nedit_5.7.orig.tar.gz 2f242e72f9eaa48c8a704f9f81b38381 35024 nedit_5.7-3.debian.tar.xz"
+    "abf2d762e3743620de91da8c8c170e51 1865 nedit_5.7-5.dsc c0fad4e2526ca0478e4250d5ebec4a28 1344754 nedit_5.7.orig.tar.gz 99f5f68a328a4bf228469be9f5e3d86f 35212 nedit_5.7-5.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -27,7 +24,7 @@
     "http://sourceforge.net/projects/nedit/"
   ],
   "Maintainer": [
-    "Paul Gevers \u003celbrus@debian.org\u003e"
+    "Debian QA Group \u003cpackages@qa.debian.org\u003e"
   ],
   "Package": [
     "nedit"
@@ -42,7 +39,7 @@
     "editors"
   ],
   "Standards-Version": [
-    "3.9.8"
+    "4.6.2"
   ],
   "Vcs-Browser": [
     "https://salsa.debian.org/debian/nedit"
@@ -51,6 +48,6 @@
     "https://salsa.debian.org/debian/nedit.git"
   ],
   "Version": [
-    "1:5.7-3"
+    "1:5.7-5"
   ]
 }

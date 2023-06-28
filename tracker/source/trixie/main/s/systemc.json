@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), texinfo"
   ],
   "Checksums-Sha256": [
-    "36f68f588a3f17b45fc236c4781f65409dde4c245540fd0dea0e41155b531102 2277 systemc_2.3.4-2.dsc 83ef55e30cf18b02f9405c9252c86f3b34e0b96be051c0def9fc8e57a0653dfb 2727165 systemc_2.3.4.orig.tar.gz 9d33fc59c104b259acbf0a9f789738d518e743be9f619b37e49ac9ea03322e88 32252 systemc_2.3.4-2.debian.tar.xz"
+    "523b15c45a072d04aabb6f477acbc79674d02054781d030c4395eba54a47ce38 1974 systemc_2.3.4-3.dsc 83ef55e30cf18b02f9405c9252c86f3b34e0b96be051c0def9fc8e57a0653dfb 2727165 systemc_2.3.4.orig.tar.gz a37d8ebccb8c34d04572f8466e5d1ee51168bec19c28c9e43719184d5c55af2e 9436 systemc_2.3.4-3.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/s/systemc"
   ],
   "Files": [
-    "45063a5f394683bdbe685174f69f8d5e 2277 systemc_2.3.4-2.dsc cac81b980e2dbe9eb845af4288d7b62f 2727165 systemc_2.3.4.orig.tar.gz 95e289927e8043530eb99039a7a60618 32252 systemc_2.3.4-2.debian.tar.xz"
+    "8ca07ba4a72f1447cc1b3c24907fe84c 1974 systemc_2.3.4-3.dsc cac81b980e2dbe9eb845af4288d7b62f 2727165 systemc_2.3.4.orig.tar.gz e3fec9ce1f31457cef22c3edd3a4c540 9436 systemc_2.3.4-3.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/electronics-team/systemc.git"
   ],
   "Version": [
-    "2.3.4-2"
+    "2.3.4-3"
   ]
 }

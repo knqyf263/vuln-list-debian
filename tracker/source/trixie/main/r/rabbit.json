@@ -6,16 +6,16 @@
     "rabbit, rabbit-mode"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 12), dh-elpa, rdtool-elisp, gem2deb, python3-blockdiag, ruby-coderay, ruby-faraday, ruby-gettext, ruby-gtk3, ruby-hikidoc, ruby-kramdown-parser-gfm, ruby-nokogiri, ruby-poppler, ruby-rd, ruby-rouge, ruby-rsvg2, ruby-rt, ruby-test-unit (\u003e= 3.2.9), ruby-test-unit-rr, xauth, xvfb"
+    "debhelper-compat (= 13), dh-elpa, rdtool-elisp, gem2deb, python3-blockdiag, ruby-coderay, ruby-gettext, ruby-gtk3, ruby-hikidoc, ruby-kramdown-parser-gfm, ruby-nokogiri, ruby-poppler, ruby-rd, ruby-rouge, ruby-rsvg2, ruby-rt, ruby-test-unit (\u003e= 3.2.9), ruby-test-unit-rr, xauth, xvfb"
   ],
   "Checksums-Sha256": [
-    "e964c76dc4e128a0e473a854de0c7d721f27e56dd01220dd06b5b3feb3031664 2381 rabbit_3.0.0-5.dsc 9852fe4f3dd4688b478b948f35d7923ef216b655635b20aba8f1e9b1666bb86c 6476096 rabbit_3.0.0.orig.tar.xz 62093970274974615b38a902baed488b29215bcabb6b0ca6007aa090ba94ad67 16392 rabbit_3.0.0-5.debian.tar.xz"
+    "a3d213fc527905a7d0ddfb43df50cceb5e04d16eb84875bc85d31cf4778aa83a 2367 rabbit_3.0.2-1.dsc 3ec7fd6bed4d777fa28bc9fdd02ba00a8886f563c7307f8a81097f3b9d86128c 5968200 rabbit_3.0.2.orig.tar.xz 4a7375cf428cac4a09c489447136082ece9e4af108ab88d69df4c5c61d38e555 16284 rabbit_3.0.2-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/rabbit"
   ],
   "Files": [
-    "e75eb57af46461fe8f7e1cd894e13496 2381 rabbit_3.0.0-5.dsc e0eb3d8956b772a81c48a2bb9f1dc721 6476096 rabbit_3.0.0.orig.tar.xz 3e0cad5c76efa373f4135d8e6746d3a8 16392 rabbit_3.0.0-5.debian.tar.xz"
+    "dedc3e959efdd5a2f538f4b3c3bd3b36 2367 rabbit_3.0.2-1.dsc 25a2918db49dc2c28d5443102b26b150 5968200 rabbit_3.0.2.orig.tar.xz d11f4dd934b6afcad92dfc7b6cf0b2a3 16284 rabbit_3.0.2-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -42,7 +42,7 @@
     "x11"
   ],
   "Standards-Version": [
-    "4.5.0"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest"
@@ -60,6 +60,6 @@
     "https://salsa.debian.org/ruby-team/rabbit.git"
   ],
   "Version": [
-    "3.0.0-5"
+    "3.0.2-1"
   ]
 }

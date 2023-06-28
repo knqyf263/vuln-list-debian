@@ -9,13 +9,13 @@
     "coq, debhelper-compat (= 13), dh-coq, dh-ocaml, libcoq-core-ocaml-dev, libcoq-stdlib"
   ],
   "Checksums-Sha256": [
-    "cc3ed743bd51ecbcd3e4530d851878723a76d91e40f9958bff08bdd3b64bda91 2145 coq-menhirlib_20220210+ds-5.dsc 8a8916c99b2c033bb0848db6beaed5db78e67f308bd704e7f498f1861a9c77b1 38152 coq-menhirlib_20220210+ds.orig.tar.xz 375ab9812dc9633251cc71cf886524cfe7274470eacf1ec4f9c54ed24633c29c 1780 coq-menhirlib_20220210+ds-5.debian.tar.xz"
+    "476749fec788f8ce873401772a947ac98bad116204551ab44dcb1d6716479a8c 2145 coq-menhirlib_20230608+ds-1.dsc 0030704e098ac4639d2937d6979eff163d2a41db02d2c0cc4d023f160fce71e4 38088 coq-menhirlib_20230608+ds.orig.tar.xz c02db324995e76210f8502e01caebbc077603e37cae74cb8ea0b7437603263a6 1808 coq-menhirlib_20230608+ds-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/c/coq-menhirlib"
   ],
   "Files": [
-    "f14a9f61823bb9209fd76229d7fc1165 2145 coq-menhirlib_20220210+ds-5.dsc f8a31f9808fa3fe75b9d3f25cb7f3c14 38152 coq-menhirlib_20220210+ds.orig.tar.xz 74dc0ce82897bd48560828b4b825738a 1780 coq-menhirlib_20220210+ds-5.debian.tar.xz"
+    "881710bc0c518b595633bb5d80296754 2145 coq-menhirlib_20230608+ds-1.dsc 0c6ea41f886c2228e3fcc3e331d94a7a 38088 coq-menhirlib_20230608+ds.orig.tar.xz fb0bc96abd8cbec2d6794b3db6ff6102 1808 coq-menhirlib_20230608+ds-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/ocaml-team/coq-menhirlib.git"
   ],
   "Version": [
-    "20220210+ds-5"
+    "20230608+ds-1"
   ]
 }

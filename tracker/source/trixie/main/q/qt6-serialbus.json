@@ -9,13 +9,13 @@
     "cmake (\u003e= 3.24~), debhelper-compat (= 13), dh-exec, libgl-dev, libqt6opengl6-dev (\u003e= 6.4.2+dfsg~), libvulkan-dev [linux-any], linux-libc-dev [linux-any], ninja-build, pkg-config, pkg-kde-tools, qt6-base-dev (\u003e= 6.4.2+dfsg~), qt6-base-private-dev (\u003e= 6.4.2+dfsg~), qt6-serialport-dev (\u003e= 6.4.2~)"
   ],
   "Checksums-Sha256": [
-    "c5932a21fbbf2ac24744158a665fff99d5983ee43b289bcd568b7e5e096f9251 2418 qt6-serialbus_6.4.2-1.dsc 604013657c7327899aa50748deb4bcb5e545ab37ff4964795b9e6f617d48bf1b 380860 qt6-serialbus_6.4.2.orig.tar.xz 57a7229213542e6f9579a7d649320a7f8ec1160bab0513cabacbdd9b430555d9 7168 qt6-serialbus_6.4.2-1.debian.tar.xz"
+    "b336bb1c97eeb27c9f46eed8a714d48a692075b9dcb05441b346e1fc39d8f178 2418 qt6-serialbus_6.4.2-2.dsc 604013657c7327899aa50748deb4bcb5e545ab37ff4964795b9e6f617d48bf1b 380860 qt6-serialbus_6.4.2.orig.tar.xz dd1caa1c0ce563556d63653b487fc1f684d26647f19d7b5e2957478a9c15df1e 7280 qt6-serialbus_6.4.2-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/q/qt6-serialbus"
   ],
   "Files": [
-    "4247f646ea32c8223597070ac7eb7ef9 2418 qt6-serialbus_6.4.2-1.dsc 87bd279c35c6e59cf650eee3cad4e8b5 380860 qt6-serialbus_6.4.2.orig.tar.xz 7978027d1854d218851f6f0428f3e572 7168 qt6-serialbus_6.4.2-1.debian.tar.xz"
+    "82e33f50781004754afa7222290328c5 2418 qt6-serialbus_6.4.2-2.dsc 87bd279c35c6e59cf650eee3cad4e8b5 380860 qt6-serialbus_6.4.2.orig.tar.xz e0b264acefc5ccb8c515858e901d40ab 7280 qt6-serialbus_6.4.2-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/qt-kde-team/qt6/qt6-serialbus.git"
   ],
   "Version": [
-    "6.4.2-1"
+    "6.4.2-2"
   ]
 }

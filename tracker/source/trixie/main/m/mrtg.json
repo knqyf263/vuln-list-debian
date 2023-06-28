@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dos2unix, jdupes, libgd-dev, libpng-dev, po-debconf, zlib1g-dev"
   ],
   "Checksums-Sha256": [
-    "5e78a0fc40e90ba514f79a1979d9ec354a0b9fdc2b289ae3a303a6a00357a928 1948 mrtg_2.17.10-5.dsc c7f11cb5e217a500d87ee3b5d26c58a8652edbc0d3291688bb792b010fae43ac 1084792 mrtg_2.17.10.orig.tar.gz dfffeffe948160bf815e6b59408072def2f9973f83d0589dc7cbd6c226e22753 30900 mrtg_2.17.10-5.debian.tar.xz"
+    "4114fdbddcdf3b9d89e6da0c94d97368e1856199796e21206cd0393c93ad1c54 1948 mrtg_2.17.10-6.dsc c7f11cb5e217a500d87ee3b5d26c58a8652edbc0d3291688bb792b010fae43ac 1084792 mrtg_2.17.10.orig.tar.gz 891ed39dd9eba03a695b28b57127f11fc1f1949f022ac656cc71c627c3bda8f4 31220 mrtg_2.17.10-6.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/m/mrtg"
   ],
   "Files": [
-    "378948364c1bd5943efdeb848b150476 1948 mrtg_2.17.10-5.dsc ab1c14acc9af4221f459707339f361b3 1084792 mrtg_2.17.10.orig.tar.gz 0c50b2867e8b9313a934d2f4610b260c 30900 mrtg_2.17.10-5.debian.tar.xz"
+    "dbf136c2463be094275e909cc87fa694 1948 mrtg_2.17.10-6.dsc ab1c14acc9af4221f459707339f361b3 1084792 mrtg_2.17.10.orig.tar.gz f5d27b50515463f0ce50f2864a982ca5 31220 mrtg_2.17.10-6.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/debian/mrtg.git"
   ],
   "Version": [
-    "2.17.10-5"
+    "2.17.10-6"
   ]
 }

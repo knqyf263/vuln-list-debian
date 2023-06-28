@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), ruby-minitest, ruby-minitest-global-expectations, gem2deb (\u003e= 1), ruby-rack (\u003e= 3.0.0~)"
   ],
   "Checksums-Sha256": [
-    "4317a88f4ce9f544acdb2e4cbdc202e9939b36e86c81ac80b0e3b2bd6be93065 2195 ruby-rack-session_0.3.0-1.dsc b48f917449e03fe4668f129c74a9568054a82264b5dc13a31b39218013ac3aa5 20068 ruby-rack-session_0.3.0.orig.tar.gz 775e1e691c2668019af71b1d05b52dde4c9e6e621c19562da47f3ed92105b369 3420 ruby-rack-session_0.3.0-1.debian.tar.xz"
+    "b6416504e1f0c421fd0b6dab41186f55218e756e1dcc3316dbf5b58e287ba366 2195 ruby-rack-session_2.0.0-1.dsc 3bc3dc599ca781b182afbc1208486e6f268d26d7d1026c73c170a9990b86f5ad 23964 ruby-rack-session_2.0.0.orig.tar.gz 363c9562392919dbeef81d538730f4badc976acd45222b58bd9a6735b675e168 2868 ruby-rack-session_2.0.0-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/ruby-rack-session"
   ],
   "Files": [
-    "ffaaeb4374b621057d15c94676c4c1ce 2195 ruby-rack-session_0.3.0-1.dsc 816b15fafc3bb9ffa2ef8c781cd1dc2f 20068 ruby-rack-session_0.3.0.orig.tar.gz b664fd444e391c5ae547028725009004 3420 ruby-rack-session_0.3.0-1.debian.tar.xz"
+    "96e6515897b60c10c955666254f5cdf2 2195 ruby-rack-session_2.0.0-1.dsc d2c20ee4a8de085c7890493470a20595 23964 ruby-rack-session_2.0.0.orig.tar.gz a7ca98b259746ebc5bcc25867288d522 2868 ruby-rack-session_2.0.0-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -42,7 +42,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest-pkg-ruby"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/ruby-team/ruby-rack-session.git"
   ],
   "Version": [
-    "0.3.0-1"
+    "2.0.0-1"
   ]
 }

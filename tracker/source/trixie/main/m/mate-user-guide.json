@@ -9,13 +9,13 @@
     "autopoint, debhelper-compat (= 13), gettext, intltool, libglib2.0-dev, mate-common (\u003e= 1.18), yelp-tools"
   ],
   "Checksums-Sha256": [
-    "3015ebc5c72ef0a54c1a9a251c90fd0fa17c693fe4285a900ae48acdd5c13dbf 2289 mate-user-guide_1.26.0-1.dsc 0f5e5e978a131ad150762f59e8d5a27d8799ac9cdae05f1b580969850ad59228 8573416 mate-user-guide_1.26.0.orig.tar.xz 51893b489cc8295d1382824169804dc99b4067d26391ca6eb3e44573ee90ae0b 4808 mate-user-guide_1.26.0-1.debian.tar.xz"
+    "3cf91d5392e2e9cd6322bdabda86b88997773e8a01b4ec962e7a185edd5467fe 2289 mate-user-guide_1.26.1-1.dsc 0e11d9d64798efd2ec20a8cc597b71848b1a360d0773e75ec108f0db526a8727 8588324 mate-user-guide_1.26.1.orig.tar.xz 44e57d59a96e2a709d5a2fe5ba10174737fafd7f410876834670fad43d51518f 4868 mate-user-guide_1.26.1-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/m/mate-user-guide"
   ],
   "Files": [
-    "39841b47c8bfc1fd89e8d67602bcf9ba 2289 mate-user-guide_1.26.0-1.dsc 7fc8f9ffc08ac167f6607cd1ffd57a58 8573416 mate-user-guide_1.26.0.orig.tar.xz c222bc6c824f66edb97903fe170ef6c3 4808 mate-user-guide_1.26.0-1.debian.tar.xz"
+    "1324d8d82959a1883ce72380ae1010a2 2289 mate-user-guide_1.26.1-1.dsc 01056ee3de4c2bc26ffe0d08a79bdcda 8588324 mate-user-guide_1.26.1.orig.tar.xz 33349684a0e4782ae2204d582ae1f5dc 4868 mate-user-guide_1.26.1-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.0"
+    "4.6.2"
   ],
   "Uploaders": [
     "John Paul Adrian Glaubitz \u003cglaubitz@physik.fu-berlin.de\u003e, Stefano Karapetsas \u003cstefano@karapetsas.com\u003e, Mike Gabriel \u003csunweaver@debian.org\u003e, Vangelis Mouhtsis \u003cvangelis@gnugr.org\u003e, Martin Wimpress \u003ccode@flexion.org\u003e,"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/debian-mate-team/mate-user-guide.git"
   ],
   "Version": [
-    "1.26.0-1"
+    "1.26.1-1"
   ]
 }

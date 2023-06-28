@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-python, pybuild-plugin-pyproject, python3-all, python3-setuptools, python3-setuptools-scm"
   ],
   "Checksums-Sha256": [
-    "b07325596cbc337631ce60c7f19fba5f13c9cfc2c8800a7ec456bbb48442c64a 2111 ansible-lint_6.17.1-1.dsc 288f9eb09b04153cea4b6a47c707ef33e69e2d40df4ee977295c8764345341a3 427049 ansible-lint_6.17.1.orig.tar.gz f49944dd4a5756646410c25ef5c14617be962a97b81138c5fe8e66308c597166 7708 ansible-lint_6.17.1-1.debian.tar.xz"
+    "cd4235c28e929b15137ac8e8006e03944e4716137287a59aa5a478ced2b51794 2111 ansible-lint_6.17.2-1.dsc 9d39ceda368c45f04739662b13326593ffa7b2c1590c9c548c6fcc443f2a286e 428396 ansible-lint_6.17.2.orig.tar.gz 15514d7fbfd43e2e25fa70f57be8459d250e4b45827762daec267167f7806bc1 7788 ansible-lint_6.17.2-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/a/ansible-lint"
   ],
   "Files": [
-    "97e99b469ed15278014abb103d6d6b7a 2111 ansible-lint_6.17.1-1.dsc 97242a59f14a3d3e10bb3927744eb0ba 427049 ansible-lint_6.17.1.orig.tar.gz 1c1c13271c98b772c01b850ff1ee4134 7708 ansible-lint_6.17.1-1.debian.tar.xz"
+    "defd4f2df934005b917f6c19a2149fb6 2111 ansible-lint_6.17.2-1.dsc 90ca5966e6309d9817699715b76e96ca 428396 ansible-lint_6.17.2.orig.tar.gz 3ca736ba19745142c10fa41f4d1d084a 7788 ansible-lint_6.17.2-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/python-team/packages/ansible-lint.git"
   ],
   "Version": [
-    "6.17.1-1"
+    "6.17.2-1"
   ]
 }

@@ -6,16 +6,16 @@
     "python3-beanbag-docutils"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), dh-sequence-python3, dh-sequence-sphinxdoc, python3-all, python3-django \u003c!nocheck\u003e, python3-kgb \u003c!nocheck\u003e, python3-pytest \u003c!nocheck\u003e, python3-setuptools, python3-sphinx, python3-sphinx-testing \u003c!nocheck\u003e"
+    "debhelper-compat (= 13), dh-sequence-python3, dh-sequence-sphinxdoc, python3-all, python3-django \u003c!nocheck\u003e, python3-kgb \u003c!nocheck\u003e, python3-pytest \u003c!nocheck\u003e, python3-setuptools, python3-sphinx, python3-sphinx-testing \u003c!nocheck\u003e, python3-sphinxcontrib.serializinghtml \u003c!nocheck\u003e"
   ],
   "Checksums-Sha256": [
-    "193f827f6522aff95f7a2d5801429e11ce034d397bc178efba77315b4e4a70e1 2232 beanbag-docutils_2.1.1-1.dsc acaceb7cac19704ecbe3be8e2bfa480c8424e785bb882a3d45eb1f78cbcb2b38 40548 beanbag-docutils_2.1.1.orig.tar.gz e744f1a03711967ea18337a225cd226abd3d71625b4620122aa7fefd17db094a 2532 beanbag-docutils_2.1.1-1.debian.tar.xz"
+    "fe56cffbb310183eb44bd18aefa067313c42f75b10026f7b1942d636c9f58b67 2268 beanbag-docutils_2.2-1.dsc 7e76b372c1553a826a0d42abc1e022c6ca03a44c9b845a5baac5cd039e43ffd6 45658 beanbag-docutils_2.2.orig.tar.gz fc9775159070f1b08af9df99326bad746c062911a550257447424167e7c206f9 2588 beanbag-docutils_2.2-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/b/beanbag-docutils"
   ],
   "Files": [
-    "ff19a105308a4919551ef0c20ff76eed 2232 beanbag-docutils_2.1.1-1.dsc bbeafc2b7e89aa4274dd041fd4a09041 40548 beanbag-docutils_2.1.1.orig.tar.gz 48d2a5a58eed3f34bf62f3c059fe56ed 2532 beanbag-docutils_2.1.1-1.debian.tar.xz"
+    "9269a5cfc9b5956ea217a73536e4b616 2268 beanbag-docutils_2.2-1.dsc 19202516e671ab3a1b050cf3d346dffc 45658 beanbag-docutils_2.2.orig.tar.gz fec81f67312e18f432382d59115596d6 2588 beanbag-docutils_2.2-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/python-team/packages/beanbag-docutils.git"
   ],
   "Version": [
-    "2.1.1-1"
+    "2.2-1"
   ]
 }

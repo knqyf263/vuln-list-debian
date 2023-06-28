@@ -9,13 +9,13 @@
     "debhelper (\u003e= 12), dh-cargo (\u003e= 25), cargo:native \u003c!nocheck\u003e, rustc:native \u003c!nocheck\u003e, libstd-rust-dev \u003c!nocheck\u003e, librust-byteorder-1+default-dev (\u003e= 1.3.1-~~) \u003c!nocheck\u003e, librust-libc-0.2+default-dev (\u003e= 0.2.92-~~) \u003c!nocheck\u003e, librust-serde-1+default-dev \u003c!nocheck\u003e, librust-serde-1+derive-dev \u003c!nocheck\u003e, librust-static-assertions-1+default-dev (\u003e= 1.1.0-~~) \u003c!nocheck\u003e, librust-zvariant-derive-2.10.0+default-dev \u003c!nocheck\u003e"
   ],
   "Checksums-Sha256": [
-    "2d9799aaef77683a795eedf2ad0dbca4fc6810c0c57d3d552d264716de0b0099 2601 rust-zvariant-2_2.10.0-3.dsc a17ab3263370250fb765db6360b65bf1aa37c406ee33d959485d0f184a4ce8f4 63576 rust-zvariant-2_2.10.0.orig.tar.gz eb004084c443b7fdbd2cc56740d1c698c20ed0d704446c23efee0d3d9027a11a 6852 rust-zvariant-2_2.10.0-3.debian.tar.xz"
+    "eac2de10e7d7e91e314bc9e444514db31ce46d023d066f02b7aaa44449784e6f 2601 rust-zvariant-2_2.10.0-4.dsc a17ab3263370250fb765db6360b65bf1aa37c406ee33d959485d0f184a4ce8f4 63576 rust-zvariant-2_2.10.0.orig.tar.gz 80a28d2df16933cf9c181a8b428e4d05725cc365deb09ed3ee53a23acfb289b1 7256 rust-zvariant-2_2.10.0-4.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/rust-zvariant-2"
   ],
   "Files": [
-    "47f486989418ae39937136838fe1999e 2601 rust-zvariant-2_2.10.0-3.dsc b1324085bc8f3fe4ddd2f0ee4114efea 63576 rust-zvariant-2_2.10.0.orig.tar.gz 50d5b1500f200636171689d6d7e6cb23 6852 rust-zvariant-2_2.10.0-3.debian.tar.xz"
+    "60bfcd0eb6d7b04d9fe14e44bea06c4a 2601 rust-zvariant-2_2.10.0-4.dsc b1324085bc8f3fe4ddd2f0ee4114efea 63576 rust-zvariant-2_2.10.0.orig.tar.gz 42b639fb8f4e56b07d0f56bd4f067f99 7256 rust-zvariant-2_2.10.0-4.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/rust-team/debcargo-conf.git [src/zvariant-2]"
   ],
   "Version": [
-    "2.10.0-3"
+    "2.10.0-4"
   ]
 }

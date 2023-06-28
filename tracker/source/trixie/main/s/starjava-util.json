@@ -12,13 +12,13 @@
     "ant-optional, default-jdk, default-jdk-doc, junit"
   ],
   "Checksums-Sha256": [
-    "9da1a64ab502f974f505a22b63801120cc52e922b110f06bccdc6a7f1043c800 2323 starjava-util_1.0+2022.09.23-2.dsc eb104dec1d7f3603170f06d1fb0c890f5383cf6a7548cd00ef86710f235f6f34 188108 starjava-util_1.0+2022.09.23.orig.tar.xz a12d894714d88ef3148563718cb1a43958b29bb7baa636386f32a101e20b6b23 7404 starjava-util_1.0+2022.09.23-2.debian.tar.xz"
+    "a855a96f1880f2a3b8f6a6be0ff8c9dd5ae5e2867b4b2d89cb8e4c5e3abacb84 2323 starjava-util_1.0+2023.04.06-1.dsc da7bef788b59d9f0bdce02a7afdcdd4e8157dbe14ff48c6e11497bd5d6262de5 188640 starjava-util_1.0+2023.04.06.orig.tar.xz bd3258fea69b1259928f6ec5d31de4df0a6ad6d98c08a4c744d0c1b87aefcf84 7420 starjava-util_1.0+2023.04.06-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/s/starjava-util"
   ],
   "Files": [
-    "1d6179a81bf15e6ffabd8b1c3e21de3d 2323 starjava-util_1.0+2022.09.23-2.dsc a4bd91e8638b6654ba3f5dcec6446094 188108 starjava-util_1.0+2022.09.23.orig.tar.xz f916410820457beb6490d79e8958dc5d 7404 starjava-util_1.0+2022.09.23-2.debian.tar.xz"
+    "2ef0467f336e73a2039dd4340f566f7e 2323 starjava-util_1.0+2023.04.06-1.dsc 2522df494ac3cd100a888bd15ae38576 188640 starjava-util_1.0+2023.04.06.orig.tar.xz 2245f6a0f7493c4cfbc3d1130a00318f 7420 starjava-util_1.0+2023.04.06-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -42,7 +42,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest"
@@ -60,6 +60,6 @@
     "https://salsa.debian.org/debian-astro-team/starjava-util.git"
   ],
   "Version": [
-    "1.0+2022.09.23-2"
+    "1.0+2023.04.06-1"
   ]
 }

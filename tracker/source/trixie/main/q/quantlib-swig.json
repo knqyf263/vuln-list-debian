@@ -6,16 +6,16 @@
     "quantlib-python"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 12), python3, python3-all-dev, libquantlib0-dev (\u003e= 1.29), gcc (\u003e= 4:5.2), g++ (\u003e= 4:5.2), libboost-dev, libboost-test-dev, dh-python"
+    "debhelper-compat (= 12), python3, python3-all-dev, libquantlib0-dev (\u003e= 1.30), gcc (\u003e= 4:5.2), g++ (\u003e= 4:5.2), libboost-dev, libboost-test-dev, dh-python"
   ],
   "Checksums-Sha256": [
-    "c841e887e5ff088d464e3e34462215f5bb2a00ece2d437265e6a748bd16133ff 1956 quantlib-swig_1.29-1.dsc 77b3eadc0e956740f8d84c9bb9c884e4e4aec3e9f97464b8f79e08efe2672525 5069682 quantlib-swig_1.29.orig.tar.gz b13452b363804ef0887f4ad47d801307e31c1ee7caf4f5918dfa1b0a6c30627d 10584 quantlib-swig_1.29-1.debian.tar.xz"
+    "eabb3cb15b4483147040e7548a0d3ea47eeec5c3d6696381550a25f5552642e6 1956 quantlib-swig_1.30-2.dsc 1697c13467a7eea0375ed113bd6b35157c568368dba8e8763597a4ef7116fa48 5189972 quantlib-swig_1.30.orig.tar.gz b4a7802dc0ea2d3732543cd350a861a981d0f4d1cd06b2b36ac853a5edea1b68 10664 quantlib-swig_1.30-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/q/quantlib-swig"
   ],
   "Files": [
-    "300ec8a692016d5bc1246c2afe2d772e 1956 quantlib-swig_1.29-1.dsc 5e2a24588f54beb8d62bd602c7f7ab97 5069682 quantlib-swig_1.29.orig.tar.gz 8da74d8b37d4f3953b82b01bf6c3519b 10584 quantlib-swig_1.29-1.debian.tar.xz"
+    "30e959062d3861b61b85950da77f5be0 1956 quantlib-swig_1.30-2.dsc a452b6714c8b2c98193b77aac3809cb6 5189972 quantlib-swig_1.30.orig.tar.gz 65618bc20360b20f23808b5e5ba39714 10664 quantlib-swig_1.30-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -48,6 +48,6 @@
     "https://salsa.debian.org/edd/quantlib-swig.git"
   ],
   "Version": [
-    "1.29-1"
+    "1.30-2"
   ]
 }

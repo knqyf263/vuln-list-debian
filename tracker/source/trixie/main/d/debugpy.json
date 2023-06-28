@@ -6,16 +6,16 @@
     "python3-debugpy"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), dh-python, dh-sequence-python3, pybuild-plugin-pyproject, python3-all, python3-django \u003c!nocheck\u003e, python3-flask \u003c!nocheck\u003e, python3-gevent \u003c!nocheck\u003e, python3-psutil \u003c!nocheck\u003e, python3-pydevd (\u003c\u003c 2.9.6), python3-pydevd (\u003e= 2.9.5+ds), python3-pytest \u003c!nocheck\u003e, python3-pytest-timeout \u003c!nocheck\u003e, python3-pytest-xdist \u003c!nocheck\u003e, python3-requests \u003c!nocheck\u003e, python3-setuptools"
+    "debhelper-compat (= 13), dh-python, dh-sequence-python3, pybuild-plugin-pyproject, python3-all, python3-django \u003c!nocheck\u003e, python3-flask \u003c!nocheck\u003e, python3-gevent \u003c!nocheck\u003e, python3-psutil \u003c!nocheck\u003e, python3-pydevd (\u003c\u003c 2.9.7), python3-pydevd (\u003e= 2.9.6+ds), python3-pytest \u003c!nocheck\u003e, python3-pytest-timeout \u003c!nocheck\u003e, python3-pytest-xdist \u003c!nocheck\u003e, python3-requests \u003c!nocheck\u003e, python3-setuptools"
   ],
   "Checksums-Sha256": [
-    "8d15663eccd955638088154c37854ac9c8984205c173bf794b8c8742cce623e8 2542 debugpy_1.6.6+ds-1.dsc 4a39b9c9fc583a0ff6424dcb87c51f7d0182cbbaf9d369942c2959d0ddee22d5 143768 debugpy_1.6.6+ds.orig.tar.xz 998b7357df1a6bf0de16c63ea1ffa6477b38939782b7ca0ef175bb77782b46a4 7044 debugpy_1.6.6+ds-1.debian.tar.xz"
+    "883dd78499b99d965d1778fd828af8659d8df9ca834fe79e9e9264e1819aeb57 2542 debugpy_1.6.7+ds-1.dsc 32d3d5e16a70c74389291c282283d074b51b124e14c9eecee51e1cbe58ac11c1 144692 debugpy_1.6.7+ds.orig.tar.xz bed57611ed3c9fe742a4797cc98b8a6d69e04ec025c34cc0c65529ed874d75a2 7172 debugpy_1.6.7+ds-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/d/debugpy"
   ],
   "Files": [
-    "e0df5feb10f459ded434df1db9a2b919 2542 debugpy_1.6.6+ds-1.dsc 9fe65257071b7776a56f1817912f0ed9 143768 debugpy_1.6.6+ds.orig.tar.xz 04667c0cfec3137f1adb7657098b7c2b 7044 debugpy_1.6.6+ds-1.debian.tar.xz"
+    "dcb2b77b4b6f22b071f9c524405d2418 2542 debugpy_1.6.7+ds-1.dsc a6b1a1a910d25ee6d4b54c644f70524a 144692 debugpy_1.6.7+ds.orig.tar.xz 9735c789ceb98532c445774695501dd2 7172 debugpy_1.6.7+ds-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/python-team/packages/debugpy.git"
   ],
   "Version": [
-    "1.6.6+ds-1"
+    "1.6.7+ds-1"
   ]
 }

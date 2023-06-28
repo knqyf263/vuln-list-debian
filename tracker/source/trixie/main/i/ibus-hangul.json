@@ -6,16 +6,16 @@
     "ibus-hangul"
   ],
   "Build-Depends": [
-    "appstream, debhelper-compat (= 13), dh-apparmor, dh-python, gettext (\u003e= 0.19.8), libgtk-3-dev, libhangul-dev (\u003e= 0.1.0), libibus-1.0-dev (\u003e= 1.5.20~), pkg-config, python3"
+    "appstream, debhelper-compat (= 13), dh-apparmor, dh-python, gettext (\u003e= 0.19.8), libgtk-3-dev, libhangul-dev (\u003e= 0.1.0), libibus-1.0-dev (\u003e= 1.5.28~), pkg-config, python3"
   ],
   "Checksums-Sha256": [
-    "63f469c6f3ea039c7a5d21236baac6235d25ec32b89dfee14aab3bf6e2cbe86f 1789 ibus-hangul_1.5.4-2.dsc a9f27ef9b0c03fd9f2faa327fb0a83c04098763969548b65b2f8159bed15cfe0 542612 ibus-hangul_1.5.4.orig.tar.gz c05bfa77e7cb94ccfb55cfae294231752b860aafa9cda1e8206b4456dc337ad6 7564 ibus-hangul_1.5.4-2.debian.tar.xz"
+    "7c3a90fdae5a4d67b53c403fbb093fee2b487e8768669c4c24c438e06c35fd05 2131 ibus-hangul_1.5.5-2.dsc f2f4967f90701c040a85657ea2ab9a1021d7d31f0061cf21b9dd90e026e49d2a 70635 ibus-hangul_1.5.5.orig.tar.gz b0a4c00a67e4c9f8b494d19b5748fe76a627e0477622aeebc19942638ecc73cc 8656 ibus-hangul_1.5.5-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/i/ibus-hangul"
   ],
   "Files": [
-    "8c0aab04c108137198f42876cee8ad99 1789 ibus-hangul_1.5.4-2.dsc 6668841b62997ae05beb31682ca6a879 542612 ibus-hangul_1.5.4.orig.tar.gz 4d7ac834596699a52567bd1ad780fed7 7564 ibus-hangul_1.5.4-2.debian.tar.xz"
+    "043c8c488e61aae08c37938ecfbe26c0 2131 ibus-hangul_1.5.5-2.dsc 1af6d0b40438f7f23507aa597d061c83 70635 ibus-hangul_1.5.5.orig.tar.gz 9c9259cb560dd6705142729534636430 8656 ibus-hangul_1.5.5-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "utils"
   ],
   "Standards-Version": [
-    "4.5.0"
+    "4.6.2"
   ],
   "Uploaders": [
     "Changwoo Ryu \u003ccwryu@debian.org\u003e, Osamu Aoki \u003cosamu@debian.org\u003e"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/input-method-team/ibus-hangul.git"
   ],
   "Version": [
-    "1.5.4-2"
+    "1.5.5-2"
   ]
 }

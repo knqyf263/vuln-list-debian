@@ -6,16 +6,16 @@
     "wmforkplop"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), libgtop2-dev, libimlib2-dev, libx11-dev, libxext-dev, libxt-dev, libgtk2.0-dev"
+    "debhelper-compat (= 13), libgtk2.0-dev, libgtop2-dev, libimlib2-dev, libx11-dev, libxext-dev, libxt-dev, pkg-config"
   ],
   "Checksums-Sha256": [
-    "a78f142025316b1e2fba1fa3e8efbff34d768aa2639fb105a922b9656a2b3ef0 1974 wmforkplop_0.9.3-2.2.dsc 59f2194e855678866901cb469de50ff76b67698ba9e9f346fbacaccc4451216c 186250 wmforkplop_0.9.3.orig.tar.gz 66a9f42168154b57d0ee86497963e2edc4b0a26e64a18f15c632b9c3491367fb 6560 wmforkplop_0.9.3-2.2.debian.tar.xz"
+    "25676a8dce73754e80b8b176892afe5542b7e831b83c9ae89a81bda548ef5af6 1938 wmforkplop_0.9.3-3.dsc 59f2194e855678866901cb469de50ff76b67698ba9e9f346fbacaccc4451216c 186250 wmforkplop_0.9.3.orig.tar.gz 06fd7f62695fc90b978e88c65dc326c4675026c49c2ea0d1e50e8570a1454e6a 6976 wmforkplop_0.9.3-3.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/w/wmforkplop"
   ],
   "Files": [
-    "4b1c9108c9de196568dd4b34a7419580 1974 wmforkplop_0.9.3-2.2.dsc e78eed8382e4dc1629dc946cb55c69f4 186250 wmforkplop_0.9.3.orig.tar.gz 1cff402e24bbef845cc96f45a15d5604 6560 wmforkplop_0.9.3-2.2.debian.tar.xz"
+    "ef48296831400690133111e5af43b228 1938 wmforkplop_0.9.3-3.dsc e78eed8382e4dc1629dc946cb55c69f4 186250 wmforkplop_0.9.3.orig.tar.gz 07e03c6ec15e86a8eb48f65aced68416 6976 wmforkplop_0.9.3-3.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -24,7 +24,7 @@
     "http://hules.free.fr/wmforkplop"
   ],
   "Maintainer": [
-    "Varun Hiremath \u003cvarun@debian.org\u003e"
+    "Debian QA Group \u003cpackages@qa.debian.org\u003e"
   ],
   "Package": [
     "wmforkplop"
@@ -39,10 +39,7 @@
     "x11"
   ],
   "Standards-Version": [
-    "4.5.0"
-  ],
-  "Uploaders": [
-    "Torsten Werner \u003ctwerner@debian.org\u003e"
+    "4.6.2"
   ],
   "Vcs-Browser": [
     "https://salsa.debian.org/debian/wmforkplop"
@@ -51,6 +48,6 @@
     "https://salsa.debian.org/debian/wmforkplop.git"
   ],
   "Version": [
-    "0.9.3-2.2"
+    "0.9.3-3"
   ]
 }

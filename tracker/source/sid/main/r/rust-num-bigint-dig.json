@@ -9,13 +9,13 @@
     "debhelper (\u003e= 12), dh-cargo (\u003e= 25), cargo:native \u003c!nocheck\u003e, rustc:native \u003c!nocheck\u003e, libstd-rust-dev \u003c!nocheck\u003e, librust-byteorder-1-dev \u003c!nocheck\u003e, librust-lazy-static-1+spin-no-std-dev \u003c!nocheck\u003e, librust-libm-0.2+default-dev \u003c!nocheck\u003e, librust-num-integer-0.1+i128-dev \u003c!nocheck\u003e, librust-num-integer-0.1+std-dev \u003c!nocheck\u003e, librust-num-iter-0.1-dev \u003c!nocheck\u003e, librust-num-traits-0.2+i128-dev \u003c!nocheck\u003e, librust-num-traits-0.2+std-dev \u003c!nocheck\u003e, librust-rand-0.8+std-dev \u003c!nocheck\u003e, librust-serde-1+alloc-dev \u003c!nocheck\u003e, librust-serde-1+std-dev \u003c!nocheck\u003e, librust-smallvec-1+write-dev \u003c!nocheck\u003e, librust-smallvec-1-dev \u003c!nocheck\u003e"
   ],
   "Checksums-Sha256": [
-    "d9135132ca6ec322361dc2cdcd74d300bb76c12cd783b704dd296fa75bcf0e53 2983 rust-num-bigint-dig_0.8.2-1.dsc 2399c9463abc5f909349d8aa9ba080e0b88b3ce2885389b60b993f39b1a56905 123759 rust-num-bigint-dig_0.8.2.orig.tar.gz 8026a0161d9c6aedfe86ff09602e7e193cc3a9dd2bc03e4d603a80b4eb6d0c84 3500 rust-num-bigint-dig_0.8.2-1.debian.tar.xz"
+    "2ca16b66baa3bd2348fb8b8c7c1c46a05442f978a4648f08ae8de5b84ccfda23 2658 rust-num-bigint-dig_0.8.2-2.dsc 2399c9463abc5f909349d8aa9ba080e0b88b3ce2885389b60b993f39b1a56905 123759 rust-num-bigint-dig_0.8.2.orig.tar.gz 52266d1f86f1d6a9dd84f934030a3ccd2918ad7caa824e465a598f45229d82e2 3820 rust-num-bigint-dig_0.8.2-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/rust-num-bigint-dig"
   ],
   "Files": [
-    "524367fe0b9b8663e78e8f44dac9a881 2983 rust-num-bigint-dig_0.8.2-1.dsc d76deb84e32119b3c323e362c366fdbe 123759 rust-num-bigint-dig_0.8.2.orig.tar.gz 8b860ca5b8d6d5ce2a8ccb66ff6f9b2a 3500 rust-num-bigint-dig_0.8.2-1.debian.tar.xz"
+    "b7604cbafb230c50e1e2dbc4d399b558 2658 rust-num-bigint-dig_0.8.2-2.dsc d76deb84e32119b3c323e362c366fdbe 123759 rust-num-bigint-dig_0.8.2.orig.tar.gz 8b38f4aebd17b255b16c2f287958ee2a 3820 rust-num-bigint-dig_0.8.2-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/rust-team/debcargo-conf.git [src/num-bigint-dig]"
   ],
   "Version": [
-    "0.8.2-1"
+    "0.8.2-2"
   ]
 }

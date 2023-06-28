@@ -6,16 +6,16 @@
     "driverctl"
   ],
   "Build-Depends": [
-    "debhelper (\u003e= 10), pkg-config, systemd, udev"
+    "debhelper-compat (= 13), pkg-config, systemd-dev | systemd, systemd-dev | udev"
   ],
   "Checksums-Sha256": [
-    "75ca90485ec1cd83870c7e92986a9899830a36b650c96791452eeecf0f4eeba8 1533 driverctl_0.111-1.dsc 49541851fe9b7e2956d9300e9ff7e4308a90e7a936b2665f919b8517319d370a 16542 driverctl_0.111.orig.tar.gz 45d111da2dd936fab352cb132c63eca58f6ed6e512ea3042242df305cf435d6e 2472 driverctl_0.111-1.debian.tar.xz"
+    "8897c69002056fc36fe47380822d3482dddf0d85233316588882d9b32539a716 1913 driverctl_0.111-2.dsc 49541851fe9b7e2956d9300e9ff7e4308a90e7a936b2665f919b8517319d370a 16542 driverctl_0.111.orig.tar.gz a0d4c44e07d5bdf3fcffbc64fff7d5708ffa24a666501b5675c52cd54ca667d6 3856 driverctl_0.111-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/d/driverctl"
   ],
   "Files": [
-    "74f1bb1f32ef46483b1624a8354e1b91 1533 driverctl_0.111-1.dsc 4b82e15ebb69656e9273d4c416c26155 16542 driverctl_0.111.orig.tar.gz 1f1776a34ef8b4d21401ede35e707701 2472 driverctl_0.111-1.debian.tar.xz"
+    "bfac57d35fd4a2aefb3a6f9e52ac5de3 1913 driverctl_0.111-2.dsc 4b82e15ebb69656e9273d4c416c26155 16542 driverctl_0.111.orig.tar.gz 9d6ecce9a4c0b690e8f81950fca84922 3856 driverctl_0.111-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.3.0"
+    "4.6.2"
   ],
   "Vcs-Browser": [
     "https://salsa.debian.org/debian/driverctl"
@@ -48,6 +48,6 @@
     "https://salsa.debian.org/debian/driverctl.git"
   ],
   "Version": [
-    "0.111-1"
+    "0.111-2"
   ]
 }

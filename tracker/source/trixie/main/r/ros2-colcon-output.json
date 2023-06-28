@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-sequence-python3, python3-all, python3-setuptools, python3-colcon-core, python3-flake8 \u003c!nocheck\u003e, python3-pep8-naming \u003c!nocheck\u003e, pylint \u003c!nocheck\u003e, python3-pytest \u003c!nocheck\u003e, python3-pytest-cov \u003c!nocheck\u003e"
   ],
   "Checksums-Sha256": [
-    "8fc0f6b1aa3b709c72a7dd37c72354124e208a8df4704cb5eaad44166378a4a6 2324 ros2-colcon-output_0.2.12-2.dsc 925f02cda3487abb0156da8911e1797dae1701d1c581cd1243202edb69410bfc 10841 ros2-colcon-output_0.2.12.orig.tar.gz d49c9793cb90085b32138e29057fecb9faa7763cdf4b0ad08de52ba4ac0a9c98 2432 ros2-colcon-output_0.2.12-2.debian.tar.xz"
+    "197eea86bb445321b8614e79bf1d4f057c15453460d09c6c27e73146b94a0b01 2178 ros2-colcon-output_0.2.13-1.dsc cb32bcf7a88761edc925bd76a1cd2f2f91c574d565ce1063e0b6f6c3d744647e 11231 ros2-colcon-output_0.2.13.orig.tar.gz 6265ca4623753b3b25b34466b22af36126255dd00e2aef0eab088e0cd0519ec8 2316 ros2-colcon-output_0.2.13-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/ros2-colcon-output"
   ],
   "Files": [
-    "d081ada5a82073757ea47fac04fc86b7 2324 ros2-colcon-output_0.2.12-2.dsc b5c229c0111a3a97e8844e5da6e60f4b 10841 ros2-colcon-output_0.2.12.orig.tar.gz 868ad97a62348bf54168acba94564da2 2432 ros2-colcon-output_0.2.12-2.debian.tar.xz"
+    "20b148e9049f3c2fb3f70a05fda534ae 2178 ros2-colcon-output_0.2.13-1.dsc 4179169975dd4a5805e955cfc3c69d93 11231 ros2-colcon-output_0.2.13.orig.tar.gz 8a0b8569f5eb30149e287e38693eab7a 2316 ros2-colcon-output_0.2.13-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.0"
+    "4.6.2"
   ],
   "Uploaders": [
     "Timon Engelke \u003cdebian@timonengelke.de\u003e, Jochen Sprickerhof \u003cjspricke@debian.org\u003e, Timo Röhling \u003croehling@debian.org\u003e"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/robotics-team/ros2-colcon-output.git"
   ],
   "Version": [
-    "0.2.12-2"
+    "0.2.13-1"
   ]
 }

@@ -9,16 +9,19 @@
     "debhelper-compat (= 13)"
   ],
   "Build-Depends-Indep": [
-    "libarchive-zip-perl \u003c!nocheck\u003e, libtest-pod-coverage-perl \u003c!nocheck\u003e, libtest-pod-perl \u003c!nocheck\u003e, libyaml-libyaml-perl \u003c!nocheck\u003e | libyaml-perl \u003c!nocheck\u003e | libyaml-tiny-perl \u003c!nocheck\u003e | libyaml-syck-perl \u003c!nocheck\u003e, perl"
+    "libarchive-zip-perl \u003c!nocheck\u003e, libyaml-libyaml-perl \u003c!nocheck\u003e | libyaml-perl \u003c!nocheck\u003e | libyaml-tiny-perl \u003c!nocheck\u003e | libyaml-syck-perl \u003c!nocheck\u003e, perl"
   ],
   "Checksums-Sha256": [
-    "a337f52f10726f8357d47ddfde0c447b71015e3d0924cdade134efebf6520e85 2349 libpar-dist-perl_0.51-2.dsc d242062df9b689f39040e4c4e09131a6c464d0eefadbd1c9ac947173af33dff8 42492 libpar-dist-perl_0.51.orig.tar.gz fb2a070a6f651dd7d07d9ff6f67421f0498db1b891fcbda1d52cf7c309c4ab6f 3848 libpar-dist-perl_0.51-2.debian.tar.xz"
+    "6c2f45d8f0a51957dd41384f1ca4c803d6f64305b883ebb1d3a848b37fd73727 2533 libpar-dist-perl_0.52-1.dsc cbe963009ea79d2454a85fe1794f425b7ddc1e86b71749c884db29d601ea8f88 42768 libpar-dist-perl_0.52.orig.tar.gz 283175b3f19444c8145572da556dfcc25df5ae6d078354ba80171588dfaee5a0 3840 libpar-dist-perl_0.52-1.debian.tar.xz"
+  ],
+  "Dgit": [
+    "5136b502b7d4d2fea3ac5a80b892a2fcae19f9c4 debian archive/debian/0.52-1 https://git.dgit.debian.org/libpar-dist-perl"
   ],
   "Directory": [
     "pool/main/libp/libpar-dist-perl"
   ],
   "Files": [
-    "3102f18e292aec26b2a57777dd61755f 2349 libpar-dist-perl_0.51-2.dsc 9231ef7cb0f46c6c183e91962e2a766c 42492 libpar-dist-perl_0.51.orig.tar.gz 05a0683fcc4b4df162bc35bb0fc2e499 3848 libpar-dist-perl_0.51-2.debian.tar.xz"
+    "a7b21419d26d628489133a973381d23e 2533 libpar-dist-perl_0.52-1.dsc d7b74fd9efd82d693236c05bfc539e60 42768 libpar-dist-perl_0.52.orig.tar.gz 81ed0e856151fddecbe84222c6863e26 3840 libpar-dist-perl_0.52-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -42,7 +45,7 @@
     "perl"
   ],
   "Standards-Version": [
-    "4.5.1"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest-pkg-perl"
@@ -57,6 +60,6 @@
     "https://salsa.debian.org/perl-team/modules/packages/libpar-dist-perl.git"
   ],
   "Version": [
-    "0.51-2"
+    "0.52-1"
   ]
 }

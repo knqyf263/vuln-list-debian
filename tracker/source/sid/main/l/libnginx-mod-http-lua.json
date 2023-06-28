@@ -6,16 +6,16 @@
     "libnginx-mod-http-lua"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), dh-sequence-nginx, libluajit2-5.1-dev, libnginx-mod-http-ndk-dev, libpcre3-dev, nginx-abi-1.22.1-7"
+    "debhelper-compat (= 13), dh-sequence-nginx, libluajit2-5.1-dev, libnginx-mod-http-ndk-dev, libpcre3-dev, nginx-abi-1.24.0-1"
   ],
   "Checksums-Sha256": [
-    "06cd26b992c39f050a269b86673554c1056ffc9aa77d2113af22fa655a490605 2394 libnginx-mod-http-lua_0.10.23-1.dsc aabd9907e8b7077c1b4cf4c1d0426e9b10885c5b0bfa87c85c3a97c33c40b503 724117 libnginx-mod-http-lua_0.10.23.orig.tar.gz 1e1204163aedcce9b1348b5cf7da7713aee3658c3a008315bdcd4b45ff144b82 5148 libnginx-mod-http-lua_0.10.23-1.debian.tar.xz"
+    "6e04c191ff1555a59ca1bbfa0820407a6e51a3eccc28287e90f284bdfcd36b06 2394 libnginx-mod-http-lua_0.10.23-2.dsc aabd9907e8b7077c1b4cf4c1d0426e9b10885c5b0bfa87c85c3a97c33c40b503 724117 libnginx-mod-http-lua_0.10.23.orig.tar.gz f3053ee0123199ea744de2ce016db6fabdab6e547495ced34cc992d1b83f8458 5172 libnginx-mod-http-lua_0.10.23-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/libn/libnginx-mod-http-lua"
   ],
   "Files": [
-    "eabfea851cd553f46ea98a8f7fef2f80 2394 libnginx-mod-http-lua_0.10.23-1.dsc 289c42b93f2b02616a4d5d99e929b2c4 724117 libnginx-mod-http-lua_0.10.23.orig.tar.gz 0d70f5c0ddc24645060dc82b2157767e 5148 libnginx-mod-http-lua_0.10.23-1.debian.tar.xz"
+    "62b99a57362b03559127160581b846b6 2394 libnginx-mod-http-lua_0.10.23-2.dsc 289c42b93f2b02616a4d5d99e929b2c4 724117 libnginx-mod-http-lua_0.10.23.orig.tar.gz a2bf1ec8cff8a53a9bc24ff45613ad46 5172 libnginx-mod-http-lua_0.10.23-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/nginx-team/libnginx-mod-http-lua.git"
   ],
   "Version": [
-    "1:0.10.23-1"
+    "1:0.10.23-2"
   ]
 }

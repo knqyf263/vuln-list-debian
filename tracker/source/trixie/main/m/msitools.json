@@ -9,13 +9,13 @@
     "bats, bison, debhelper-compat (= 13), gobject-introspection, libgcab-dev, libgirepository1.0-dev, libglib2.0-dev, libgsf-1-dev, libxml2-dev, meson (\u003e= 0.52), valac"
   ],
   "Checksums-Sha256": [
-    "b4e6dc8ec91846cec7b788e0c9e9a8a09e71e64f5e815d1afd7255ec40a504fa 2274 msitools_0.101+repack-1.dsc b2719f18642e80b65b96cdea735284c16aec9872caed708a6c1ca57decef7130 557304 msitools_0.101+repack.orig.tar.xz 44ee3faba7fe92083ee4265465d44d109a226a7c8a03c33eef8d70773eb514dd 8132 msitools_0.101+repack-1.debian.tar.xz"
+    "aeaa54a52da66303a3203c957a2ca775c9199a2227b099a45ee979ff5bb0a5b7 2274 msitools_0.102+repack-1.dsc b9d5e62fc9c21fe570b4392693b145135b3ae92fa0300111f0b34f9a9ba5a039 425184 msitools_0.102+repack.orig.tar.xz fdceab25b466ca810000f2a6088923c2e21e629703df5e64217b964ccec46715 9212 msitools_0.102+repack-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/m/msitools"
   ],
   "Files": [
-    "787b45ca85875ed0ba628ecd1b4650d2 2274 msitools_0.101+repack-1.dsc 11106ba83dae9f234cccc0931d0904b5 557304 msitools_0.101+repack.orig.tar.xz 329fd041c3f359189098bc42b3966960 8132 msitools_0.101+repack-1.debian.tar.xz"
+    "cc35930f786cca95b6dbc4bde6429349 2274 msitools_0.102+repack-1.dsc 55561ad84cb786276eba682b14dd500c 425184 msitools_0.102+repack.orig.tar.xz ffa15ed825177bfe11c1bc7ef1ccab94 9212 msitools_0.102+repack-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.5.1"
+    "4.6.2"
   ],
   "Vcs-Browser": [
     "https://salsa.debian.org/debian/msitools"
@@ -48,6 +48,6 @@
     "https://salsa.debian.org/debian/msitools.git"
   ],
   "Version": [
-    "0.101+repack-1"
+    "0.102+repack-1"
   ]
 }

@@ -6,16 +6,16 @@
     "python3-django-redis-sessions"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), dh-python, python3-all, python3-setuptools"
+    "debhelper-compat (= 13), dh-python, pybuild-plugin-pyproject, python3-all, python3-setuptools"
   ],
   "Checksums-Sha256": [
-    "933f9a6d3d34855f3999ee98a5bbba72790fec484115961927a9bb5d85b2b01f 2133 django-redis-sessions_0.6.2-1.dsc ba33ecca198f28ddc32d9f03742dc8dfc34c1857b789c75ea8425d6d7d7376be 7215 django-redis-sessions_0.6.2.orig.tar.gz 8645483c44df12e82b59a1bf3a74f39df902ab146241ce8a113bd684018062e8 2444 django-redis-sessions_0.6.2-1.debian.tar.xz"
+    "4434e5b52d6c789e5a788bf763a1c308813c3871f37f30aac728523b8dae0e8a 1816 django-redis-sessions_0.6.2-2.dsc ba33ecca198f28ddc32d9f03742dc8dfc34c1857b789c75ea8425d6d7d7376be 7215 django-redis-sessions_0.6.2.orig.tar.gz ccddd8a08aaf9c2f03dfd52bfeb5dcf47ec0ecb7b099cceb288db699c987c774 2836 django-redis-sessions_0.6.2-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/d/django-redis-sessions"
   ],
   "Files": [
-    "7c2bfac88e2853f31ad5255418502fff 2133 django-redis-sessions_0.6.2-1.dsc 9adea424a35d3538b0c06b11ab04b2f4 7215 django-redis-sessions_0.6.2.orig.tar.gz 0d930c17cbb56e9550e7f3f9b6978b69 2444 django-redis-sessions_0.6.2-1.debian.tar.xz"
+    "4412c2ee083ae7427e4bb7faedcc9f0c 1816 django-redis-sessions_0.6.2-2.dsc 9adea424a35d3538b0c06b11ab04b2f4 7215 django-redis-sessions_0.6.2.orig.tar.gz 033f4e2ba156fefbf02f0e0a2e78474f 2836 django-redis-sessions_0.6.2-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,10 +39,10 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.0"
+    "4.6.2"
   ],
   "Uploaders": [
-    "Scott Kitterman \u003cscott@kitterman.com\u003e"
+    "Michael Fladischer \u003cfladi@debian.org\u003e,"
   ],
   "Vcs-Browser": [
     "https://salsa.debian.org/python-team/packages/django-redis-sessions"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/python-team/packages/django-redis-sessions.git"
   ],
   "Version": [
-    "0.6.2-1"
+    "0.6.2-2"
   ]
 }

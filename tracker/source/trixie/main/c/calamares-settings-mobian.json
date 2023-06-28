@@ -9,13 +9,13 @@
     "debhelper-compat (= 13)"
   ],
   "Checksums-Sha256": [
-    "4822fae23fcf65cb136696feecef5b80b10cca12e04df28e2a225b6f6ac4e5e5 1808 calamares-settings-mobian_0.3.1.dsc a5d25aa8761285deaa409e918e398c11018728139628fa33bc2d233065cf8fdc 32032 calamares-settings-mobian_0.3.1.tar.xz"
+    "08f6340afe67a3e05472a5dfdba88de2919201addee8ed13a614d58ad83c15f3 1808 calamares-settings-mobian_0.3.2.dsc 68ae76d3c5efbde39702bbf2764fbd7d64c2313f73a83bd50dc597d951e32727 32072 calamares-settings-mobian_0.3.2.tar.xz"
   ],
   "Directory": [
     "pool/main/c/calamares-settings-mobian"
   ],
   "Files": [
-    "93448f8732859b1f13b595977ae832c1 1808 calamares-settings-mobian_0.3.1.dsc e689df563d68a93dc8c57f8ce9cfcdf6 32032 calamares-settings-mobian_0.3.1.tar.xz"
+    "4d748e8fe88b23f9b16dff2fcb9e8385 1808 calamares-settings-mobian_0.3.2.dsc 627056dfd8312277a447123c59a46b49 32072 calamares-settings-mobian_0.3.2.tar.xz"
   ],
   "Format": [
     "3.0 (native)"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/Mobian-team/calamares-settings-mobian.git"
   ],
   "Version": [
-    "0.3.1"
+    "0.3.2"
   ]
 }
