@@ -12,13 +12,13 @@
     "gettext"
   ],
   "Checksums-Sha256": [
-    "608ed02073381a8af28f29c3a2e390ddff7caee6b013a533fffc16b660fa80a4 1671 adduser_3.134.dsc ddfc63b55664381d326d98e7afcf5859a8f60d6d78d5d6941e491479a008b172 272044 adduser_3.134.tar.xz"
+    "59c34ef4cb417c962b0e15632388bba85ead4c2042e45740e37c7dd4b292e689 1671 adduser_3.136.dsc 47a098cc0500e547ff894e379b9dc223ac8a85d617908d7edfbc3a1576978e29 278832 adduser_3.136.tar.xz"
   ],
   "Directory": [
     "pool/main/a/adduser"
   ],
   "Files": [
-    "6dc42e66408aee7b2f23c13c5fbd0c09 1671 adduser_3.134.dsc a653d071c58774c3a3d51e21e78d6bab 272044 adduser_3.134.tar.xz"
+    "d6a366c2891215cbb50235c80d81d7c3 1671 adduser_3.136.dsc 7d38f803529a0ef3126c6fdf2f7b5c9f 278832 adduser_3.136.tar.xz"
   ],
   "Format": [
     "3.0 (native)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/debian/adduser.git"
   ],
   "Version": [
-    "3.134"
+    "3.136"
   ]
 }

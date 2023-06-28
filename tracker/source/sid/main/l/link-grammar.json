@@ -9,13 +9,13 @@
     "ant [!hppa !hurd-i386 !kfreebsd-amd64 !kfreebsd-i386 !m68k !sh4], autoconf-archive, d-shlibs (\u003e= 0.98~), debhelper-compat (= 13), default-jdk [!hppa !hurd-i386 !kfreebsd-amd64 !kfreebsd-i386 !m68k !sh4], dh-sequence-python3, flex, hunspell, libedit-dev, libhunspell-dev, libpcre2-dev, libsqlite3-dev, locales-all \u003c!nocheck\u003e, pkg-config, python3-dev, swig, zlib1g-dev"
   ],
   "Checksums-Sha256": [
-    "ba9b4398c28e87571b91580b7e4a811297685fc5c6b46ff082a86736d47e6eff 3079 link-grammar_5.12.0~dfsg-2.dsc 2286468a418a4aef66b35aede19d7f8a39071cf42a5b2cf68b4fc02f578ac79a 3588576 link-grammar_5.12.0~dfsg.orig.tar.xz c13e02cc07c73cc20ea556400898162995e1400066e7dac53ae0e30815be910e 31400 link-grammar_5.12.0~dfsg-2.debian.tar.xz"
+    "c7a43ee55a74e8949ccdaba6c2d3548f307fcdf0b17441934d0ccbcc30e1f5d8 3079 link-grammar_5.12.3~dfsg-1.dsc cda8c0aa84622d1c46d0c5ae3b629d6c06657c1e3abd7e0c5d58eb8d0c1eed06 3611712 link-grammar_5.12.3~dfsg.orig.tar.xz abf6d388e512b59860f95e41dc11aa503699cf644eba23890406e4a6f19d5416 30612 link-grammar_5.12.3~dfsg-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/l/link-grammar"
   ],
   "Files": [
-    "b42b787d711575514025beefc72f5d94 3079 link-grammar_5.12.0~dfsg-2.dsc f2e5d6d1f391a391a3c6f95766c5676d 3588576 link-grammar_5.12.0~dfsg.orig.tar.xz 7733c681d5962be5e157a44ec2df9c22 31400 link-grammar_5.12.0~dfsg-2.debian.tar.xz"
+    "dc7904439ee922fdee069e679a2e143d 3079 link-grammar_5.12.3~dfsg-1.dsc 4de72f41da2003a3ff5f2a6ddf18c012 3611712 link-grammar_5.12.3~dfsg.orig.tar.xz 59e0b7a3765cad28198ba7300962ea4c 30612 link-grammar_5.12.3~dfsg-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/debian/link-grammar.git"
   ],
   "Version": [
-    "5.12.0~dfsg-2"
+    "5.12.3~dfsg-1"
   ]
 }

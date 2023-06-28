@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-python, jdupes, python3-all, python3-setuptools, python3-sphinx"
   ],
   "Checksums-Sha256": [
-    "64a2e03a926a966f4c1750b5b43b933a79044f9a1c224eb191b5f14c8928631a 2788 tryton-modules-stock-package-shipping-dpd_6.0.5-1.dsc 6e4f73bfb7288a0dcee326afb9e675bc234becba91fb0330bfa279bfabaafe18 31977 tryton-modules-stock-package-shipping-dpd_6.0.5.orig.tar.gz 234ef8261f7210f2c78be5ffdda893ef695b5352fcbc55d01073945453e0c25b 506 tryton-modules-stock-package-shipping-dpd_6.0.5.orig.tar.gz.asc 161c19b012fb52b813c18b308af27aeaa496d52e8289503ed02011da8b2547c8 12928 tryton-modules-stock-package-shipping-dpd_6.0.5-1.debian.tar.xz"
+    "49ac4c96c81c7ffebd37bfaafa090b6e1b94bd8be6ec800fd7782e8c1b92039c 2788 tryton-modules-stock-package-shipping-dpd_6.0.6-1.dsc 1fb307020f15a49f552f52f2bf64ed0a96c71a4047b86ffa67962d3650c77fbc 32041 tryton-modules-stock-package-shipping-dpd_6.0.6.orig.tar.gz 5b110ab05873016cfc94448bfae372df46ebc79e2280a791bde317ffcf17fcc2 502 tryton-modules-stock-package-shipping-dpd_6.0.6.orig.tar.gz.asc 226b2c78d6646208f2868bf590873bc9834df9751fc069fbe41e6405ab9eae20 12944 tryton-modules-stock-package-shipping-dpd_6.0.6-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/t/tryton-modules-stock-package-shipping-dpd"
   ],
   "Files": [
-    "8c278a13e25f66e3255db536cec8530b 2788 tryton-modules-stock-package-shipping-dpd_6.0.5-1.dsc 8f28d83313b854f3b2d8079b4cb15672 31977 tryton-modules-stock-package-shipping-dpd_6.0.5.orig.tar.gz 5453e4d035202545b6b97859cfc5240b 506 tryton-modules-stock-package-shipping-dpd_6.0.5.orig.tar.gz.asc 947017d7552ac45751cc3c6777c56292 12928 tryton-modules-stock-package-shipping-dpd_6.0.5-1.debian.tar.xz"
+    "2952a21a8f0c4ae56f0be7775019cf53 2788 tryton-modules-stock-package-shipping-dpd_6.0.6-1.dsc c3dea39c653e829b2ee5a26abbe2d92b 32041 tryton-modules-stock-package-shipping-dpd_6.0.6.orig.tar.gz df8af7cbad14a3074a0ae2b9832f6890 502 tryton-modules-stock-package-shipping-dpd_6.0.6.orig.tar.gz.asc 38bfb5573cc5b6df7438fe622fee5d27 12944 tryton-modules-stock-package-shipping-dpd_6.0.6-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/tryton-team/tryton-modules-stock-package-shipping-dpd.git"
   ],
   "Version": [
-    "6.0.5-1"
+    "6.0.6-1"
   ]
 }

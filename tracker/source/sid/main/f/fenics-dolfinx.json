@@ -12,13 +12,13 @@
     "doxygen, graphviz, libjs-mathjax, libjs-modernizr, python3-myst-parser, python3-sphinx-rtd-theme"
   ],
   "Checksums-Sha256": [
-    "c22152e341e96e389324b72d3c254213d254f8c7a688d7b9368ea4d454f32467 3843 fenics-dolfinx_0.6.0-2.dsc eb8ac2bb2f032b0d393977993e1ab6b4101a84d54023a67206e3eac1a8d79b80 684211 fenics-dolfinx_0.6.0.orig.tar.gz b9d90957434037cad1607bce26cc77c2c2448a99bbe009122b5fe56199baef4f 43732 fenics-dolfinx_0.6.0-2.debian.tar.xz"
+    "169bfdcc997e5e9b156499781071ecda92a45b23cc538aee873bd6bc616633ab 3843 fenics-dolfinx_0.6.0-3.dsc eb8ac2bb2f032b0d393977993e1ab6b4101a84d54023a67206e3eac1a8d79b80 684211 fenics-dolfinx_0.6.0.orig.tar.gz 6eb67687192e5ecb7ed321d3da8e72c1b87538ee55d0693ad41e0cb834a20d75 44600 fenics-dolfinx_0.6.0-3.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/f/fenics-dolfinx"
   ],
   "Files": [
-    "7da4ec9d0729e5f7c129e45434d42630 3843 fenics-dolfinx_0.6.0-2.dsc 05b8d2dff390eeb220ad3b03b4bf0f82 684211 fenics-dolfinx_0.6.0.orig.tar.gz b75d1580f5c87afe08817fd0bed0b7bc 43732 fenics-dolfinx_0.6.0-2.debian.tar.xz"
+    "a02d9fcf8337d33195660fafd0471e86 3843 fenics-dolfinx_0.6.0-3.dsc 05b8d2dff390eeb220ad3b03b4bf0f82 684211 fenics-dolfinx_0.6.0.orig.tar.gz 61114c5de7a640409e424f8524a20265 44600 fenics-dolfinx_0.6.0-3.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -60,6 +60,6 @@
     "https://salsa.debian.org/science-team/fenics/fenics-dolfinx.git"
   ],
   "Version": [
-    "1:0.6.0-2"
+    "1:0.6.0-3"
   ]
 }

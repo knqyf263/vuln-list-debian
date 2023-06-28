@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-python, jdupes, python3-all, python3-setuptools, python3-sphinx"
   ],
   "Checksums-Sha256": [
-    "a8fd207bfc7b751ac70453f20345fc3366606bcf3d5445a444e03c7acfece355 2747 tryton-modules-marketing-automation_6.0.3-3.dsc 51c2c55d6209760c8345e58ae0a679b915619ed8bea2ed6e1a230d3fc66fb9a5 45388 tryton-modules-marketing-automation_6.0.3.orig.tar.gz 2846ac2b3fc3369fe59be5372a6828d25dd76e5aae488e1ec87e9e5801fc1668 506 tryton-modules-marketing-automation_6.0.3.orig.tar.gz.asc 63e66ad53737d3174c0c147c9fb1640694d4a28596015ea10129e1d7aa38bcc7 12620 tryton-modules-marketing-automation_6.0.3-3.debian.tar.xz"
+    "abb707fa8da808988ec30da0ab9d6ec383da6a93e6059a474439407a6c86cb0f 2747 tryton-modules-marketing-automation_6.0.4-1.dsc 32acc932d6fa047aada7f8c03ebc73ede684bb79a434e9dac882b93ccff32ddb 44847 tryton-modules-marketing-automation_6.0.4.orig.tar.gz a9f1a4be7b9f2bb975f6e9f91efb78c59d2f5dbf461d332bbc1fcc708b8d5751 506 tryton-modules-marketing-automation_6.0.4.orig.tar.gz.asc 4c136daa8a5c9cf1894c4a1183ff8667706bfc7ffeb4131b1db455aee7ac1a1e 12644 tryton-modules-marketing-automation_6.0.4-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/t/tryton-modules-marketing-automation"
   ],
   "Files": [
-    "e50bb029e92b9b90c44e7a73ce8f6b03 2747 tryton-modules-marketing-automation_6.0.3-3.dsc 8e1cb81e1a4390a110c90d739c2138ae 45388 tryton-modules-marketing-automation_6.0.3.orig.tar.gz 91bc3563a20132b5e5c7bd923879fb09 506 tryton-modules-marketing-automation_6.0.3.orig.tar.gz.asc 84feda4ec987367b371f6ffed08e8d6b 12620 tryton-modules-marketing-automation_6.0.3-3.debian.tar.xz"
+    "ad77b5e3c94cdbac5f9ea46baacac468 2747 tryton-modules-marketing-automation_6.0.4-1.dsc 8726d71ad48bb899e9feef4c4d16116b 44847 tryton-modules-marketing-automation_6.0.4.orig.tar.gz 69bc5a18af89c0a6909ec3f021a7ec68 506 tryton-modules-marketing-automation_6.0.4.orig.tar.gz.asc 307d9d7148d367bea7cf8d989ba1b264 12644 tryton-modules-marketing-automation_6.0.4-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/tryton-team/tryton-modules-marketing-automation.git"
   ],
   "Version": [
-    "6.0.3-3"
+    "6.0.4-1"
   ]
 }

@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-python, jdupes, python3-all, python3-setuptools, python3-sphinx"
   ],
   "Checksums-Sha256": [
-    "d188d2e35a61b33993226fab563bc9d0ff7d5f320b5b3e9375bc43e629de0ff5 2508 tryton-modules-product-classification-taxonomic_6.0.0-3.dsc 66ba58b34fd698a6c29393c5651b408aff32a4436119a2bb17ff06bac80773de 26831 tryton-modules-product-classification-taxonomic_6.0.0.orig.tar.gz 2dd6e7a3b2569ca1fd5a433399f07038c9405bf7fec53c5c1cfd61f3341480d5 12672 tryton-modules-product-classification-taxonomic_6.0.0-3.debian.tar.xz"
+    "284e9dd87f9ed1a7cbef3c84586ecf1af02a875bad461bebb19e476a94144290 2872 tryton-modules-product-classification-taxonomic_6.0.1-1.dsc 16ba95261eda6e53b94c404e9f1445f48667556f6e3af7bd5e6c59dcce46f1bd 26128 tryton-modules-product-classification-taxonomic_6.0.1.orig.tar.gz 29ecf341ce6818fbc61482c35a9b66527fa7da8de2689dca8179aad078572e34 506 tryton-modules-product-classification-taxonomic_6.0.1.orig.tar.gz.asc c643f598eb36933fef9d8fc07f2ee8de4cd62e4a2617dd7231f2f265fd81024b 12672 tryton-modules-product-classification-taxonomic_6.0.1-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/t/tryton-modules-product-classification-taxonomic"
   ],
   "Files": [
-    "7614dd6eb8da1686a007c09efa45cedb 2508 tryton-modules-product-classification-taxonomic_6.0.0-3.dsc cb06a768bc2a8e868d2c942ad8a6cb8e 26831 tryton-modules-product-classification-taxonomic_6.0.0.orig.tar.gz 2c9c6f4f6247a6c35625bab540ea1e0e 12672 tryton-modules-product-classification-taxonomic_6.0.0-3.debian.tar.xz"
+    "a98f028de8b3fce3cdbcf8c517d75d31 2872 tryton-modules-product-classification-taxonomic_6.0.1-1.dsc 2d807a996a792c84a771daaccbb3e076 26128 tryton-modules-product-classification-taxonomic_6.0.1.orig.tar.gz 3dd3dd5d2328ed703fdad102ba09dd26 506 tryton-modules-product-classification-taxonomic_6.0.1.orig.tar.gz.asc 9437cc41ad14871874c9ace59101335b 12672 tryton-modules-product-classification-taxonomic_6.0.1-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/tryton-team/tryton-modules-product-classification-taxonomic.git"
   ],
   "Version": [
-    "6.0.0-3"
+    "6.0.1-1"
   ]
 }

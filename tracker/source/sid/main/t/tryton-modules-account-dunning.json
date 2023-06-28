@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-python, jdupes, python3-all, python3-setuptools, python3-sphinx"
   ],
   "Checksums-Sha256": [
-    "5ff941100b617067ad2b2b2c75d67a08f8bff3b04ce5ee8c6bae0ad98e5e951d 2321 tryton-modules-account-dunning_6.0.0-3.dsc 1c8f7ac5fab7e3231210f70e303641818cd423feb04d1829adff8557ec52bc34 41615 tryton-modules-account-dunning_6.0.0.orig.tar.gz 738645dce981ad53cc27624a428249827a12948974078e94beb9d003de682e30 13300 tryton-modules-account-dunning_6.0.0-3.debian.tar.xz"
+    "faae3c3e2c80b8edf4121a3e15969c7a7f090c8796a94f76449326dac99486e4 2634 tryton-modules-account-dunning_6.0.1-1.dsc 24343f004f84fd6c461132214b974385f7867161699b464d81cb79261d93e1a7 40290 tryton-modules-account-dunning_6.0.1.orig.tar.gz 6dc8a0906336c052cb5a34f04a9d0e9cfd60e9d416c44eebaa218b0cd1601ae3 506 tryton-modules-account-dunning_6.0.1.orig.tar.gz.asc 35a29d1bdc4a23db12fe952a24de34e7e2b3c6bc72108da7b880c555883e6e40 13288 tryton-modules-account-dunning_6.0.1-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/t/tryton-modules-account-dunning"
   ],
   "Files": [
-    "0082b8f4d16f38498798526776bd4e31 2321 tryton-modules-account-dunning_6.0.0-3.dsc f4e2058a07da0929711f41185a970e98 41615 tryton-modules-account-dunning_6.0.0.orig.tar.gz 063ffa5ba6ea2b299b715efde4dfe140 13300 tryton-modules-account-dunning_6.0.0-3.debian.tar.xz"
+    "a439e874b6508a3c10479f989e152dff 2634 tryton-modules-account-dunning_6.0.1-1.dsc 09446e6d3a8c04e85515019a680b9a13 40290 tryton-modules-account-dunning_6.0.1.orig.tar.gz a6bce68f1d4747598e6bdd02bb090048 506 tryton-modules-account-dunning_6.0.1.orig.tar.gz.asc 4c90cab3ff63a38f333edfe317689238 13288 tryton-modules-account-dunning_6.0.1-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/tryton-team/tryton-modules-account-dunning.git"
   ],
   "Version": [
-    "6.0.0-3"
+    "6.0.1-1"
   ]
 }

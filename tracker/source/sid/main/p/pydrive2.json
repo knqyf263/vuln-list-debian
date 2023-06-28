@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-python, python3-all, python3-googleapi, python3-httplib2, python3-oauth2client, python3-setuptools, python3-yaml"
   ],
   "Checksums-Sha256": [
-    "abd21ba427c3d66eed8884fd02fb98569dc22ff8ce96e68531f554dd8cbc7e46 2057 pydrive2_1.15.0-2.dsc 445b306ad73cab7c788151033d9e1de475bc4db3da69585170eb6797b0b80970 56923 pydrive2_1.15.0.orig.tar.gz 03d40143e570bfca64b4064ad5a6622adcabe6978507d099f4a5f26e0ff7733b 2028 pydrive2_1.15.0-2.debian.tar.xz"
+    "50d9ff7088a4d938d6c0b026c624be66918f1f99415bdf5934692a6edb1b17bb 2057 pydrive2_1.15.0-3.dsc 445b306ad73cab7c788151033d9e1de475bc4db3da69585170eb6797b0b80970 56923 pydrive2_1.15.0.orig.tar.gz 2815ffcd77742fb714dbd5755fcb57c02d4b4117e7c2305d38802bb21d52b92e 2128 pydrive2_1.15.0-3.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/pydrive2"
   ],
   "Files": [
-    "daea3171d83fd1cd717ff87fd2d72eb9 2057 pydrive2_1.15.0-2.dsc 842d263d822d5070833acab17b4f5e4b 56923 pydrive2_1.15.0.orig.tar.gz 3b221c27482c6994335b6e07d36e68b4 2028 pydrive2_1.15.0-2.debian.tar.xz"
+    "bbc71c66deb49b10ce8b930daec2dba4 2057 pydrive2_1.15.0-3.dsc 842d263d822d5070833acab17b4f5e4b 56923 pydrive2_1.15.0.orig.tar.gz 16f45120022d93b9edca7cc4e332dc6f 2128 pydrive2_1.15.0-3.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/python-team/packages/pydrive2.git"
   ],
   "Version": [
-    "1.15.0-2"
+    "1.15.0-3"
   ]
 }

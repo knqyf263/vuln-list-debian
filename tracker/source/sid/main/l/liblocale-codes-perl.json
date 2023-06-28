@@ -9,19 +9,19 @@
     "debhelper-compat (= 13)"
   ],
   "Build-Depends-Indep": [
-    "libfile-find-rule-perl \u003c!nocheck\u003e, libtest-inter-perl (\u003e= 1.09) \u003c!nocheck\u003e, libtest-pod-coverage-perl \u003c!nocheck\u003e, libtest-pod-perl \u003c!nocheck\u003e, libtest-simple-perl \u003c!nocheck\u003e, perl"
+    "libfile-find-rule-perl \u003c!nocheck\u003e, libtest-inter-perl \u003c!nocheck\u003e, libtest-pod-coverage-perl \u003c!nocheck\u003e, libtest-pod-perl \u003c!nocheck\u003e, libtest-simple-perl \u003c!nocheck\u003e, perl"
   ],
   "Checksums-Sha256": [
-    "45fea89a4ed3d655a2a0f7af84e0bebac0d7661942868c95f7e83576ad28885d 2554 liblocale-codes-perl_3.73-1.dsc 9a6db8e2b0843eba8a2287785c9b7d051dee68c73f1e575780a097f375e8e682 868121 liblocale-codes-perl_3.73.orig.tar.gz 2ac0c94c44379c8f8dc314817ea8f9bbd8ebb5f41b1c3b5ef5f894d8926b33fb 2428 liblocale-codes-perl_3.73-1.debian.tar.xz"
+    "1b6a036bd87c3e16b9dc7488f09255a4d0cc539d3d4c9023dbb26e415f682a4c 2544 liblocale-codes-perl_3.74-1.dsc a310b4cad11d2708ab3d602724d16f5ef01362d57de57cb5e99e1221e9a16ecb 869833 liblocale-codes-perl_3.74.orig.tar.gz 1954cbd0837002672b07613c1de12109067a370012f9dace5641acf91f650be4 2460 liblocale-codes-perl_3.74-1.debian.tar.xz"
   ],
   "Dgit": [
-    "2f7838d2d20975b528e9ea7604467c3f37f89496 debian archive/debian/3.73-1 https://git.dgit.debian.org/liblocale-codes-perl"
+    "5bb7a9b4b300400e89dbb1de38d952e7d81354a5 debian archive/debian/3.74-1 https://git.dgit.debian.org/liblocale-codes-perl"
   ],
   "Directory": [
     "pool/main/libl/liblocale-codes-perl"
   ],
   "Files": [
-    "aaf5297e990b107a504ca815425c0ff2 2554 liblocale-codes-perl_3.73-1.dsc aa6aeb0c13eceaa39325796a878c362b 868121 liblocale-codes-perl_3.73.orig.tar.gz 1b4570f9f4ac6cd50c051e4c672d8987 2428 liblocale-codes-perl_3.73-1.debian.tar.xz"
+    "fa69bcbaec6ae966f71d156ac7660a11 2544 liblocale-codes-perl_3.74-1.dsc 929370e817b40d53ab7fac1164ac547d 869833 liblocale-codes-perl_3.74.orig.tar.gz cb14a3d5983d7a4be1dbbb52361929b1 2460 liblocale-codes-perl_3.74-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -60,6 +60,6 @@
     "https://salsa.debian.org/perl-team/modules/packages/liblocale-codes-perl.git"
   ],
   "Version": [
-    "3.73-1"
+    "3.74-1"
   ]
 }

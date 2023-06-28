@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-golang, golang-any, golang-github-rs-zerolog-dev (\u003e= 1.29.1-1~), golang-github-stretchr-testify-dev \u003c!nocheck\u003e, golang-gopkg-natefinch-lumberjack.v2-dev"
   ],
   "Checksums-Sha256": [
-    "49c148d46925121ccfe80b476c86a3e7044394b75748a9f03eafcf1e5d3b6c15 1732 golang-go.mau-zeroconfig_0.1.2-1.dsc 9e8f002e9057ae08f01db5c2ebecfa8800a1f1ff9f07e63bae81b3fdda4821ca 13826 golang-go.mau-zeroconfig_0.1.2.orig.tar.gz 1ddf6861c49ebea4e8aba3b9a6c0189176c05657d0d2cccd50b996008fbe964f 1732 golang-go.mau-zeroconfig_0.1.2-1.debian.tar.xz"
+    "342a4b0e0d0762a692cc148b9a2f72fe02d5f56eab8842d0a43fc649e7271b9b 1732 golang-go.mau-zeroconfig_0.1.2-2.dsc 9e8f002e9057ae08f01db5c2ebecfa8800a1f1ff9f07e63bae81b3fdda4821ca 13826 golang-go.mau-zeroconfig_0.1.2.orig.tar.gz d0cdd32e91a5bfaf09deafc85261802026100aa74d39c27d68b91fb482ebc84e 1752 golang-go.mau-zeroconfig_0.1.2-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/g/golang-go.mau-zeroconfig"
   ],
   "Files": [
-    "b084f248aca6d8fe802d9a41b8246f86 1732 golang-go.mau-zeroconfig_0.1.2-1.dsc 22176bc46a5739942ee835094b35008e 13826 golang-go.mau-zeroconfig_0.1.2.orig.tar.gz f319f59c575a1a8fe0087dda3ad83d9b 1732 golang-go.mau-zeroconfig_0.1.2-1.debian.tar.xz"
+    "ade790f05df4074e1efd75ce6adaddb2 1732 golang-go.mau-zeroconfig_0.1.2-2.dsc 22176bc46a5739942ee835094b35008e 13826 golang-go.mau-zeroconfig_0.1.2.orig.tar.gz c1ee461bad14c9d995d223d8a96f6ddc 1752 golang-go.mau-zeroconfig_0.1.2-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/go-team/packages/golang-go.mau-zeroconfig"
   ],
   "Version": [
-    "0.1.2-1"
+    "0.1.2-2"
   ]
 }

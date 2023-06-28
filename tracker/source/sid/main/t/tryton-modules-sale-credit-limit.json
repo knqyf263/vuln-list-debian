@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-python, jdupes, python3-all, python3-setuptools, python3-sphinx"
   ],
   "Checksums-Sha256": [
-    "c3f257c2cbfb804d8bc215feb43a0543c87bfbdbe97566036bd0f9f642d29396 2662 tryton-modules-sale-credit-limit_6.0.1-1.dsc 9a28ec49558dc0d0c3eaaca535e80e7afa356b64303f993250e658d89ee10aad 19672 tryton-modules-sale-credit-limit_6.0.1.orig.tar.gz 8d9a7a8b1863e50c249af6cef67b7b907a1882c0d966345518d0f938078550e0 506 tryton-modules-sale-credit-limit_6.0.1.orig.tar.gz.asc 61c246a7ecaa6a3f9f9f8f3071d90ad774e896aec335afcddc3a913d04cbcbd0 12988 tryton-modules-sale-credit-limit_6.0.1-1.debian.tar.xz"
+    "b744285786d7c68dc61bf9a23ad8f81a2a5cd0224c3a0349df5395a3cc6dcbd3 2662 tryton-modules-sale-credit-limit_6.0.2-1.dsc cfe3b6da3a88bd602494d5393cbd7cc0a9208e885a204489e93aebe977f3c02a 19698 tryton-modules-sale-credit-limit_6.0.2.orig.tar.gz 4425d9bcea2cdbebdd6ad297c36d3e09c42f36ec0e89b35334ac596449ce1d05 506 tryton-modules-sale-credit-limit_6.0.2.orig.tar.gz.asc 817266f7f6d9b149fb63b02eafa7aad69de04c569ae5573dcccc94ca9c71d912 13004 tryton-modules-sale-credit-limit_6.0.2-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/t/tryton-modules-sale-credit-limit"
   ],
   "Files": [
-    "7587045e1274c81afcbd8aa3bbc112a2 2662 tryton-modules-sale-credit-limit_6.0.1-1.dsc b28a6af7cc407ced7a791278b92c4760 19672 tryton-modules-sale-credit-limit_6.0.1.orig.tar.gz e1f68a5ccf1fe9071df7545145029977 506 tryton-modules-sale-credit-limit_6.0.1.orig.tar.gz.asc 6d6053f2b0581e7b1ffd1efc53b30be9 12988 tryton-modules-sale-credit-limit_6.0.1-1.debian.tar.xz"
+    "6f85556fb0ec36d0edbddc33ed67f197 2662 tryton-modules-sale-credit-limit_6.0.2-1.dsc 729536777e33abf0598345d5564418dd 19698 tryton-modules-sale-credit-limit_6.0.2.orig.tar.gz ca277fb0f3b86fc2adaf3f2096511ae2 506 tryton-modules-sale-credit-limit_6.0.2.orig.tar.gz.asc 0996b6b8d79dc11a874e3f7446f8c010 13004 tryton-modules-sale-credit-limit_6.0.2-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/tryton-team/tryton-modules-sale-credit-limit.git"
   ],
   "Version": [
-    "6.0.1-1"
+    "6.0.2-1"
   ]
 }

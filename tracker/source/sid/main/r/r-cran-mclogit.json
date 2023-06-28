@@ -1,0 +1,59 @@
+{
+  "Architecture": [
+    "all"
+  ],
+  "Binary": [
+    "r-cran-mclogit"
+  ],
+  "Build-Depends": [
+    "debhelper-compat (= 13), dh-r, r-base-dev, r-cran-matrix, r-cran-memisc"
+  ],
+  "Checksums-Sha256": [
+    "c2ec54c34b0236ced1db19ca90a2a0069c36802ce154c1236eb93b321a9d1062 2080 r-cran-mclogit_0.9.6-1.dsc 9adc5f6d8649960abe009c30d9b4c448ff7d174c455a594cbf104a33d5a36f69 50959 r-cran-mclogit_0.9.6.orig.tar.gz 161075a0b8b02fa795412b8fbe8df052add5572d2bdd3f05b065c40b8207551b 2036 r-cran-mclogit_0.9.6-1.debian.tar.xz"
+  ],
+  "Directory": [
+    "pool/main/r/r-cran-mclogit"
+  ],
+  "Files": [
+    "b1c570f0696fa37b5d3842f637a6095c 2080 r-cran-mclogit_0.9.6-1.dsc fde8195c54f7096ebf8071b67b44ddab 50959 r-cran-mclogit_0.9.6.orig.tar.gz 7cc50105583e811b94639ab7a70500fa 2036 r-cran-mclogit_0.9.6-1.debian.tar.xz"
+  ],
+  "Format": [
+    "3.0 (quilt)"
+  ],
+  "Homepage": [
+    "https://cran.r-project.org/package=mclogit"
+  ],
+  "Maintainer": [
+    "Debian R Packages Maintainers \u003cr-pkg-team@alioth-lists.debian.net\u003e"
+  ],
+  "Package": [
+    "r-cran-mclogit"
+  ],
+  "Package-List": [
+    "r-cran-mclogit deb gnu-r optional arch=all"
+  ],
+  "Priority": [
+    "optional"
+  ],
+  "Section": [
+    "misc"
+  ],
+  "Standards-Version": [
+    "4.6.2"
+  ],
+  "Testsuite": [
+    "autopkgtest-pkg-r"
+  ],
+  "Uploaders": [
+    "Andreas Tille \u003ctille@debian.org\u003e"
+  ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/r-pkg-team/r-cran-mclogit"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/r-pkg-team/r-cran-mclogit.git"
+  ],
+  "Version": [
+    "0.9.6-1"
+  ]
+}

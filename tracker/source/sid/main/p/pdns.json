@@ -9,13 +9,13 @@
     "architecture-is-64-bit, bison, curl, debhelper-compat (= 13), default-libmysqlclient-dev, dnsutils, flex, libboost-all-dev, libcdb-dev, libcurl4-openssl-dev, libgeoip-dev, libkrb5-dev, libldap2-dev, liblmdb-dev, libluajit-5.1-dev (\u003e= 2.1.0~beta3+dfsg-5.3) [amd64 arm64] | libluajit-5.1-dev [amd64] | liblua5.3-dev, libmaxminddb-dev, libp11-kit-dev, libpq-dev, libprotobuf-dev, libsodium-dev, libsqlite3-dev, libssl-dev, libsystemd-dev, libyaml-cpp-dev (\u003e= 0.5), pkg-config, po-debconf, protobuf-compiler, ragel, systemd, unixodbc-dev (\u003e= 2.3.1)"
   ],
   "Checksums-Sha256": [
-    "25f5dff82e4df4a6052e6a7cda743deaf1752f8484ae6e30d62c774586aff657 3631 pdns_4.7.3-2.dsc 8bad351b2e09426f6d4fb0346881a5155fe555497c3d85071e531e7c7afe3e76 1353333 pdns_4.7.3.orig.tar.bz2 249eadd39782d56519fc029fdf2a42b7c3c7397d73de18234d4ea453cb9bca37 488 pdns_4.7.3.orig.tar.bz2.asc cfe6ef4bcafe7af7f197794270b1cf52af03a591dbaaad64db41a07bc72c0510 46000 pdns_4.7.3-2.debian.tar.xz"
+    "acaa581e81e3517b6b0315d552a73ab4222068c065d69ed89ca5f45e910538c9 3631 pdns_4.8.0-1.dsc 61a96bbaf8b0ca49a9225a2254b9443c4ff8e050d337437d85af4de889e10127 1354234 pdns_4.8.0.orig.tar.bz2 eebbd607d4467553305eba17c28be29999711fab2a048287f071ea2ca90bf783 488 pdns_4.8.0.orig.tar.bz2.asc 9a59b9641881fd113c3f21b7de6fcc5a0054c3249c11e7e41f52f9e74a54d881 46020 pdns_4.8.0-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/pdns"
   ],
   "Files": [
-    "80fe63d4d2cd27416b4c2c8f4c1799e5 3631 pdns_4.7.3-2.dsc 322419eb3864fecc5058ee7b2b44a13e 1353333 pdns_4.7.3.orig.tar.bz2 ad16be9aa9530b0ad454ad7413c4fca9 488 pdns_4.7.3.orig.tar.bz2.asc f666a9cf57b56af9ff7c43b5eebb4544 46000 pdns_4.7.3-2.debian.tar.xz"
+    "3aa836e6099876c4afc026cb1fe6c770 3631 pdns_4.8.0-1.dsc 852e9c3690f568a53d6bf099a96199f6 1354234 pdns_4.8.0.orig.tar.bz2 53dfe8fff076ac870e8df4c934767b50 488 pdns_4.8.0.orig.tar.bz2.asc 16fc779062cc32f99ef9d22178714c0a 46020 pdns_4.8.0-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/dns-team/pdns.git"
   ],
   "Version": [
-    "4.7.3-2"
+    "4.8.0-1"
   ]
 }
