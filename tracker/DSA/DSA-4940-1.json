@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[18 Jul 2021] DSA-4940-1 thunderbird - security update",
-    "Line": 1662,
+    "Line": 1666,
     "ID": "DSA-4940-1",
     "Description": "thunderbird - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-29969 CVE-2021-29970 CVE-2021-29976 CVE-2021-30547}",
-      "Line": 1663,
+      "Line": 1667,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-29969",
@@ -19,7 +19,7 @@
     },
     {
       "Original": "[buster] - thunderbird 1:78.12.0-1~deb10u1",
-      "Line": 1664,
+      "Line": 1668,
       "Type": "package",
       "Release": "buster",
       "Package": "thunderbird",

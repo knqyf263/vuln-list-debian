@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[12 Apr 2018] DSA-4079-2 poppler - regression update",
-    "Line": 4195,
+    "Line": 4199,
     "ID": "DSA-4079-2",
     "Description": "poppler - regression update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-9776}",
-      "Line": 4196,
+      "Line": 4200,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-9776"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - poppler 0.26.5-2+deb8u4",
-      "Line": 4197,
+      "Line": 4201,
       "Type": "package",
       "Release": "jessie",
       "Package": "poppler",

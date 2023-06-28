@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[17 Feb 2021] DSA-4854-1 webkit2gtk - security update",
-    "Line": 1919,
+    "Line": 1923,
     "ID": "DSA-4854-1",
     "Description": "webkit2gtk - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-13558}",
-      "Line": 1920,
+      "Line": 1924,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-13558"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[buster] - webkit2gtk 2.30.5-1~deb10u1",
-      "Line": 1921,
+      "Line": 1925,
       "Type": "package",
       "Release": "buster",
       "Package": "webkit2gtk",

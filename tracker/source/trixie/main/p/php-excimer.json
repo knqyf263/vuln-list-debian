@@ -9,13 +9,13 @@
     "debhelper-compat (= 12), dh-php, php-dev"
   ],
   "Checksums-Sha256": [
-    "ddb22be3444ae6d7836fdf4d9cf72e974823c2ed2edcbbd1c84b46ff52e83a48 2050 php-excimer_1.0.4-2.dsc e8117e30d2a40233302f407cece3be647b945d307708b6b1f4c7c5bca642412d 24312 php-excimer_1.0.4.orig.tar.xz 5e4af27382fdd3b7ee7ec24fb7a7625b07940b9bbcf0e3745dbcf3a3c5d98cf4 3040 php-excimer_1.0.4-2.debian.tar.xz"
+    "0b15265e36f30412755892301fc1c8954106f088d57ead427ffad0afe6b72b75 2050 php-excimer_1.1.1-1.dsc dca0bef4a5d975be2ea64b127db28f82beee0f98551519ea255fdb1ac9388e41 26292 php-excimer_1.1.1.orig.tar.xz 513d0529707106ec539fcc68cc27de4ff4e917dea539a9ff79eed4a87b6fd229 2312 php-excimer_1.1.1-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/php-excimer"
   ],
   "Files": [
-    "1b4f8be6b321f66cc3f660195f6fdb2c 2050 php-excimer_1.0.4-2.dsc a2253115804664a24c37e9a29fc5de2d 24312 php-excimer_1.0.4.orig.tar.xz 654d337fb038ba2b8a5166c69c44c101 3040 php-excimer_1.0.4-2.debian.tar.xz"
+    "773e8f7c52956887d7011ef8cd2dbf52 2050 php-excimer_1.1.1-1.dsc 4e5df9948780779eaa74436d35feaf13 26292 php-excimer_1.1.1.orig.tar.xz b55f6fec2e2df77923ec076383f56395 2312 php-excimer_1.1.1-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/mediawiki-team/php-excimer.git"
   ],
   "Version": [
-    "1.0.4-2"
+    "1.1.1-1"
   ]
 }

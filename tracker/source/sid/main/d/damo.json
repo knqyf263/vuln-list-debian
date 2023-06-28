@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-sequence-python3, python3-all, python3-setuptools"
   ],
   "Checksums-Sha256": [
-    "d31dca6763f5e78f00bbc4d5994e716560f147c2f3313e1a26b3c567c332e3ec 1973 damo_1.8.5-1.dsc a6167b06c63e4fe6b1e906a36322df7fcfa58594496e48facf90a426a62990e6 11968488 damo_1.8.5.orig.tar.gz f8b44b13707fcbf2d5363b5f7fa80f307d63ac458de427e5a2cbdf45d0198ed4 3364 damo_1.8.5-1.debian.tar.xz"
+    "72335def12a1c66ee0e7939a87ab58372105abb94b4af2dbcd7a2b3e85173ecc 1973 damo_1.8.7-1.dsc 202039eef848c68e60369f5972d423caaaea6e4cbd461b7e9f2bcc70158688b3 11969620 damo_1.8.7.orig.tar.gz b693fb0cda440db7770647fa6188f4aab60d51549bae1d87528bed5273334a4d 3440 damo_1.8.7-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/d/damo"
   ],
   "Files": [
-    "86817ff780f17996d8e463788c2de654 1973 damo_1.8.5-1.dsc ba6f1592e8b46ae76f0444df55164607 11968488 damo_1.8.5.orig.tar.gz 96d7d089ac159c6776485247e5186190 3364 damo_1.8.5-1.debian.tar.xz"
+    "cab0e8f17e7a8a352c6e4c62bc005b2d 1973 damo_1.8.7-1.dsc fef781d72422cdf9588f483c34406c99 11969620 damo_1.8.7.orig.tar.gz 0e4ab33dd9967491c048a6614920421e 3440 damo_1.8.7-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/python-team/packages/damo.git"
   ],
   "Version": [
-    "1.8.5-1"
+    "1.8.7-1"
   ]
 }

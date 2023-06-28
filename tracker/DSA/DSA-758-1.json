@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[18 Jul 2005] DSA-758-1 heimdal - buffer overflow",
-    "Line": 16203,
+    "Line": 16207,
     "ID": "DSA-758-1",
     "Description": "heimdal - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-2040}",
-      "Line": 16204,
+      "Line": 16208,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-2040"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - heimdal 0.4e-7.woody.10 (medium)",
-      "Line": 16205,
+      "Line": 16209,
       "Type": "package",
       "Release": "woody",
       "Package": "heimdal",
@@ -26,7 +26,7 @@
     },
     {
       "Original": "[sarge] - heimdal 0.6.3-10sarge1 (medium)",
-      "Line": 16206,
+      "Line": 16210,
       "Type": "package",
       "Release": "sarge",
       "Package": "heimdal",
@@ -36,7 +36,7 @@
     },
     {
       "Original": "NOTE: not fixed in testing at time of DSA (waiting on dependencies)",
-      "Line": 16207,
+      "Line": 16211,
       "Type": "NOTE",
       "Description": "not fixed in testing at time of DSA (waiting on dependencies)"
     }

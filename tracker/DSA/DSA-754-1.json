@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[13 Jul 2005] DSA-754-1 centericq - insecure temporary file",
-    "Line": 16227,
+    "Line": 16231,
     "ID": "DSA-754-1",
     "Description": "centericq - insecure temporary file"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-1914}",
-      "Line": 16228,
+      "Line": 16232,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-1914"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - centericq \u003cnot-affected\u003e (not affected according to DSA)",
-      "Line": 16229,
+      "Line": 16233,
       "Type": "package",
       "Release": "woody",
       "Package": "centericq",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[sarge] - centericq 4.20.0-1sarge1 (low)",
-      "Line": 16230,
+      "Line": 16234,
       "Type": "package",
       "Release": "sarge",
       "Package": "centericq",
@@ -35,7 +35,7 @@
     },
     {
       "Original": "NOTE: not fixed in testing at time of DSA (waiting on dependencies)",
-      "Line": 16231,
+      "Line": 16235,
       "Type": "NOTE",
       "Description": "not fixed in testing at time of DSA (waiting on dependencies)"
     }

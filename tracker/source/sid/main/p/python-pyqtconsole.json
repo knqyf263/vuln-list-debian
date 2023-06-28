@@ -9,13 +9,13 @@
     "dh-python, python3-setuptools, python3-all, python3-pytest, debhelper (\u003e= 13)"
   ],
   "Checksums-Sha256": [
-    "1f1aade9140d882a75bed6cc342ed4308716461d918d8a31db70d2d1bb147a6a 1955 python-pyqtconsole_1.2.2-1.dsc fcc2337a34925455f3d1681ff268ef2787d33914cafa1eb75d351af1ab2add52 20631 python-pyqtconsole_1.2.2.orig.tar.gz 3f07755be065a6e4775523205102439c0c10f7e115f0526d9a55bfd77465a2a8 1956 python-pyqtconsole_1.2.2-1.debian.tar.xz"
+    "73e1961c48cc06f9fc2788239bb5f8a8ebe18a5072ee74102419f3c3b23b2230 2146 python-pyqtconsole_1.2.2-2.dsc fcc2337a34925455f3d1681ff268ef2787d33914cafa1eb75d351af1ab2add52 20631 python-pyqtconsole_1.2.2.orig.tar.gz ca89d4040837689a6a2ae8c13159f8d4acc133b249fe7466c2900c44eb29e5aa 2044 python-pyqtconsole_1.2.2-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/python-pyqtconsole"
   ],
   "Files": [
-    "437bc8688ad2ccf5464e8c74549a4e85 1955 python-pyqtconsole_1.2.2-1.dsc 049bc24aad1982f460e49b5923213d7f 20631 python-pyqtconsole_1.2.2.orig.tar.gz fc4d0c69e4e9f68aff1d17e7fbfc36df 1956 python-pyqtconsole_1.2.2-1.debian.tar.xz"
+    "1439249e002e90c9ee9ceb24a08971ff 2146 python-pyqtconsole_1.2.2-2.dsc 049bc24aad1982f460e49b5923213d7f 20631 python-pyqtconsole_1.2.2.orig.tar.gz 0777824a304d07078dd9f0994d13a868 2044 python-pyqtconsole_1.2.2-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -44,10 +44,19 @@
   "Testsuite": [
     "autopkgtest"
   ],
+  "Testsuite-Triggers": [
+    "python3-pytest"
+  ],
   "Uploaders": [
     "Roland Mas \u003clolando@debian.org\u003e"
   ],
+  "Vcs-Browser": [
+    "https://salsa.debian.org/python-team/packages/python-pyqtconsole"
+  ],
+  "Vcs-Git": [
+    "https://salsa.debian.org/python-team/packages/python-pyqtconsole.git"
+  ],
   "Version": [
-    "1.2.2-1"
+    "1.2.2-2"
   ]
 }

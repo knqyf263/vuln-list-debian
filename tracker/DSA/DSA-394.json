@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[11 Oct 2003] DSA-394 openssl095 - ASN.1 parsing vulnerability",
-    "Line": 17532,
+    "Line": 17536,
     "ID": "DSA-394",
     "Description": "openssl095 - ASN.1 parsing vulnerability"
   },
   "Annotations": [
     {
       "Original": "{CVE-2003-0543 CVE-2003-0544 CVE-2003-0545}",
-      "Line": 17533,
+      "Line": 17537,
       "Type": "xref",
       "Bugs": [
         "CVE-2003-0543",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[woody] - openssl095 0.9.5a-6.woody.3",
-      "Line": 17534,
+      "Line": 17538,
       "Type": "package",
       "Release": "woody",
       "Package": "openssl095",

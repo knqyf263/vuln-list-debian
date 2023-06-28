@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[05 Mar 2019] DSA-4402-1 mumble - security update",
-    "Line": 3446,
+    "Line": 3450,
     "ID": "DSA-4402-1",
     "Description": "mumble - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-20743}",
-      "Line": 3447,
+      "Line": 3451,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-20743"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - mumble 1.2.18-1+deb9u1",
-      "Line": 3448,
+      "Line": 3452,
       "Type": "package",
       "Release": "stretch",
       "Package": "mumble",

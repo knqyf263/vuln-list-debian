@@ -9,16 +9,16 @@
     "debhelper-compat (= 13), dh-sequence-python3, dh-sequence-sphinxdoc \u003c!nodoc\u003e, furo \u003c!nodoc\u003e, pybuild-plugin-pyproject, python3-all, python3-hypothesis \u003c!nocheck\u003e, python3-mock \u003c!nocheck\u003e, python3-msgpack, python3-mypy-extensions, python3-packaging, python3-parameterized \u003c!nocheck\u003e, python3-pytest \u003c!nocheck\u003e, python3-pytest-timeout \u003c!nocheck\u003e, python3-serial, python3-setuptools, python3-sphinx \u003c!nodoc\u003e, python3-sphinx-autodoc-typehints \u003c!nodoc\u003e, python3-sphinx-copybutton \u003c!nodoc\u003e, python3-sphinx-inline-tabs \u003c!nodoc\u003e, python3-sphinxcontrib.programoutput \u003c!nodoc\u003e, python3-typing-extensions, python3-wrapt"
   ],
   "Checksums-Sha256": [
-    "d58d4bba5fda96620a7f6adc09634a2a86a2d40785c9f7e264206377e69bd5a0 2926 python-can_4.2.1-1.dsc 1335591976d549a6c2fefa6bdf7c2d6a432fca9aedbedf9faa110bfb6d9d27cf 1163598 python-can_4.2.1.orig.tar.gz 6c372787a3a6ab57a4d09a852a0f35559f09c5189e72b46aa7948cc865bc5ce4 12444 python-can_4.2.1-1.debian.tar.xz"
+    "550603194fccab8ac6691ca7990b0548666909848e6b7c01701bd4d6841c865f 2893 python-can_4.2.2-1.dsc d4d0d4fba5746794e9d8a6a50980485207e52e8d01aa252a40f1b1cfde161d7e 1163755 python-can_4.2.2.orig.tar.gz ee3eb9b5e8f9807c7297280c9416b8b536301b6ea58df0232b2ffdfb828031b5 12480 python-can_4.2.2-1.debian.tar.xz"
   ],
   "Dgit": [
-    "22c0e936ea5c64cd8d5b96e0846162e12570a6e6 debian archive/debian/4.2.1-1 https://git.dgit.debian.org/python-can"
+    "687d41eebe795f9ff3ce33cad01120d1d7019c70 debian archive/debian/4.2.2-1 https://git.dgit.debian.org/python-can"
   ],
   "Directory": [
     "pool/main/p/python-can"
   ],
   "Files": [
-    "95260e50a885b81e94c912c306c89bcb 2926 python-can_4.2.1-1.dsc 399eb2d935f90c0d2e89a9986f5da00c 1163598 python-can_4.2.1.orig.tar.gz 3e2ea96635cf1bc5baddf2b814f6481a 12444 python-can_4.2.1-1.debian.tar.xz"
+    "22e35ed4f1d4e751ee7cf1ba8138e8a5 2893 python-can_4.2.2-1.dsc 5bed9b27a27debdc7823b3b5b6c920b9 1163755 python-can_4.2.2.orig.tar.gz 7b9abcb6c44f1496c69a7a82432d4f83 12480 python-can_4.2.2-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -60,6 +60,6 @@
     "https://salsa.debian.org/python-team/packages/python-can.git"
   ],
   "Version": [
-    "4.2.1-1"
+    "4.2.2-1"
   ]
 }

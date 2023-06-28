@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[25 Feb 2015] DSA-3174-1 iceweasel - security update",
-    "Line": 7659,
+    "Line": 7663,
     "ID": "DSA-3174-1",
     "Description": "iceweasel - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-0822 CVE-2015-0827 CVE-2015-0831 CVE-2015-0836}",
-      "Line": 7660,
+      "Line": 7664,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-0822",
@@ -19,7 +19,7 @@
     },
     {
       "Original": "[wheezy] - iceweasel 31.5.0esr-1~deb7u1",
-      "Line": 7661,
+      "Line": 7665,
       "Type": "package",
       "Release": "wheezy",
       "Package": "iceweasel",

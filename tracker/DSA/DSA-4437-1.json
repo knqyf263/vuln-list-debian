@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[29 Apr 2019] DSA-4437-1 gst-plugins-base1.0 - security update",
-    "Line": 3341,
+    "Line": 3345,
     "ID": "DSA-4437-1",
     "Description": "gst-plugins-base1.0 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-9928}",
-      "Line": 3342,
+      "Line": 3346,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-9928"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - gst-plugins-base1.0 1.10.4-1+deb9u1",
-      "Line": 3343,
+      "Line": 3347,
       "Type": "package",
       "Release": "stretch",
       "Package": "gst-plugins-base1.0",

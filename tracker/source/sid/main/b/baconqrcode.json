@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-sequence-phpcomposer, php-dasprid-enum, php-imagick, phpab, phpunit, pkg-php-tools (\u003e= 1.41~)"
   ],
   "Checksums-Sha256": [
-    "2250bf3ffc50f02b1aa322ab1a686fea7b40e893aa51e72db41c00e4b3929cb0 2301 baconqrcode_2.0.8-1.dsc dd7da4e37767dba1cc7466a3ba9c71c70a6f5f4082a30dd879770c20edfdf1c0 62995 baconqrcode_2.0.8.orig.tar.gz 2d502abbd29f950e96b931c13dccbe57f273977e821724cf28682faabaa1aa4c 3844 baconqrcode_2.0.8-1.debian.tar.xz"
+    "e9942b6d4cddadad03ce9b9001fce09c73db6bd05960349f3b2db4331e081da2 2379 baconqrcode_2.0.8-2.dsc dd7da4e37767dba1cc7466a3ba9c71c70a6f5f4082a30dd879770c20edfdf1c0 62995 baconqrcode_2.0.8.orig.tar.gz ca06ddcb7a3277aecd97472f3c5d323f3d3f21bd071f44c0953a5c10621b558f 4372 baconqrcode_2.0.8-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/b/baconqrcode"
   ],
   "Files": [
-    "83173253f8d9a8018eea8e320ac025d8 2301 baconqrcode_2.0.8-1.dsc 02446d968e7e576f1c780d6d1d8613b5 62995 baconqrcode_2.0.8.orig.tar.gz d76d0ab1c921d6f1b95d284aa46f4362 3844 baconqrcode_2.0.8-1.debian.tar.xz"
+    "4f8af24cb72b4b97b8ecfe88c4c279d1 2379 baconqrcode_2.0.8-2.dsc 02446d968e7e576f1c780d6d1d8613b5 62995 baconqrcode_2.0.8.orig.tar.gz 13310a2772284c0153bc428eeebd8422 4372 baconqrcode_2.0.8-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,13 +39,16 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest"
   ],
   "Testsuite-Triggers": [
     "php-dasprid-enum, php-imagick, phpunit"
+  ],
+  "Uploaders": [
+    "Debian PHP PEAR Maintainers \u003cpkg-php-pear@lists.alioth.debian.org\u003e"
   ],
   "Vcs-Browser": [
     "https://salsa.debian.org/php-team/pear/php-bacon-baconqrcode"
@@ -54,6 +57,6 @@
     "https://salsa.debian.org/php-team/pear/php-bacon-baconqrcode.git -b debian/latest"
   ],
   "Version": [
-    "2.0.8-1"
+    "2.0.8-2"
   ]
 }

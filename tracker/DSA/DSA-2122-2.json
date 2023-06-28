@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[11 Jan 2011] DSA-2122-2 glibc - privilege escalation",
-    "Line": 11107,
+    "Line": 11111,
     "ID": "DSA-2122-2",
     "Description": "glibc - privilege escalation"
   },
   "Annotations": [
     {
       "Original": "{CVE-2010-3847 CVE-2010-3856}",
-      "Line": 11108,
+      "Line": 11112,
       "Type": "xref",
       "Bugs": [
         "CVE-2010-3847",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[lenny] - glibc 2.7-18lenny7",
-      "Line": 11109,
+      "Line": 11113,
       "Type": "package",
       "Release": "lenny",
       "Package": "glibc",
