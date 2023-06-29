@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[22 Sep 2017] DSA-3983-1 samba - security update",
-    "Line": 4884,
+    "Line": 4887,
     "ID": "DSA-3983-1",
     "Description": "samba - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-12150 CVE-2017-12151 CVE-2017-12163}",
-      "Line": 4885,
+      "Line": 4888,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-12150",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[jessie] - samba 2:4.2.14+dfsg-0+deb8u8",
-      "Line": 4886,
+      "Line": 4889,
       "Type": "package",
       "Release": "jessie",
       "Package": "samba",
@@ -27,7 +27,7 @@
     },
     {
       "Original": "[stretch] - samba 2:4.5.8+dfsg-2+deb9u2",
-      "Line": 4887,
+      "Line": 4890,
       "Type": "package",
       "Release": "stretch",
       "Package": "samba",

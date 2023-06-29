@@ -9,16 +9,16 @@
     "cmake, debhelper-compat (= 13), libglu1-mesa-dev, libsdl2-dev, libx11-dev"
   ],
   "Checksums-Sha256": [
-    "289b4f84b52a43009cc1b16080b2107065215f52e5c8f4a0352650a5f333c25c 2431 sdl12-compat_1.2.64-3.dsc 3e308e817c7f0c6383225485e9a67bf1119ad684b8cc519038671cc1b5d29861 459020 sdl12-compat_1.2.64.orig.tar.gz a1e1af8ad50b8ed3429b098711f2efe5a15a4a28a5a580be9bd5eed893656246 10552 sdl12-compat_1.2.64-3.debian.tar.xz"
+    "e46e51999851eb3c2efba1b8343fbeb3322cfa0669ed17918214bc71a4d9fba8 2431 sdl12-compat_1.2.64-4.dsc 3e308e817c7f0c6383225485e9a67bf1119ad684b8cc519038671cc1b5d29861 459020 sdl12-compat_1.2.64.orig.tar.gz c58e81228cb1ce70205a85a21dc911a49af8c5107f1ae85dbb531d8ed4303b37 12520 sdl12-compat_1.2.64-4.debian.tar.xz"
   ],
   "Dgit": [
-    "cac7106e781593fdcff2d4fc045e9314c9e5b4ff debian archive/debian/1.2.64-3 https://git.dgit.debian.org/sdl12-compat"
+    "907adbcfc5e3fbff00c7f69dbeaabe6c6be5f19e debian archive/debian/1.2.64-4 https://git.dgit.debian.org/sdl12-compat"
   ],
   "Directory": [
     "pool/main/s/sdl12-compat"
   ],
   "Files": [
-    "df7fd5f0024216df6763b033938b5ca2 2431 sdl12-compat_1.2.64-3.dsc c0ca71db831525dda0d676920c729023 459020 sdl12-compat_1.2.64.orig.tar.gz 5f9277317031f989422d3f55dd89e42b 10552 sdl12-compat_1.2.64-3.debian.tar.xz"
+    "aaa4ddf36a34671b0286d4529596ff9c 2431 sdl12-compat_1.2.64-4.dsc c0ca71db831525dda0d676920c729023 459020 sdl12-compat_1.2.64.orig.tar.gz 4076ad3203b8f482b0e8dcd9a73a334d 12520 sdl12-compat_1.2.64-4.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -42,7 +42,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/sdl-team/sdl12-compat.git"
   ],
   "Version": [
-    "1.2.64-3"
+    "1.2.64-4"
   ]
 }

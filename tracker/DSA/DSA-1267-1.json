@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[15 Mar 2007] DSA-1267-1 webcalendar - missing input sanitising",
-    "Line": 14222,
+    "Line": 14225,
     "ID": "DSA-1267-1",
     "Description": "webcalendar - missing input sanitising"
   },
   "Annotations": [
     {
       "Original": "{CVE-2007-1343}",
-      "Line": 14223,
+      "Line": 14226,
       "Type": "xref",
       "Bugs": [
         "CVE-2007-1343"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[sarge] - webcalendar 0.9.45-4sarge6",
-      "Line": 14224,
+      "Line": 14227,
       "Type": "package",
       "Release": "sarge",
       "Package": "webcalendar",

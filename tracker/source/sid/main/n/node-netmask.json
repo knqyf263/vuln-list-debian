@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-sequence-nodejs, coffeescript, node-vows, node-mocha"
   ],
   "Checksums-Sha256": [
-    "3ea09053172d8fff4665f1b939aad2747c3e1171d81420d43268f359373fb0b7 2058 node-netmask_2.0.2-3.dsc 40c6c6774b3618a085fa593a75fc9980eee6b5628bf3c2fec8acd129b0d3eab9 8223 node-netmask_2.0.2.orig.tar.gz 9c6e85f9b6c8417f1cc32836e36e2e199b380fb87a7a997ec1f220ee43d4a2f7 2420 node-netmask_2.0.2-3.debian.tar.xz"
+    "ac29760d1c961831542058099369aa3604d5a862f0435811745f0534ae5e34e2 2440 node-netmask_2.0.2+~cs2.0.1-1.dsc ce02e9cdf7e58092eefd2572bfa6d5de82ceffad19eef43eddb0040dcabd4c43 2408 node-netmask_2.0.2+~cs2.0.1.orig-types-netmask.tar.gz 40c6c6774b3618a085fa593a75fc9980eee6b5628bf3c2fec8acd129b0d3eab9 8223 node-netmask_2.0.2+~cs2.0.1.orig.tar.gz bfc76d2abe5b418a7938e08bc23d835b325db42a2e2baa05830b622245140bdd 2792 node-netmask_2.0.2+~cs2.0.1-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/n/node-netmask"
   ],
   "Files": [
-    "2dbd5f5188bed717255db3ddb930c386 2058 node-netmask_2.0.2-3.dsc a0d709f509ac0cd46c212de867589742 8223 node-netmask_2.0.2.orig.tar.gz 76ddfb8883540c3edaeda0d818087db0 2420 node-netmask_2.0.2-3.debian.tar.xz"
+    "2403454d1df79561b47946a253aae288 2440 node-netmask_2.0.2+~cs2.0.1-1.dsc 6b00e5764c5af6e83ddc0b0ebf808d9b 2408 node-netmask_2.0.2+~cs2.0.1.orig-types-netmask.tar.gz a0d709f509ac0cd46c212de867589742 8223 node-netmask_2.0.2+~cs2.0.1.orig.tar.gz 9d75850a1a292e11fe4ce1e76c660967 2792 node-netmask_2.0.2+~cs2.0.1-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest-pkg-nodejs"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/js-team/node-netmask.git"
   ],
   "Version": [
-    "2.0.2-3"
+    "2.0.2+~cs2.0.1-1"
   ]
 }

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[21 Sep 2004] DSA-551-1 lukemftpd - incorrect internal variable handling",
-    "Line": 17015,
+    "Line": 17018,
     "ID": "DSA-551-1",
     "Description": "lukemftpd - incorrect internal variable handling"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-0794}",
-      "Line": 17016,
+      "Line": 17019,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-0794"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - lukemftpd 1.1-1woody2",
-      "Line": 17017,
+      "Line": 17020,
       "Type": "package",
       "Release": "woody",
       "Package": "lukemftpd",

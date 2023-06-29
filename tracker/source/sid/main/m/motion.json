@@ -6,16 +6,16 @@
     "motion"
   ],
   "Build-Depends": [
-    "debhelper (\u003e= 13), debhelper-compat (= 13), dpkg-dev (\u003e= 1.16), libavcodec-dev, libavdevice-dev, libavfilter-dev, libavformat-dev, libavutil-dev, libswscale-dev, libjpeg-dev, default-libmysqlclient-dev, libmicrohttpd-dev, libpq-dev, libsdl1.2-dev, libsqlite3-dev, libv4l-dev, zlib1g-dev"
+    "debhelper (\u003e= 13), debhelper-compat (= 13), dpkg-dev (\u003e= 1.16), libavcodec-dev, libavdevice-dev, libavfilter-dev, libavformat-dev, libavutil-dev, libswscale-dev, libjpeg-dev, default-libmysqlclient-dev, libmicrohttpd-dev, libpq-dev, libsqlite3-dev, libv4l-dev, zlib1g-dev, pkg-config"
   ],
   "Checksums-Sha256": [
-    "8991adf1dcd2c19fbe61d17f447cdbd425fab4d4d427e46b073ad6170c064edd 2118 motion_4.5.1-2.dsc 0c824276bb23565b7cf10409ebdcb46b85fb1f6abca957252e52290bb1fe473e 856665 motion_4.5.1.orig.tar.gz 8373c50879ac674f4417aec0aa45beaea465d3925966d9c33d919572cfcdc7f4 17588 motion_4.5.1-2.debian.tar.xz"
+    "247db21bdea0c09e8cf847c8b2c3cacd16e1b9a7d1a94ae056262bf806d63c5b 2115 motion_4.5.1-3.dsc 0c824276bb23565b7cf10409ebdcb46b85fb1f6abca957252e52290bb1fe473e 856665 motion_4.5.1.orig.tar.gz 7d80269dbf06b1a9bda4289b4978e479aca17febcdf6970fa4ff87da74175979 17632 motion_4.5.1-3.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/m/motion"
   ],
   "Files": [
-    "c1941037ed536651bce91d5d6a6833f1 2118 motion_4.5.1-2.dsc 556e291e52c93768da9774571205f37e 856665 motion_4.5.1.orig.tar.gz 86d5e6bac7ffd879a20d2260e5686212 17588 motion_4.5.1-2.debian.tar.xz"
+    "db6639f7e1e75de35412bc8357518762 2115 motion_4.5.1-3.dsc 556e291e52c93768da9774571205f37e 856665 motion_4.5.1.orig.tar.gz 8198a7caaa7fb499fca23224c675a8de 17632 motion_4.5.1-3.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/debian/motion.git"
   ],
   "Version": [
-    "4.5.1-2"
+    "4.5.1-3"
   ]
 }

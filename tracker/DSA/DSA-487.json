@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[16 Apr 2004] DSA-487 neon - format string",
-    "Line": 17223,
+    "Line": 17226,
     "ID": "DSA-487",
     "Description": "neon - format string"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-0179}",
-      "Line": 17224,
+      "Line": 17227,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-0179"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - neon 0.19.3-2woody3",
-      "Line": 17225,
+      "Line": 17228,
       "Type": "package",
       "Release": "woody",
       "Package": "neon",

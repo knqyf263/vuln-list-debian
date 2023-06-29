@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-r, r-base-dev, r-cran-crayon, r-cran-diffobj"
   ],
   "Checksums-Sha256": [
-    "a9740bd830fb6713ecc5a1155733dcc625d2b1ad9c1cfd258a420a64e615c95a 2152 r-cran-unitizer_1.4.18-1.dsc d9e6fe190130c46746fdc875478b717335ecd7fcf1963fa02991f95ecff92fc2 607744 r-cran-unitizer_1.4.18.orig.tar.gz 583e420b8a581fc2f191ee237c8eac423bbfc1fe4976534f844fe4e9cdb1af6e 3248 r-cran-unitizer_1.4.18-1.debian.tar.xz"
+    "091282b09856cfcfa4823237ec8eda11353d3dd6173e51fff6b2ce4457644a5c 2152 r-cran-unitizer_1.4.19-1.dsc 9dc995c97db14f35620e1d65140e5e17cd73a5dfaff5ba479e98d7233ae5a9b7 610083 r-cran-unitizer_1.4.19.orig.tar.gz 54960f260d42db1c05e79630abcabd89612376399252e83d4cb61168861aed8c 3344 r-cran-unitizer_1.4.19-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/r-cran-unitizer"
   ],
   "Files": [
-    "cc2f5ef844c3e0b7af85e40145dedfca 2152 r-cran-unitizer_1.4.18-1.dsc a5f86f613b04aec73d0fd6e2e6b0a5a3 607744 r-cran-unitizer_1.4.18.orig.tar.gz 3ae3412fa9975eab764e6e98459951f3 3248 r-cran-unitizer_1.4.18-1.debian.tar.xz"
+    "8fa336c5a84fc698ea4ea3543bee30ce 2152 r-cran-unitizer_1.4.19-1.dsc 3591738bc044aede34adba4262c9badb 610083 r-cran-unitizer_1.4.19.orig.tar.gz d0083846399b32919243231194c28c98 3344 r-cran-unitizer_1.4.19-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.0"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest, autopkgtest-pkg-r"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/r-pkg-team/r-cran-unitizer.git"
   ],
   "Version": [
-    "1.4.18-1"
+    "1.4.19-1"
   ]
 }

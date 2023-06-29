@@ -12,13 +12,13 @@
     "default-mysql-client | mysql-client, default-mysql-server | mysql-server, python3-coverage, python3-decorator, python3-feedparser, python3-fixtures, python3-mock, python3-mysqldb, python3-psycopg2, python3-scripttest, python3-six, python3-sqlalchemy, python3-sqlparse, python3-subunit, python3-tempita, python3-testtools, python3-tz, subunit, testrepository"
   ],
   "Checksums-Sha256": [
-    "490682fb9d1be0d4b5225c043d1d82497ca002cf0d3e26f8482ad5f67af13bb8 2510 migrate_0.13.0-3.dsc 03baae449926ab4a120e1be3a0b7ba1ada6c63746555d98436428db57e3ddc56 99004 migrate_0.13.0.orig.tar.xz 8234b134dd03546f89f57a72d5e7eb91f3cd927078fca65740d569fb694edfe4 12404 migrate_0.13.0-3.debian.tar.xz"
+    "4b9839165d2542cc1f55109720bb14675c0f27b36cd30b5ee5caeef925c894ef 2510 migrate_0.13.0-4.dsc 03baae449926ab4a120e1be3a0b7ba1ada6c63746555d98436428db57e3ddc56 99004 migrate_0.13.0.orig.tar.xz 820ff1d87307690706afc36f2c4a7324c8785e87bb43c95dd54f673aa6c1d258 12832 migrate_0.13.0-4.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/m/migrate"
   ],
   "Files": [
-    "0e4cdc811365524d1ff62fc9b9d7baf4 2510 migrate_0.13.0-3.dsc d8bb6bdcc7ae65f843f3d2460f08ae90 99004 migrate_0.13.0.orig.tar.xz e51a19d7d5621df027ebed569c74dbc5 12404 migrate_0.13.0-3.debian.tar.xz"
+    "6421e5918a2c4c6568c9bd6b858b6129 2510 migrate_0.13.0-4.dsc d8bb6bdcc7ae65f843f3d2460f08ae90 99004 migrate_0.13.0.orig.tar.xz ec1555ec80b4a31df4f3bfce3b9882c1 12832 migrate_0.13.0-4.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/openstack-team/libs/migrate.git"
   ],
   "Version": [
-    "0.13.0-3"
+    "0.13.0-4"
   ]
 }

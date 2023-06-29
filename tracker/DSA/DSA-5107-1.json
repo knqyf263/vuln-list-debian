@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[24 Mar 2022] DSA-5107-1 php-twig - security update",
-    "Line": 1072,
+    "Line": 1075,
     "ID": "DSA-5107-1",
     "Description": "php-twig - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2022-23614}",
-      "Line": 1073,
+      "Line": 1076,
       "Type": "xref",
       "Bugs": [
         "CVE-2022-23614"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[bullseye] - php-twig 2.14.3-1+deb11u1",
-      "Line": 1074,
+      "Line": 1077,
       "Type": "package",
       "Release": "bullseye",
       "Package": "php-twig",

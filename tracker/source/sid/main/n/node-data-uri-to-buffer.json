@@ -6,16 +6,16 @@
     "node-data-uri-to-buffer"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), dh-sequence-nodejs, jest \u003c!nocheck\u003e, node-typescript, node-ts-jest \u003c!nocheck\u003e"
+    "debhelper-compat (= 13), dh-sequence-nodejs, jest \u003c!nocheck\u003e, node-typescript, node-ts-jest \u003c!nocheck\u003e, rollup"
   ],
   "Checksums-Sha256": [
-    "83047ba63fb115aca5c07e4a5625a22855c33fdb5d3fb6e7c616645dee7f4222 2221 node-data-uri-to-buffer_4.0.0-3.dsc e504aa76b4fae715f14ee855704670160b1d89e0fd4d498a6eca29347227e84c 5015 node-data-uri-to-buffer_4.0.0.orig.tar.gz 6b1fb54c2c3aff09318db4dd90a4452b0d546387c07506fe514aac1a8e814a13 2464 node-data-uri-to-buffer_4.0.0-3.debian.tar.xz"
+    "47e431e3029ba4a0e30fc9dcfcd9cac6cd875388ee87e469c166734076b200f7 2229 node-data-uri-to-buffer_4.0.0-4.dsc e504aa76b4fae715f14ee855704670160b1d89e0fd4d498a6eca29347227e84c 5015 node-data-uri-to-buffer_4.0.0.orig.tar.gz d40e937f529fe76b2a9996b3151e6a99bd2b47e1566e051d548963e97aefb644 2860 node-data-uri-to-buffer_4.0.0-4.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/n/node-data-uri-to-buffer"
   ],
   "Files": [
-    "4e762d492038c902f118c98d3649ec74 2221 node-data-uri-to-buffer_4.0.0-3.dsc 3b7a91cf6db55cb9d653a7af6fada804 5015 node-data-uri-to-buffer_4.0.0.orig.tar.gz f687715b67368ba5b2a3241bdd0b8777 2464 node-data-uri-to-buffer_4.0.0-3.debian.tar.xz"
+    "eceec5e2b094f99242836bd061d6a5d0 2229 node-data-uri-to-buffer_4.0.0-4.dsc 3b7a91cf6db55cb9d653a7af6fada804 5015 node-data-uri-to-buffer_4.0.0.orig.tar.gz f036882aa7deb7a8825dad2b28053de9 2860 node-data-uri-to-buffer_4.0.0-4.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest-pkg-nodejs"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/js-team/node-data-uri-to-buffer.git"
   ],
   "Version": [
-    "4.0.0-3"
+    "4.0.0-4"
   ]
 }

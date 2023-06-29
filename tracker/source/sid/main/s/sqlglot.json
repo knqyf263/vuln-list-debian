@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-sequence-python3, pybuild-plugin-pyproject, python3-all, python3-setuptools, python3-setuptools-scm"
   ],
   "Checksums-Sha256": [
-    "530495faa6c58bc8b889d644f6ac3d8e169eb6bfb387c24f0077856ed7a94597 2027 sqlglot_16.4.2-1.dsc e4311a9e6cbbc181e10491e6b71d860265515c958d15df5293e85f458570ae52 4943888 sqlglot_16.4.2.orig.tar.xz 1b4644d62bd621f41e7a4ebbcca6550f4bbedc14783d3af99a1ee9254f89b355 2556 sqlglot_16.4.2-1.debian.tar.xz"
+    "b9345c24e08de00c7e7fbf8bbbc9c70f1e4a0b9a81796054983f87fc182618e3 2027 sqlglot_16.7.3-1.dsc 685751fd20cd781dbbc30665673f9101c3b06276174814d645c9e19833208f81 4961024 sqlglot_16.7.3.orig.tar.xz 3457de3091d7cd5a34a256cecd7bd5f225b42b32381e188ffa24b92b28586836 2572 sqlglot_16.7.3-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/s/sqlglot"
   ],
   "Files": [
-    "27408bc59acba576bbfce0fb8ef02016 2027 sqlglot_16.4.2-1.dsc 12ecdb8e74f5bd36cb13909a86a7edbc 4943888 sqlglot_16.4.2.orig.tar.xz 2f1c297ddc4c6554002b5afe29aa75ab 2556 sqlglot_16.4.2-1.debian.tar.xz"
+    "92efab5fbb469716110f487d9f62504d 2027 sqlglot_16.7.3-1.dsc 0c9997f66a4b78b2b9c74321a2d428d1 4961024 sqlglot_16.7.3.orig.tar.xz a597fee418e21245ce94a927bfe4d4b7 2572 sqlglot_16.7.3-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -48,6 +48,6 @@
     "https://git.progress-linux.org/users/daniel.baumann/debian/packages/sqlglot"
   ],
   "Version": [
-    "16.4.2-1"
+    "16.7.3-1"
   ]
 }

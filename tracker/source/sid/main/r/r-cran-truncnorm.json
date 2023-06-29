@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-r, r-base-dev"
   ],
   "Checksums-Sha256": [
-    "d16f4adbbe826dd24aabde8bc099b83f8eddec1ca798c9b0113b7b127799953c 2123 r-cran-truncnorm_1.0-8-3.dsc 49564e8d87063cf9610201fbc833859ed01935cc0581b9e21c42a0d21a47c87e 11382 r-cran-truncnorm_1.0-8.orig.tar.gz 5d5c8f0ed56d02c585b4ac4b9e70920a294282cbf3f9b94ede527205b0069e68 2556 r-cran-truncnorm_1.0-8-3.debian.tar.xz"
+    "c899e9f0b9776a4db17d59c088695871481cbdcdd42db1d2f47914ce8561a504 2123 r-cran-truncnorm_1.0-9-1.dsc 5156acc4d63243bf95326d6285b0ba3cdf710697d67c233a12ae56f3d87ec708 11629 r-cran-truncnorm_1.0-9.orig.tar.gz 4770bef8437289c308ccdeb6d75e4dfb2274b8f018ff4452da12179d52241fb7 2608 r-cran-truncnorm_1.0-9-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/r-cran-truncnorm"
   ],
   "Files": [
-    "534e8ff001e6e2891faa68ba533b45e1 2123 r-cran-truncnorm_1.0-8-3.dsc c60cd6555be0dd2ea91e61757439282d 11382 r-cran-truncnorm_1.0-8.orig.tar.gz a957f8264dd81081ce58f21f8295ee93 2556 r-cran-truncnorm_1.0-8-3.debian.tar.xz"
+    "b2e05329038b9549b8eb02dcdcccf8e3 2123 r-cran-truncnorm_1.0-9-1.dsc 878c944c50c6eeaea3e4e6d9586216d3 11629 r-cran-truncnorm_1.0-9.orig.tar.gz 4a0140af431e6f23a17f61dbdb162805 2608 r-cran-truncnorm_1.0-9-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.5.0"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest, autopkgtest-pkg-r"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/r-pkg-team/r-cran-truncnorm.git"
   ],
   "Version": [
-    "1.0-8-3"
+    "1.0-9-1"
   ]
 }

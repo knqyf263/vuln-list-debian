@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[19 May 2004] DSA-506 neon - buffer overflow",
-    "Line": 17158,
+    "Line": 17161,
     "ID": "DSA-506",
     "Description": "neon - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-0398}",
-      "Line": 17159,
+      "Line": 17162,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-0398"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - neon 0.19.3-2woody5",
-      "Line": 17160,
+      "Line": 17163,
       "Type": "package",
       "Release": "woody",
       "Package": "neon",

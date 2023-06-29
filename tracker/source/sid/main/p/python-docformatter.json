@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-python, help2man, pybuild-plugin-pyproject, python3-all, python3-charset-normalizer \u003c!nocheck\u003e, python3-mock \u003c!nocheck\u003e, python3-poetry-core, python3-pytest \u003c!nocheck\u003e, python3-sphinx, python3-untokenize"
   ],
   "Checksums-Sha256": [
-    "a63acd409b0c23301f8aac89c6468eb92b4f166d4cafe17ffa6d9f4ca1e5e7df 2112 python-docformatter_1.7.2-1.dsc 8c4a509f77261c05e093f6268bedd36a2782c0d6ccc01d62d1ddf3a46835aa98 259122 python-docformatter_1.7.2.orig.tar.gz 64575761514367e6cd3082c5c90a86b569f8b4e19f15a7036642b345c4781f64 4044 python-docformatter_1.7.2-1.debian.tar.xz"
+    "b278625e6f9f34a682b81653ab9a299cc1b3d8cb4cdd5cf15d576b16c193c8b7 2112 python-docformatter_1.7.3-1.dsc 74977eb9ea81acf5b4706374198e93fd5095f68076c9dad575ebc847f1db0d8f 260028 python-docformatter_1.7.3.orig.tar.gz 9a07c52f9661b5d440eeb8bdc5d96fa11f72f376a18b026d0db23d41816f9d02 4064 python-docformatter_1.7.3-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/python-docformatter"
   ],
   "Files": [
-    "094411dd96122d62d30123af04f555da 2112 python-docformatter_1.7.2-1.dsc f4e988db13d40c73993d2b5a164b9604 259122 python-docformatter_1.7.2.orig.tar.gz bf4639b236e14970a281f1f5c3c90d7d 4044 python-docformatter_1.7.2-1.debian.tar.xz"
+    "93e99466afcf453c226b06923b5b61ab 2112 python-docformatter_1.7.3-1.dsc 36ed9f70eadb7b75b2ffa0aee266b97a 260028 python-docformatter_1.7.3.orig.tar.gz 420879d9ed6926c31e1dd9204a95ccf1 4064 python-docformatter_1.7.3-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/python-team/packages/python-docformatter.git"
   ],
   "Version": [
-    "1.7.2-1"
+    "1.7.3-1"
   ]
 }

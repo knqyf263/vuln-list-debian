@@ -12,13 +12,13 @@
     "doxygen (\u003e= 1.7.2), graphviz (\u003e= 2.2), ghostscript, texlive-latex-base, xsltproc, libxml2-utils, docbook-xsl-ns"
   ],
   "Checksums-Sha256": [
-    "4d48d308d48950306fdd65aa1130006a1154b924aea3fa41ce2a85b6b3c90078 21835 gcc-10_10.4.0-8.dsc 7716a2995bf678147f13e85e6f8dea506f368556164e5a26f9b68c87d2fcdaf1 79862286 gcc-10_10.4.0.orig.tar.gz 13ab83693ccc5f1dd024026b51b368a65cc53e70ee3a7be611d07b3f24bf3ab2 689880 gcc-10_10.4.0-8.debian.tar.xz"
+    "406a6b2e3c334343e7f0d7a9cfd8ff548e2539d04c8b61a346df768cd0f60157 21831 gcc-10_10.4.0-9.dsc 7716a2995bf678147f13e85e6f8dea506f368556164e5a26f9b68c87d2fcdaf1 79862286 gcc-10_10.4.0.orig.tar.gz 2200e91537caf5d97d1d542de5b547f0fb499d753c0a3710943b85fc97497ed3 707392 gcc-10_10.4.0-9.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/g/gcc-10"
   ],
   "Files": [
-    "babd29606530a902b83d3f17c74a862c 21835 gcc-10_10.4.0-8.dsc 08c342e0da433cbe6501d0a816b16dc8 79862286 gcc-10_10.4.0.orig.tar.gz 0b144d2ca24451213156614d5881b3e3 689880 gcc-10_10.4.0-8.debian.tar.xz"
+    "0f2d2aa42574eade7115430e676c7aff 21831 gcc-10_10.4.0-9.dsc 08c342e0da433cbe6501d0a816b16dc8 79862286 gcc-10_10.4.0.orig.tar.gz 87a3517b7f00dbdaca9ba1241bad6430 707392 gcc-10_10.4.0-9.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -60,6 +60,6 @@
     "https://salsa.debian.org/toolchain-team/gcc.git -b gcc-10-debian"
   ],
   "Version": [
-    "10.4.0-8"
+    "10.4.0-9"
   ]
 }
