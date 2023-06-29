@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[04 Nov 2005] DSA-882-1 openssl095 - cryptographic weakness",
-    "Line": 15629,
+    "Line": 15632,
     "ID": "DSA-882-1",
     "Description": "openssl095 - cryptographic weakness"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-2969}",
-      "Line": 15630,
+      "Line": 15633,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-2969"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - openssl095 0.9.5a-6.woody.6",
-      "Line": 15631,
+      "Line": 15634,
       "Type": "package",
       "Release": "woody",
       "Package": "openssl095",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "NOTE: fixed in testing at time of DSA (not present in testing/sid anymore)",
-      "Line": 15632,
+      "Line": 15635,
       "Type": "NOTE",
       "Description": "fixed in testing at time of DSA (not present in testing/sid anymore)"
     }

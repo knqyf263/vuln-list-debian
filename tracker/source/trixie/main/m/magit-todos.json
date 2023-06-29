@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-elpa"
   ],
   "Checksums-Sha256": [
-    "06ba243839a5e494b0d703ce091cd470768ae3803a889f033ba3e0deac19c9ee 1955 magit-todos_1.5.3-1.dsc 338598aa8efb8bdbde7ae98492ab7c3efc05d8e6546cc0dd4e9e38b7e7f75685 489532 magit-todos_1.5.3.orig.tar.gz ddfe428bd3b980eafcdfd1d173d075a0de96e05b1d3cb1bbc03dfb32a551a9e9 2548 magit-todos_1.5.3-1.debian.tar.xz"
+    "8ba3d53b260bb4794828b5ca3c8a14d3c608409aa02343ace42f19e58156bb39 1941 magit-todos_1.6-1.dsc 893836787db19b35d13f9aa7f2d4852e260bad2fc42216876fdcb769ce9dd286 497993 magit-todos_1.6.orig.tar.gz c87a59f5fe10709d9de8c5bb6ef6899a1b20129f8a33e6e4b311d78747e2cf6c 2724 magit-todos_1.6-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/m/magit-todos"
   ],
   "Files": [
-    "664c7a0a4bff264acfe6f58fa576aff0 1955 magit-todos_1.5.3-1.dsc e6ba4010eff9fe10b7321cdfb8ab7633 489532 magit-todos_1.5.3.orig.tar.gz 561fe727054b9aa42d0fdf353658e1c7 2548 magit-todos_1.5.3-1.debian.tar.xz"
+    "763b26b29f920b31d7ca0719aff12824 1941 magit-todos_1.6-1.dsc 185474fb80cedbafa95e85cf585bbe40 497993 magit-todos_1.6.orig.tar.gz e0605f7ee95bbd95ff3fa58af2e78e4e 2724 magit-todos_1.6-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.5.0"
+    "4.6.2"
   ],
   "Uploaders": [
     "Lev Lamberov \u003cdogsleg@debian.org\u003e"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/emacsen-team/magit-todos.git"
   ],
   "Version": [
-    "1.5.3-1"
+    "1.6-1"
   ]
 }

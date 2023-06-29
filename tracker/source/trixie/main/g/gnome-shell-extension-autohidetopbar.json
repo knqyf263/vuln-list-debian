@@ -9,19 +9,19 @@
     "debhelper-compat (= 13), gettext, libglib2.0-bin, zip, intltool"
   ],
   "Checksums-Sha256": [
-    "42c49858e0ff1e2498679c848760b2c29e1ad3dbd398d694a6d823a9dfb75684 2157 gnome-shell-extension-autohidetopbar_111-1.dsc 8296fcfdc296f6935513f18e66baaf04b30066ff8ae4ddcbb63d518614cc9e46 37052 gnome-shell-extension-autohidetopbar_111.orig.tar.gz 15cac0a4e63fe8587e4cd3c062e05decdd6072e1d066b568902769b996864151 5600 gnome-shell-extension-autohidetopbar_111-1.debian.tar.xz"
+    "20cdd43b24fa229a5f8a857fb11f0890ddca7305d3ed7bbd2393db4556af78a2 2169 gnome-shell-extension-autohidetopbar_114-1.dsc a7a43c40357f5f133c90fceae3e94fb117a8be540f4ce771862228d8daee4fa3 4553100 gnome-shell-extension-autohidetopbar_114.orig.tar.gz 5d44d2392b9f2f2238901264e0b285caadba016bbdcfdebd29141b211ff512b0 5348 gnome-shell-extension-autohidetopbar_114-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/g/gnome-shell-extension-autohidetopbar"
   ],
   "Files": [
-    "f528146eb278a8a4fae6bb6f033b6bd3 2157 gnome-shell-extension-autohidetopbar_111-1.dsc c54fa7f3a782071966eaa9a2929b8ad4 37052 gnome-shell-extension-autohidetopbar_111.orig.tar.gz 2e2fde68b7c686c9fb97b0757b52ae0a 5600 gnome-shell-extension-autohidetopbar_111-1.debian.tar.xz"
+    "28ee831d4c80b7fcefb20e89d402ec15 2169 gnome-shell-extension-autohidetopbar_114-1.dsc c7279d428f3315da6f7fb0168f7e1003 4553100 gnome-shell-extension-autohidetopbar_114.orig.tar.gz f606b3ed302fd012c9d0ac88309ec0aa 5348 gnome-shell-extension-autohidetopbar_114-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
   ],
   "Homepage": [
-    "https://github.com/tuxor1337/hidetopbar"
+    "https://gitlab.gnome.org/tuxor1337/hidetopbar"
   ],
   "Maintainer": [
     "Tobias Frost \u003ctobi@debian.org\u003e"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Vcs-Browser": [
     "https://salsa.debian.org/debian/gnome-shell-extension-autohidetopbar"
@@ -48,6 +48,6 @@
     "https://salsa.debian.org/debian/gnome-shell-extension-autohidetopbar.git"
   ],
   "Version": [
-    "1:111-1"
+    "1:114-1"
   ]
 }

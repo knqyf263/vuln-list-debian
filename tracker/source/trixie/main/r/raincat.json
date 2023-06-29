@@ -6,16 +6,16 @@
     "raincat, raincat-data"
   ],
   "Build-Depends": [
-    "debhelper (\u003e= 11), freeglut3-dev, ghc, libghc-extensible-exceptions-dev, libghc-glut-dev, libghc-mtl-dev, libghc-opengl-dev, libghc-random-dev, libghc-sdl-dev, libghc-sdl-image-dev, libghc-sdl-mixer-dev, libgl1-mesa-dev, libglu1-mesa-dev, libsdl-image1.2-dev, libsdl-mixer1.2-dev, libsdl1.2-dev"
+    "debhelper-compat (= 13), freeglut3-dev, ghc, libghc-extensible-exceptions-dev, libghc-glut-dev, libghc-mtl-dev, libghc-opengl-dev, libghc-random-dev, libghc-sdl2-dev, libghc-sdl2-image-dev, libghc-sdl2-mixer-dev, libgl-dev, libglu1-mesa-dev, libsdl2-dev, libsdl2-image-dev, libsdl2-mixer-dev"
   ],
   "Checksums-Sha256": [
-    "fcff2a12aea6009fa8b4ad0957223b8c53b1d36e263ff009931e3e52641e1eb5 2430 raincat_1.1.1.2-4.dsc 63c7a7eb00fe4736cb13a79ed03d5dc334bbd4564046b5526d41c1e833f78439 9290558 raincat_1.1.1.2.orig.tar.gz f85d1cf212bc1ce4f9f8d2bc0def317102a854625c32fd23d8a58c8b3dfbebc7 37580 raincat_1.1.1.2-4.debian.tar.xz"
+    "2bfb37bf89924a9d39d2b35e0c25eface7c8fbc9c78ecccaf4a3fe5ce2862d47 2283 raincat_1.2.1-1.dsc 5bd86c711ba9d97a868e525aaa858f936c7d39e431cb911d43aa57d5e36de8b7 9279502 raincat_1.2.1.orig.tar.gz cba7a491637f5c212001be343f191828b011492aafc6487d08cc781de21bcb6e 37000 raincat_1.2.1-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/raincat"
   ],
   "Files": [
-    "79702d6aa6a9376d514e2e40ebe3b63a 2430 raincat_1.1.1.2-4.dsc 13574caddc5dc01d387c040db5a09c8d 9290558 raincat_1.1.1.2.orig.tar.gz 75ede702dc7b1ff3a2f4b3397a58c04b 37580 raincat_1.1.1.2-4.debian.tar.xz"
+    "6b5714c3218fec00cf3733372e0f7331 2283 raincat_1.2.1-1.dsc 1a96144e907227a628cfd11a897be54f 9279502 raincat_1.2.1.orig.tar.gz c145e0f6490baf97178b43a463b990e5 37000 raincat_1.2.1-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "games"
   ],
   "Standards-Version": [
-    "4.1.4"
+    "4.6.2"
   ],
   "Uploaders": [
     "Miriam Ruiz \u003clittle_miry@yahoo.es\u003e, Barry deFreese \u003cbdefreese@debian.org\u003e"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/games-team/raincat.git"
   ],
   "Version": [
-    "1.1.1.2-4"
+    "1.2.1-1"
   ]
 }

@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-sequence-nodejs, libjs-popper.js, node-autoprefixer, node-babel7, node-less, node-postcss-cli, node-rollup-plugin-babel, node-rollup-plugin-node-resolve, node-rollup-plugin-replace, node-source-map, rollup, sassc, terser"
   ],
   "Checksums-Sha256": [
-    "2f259e433c7b1e726ef0c0cf28230d77ac7f0dc55bc6b28aaead2a18f869a592 2377 bootstrap-html_5.2.3+dfsg-8.dsc 7dad861b22dc9380747c74dac9e87da734935a5141d1e3fc1e1b48721b7e33ef 6431636 bootstrap-html_5.2.3+dfsg.orig.tar.xz 5e6b8e132085ff2e2f1965f79f8e2d38cf083ac2fcb9cadb7db48cad3c05d810 9836 bootstrap-html_5.2.3+dfsg-8.debian.tar.xz"
+    "33ad78f0960f2c54db49799df152aa9b8569521960902f485c0ae30737788f2d 2377 bootstrap-html_5.3.0+dfsg-1.dsc 994dc5776eb5e61e7a389cbc14fe1add68e32dea2617f1d2e4bfe87033c72d2d 6082292 bootstrap-html_5.3.0+dfsg.orig.tar.xz 4406f2840c29a34f66c02a1127d994df2a2016336f6f2722b3bc329f8c955eb9 9956 bootstrap-html_5.3.0+dfsg-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/b/bootstrap-html"
   ],
   "Files": [
-    "6ee8fb252435a6c239fa372074eb0a56 2377 bootstrap-html_5.2.3+dfsg-8.dsc c73b859bfe336d77b9f1577f2cbcb297 6431636 bootstrap-html_5.2.3+dfsg.orig.tar.xz 5f47346d1843c5fddda59ece645d3ae3 9836 bootstrap-html_5.2.3+dfsg-8.debian.tar.xz"
+    "1492c1a8929c70a4a47195d3c3809f1d 2377 bootstrap-html_5.3.0+dfsg-1.dsc 0f0621ee7f822ffe32fa6c5236842a19 6082292 bootstrap-html_5.3.0+dfsg.orig.tar.xz 04dde893a61522f1a8f03c9f1894d7b1 9956 bootstrap-html_5.3.0+dfsg-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -48,6 +48,6 @@
     "https://git.progress-linux.org/users/daniel.baumann/debian/packages/bootstrap-html"
   ],
   "Version": [
-    "5.2.3+dfsg-8"
+    "5.3.0+dfsg-1"
   ]
 }

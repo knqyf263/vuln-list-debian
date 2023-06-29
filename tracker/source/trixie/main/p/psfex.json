@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), libatlas-base-dev, libfftw3-dev, libplplot-dev, pkg-config"
   ],
   "Checksums-Sha256": [
-    "67a1ad99d32552ca6fb110cc93e483639d42a5e9669c5def04bb39b4d64073d0 1982 psfex_3.21.1-1.dsc a670f7a7273419a8686c3210b93b184e19649c70f420adc1a0b0c01467b5fe8d 2725447 psfex_3.21.1.orig.tar.gz 93cf7710ec0cd22ce493f137c9990baf7cb38ead53df283d47213d8006f979fd 5584 psfex_3.21.1-1.debian.tar.xz"
+    "e5ea56ea88eeb8c04a9adcdb6d5093e0a56feeb84faba22450117ec45cd1118b 1982 psfex_3.24.2-1.dsc e2c94bf60d90e0db52ad4b8baa5d5fceb483eff6a87b35c6fc5a881fccc04af9 2728025 psfex_3.24.2.orig.tar.gz 3d80e259d1f76a4138626e551e7360294473a70e680994355aed70cd2929260f 5588 psfex_3.24.2-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/psfex"
   ],
   "Files": [
-    "1a837c25e7e0e4d52ef4b8fa4e821b21 1982 psfex_3.21.1-1.dsc ae5f103591bc21f0a9825cd996765c6b 2725447 psfex_3.21.1.orig.tar.gz 7a4c0a8ac7830f5ad0965a50d547d1c6 5584 psfex_3.21.1-1.debian.tar.xz"
+    "a781756f335435e040787557dcadb859 1982 psfex_3.24.2-1.dsc 42cbaf69820acba528ef76e2effdf762 2728025 psfex_3.24.2.orig.tar.gz 04c2a6166abd54f0bd3fcdbf8d6ad7ac 5588 psfex_3.24.2-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/debian-astro-team/psfex.git"
   ],
   "Version": [
-    "3.21.1-1"
+    "3.24.2-1"
   ]
 }

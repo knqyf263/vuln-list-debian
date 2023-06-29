@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[01 Jul 2005] DSA-735-1 sudo - pathname validation race",
-    "Line": 16333,
+    "Line": 16336,
     "ID": "DSA-735-1",
     "Description": "sudo - pathname validation race"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-1993}",
-      "Line": 16334,
+      "Line": 16337,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-1993"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - sudo 1.6.6-1.3woody1 (medium)",
-      "Line": 16335,
+      "Line": 16338,
       "Type": "package",
       "Release": "woody",
       "Package": "sudo",
@@ -26,7 +26,7 @@
     },
     {
       "Original": "[sarge] - sudo 1.6.8p7-1.1sarge1 (medium)",
-      "Line": 16336,
+      "Line": 16339,
       "Type": "package",
       "Release": "sarge",
       "Package": "sudo",
@@ -36,7 +36,7 @@
     },
     {
       "Original": "NOTE: not fixed in testing at time of DSA",
-      "Line": 16337,
+      "Line": 16340,
       "Type": "NOTE",
       "Description": "not fixed in testing at time of DSA"
     }

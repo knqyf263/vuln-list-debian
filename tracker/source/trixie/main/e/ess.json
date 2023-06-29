@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-elpa, texlive-latex-extra, texinfo, r-base-core"
   ],
   "Checksums-Sha256": [
-    "7c7ff966554d403b1f8359148fe1a52cbd00c951f6d461d7882a9530069fd1a6 2097 ess_18.10.2+git20220915.f45542e-3.dsc 3c23702813f49e8cd6ab3275ada0937487e56309692c9b4c2075d229751e34c1 584786 ess_18.10.2+git20220915.f45542e.orig.tar.gz bf9fdd0a22c7c261012d6ce81ba99d46ba425a5fdcf54b423847ca5d52536d15 10440 ess_18.10.2+git20220915.f45542e-3.debian.tar.xz"
+    "bf31a3175277d36706389fccb59024a5a37d242dba5173428d33338c51e76da3 2097 ess_18.10.2+git20230419.5c4ae91-1.dsc a85facc4a7fa6f4b6a931bea188dcf14cadec1cbf993ec2f5fb813361ae104a9 521688 ess_18.10.2+git20230419.5c4ae91.orig.tar.xz 1c93ce903056358862e7fd0d4a67ebce22d10f6fd7e50d643d641ee71167c4c9 10344 ess_18.10.2+git20230419.5c4ae91-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/e/ess"
   ],
   "Files": [
-    "2fd3f9fb7484286620d29f2d9f630966 2097 ess_18.10.2+git20220915.f45542e-3.dsc d280b5ef4cd06cf2e5dde92c575c4244 584786 ess_18.10.2+git20220915.f45542e.orig.tar.gz fbbbe9c629fff85bd33117bfd7b63a27 10440 ess_18.10.2+git20220915.f45542e-3.debian.tar.xz"
+    "1e093e6511f8ea0d3f20431cd658743f 2097 ess_18.10.2+git20230419.5c4ae91-1.dsc 397b67d970097691c876e3a54f5476c3 521688 ess_18.10.2+git20230419.5c4ae91.orig.tar.xz 1a611c8e436a33ed33834a10fc6da4ce 10344 ess_18.10.2+git20230419.5c4ae91-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "editors"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest-pkg-elpa"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/emacsen-team/ess.git"
   ],
   "Version": [
-    "18.10.2+git20220915.f45542e-3"
+    "18.10.2+git20230419.5c4ae91-1"
   ]
 }

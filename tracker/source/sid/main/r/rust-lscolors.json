@@ -9,13 +9,13 @@
     "debhelper (\u003e= 12), dh-cargo (\u003e= 25), cargo:native, rustc:native, libstd-rust-dev, librust-tempfile-dev"
   ],
   "Checksums-Sha256": [
-    "dd30136c7b208ab9b95b8a385e09c636a82a9f95416545a2536bff58eac0bb63 2286 rust-lscolors_0.14.0-1.dsc 18a9df1d1fb6d9e92fa043e9eb9a3ecf6892c7b542bae5137cd1e419e40aa8bf 23025 rust-lscolors_0.14.0.orig.tar.gz c40f394bd91462d5c115521d9f55a75af230661208a12c536e2db26e84354816 3420 rust-lscolors_0.14.0-1.debian.tar.xz"
+    "0fa7b9f9ddd3ec99e791f5f58f43358e35daf42c462007eac87e6399eab87aaf 2286 rust-lscolors_0.14.0-2.dsc 18a9df1d1fb6d9e92fa043e9eb9a3ecf6892c7b542bae5137cd1e419e40aa8bf 23025 rust-lscolors_0.14.0.orig.tar.gz 51423c3cb19fee235d5c851944d732ef8341850533d13dd43eeb17dfb3658dab 3452 rust-lscolors_0.14.0-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/rust-lscolors"
   ],
   "Files": [
-    "1d51b3ee4eee99ef9cab408be4ea2eb6 2286 rust-lscolors_0.14.0-1.dsc a2fbbd52e9d9d390f3b06c25f50b7ccf 23025 rust-lscolors_0.14.0.orig.tar.gz 76c2a185e2a64396272ce449e2f13ce5 3420 rust-lscolors_0.14.0-1.debian.tar.xz"
+    "3f906bc488e853ea675bd8d36dc45b5e 2286 rust-lscolors_0.14.0-2.dsc a2fbbd52e9d9d390f3b06c25f50b7ccf 23025 rust-lscolors_0.14.0.orig.tar.gz 11f5f8e122ce1818359b13a23280814b 3452 rust-lscolors_0.14.0-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/rust-team/debcargo-conf.git [src/lscolors]"
   ],
   "Version": [
-    "0.14.0-1"
+    "0.14.0-2"
   ]
 }

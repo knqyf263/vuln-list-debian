@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[03 May 2017] DSA-3843-1 tomcat8 - security update",
-    "Line": 5375,
+    "Line": 5378,
     "ID": "DSA-3843-1",
     "Description": "tomcat8 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-5647 CVE-2017-5648}",
-      "Line": 5376,
+      "Line": 5379,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-5647",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[jessie] - tomcat8 8.0.14-1+deb8u9",
-      "Line": 5377,
+      "Line": 5380,
       "Type": "package",
       "Release": "jessie",
       "Package": "tomcat8",

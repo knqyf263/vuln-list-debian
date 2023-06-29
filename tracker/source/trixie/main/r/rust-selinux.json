@@ -6,16 +6,16 @@
     "librust-selinux-dev"
   ],
   "Build-Depends": [
-    "debhelper (\u003e= 12), dh-cargo (\u003e= 25), cargo:native \u003c!nocheck\u003e, rustc:native \u003c!nocheck\u003e, libstd-rust-dev \u003c!nocheck\u003e, librust-bitflags-1+default-dev (\u003e= 1.3-~~) \u003c!nocheck\u003e, librust-libc-0.2+default-dev \u003c!nocheck\u003e, librust-once-cell-1+default-dev (\u003e= 1.16-~~) \u003c!nocheck\u003e, librust-reference-counted-singleton-0.1+default-dev \u003c!nocheck\u003e, librust-selinux-sys-0.6+default-dev \u003c!nocheck\u003e, librust-thiserror-1+default-dev \u003c!nocheck\u003e"
+    "debhelper (\u003e= 12), dh-cargo (\u003e= 25), cargo:native \u003c!nocheck\u003e, rustc:native \u003c!nocheck\u003e, libstd-rust-dev \u003c!nocheck\u003e, librust-bitflags-2+default-dev (\u003e= 2.1-~~) \u003c!nocheck\u003e, librust-libc-0.2+default-dev \u003c!nocheck\u003e, librust-once-cell-1+default-dev (\u003e= 1.17-~~) \u003c!nocheck\u003e, librust-reference-counted-singleton-0.1+default-dev \u003c!nocheck\u003e, librust-selinux-sys-0.6+default-dev \u003c!nocheck\u003e, librust-thiserror-1+default-dev \u003c!nocheck\u003e"
   ],
   "Checksums-Sha256": [
-    "b71790af34ad3ef26923d36eca7e58c5691f2535f3b5e90481e9131355bc84e9 2589 rust-selinux_0.3.2-1.dsc b775d14782780e48a0c6529fe027454a80a66df85d1d9a2ea4de747f3295daf4 35828 rust-selinux_0.3.2.orig.tar.gz 103d5c27782cd9a38b955f752479a21b01d79fd1f22bc1730d6f872ea9f5742e 2820 rust-selinux_0.3.2-1.debian.tar.xz"
+    "a7bbbeb01e69c3d55248a87a7a8ed63cebd1c38d25b5897304638f77364f46c6 2558 rust-selinux_0.4.1-1.dsc 6b5ff8f655381fc80f470384da0a461b19b7bf18d685639ccf6df0abd3d2363d 36521 rust-selinux_0.4.1.orig.tar.gz c719dba79849dabd687924ea7515f52f292db485f30c839c6c47e61c22293b59 2880 rust-selinux_0.4.1-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/rust-selinux"
   ],
   "Files": [
-    "ebf0a4f1a341e6607d6488ddc24d5491 2589 rust-selinux_0.3.2-1.dsc f8806985857c76cb7279a2085448c159 35828 rust-selinux_0.3.2.orig.tar.gz dc1ad4fa178fc2b0b0d640fe606e48b8 2820 rust-selinux_0.3.2-1.debian.tar.xz"
+    "fad84a08a8f82386c3bdbe8cccb99b0b 2558 rust-selinux_0.4.1-1.dsc 278006c08875be184bc010850d0ae47f 36521 rust-selinux_0.4.1.orig.tar.gz ea2082772370a7daac0c2904d996f63a 2880 rust-selinux_0.4.1-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -42,7 +42,7 @@
     "autopkgtest"
   ],
   "Testsuite-Triggers": [
-    "dh-cargo, librust-assert-matches-1+default-dev, librust-serial-test-0.9+default-dev, librust-socketpair-0.17+default-dev, librust-tempfile-3+default-dev"
+    "dh-cargo, librust-assert-matches-1+default-dev, librust-serial-test-2+default-dev, librust-socketpair-0.19+default-dev, librust-tempfile-3+default-dev"
   ],
   "Uploaders": [
     "Sylvestre Ledru \u003csylvestre@debian.org\u003e"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/rust-team/debcargo-conf.git [src/selinux]"
   ],
   "Version": [
-    "0.3.2-1"
+    "0.4.1-1"
   ]
 }

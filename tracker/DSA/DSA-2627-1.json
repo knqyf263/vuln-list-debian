@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[17 Feb 2013] DSA-2627-1 nginx - information leak",
-    "Line": 9487,
+    "Line": 9490,
     "ID": "DSA-2627-1",
     "Description": "nginx - information leak"
   },
   "Annotations": [
     {
       "Original": "{CVE-2012-4929}",
-      "Line": 9488,
+      "Line": 9491,
       "Type": "xref",
       "Bugs": [
         "CVE-2012-4929"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - nginx 0.7.67-3+squeeze3",
-      "Line": 9489,
+      "Line": 9492,
       "Type": "package",
       "Release": "squeeze",
       "Package": "nginx",

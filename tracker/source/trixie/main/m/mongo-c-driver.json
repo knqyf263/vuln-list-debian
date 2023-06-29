@@ -9,13 +9,13 @@
     "debhelper (\u003e= 11), cmake, libssl-dev, pkg-config, python3-sphinx, libmongocrypt-dev \u003c!pkg.mongo-c-driver.no-libmongocrypt\u003e, zlib1g-dev, libicu-dev, libsasl2-dev, libsnappy-dev, libzstd-dev"
   ],
   "Checksums-Sha256": [
-    "ea5cab22706efe455ec6fbe6a201e5d1396624f03d3cc1910c7cdd8bc8c742d4 2625 mongo-c-driver_1.23.1-1.dsc 5e3502bd379b1717c1b7ad65ab7f84f79f83077aedb424e4eeab2640bb911810 6065438 mongo-c-driver_1.23.1.orig.tar.gz 8b4051f3c749769d92a184bc3598b92639a5ed5b3b69099834057eb8575ab2db 12136 mongo-c-driver_1.23.1-1.debian.tar.xz"
+    "823518455d676533d7dfab1716b0ea86985a2f4ee4ce4178b0dca274c91f13e2 2672 mongo-c-driver_1.24.1-1.dsc 986fece1956674044bb8efe3134e3c6d06c828530dbc3af47533c6e4319bf8cf 6577044 mongo-c-driver_1.24.1.orig.tar.gz 2d7ad8731a44c94db9121d827034e4113a4e8a7aca53507fe8e1fdd2cef6278d 12488 mongo-c-driver_1.24.1-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/m/mongo-c-driver"
   ],
   "Files": [
-    "24ab54629f98145e6b35ef2161cbb3e6 2625 mongo-c-driver_1.23.1-1.dsc 65303db180bebc2d47c1155a5278fe31 6065438 mongo-c-driver_1.23.1.orig.tar.gz ece8cd8a2a559a140cd8099fb4809a93 12136 mongo-c-driver_1.23.1-1.debian.tar.xz"
+    "f3437fba7246450dbf9b9299011b48c3 2672 mongo-c-driver_1.24.1-1.dsc e4c9266f118a41c0d96a25bfbe9d05f6 6577044 mongo-c-driver_1.24.1.orig.tar.gz 83113d73b8dcb3f9e08e4dc71cefa73d 12488 mongo-c-driver_1.24.1-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,10 +39,10 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Uploaders": [
-    "Kevin Albertson \u003ckevin.albertson@mongodb.com\u003e, Roberto C. Sanchez \u003croberto@connexer.com\u003e"
+    "Kevin Albertson \u003ckevin.albertson@mongodb.com\u003e, Roberto C. Sanchez \u003croberto@connexer.com\u003e, Kyle Kloberdanz \u003ckyle.kloberdanz@mongodb.com\u003e"
   ],
   "Vcs-Browser": [
     "https://github.com/mongodb/mongo-c-driver/tree/master"
@@ -51,6 +51,6 @@
     "https://github.com/mongodb/mongo-c-driver.git"
   ],
   "Version": [
-    "1.23.1-1"
+    "1.24.1-1"
   ]
 }

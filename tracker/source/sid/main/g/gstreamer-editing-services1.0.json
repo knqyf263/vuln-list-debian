@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-sequence-gir, dh-sequence-python3, meson (\u003e= 0.62), pkg-config (\u003e= 0.11.0), bison (\u003e= 1:2.4), flex (\u003e= 2.5.34), libxml2-dev, libglib2.0-dev (\u003e= 2.56), libgstreamer1.0-dev (\u003e= 1.22.0), libgstreamer-plugins-base1.0-dev (\u003e= 1.22.0), libgstreamer-plugins-bad1.0-dev (\u003e= 1.22.0), gobject-introspection (\u003e= 0.9.12-4~), libgirepository1.0-dev, gir1.2-gstreamer-1.0 (\u003e= 1.22.0), gir1.2-gst-plugins-base-1.0 (\u003e= 1.22.0), gstreamer1.0-plugins-base (\u003e= 1.22.0), gstreamer1.0-x (\u003e= 1.22.0), gstreamer1.0-plugins-good (\u003e= 1.22.0), gstreamer1.0-plugins-bad (\u003e= 1.22.0), python3-gi (\u003e= 3.8), python-gi-dev (\u003e= 3.8), python3-all-dev, bash-completion"
   ],
   "Checksums-Sha256": [
-    "fd3accd92b2c66c1827fcd80f16e58184b23659d1c7b090d5788ccfe3fb52fdc 3348 gstreamer-editing-services1.0_1.22.3-2.dsc 15a5bce62509b1e125e85a09ec41f321c0f549264b5044c0095fcfb2d5c0cea2 825216 gstreamer-editing-services1.0_1.22.3.orig.tar.xz 994af0bfc741c0f43b8766c3bf5236cd11a12998bf80b5d0bdfc6689552fd9e8 833 gstreamer-editing-services1.0_1.22.3.orig.tar.xz.asc bd02c43591c04a88198b8983fd1cf1ce8600687d0e20a813b5d1aed947661a9e 13936 gstreamer-editing-services1.0_1.22.3-2.debian.tar.xz"
+    "d3f361680ba14385390511f17aa40e341fc1561140597ab3044936b3446066be 3348 gstreamer-editing-services1.0_1.22.4-1.dsc 453846cfa471a0c1c8014551bd484fbcf334f0e4430592317afbb23775e69bd2 826828 gstreamer-editing-services1.0_1.22.4.orig.tar.xz 5bd982fad5200cf1f988c8c0ae77fcfcdd86c36b9ba1510e5cbd9686dbd864dd 833 gstreamer-editing-services1.0_1.22.4.orig.tar.xz.asc 854049668cdf8c65bfc3e6a9e29ae363cab372d933b50f48a6090e9fd3cbc9a4 14000 gstreamer-editing-services1.0_1.22.4-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/g/gstreamer-editing-services1.0"
   ],
   "Files": [
-    "f1a383bc17801e6988149da1618b4406 3348 gstreamer-editing-services1.0_1.22.3-2.dsc 8664059c981a80fa71a75669b8f814a9 825216 gstreamer-editing-services1.0_1.22.3.orig.tar.xz 82f66c35cc72f1655ca9729643110cdf 833 gstreamer-editing-services1.0_1.22.3.orig.tar.xz.asc a400111fb3eb73b451c80686173d4ef0 13936 gstreamer-editing-services1.0_1.22.3-2.debian.tar.xz"
+    "674163a74051617a593df3168ac0afab 3348 gstreamer-editing-services1.0_1.22.4-1.dsc 1fb3e66484c7f173bfa681afa7403efe 826828 gstreamer-editing-services1.0_1.22.4.orig.tar.xz 06b463d1431bcea8eb0791deaee9a59b 833 gstreamer-editing-services1.0_1.22.4.orig.tar.xz.asc 66bd68fa1362c35f432bbc43cd593621 14000 gstreamer-editing-services1.0_1.22.4-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/gstreamer-team/gstreamer-editing-services1.0.git"
   ],
   "Version": [
-    "1.22.3-2"
+    "1.22.4-1"
   ]
 }

@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), fonts-fork-awesome, libjs-bootstrap5, node-tweetnacl"
   ],
   "Checksums-Sha256": [
-    "927a97a8a5e6c1f01eada64f2429b5dc7ec5a36f8f8016f79f8c5cd32dc6bd47 2061 keepassxc-browser_1.8.4+repack1-7.dsc fcb667817bc6ea38c185da7c2d81ed12827dd4f1a5f444612ded731fa6f04d0e 395848 keepassxc-browser_1.8.4+repack1.orig.tar.xz cef155a046dc02aca2faeef44116e69198dc33092d1e7ff9c8b519957ed2d937 16100 keepassxc-browser_1.8.4+repack1-7.debian.tar.xz"
+    "893c25dcd9d5749eaa60597fbf8ba7ce510d670fae1dcf608fafb0ca39f37aa4 2075 keepassxc-browser_1.8.6.1+repack1-1.dsc 5b193e3cd8fdc4cc7eb5aa14670e739f5ae5d937c92d775b8668f1afb1cdfca9 390700 keepassxc-browser_1.8.6.1+repack1.orig.tar.xz fea89987c3a96773a82c133f13df5f3a2983b8c7021b3b1d1090028feca7eaf4 16192 keepassxc-browser_1.8.6.1+repack1-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/k/keepassxc-browser"
   ],
   "Files": [
-    "352868a564787796a717697910f3678f 2061 keepassxc-browser_1.8.4+repack1-7.dsc a619c1e3aff6096a65ec9cdf983745e7 395848 keepassxc-browser_1.8.4+repack1.orig.tar.xz b1b061c309f33c3c083b909ce75edac4 16100 keepassxc-browser_1.8.4+repack1-7.debian.tar.xz"
+    "6182f6e291b7ea8ee037c75b7c1d6691 2075 keepassxc-browser_1.8.6.1+repack1-1.dsc 0ff5ad87023b0ea83cbf096f596b685e 390700 keepassxc-browser_1.8.6.1+repack1.orig.tar.xz 501ae729aad1e498cb77890da1e77bea 16192 keepassxc-browser_1.8.6.1+repack1-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -48,6 +48,6 @@
     "https://salsa.debian.org/fuddl/keepassxc-browser.git"
   ],
   "Version": [
-    "1.8.4+repack1-7"
+    "1.8.6.1+repack1-1"
   ]
 }

@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), cmake, yasm"
   ],
   "Checksums-Sha256": [
-    "f62492ca8a1741aa2985ac3b1e828bd1a65d0b9958a49114a58387ef38b13f06 2275 svt-av1_1.5.0+dfsg-2.dsc d761303cc250c6e09b1ac19fccfe2f283fe4f3a757e687d7a71c942613e9e01d 8277400 svt-av1_1.5.0+dfsg.orig.tar.xz e9c6b051e424a98d41105587a5cfe2091579c9545255508be7603f45698e3c11 6472 svt-av1_1.5.0+dfsg-2.debian.tar.xz"
+    "42b7ed8626dfb0c61c952805a9bd73d4a3b46c00fb2a9c237eb182c1ec63b2a8 2275 svt-av1_1.6.0+dfsg-1.dsc f0e8c32e78700dcb8eb9432028944c44982fe65811bb77732ac78178684d4be7 8297288 svt-av1_1.6.0+dfsg.orig.tar.xz f1728c06568018d954b8404e67ae3146b25a6a726bf232a1c41e2f7da434e38e 6484 svt-av1_1.6.0+dfsg-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/s/svt-av1"
   ],
   "Files": [
-    "5c4c180c261cf2c09ce86adf1b30ccb2 2275 svt-av1_1.5.0+dfsg-2.dsc a09e2c9fbae91827876f743ef38f5237 8277400 svt-av1_1.5.0+dfsg.orig.tar.xz e3aaa5063f20fd2d5238e2b361e1ad06 6472 svt-av1_1.5.0+dfsg-2.debian.tar.xz"
+    "32685315571a04407bbf6193e3ac8fd0 2275 svt-av1_1.6.0+dfsg-1.dsc 4dfd0f2fb057450ce4959629e0e3c6b4 8297288 svt-av1_1.6.0+dfsg.orig.tar.xz 56a1b668b0f15e727a2db077ade5f187 6484 svt-av1_1.6.0+dfsg-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/multimedia-team/svt-av1.git"
   ],
   "Version": [
-    "1.5.0+dfsg-2"
+    "1.6.0+dfsg-1"
   ]
 }

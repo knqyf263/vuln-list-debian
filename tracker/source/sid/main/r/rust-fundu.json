@@ -9,13 +9,13 @@
     "debhelper (\u003e= 12), dh-cargo (\u003e= 25), cargo:native \u003c!nocheck\u003e, rustc:native \u003c!nocheck\u003e, libstd-rust-dev \u003c!nocheck\u003e"
   ],
   "Checksums-Sha256": [
-    "82080fcf2d709a1237f313d736d828ed74fe31efafbf2251b727f2798aff971f 2548 rust-fundu_1.0.0-1.dsc 47af3b646bdd738395be2db903fc11a5923b5e206016b8d4ad6db890bcae9bd5 91020 rust-fundu_1.0.0.orig.tar.gz d01dcc1473c91e4cdf2ebfdd1b39491fc9543e0c8db7221a9b30004bb59b614d 3156 rust-fundu_1.0.0-1.debian.tar.xz"
+    "c9dce90bdbcc5e72c04c9cacde440bb731ca692bca7443167707755b04c2d277 2548 rust-fundu_1.0.0-2.dsc 47af3b646bdd738395be2db903fc11a5923b5e206016b8d4ad6db890bcae9bd5 91020 rust-fundu_1.0.0.orig.tar.gz 72cc92532e457c04a135bc2755075e7cb89e94d234a385a8405303f6ee057b84 3348 rust-fundu_1.0.0-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/rust-fundu"
   ],
   "Files": [
-    "a7735ed28e940e6529756b7d36e7c084 2548 rust-fundu_1.0.0-1.dsc 7794352e76b2bc5059963d72b689104e 91020 rust-fundu_1.0.0.orig.tar.gz c7896f0419a2337e7e40387b9de17943 3156 rust-fundu_1.0.0-1.debian.tar.xz"
+    "cb7f32d4b7b916057fb87f4347c4e54c 2548 rust-fundu_1.0.0-2.dsc 7794352e76b2bc5059963d72b689104e 91020 rust-fundu_1.0.0.orig.tar.gz bd856d6e252d53f745309608c79448ad 3348 rust-fundu_1.0.0-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/rust-team/debcargo-conf.git [src/fundu]"
   ],
   "Version": [
-    "1.0.0-1"
+    "1.0.0-2"
   ]
 }

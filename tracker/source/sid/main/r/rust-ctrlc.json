@@ -6,16 +6,16 @@
     "librust-ctrlc-dev"
   ],
   "Build-Depends": [
-    "debhelper (\u003e= 12), dh-cargo (\u003e= 25), cargo:native \u003c!nocheck\u003e, rustc:native \u003c!nocheck\u003e, libstd-rust-dev \u003c!nocheck\u003e, librust-nix-0+fs-dev \u003c!nocheck\u003e, librust-nix-0+signal-dev \u003c!nocheck\u003e, librust-winapi-0.3+consoleapi-dev \u003c!nocheck\u003e, librust-winapi-0.3+default-dev \u003c!nocheck\u003e, librust-winapi-0.3+handleapi-dev \u003c!nocheck\u003e, librust-winapi-0.3+synchapi-dev \u003c!nocheck\u003e, librust-winapi-0.3+winbase-dev \u003c!nocheck\u003e"
+    "debhelper (\u003e= 12), dh-cargo (\u003e= 25), cargo:native \u003c!nocheck\u003e, rustc:native \u003c!nocheck\u003e, libstd-rust-dev \u003c!nocheck\u003e, librust-nix-0+fs-dev \u003c!nocheck\u003e, librust-nix-0+signal-dev \u003c!nocheck\u003e"
   ],
   "Checksums-Sha256": [
-    "0932750b6c8da5306116c9cf711755e33a8b27e8541a2584032c554da390324a 2595 rust-ctrlc_3.2.3-1.dsc 1d91974fbbe88ec1df0c24a4f00f99583667a7e2e6272b2b92d294d81e462173 12853 rust-ctrlc_3.2.3.orig.tar.gz e5213bb66cf9085f84450ab150b6cb5c454ba6b9502a693c21d094abf0627f8d 3432 rust-ctrlc_3.2.3-1.debian.tar.xz"
+    "7453e1b8557ce5f640f59aefb333411e1683091e6e81b4b680439181acea9633 2282 rust-ctrlc_3.4.0-1.dsc 2a011bbe2c35ce9c1f143b7af6f94f29a167beb4cd1d29e6740ce836f723120e 14098 rust-ctrlc_3.4.0.orig.tar.gz b12cc0e7827b70a8996fe1c534fb2e6f167d854566cb2e0506ad1a2f8b11b471 3624 rust-ctrlc_3.4.0-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/rust-ctrlc"
   ],
   "Files": [
-    "7aad47c3825e3484dfce7a0dcb501364 2595 rust-ctrlc_3.2.3-1.dsc e3b1e0325bb582223593a91cfa8376f0 12853 rust-ctrlc_3.2.3.orig.tar.gz fd60b1ca9f4abfbfa237e7b315ea5545 3432 rust-ctrlc_3.2.3-1.debian.tar.xz"
+    "599df334ce3dba8fe050edba017e203a 2282 rust-ctrlc_3.4.0-1.dsc 8ceeca5c72544b89230e119dec636ce2 14098 rust-ctrlc_3.4.0.orig.tar.gz 28b063606250d68b878dea3f59937115 3624 rust-ctrlc_3.4.0-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,13 +39,13 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.5.1"
+    "4.6.1"
   ],
   "Testsuite": [
     "autopkgtest"
   ],
   "Testsuite-Triggers": [
-    "dh-cargo, librust-winapi-0.3+default-dev, librust-winapi-0.3+fileapi-dev, librust-winapi-0.3+processenv-dev, librust-winapi-0.3+winnt-dev"
+    "dh-cargo, librust-signal-hook-0.3+default-dev"
   ],
   "Uploaders": [
     "Paride Legovini \u003cparide@debian.org\u003e, Wolfgang Silbermayr \u003cwolfgang@silbermayr.at\u003e"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/rust-team/debcargo-conf.git [src/ctrlc]"
   ],
   "Version": [
-    "3.2.3-1"
+    "3.4.0-1"
   ]
 }

@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-sequence-gir, dpkg-dev (\u003e= 1.15.1), pkg-config (\u003e= 0.11.0), meson (\u003e= 0.62), xvfb, xauth, libglib2.0-dev (\u003e= 2.62), libgstreamer1.0-dev (\u003e= 1.22.0), liborc-0.4-dev (\u003e= 1:0.4.24), zlib1g-dev (\u003e= 1:1.1.4), libgl-dev, gstreamer1.0-tools, libegl-dev, libgles-dev, libgraphene-1.0-dev, libtheora-dev (\u003e= 1.1), libvorbis-dev (\u003e= 1.3.1), libopus-dev (\u003e= 0.9.4), libogg-dev (\u003e= 1.0), libpango1.0-dev (\u003e= 1.22), libbrotli-dev, libpng-dev, libjpeg-dev, libcdparanoia-dev (\u003e= 3.10.2) [!hurd-i386], libvisual-0.4-dev (\u003e= 0.4.0), libx11-xcb-dev, libxi-dev, libxv-dev (\u003e= 6.8.2.dfsg.1-3), libxt-dev (\u003e= 6.8.2.dfsg.1-3), libasound2-dev (\u003e= 0.9.1) [linux-any], libdrm-dev (\u003e= 2.4.55) [linux-any], libgbm-dev [linux-any], libgudev-1.0-dev (\u003e= 147) [linux-any], libwayland-dev (\u003e= 1.11) [linux-any], wayland-protocols (\u003e= 1.15) [linux-any], iso-codes, libgirepository1.0-dev (\u003e= 0.9.12-4~), gir1.2-glib-2.0, gir1.2-freedesktop, gir1.2-gstreamer-1.0"
   ],
   "Checksums-Sha256": [
-    "7a91f44c6f1d863c117e57a7129b794db746cf18483bbec4a72b2b1ce1603375 3963 gst-plugins-base1.0_1.22.3-2.dsc 1c596289a0d4207380233eba8c36a932c4d1aceba19932937d9b57c24cef89f3 2353512 gst-plugins-base1.0_1.22.3.orig.tar.xz 04c89b9d34877d1f38068e823603922c00d509fbefa989c63ab2dbdf5b2d44e9 833 gst-plugins-base1.0_1.22.3.orig.tar.xz.asc b5918d3d92d5adec4d4613bb1228a1bfbe64dc0129ae19987a6f385765db7477 49456 gst-plugins-base1.0_1.22.3-2.debian.tar.xz"
+    "4837a03956e1d91d7917d8839cc61083903563a24ba11eea53b329c70017c5f3 3963 gst-plugins-base1.0_1.22.4-1.dsc 292424e82dea170528c42b456f62a89532bcabc0508f192e34672fb86f68e5b8 2357088 gst-plugins-base1.0_1.22.4.orig.tar.xz cdc17d04e577ef6ae85a065ecc01cc6fed887ea597d004440f09b11e84886c41 833 gst-plugins-base1.0_1.22.4.orig.tar.xz.asc 124d50677db77c20af1fe59f2de2f102ce5c05bde9d9b6377c64b27fbf78673b 49524 gst-plugins-base1.0_1.22.4-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/g/gst-plugins-base1.0"
   ],
   "Files": [
-    "299689d7363778253f47e10194a2c1c4 3963 gst-plugins-base1.0_1.22.3-2.dsc 14648e9e8f1fa0e7a45e47c51541d31f 2353512 gst-plugins-base1.0_1.22.3.orig.tar.xz 4752cb8cc456b2756f391a21fccf5caf 833 gst-plugins-base1.0_1.22.3.orig.tar.xz.asc f031361f9b772d27f6e27d2fab7362af 49456 gst-plugins-base1.0_1.22.3-2.debian.tar.xz"
+    "b583b2d2afde1a212def0e0a196d8c9e 3963 gst-plugins-base1.0_1.22.4-1.dsc 7d495970b0b7078c50d064d228b8d93f 2357088 gst-plugins-base1.0_1.22.4.orig.tar.xz c9024701110636e66a3bf38bc9fd103c 833 gst-plugins-base1.0_1.22.4.orig.tar.xz.asc c99402a271c3eaf4abbf45a8ecdb1f49 49524 gst-plugins-base1.0_1.22.4-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/gstreamer-team/gst-plugins-base1.0.git"
   ],
   "Version": [
-    "1.22.3-2"
+    "1.22.4-1"
   ]
 }

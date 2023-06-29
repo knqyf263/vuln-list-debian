@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[27 Jul 2006] DSA-1126 asterisk - several",
-    "Line": 14640,
+    "Line": 14643,
     "ID": "DSA-1126",
     "Description": "asterisk - several"
   },
   "Annotations": [
     {
       "Original": "{CVE-2006-2898}",
-      "Line": 14641,
+      "Line": 14644,
       "Type": "xref",
       "Bugs": [
         "CVE-2006-2898"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[sarge] - asterisk 1:1.0.7.dfsg.1-2sarge3",
-      "Line": 14642,
+      "Line": 14645,
       "Type": "package",
       "Release": "sarge",
       "Package": "asterisk",

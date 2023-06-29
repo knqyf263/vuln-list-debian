@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[03 Mar 2018] DSA-4120-2 linux - regression update",
-    "Line": 4345,
+    "Line": 4348,
     "ID": "DSA-4120-2",
     "Description": "linux - regression update"
   },
   "Annotations": [
     {
       "Original": "[stretch] - linux 4.9.82-1+deb9u3",
-      "Line": 4346,
+      "Line": 4349,
       "Type": "package",
       "Release": "stretch",
       "Package": "linux",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[08 Aug 2002] DSA-147 mailman - cross-site scripting",
-    "Line": 18298,
+    "Line": 18301,
     "ID": "DSA-147",
     "Description": "mailman - cross-site scripting"
   },
   "Annotations": [
     {
       "Original": "{CVE-2002-0388 CVE-2002-0855}",
-      "Line": 18299,
+      "Line": 18302,
       "Type": "xref",
       "Bugs": [
         "CVE-2002-0388",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[woody] - mailman 2.0.11-1woody4",
-      "Line": 18300,
+      "Line": 18303,
       "Type": "package",
       "Release": "woody",
       "Package": "mailman",

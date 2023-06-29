@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[05 Feb 2007] DSA-1257 samba",
-    "Line": 14250,
+    "Line": 14253,
     "ID": "DSA-1257",
     "Description": "samba"
   },
   "Annotations": [
     {
       "Original": "{CVE-2007-0452 CVE-2007-0454}",
-      "Line": 14251,
+      "Line": 14254,
       "Type": "xref",
       "Bugs": [
         "CVE-2007-0452",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[sarge] - samba 3.0.14a-3sarge4",
-      "Line": 14252,
+      "Line": 14255,
       "Type": "package",
       "Release": "sarge",
       "Package": "samba",

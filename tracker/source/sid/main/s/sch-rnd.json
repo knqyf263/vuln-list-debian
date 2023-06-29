@@ -9,13 +9,13 @@
     "debhelper (\u003e= 11), librnd4-dev, libxml2-dev"
   ],
   "Checksums-Sha256": [
-    "8e8ec12936f91c197c30160044689f84df0a986fb08ec8ba41915efbe1e3bc7a 2496 sch-rnd_1.0.0-1.dsc 96fd702ae5de4b520721983a1d0ebf868a9c90f4b4284f1b410a9b0d485c439a 1010580 sch-rnd_1.0.0.orig.tar.bz2 0361d3781f479546299f2265277731fb9cd01a2158aabd9e80eec632f5244d5b 5964 sch-rnd_1.0.0-1.debian.tar.xz"
+    "fcac075afbda90de7b1443c9230d1dfd8e28b33d0633ceef25ec206be4c37b62 2496 sch-rnd_1.0.1-1.dsc 14428eb3565d1faff6845ddfbd86beaf2a56de1a12abb0446abd446fccd86290 1233850 sch-rnd_1.0.1.orig.tar.bz2 97c4107529b0d2599e6abadae67e00c2b0328c0b6191517e4d92a78860dbf646 6068 sch-rnd_1.0.1-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/s/sch-rnd"
   ],
   "Files": [
-    "04429707eac18b921b82cc3abbca7236 2496 sch-rnd_1.0.0-1.dsc 7c28625b316c642d2e6cacfa65ee3921 1010580 sch-rnd_1.0.0.orig.tar.bz2 1b802e6d703e7c24c8c587f87fbb5d75 5964 sch-rnd_1.0.0-1.debian.tar.xz"
+    "c79b78b88b990aac77dcb2d4c324e7a2 2496 sch-rnd_1.0.1-1.dsc c2f95ffdc5dcff83e50bc74fd8cfab87 1233850 sch-rnd_1.0.1.orig.tar.bz2 efd71c967d2db2c05a04ce96a118d510 6068 sch-rnd_1.0.1-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/electronics-team/sch-rnd.git"
   ],
   "Version": [
-    "1.0.0-1"
+    "1.0.1-1"
   ]
 }

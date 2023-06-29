@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), meson (\u003e= 0.61), ninja-build, pkgconf, libfreetype-dev, libharfbuzz-dev, libcairo2-dev, libpango1.0-dev, libwayland-dev, libxkbcommon-dev, scdoc, wayland-protocols"
   ],
   "Checksums-Sha256": [
-    "270ff0021d92763747b3d25d2e1b42a68399b135d6d884067b42f3cfe94be010 2051 tofi_0.8.1-1.dsc 0a700f8b0291ef08b3544cd589157393101d52bbd1e7e6aeee8484f9d520a338 352696 tofi_0.8.1.orig.tar.gz 966d090373a688d865d38043cdf7c6b4355ccbe0b3fc120e8d9d8df8c99f0b7e 6540 tofi_0.8.1-1.debian.tar.xz"
+    "0b2b10c995fd22ef5bc23be11644c108acf8558c1a01e1bfe6eef707bfe61e58 2049 tofi_0.9.1-2.dsc dd55347b509af786f133def64f3a86f1db258b5e196de80e53d62827bdcc37bc 430699 tofi_0.9.1.orig.tar.gz a94a3c514f2533bdcd6d9298c9238f914bff48d8d36c95ef4b2afbf7c41650c0 7576 tofi_0.9.1-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/t/tofi"
   ],
   "Files": [
-    "c6192b0721cb3c3ebe4a2efb22e4de21 2051 tofi_0.8.1-1.dsc 485dda8993abbe72c8135df6a84034be 352696 tofi_0.8.1.orig.tar.gz 00a3b827505a1f89840ed67d34c13189 6540 tofi_0.8.1-1.debian.tar.xz"
+    "a0a4d2b69f60606337e772f92e1f8ca9 2049 tofi_0.9.1-2.dsc 59fafe9d4f4bffce60d0b06c722adc6e 430699 tofi_0.9.1.orig.tar.gz ca86b4f707488129fa95550a31ccb7f5 7576 tofi_0.9.1-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1.0"
+    "4.6.2"
   ],
   "Uploaders": [
     "Birger Schacht \u003cbirger@debian.org\u003e"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/swaywm-team/tofi.git"
   ],
   "Version": [
-    "0.8.1-1"
+    "0.9.1-2"
   ]
 }

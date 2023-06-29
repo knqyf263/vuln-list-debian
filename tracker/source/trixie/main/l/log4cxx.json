@@ -12,13 +12,13 @@
     "doxygen \u003c!nodoc\u003e, graphviz \u003c!nodoc\u003e"
   ],
   "Checksums-Sha256": [
-    "87193cbf8e3b4df59ff75e365d0830af090a066225e07d62617e298e4c1644d4 2417 log4cxx_1.0.0-1.dsc 6df9f1f682650de6045309473d5b2fe1f798a03ceb36a74a5b21f5520962d32f 554344 log4cxx_1.0.0.orig.tar.gz 8ce50542aad18f5eafabd2aa984afd0432b927d4bfb772f6ac86ba6f0da56bdc 833 log4cxx_1.0.0.orig.tar.gz.asc 30456345b9f2fcd9e3dd3e903d03a97215798130f6b1a03e79eb61e7fa9c1e3e 33076 log4cxx_1.0.0-1.debian.tar.xz"
+    "fc5476993c25a7e19e0ffcf2aa098f5e3ee0785f86eddf9cd1b0a2a4375203dd 2417 log4cxx_1.1.0-1.dsc 1fc7d82697534184bc0f757348d969d24852b948f63d6b17283fd1ee29c2c28a 564044 log4cxx_1.1.0.orig.tar.gz a486e4d852023ff6e2cb34e7c7984bc9671ab95bebc13577e10d8e15514d0dc8 833 log4cxx_1.1.0.orig.tar.gz.asc c5d149bed5b6f7205c315feedbcf7d5bdda8f8dbea554ede785897b72cafa063 33192 log4cxx_1.1.0-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/l/log4cxx"
   ],
   "Files": [
-    "1ab8e59e00095a1ef629cad1aae8e113 2417 log4cxx_1.0.0-1.dsc 2255f30cd968e2c1976081824e435bd5 554344 log4cxx_1.0.0.orig.tar.gz 0a3aa1f1fb70e585c0af17f35d964dcd 833 log4cxx_1.0.0.orig.tar.gz.asc dd989db17e1c2df69fb1134b18095c3d 33076 log4cxx_1.0.0-1.debian.tar.xz"
+    "f7df3c212ede49963435a9a0110fbef7 2417 log4cxx_1.1.0-1.dsc 50b76cadf829152371011d2db38351b2 564044 log4cxx_1.1.0.orig.tar.gz 0f21e80266a041b00b44b9e1cec905ea 833 log4cxx_1.1.0.orig.tar.gz.asc e8d6983dcd66020a264cd8294262b808 33192 log4cxx_1.1.0-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -42,7 +42,7 @@
     "libs"
   ],
   "Standards-Version": [
-    "4.6.0"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/debian/log4cxx.git"
   ],
   "Version": [
-    "1.0.0-1"
+    "1.1.0-1"
   ]
 }

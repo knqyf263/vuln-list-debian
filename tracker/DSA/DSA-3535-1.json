@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[29 Mar 2016] DSA-3535-1 kamailio - security update",
-    "Line": 6350,
+    "Line": 6353,
     "ID": "DSA-3535-1",
     "Description": "kamailio - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-2385}",
-      "Line": 6351,
+      "Line": 6354,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-2385"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - kamailio 4.2.0-2+deb8u1",
-      "Line": 6352,
+      "Line": 6355,
       "Type": "package",
       "Release": "jessie",
       "Package": "kamailio",

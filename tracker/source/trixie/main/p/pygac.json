@@ -6,16 +6,16 @@
     "python3-pygac, pygac-bin"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 12), dh-python, pybuild-plugin-pyproject, python3-all, python3-bottleneck, python3-docutils, python3-geotiepoints, python3-h5py, python3-numpy, python3-pyorbital, python3-pytest, python3-scipy, python3-setuptools, python3-setuptools-scm"
+    "debhelper-compat (= 13), dh-python, pybuild-plugin-pyproject, python3-all, python3-bottleneck, python3-docutils, python3-geotiepoints, python3-h5py, python3-numpy, python3-packaging, python3-pyorbital, python3-pytest, python3-scipy, python3-setuptools, python3-setuptools-scm"
   ],
   "Checksums-Sha256": [
-    "e23b0401913497c42b49d99ad0e0cb66fe1254f0c95101834bbe903d43abcd36 2332 pygac_1.7.1-2.dsc 0ba29cf1c574262980cf116ab18127270274fd65c6ed97ead2df1cbe44e2b755 491645 pygac_1.7.1.orig.tar.gz de44a2380eee291f0c4ac3a72673ed4a31181ca1a7d0bf412a1a8b7535fa1ad5 6684 pygac_1.7.1-2.debian.tar.xz"
+    "1280343fa247c1215aeb669aaeb3eddebf1e5d37845b2767f25a8d76f1542853 2351 pygac_1.7.2-1.dsc b6cfbbe4ead57f916eacf8ffa1250ec03a74d7f0d89dbde3e664c51cc04df633 521999 pygac_1.7.2.orig.tar.gz 98941f24d537119b39514652813de818e6064802de3817d7bb21c1faebc6a3bd 6588 pygac_1.7.2-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/pygac"
   ],
   "Files": [
-    "d01cbe38fb0804f40f0b59906f42a2b7 2332 pygac_1.7.1-2.dsc e46198d436be66aad94cb4f01739e65d 491645 pygac_1.7.1.orig.tar.gz 8eb8e8157ea523613cb13d6a17cbedfb 6684 pygac_1.7.1-2.debian.tar.xz"
+    "591138166dd9a7f1633fb8f603e58082 2351 pygac_1.7.2-1.dsc 50a6cdfa9e30a55ad0751c33185f8c44 521999 pygac_1.7.2.orig.tar.gz 4439b57c5651163ad7529fc3035dda3f 6588 pygac_1.7.2-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest, autopkgtest-pkg-python"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/debian-gis-team/pygac.git"
   ],
   "Version": [
-    "1.7.1-2"
+    "1.7.2-1"
   ]
 }

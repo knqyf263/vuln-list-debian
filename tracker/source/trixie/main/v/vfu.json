@@ -1,21 +1,21 @@
 {
   "Architecture": [
-    "any"
+    "any all"
   ],
   "Binary": [
-    "vfu"
+    "vfu, vfu-ncurses, vfu-yascreen"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), libpcre2-dev, libyascreen-dev (\u003e= 1.95), pkg-config"
+    "debhelper-compat (= 13), libncurses-dev, libpcre2-dev, libyascreen-dev (\u003e= 1.95), pkg-config"
   ],
   "Checksums-Sha256": [
-    "0fa53641036b5c4d4fe638500033208abb7b848ccd7edceda674efe10af8cd1d 2064 vfu_5.07-1.dsc b16b2ad125ae58f18789bb1384385748b5ccbce231c88ddc1d99ef2bcef171ab 285154 vfu_5.07.orig.tar.gz 5142f673dca8da63e77a522bf121fe11abdf5fe380fe0225ccc7ed9f4134416b 195 vfu_5.07.orig.tar.gz.asc 12dc85e1b405fd884a61f978b2f4604add7d07db8d9ef0aa470830bd0b7087f0 7632 vfu_5.07-1.debian.tar.xz"
+    "ea2ba08722c78b214b88a1ed4ff9605496eb70458dfeed28684aefed4192cc8a 2194 vfu_5.09-2.dsc 05f5cf694bc43d1b769453a7756338a2f0e1f47cfed59581f0bd08b24d313b99 287818 vfu_5.09.orig.tar.gz 89369a2448e73fc9a5824f0ed63c1cd76644107df928e117c116c343affcafe5 195 vfu_5.09.orig.tar.gz.asc 1ef8c02fdeeea53d7f349acaee9b77288630de21d6cb3b6fba5f55ab690207af 8204 vfu_5.09-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/v/vfu"
   ],
   "Files": [
-    "903b1d12a6b0301baf0a4ee809a9455d 2064 vfu_5.07-1.dsc a6fba7fdd5f2ef2d6c1536fd53828aa8 285154 vfu_5.07.orig.tar.gz 4902057173f72c48c53eee4e2e7aa565 195 vfu_5.07.orig.tar.gz.asc a8dd902e7cb830d97a4a9571d574ee8f 7632 vfu_5.07-1.debian.tar.xz"
+    "233f22564074c7ca8270211cf8238db4 2194 vfu_5.09-2.dsc 32d3704128103c8908ef906a9572c1a7 287818 vfu_5.09.orig.tar.gz 29d737e373aadd23718b8ceddbee2695 195 vfu_5.09.orig.tar.gz.asc 7bd98c528503f0e4ec9965e220233e2c 8204 vfu_5.09-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -30,7 +30,7 @@
     "vfu"
   ],
   "Package-List": [
-    "vfu deb utils optional arch=any"
+    "vfu deb utils optional arch=all vfu-ncurses deb utils optional arch=any vfu-yascreen deb utils optional arch=any"
   ],
   "Priority": [
     "source"
@@ -48,6 +48,6 @@
     "https://github.com/bbonev/vfu-deb.git"
   ],
   "Version": [
-    "5.07-1"
+    "5.09-2"
   ]
 }

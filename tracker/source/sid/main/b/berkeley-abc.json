@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), libbz2-dev, libreadline-dev, zlib1g-dev"
   ],
   "Checksums-Sha256": [
-    "b53ce3ce7640d951eb9b7008087e3a29ef7df19f043205641a1e84e63e669d70 2257 berkeley-abc_1.01+20230520gita5a6254+dfsg-1.dsc 60a2062807e1ab2133eadcb427fea34aada675601c6767ef8ba6c2f325f3dcf5 3902248 berkeley-abc_1.01+20230520gita5a6254+dfsg.orig.tar.xz 31ade193f42e77afb73597171db34fa572cfffbc4aad9eade146f6dcc47bf222 16524 berkeley-abc_1.01+20230520gita5a6254+dfsg-1.debian.tar.xz"
+    "2e0d7e12a2748ea267a2cbd605ae5ef41c1ad5faaf2743f6b53182b823c1605a 2257 berkeley-abc_1.01+20230625git01b1bd1+dfsg-1.dsc 0148f9f6b278e38af2c00957d903f9879aa4e5890f418732a7cac0a642e3b838 3902884 berkeley-abc_1.01+20230625git01b1bd1+dfsg.orig.tar.xz f0a7746e8249953043a79d14b64c65f61514c3698f3b0fd935b6d8cfbae66fdb 16576 berkeley-abc_1.01+20230625git01b1bd1+dfsg-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/b/berkeley-abc"
   ],
   "Files": [
-    "c1745cc7a1d2958daacebca3d3898c5d 2257 berkeley-abc_1.01+20230520gita5a6254+dfsg-1.dsc 53e6730da97699fec18ca89470628ae5 3902248 berkeley-abc_1.01+20230520gita5a6254+dfsg.orig.tar.xz 43ee1b98164cf05889b68cbde80bba31 16524 berkeley-abc_1.01+20230520gita5a6254+dfsg-1.debian.tar.xz"
+    "37cbb264a2d3e9f89a5d83a6a31865c0 2257 berkeley-abc_1.01+20230625git01b1bd1+dfsg-1.dsc dd563f21ca56681804217ef1fa5fe98f 3902884 berkeley-abc_1.01+20230625git01b1bd1+dfsg.orig.tar.xz b4cb25243c5856c1b60c0c78de10b861 16576 berkeley-abc_1.01+20230625git01b1bd1+dfsg-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/science-team/berkeley-abc.git"
   ],
   "Version": [
-    "1.01+20230520gita5a6254+dfsg-1"
+    "1.01+20230625git01b1bd1+dfsg-1"
   ]
 }

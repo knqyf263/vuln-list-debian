@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-python, python3-all, python3-flaky \u003c!nocheck\u003e, python3-libsass, python3-pyqt5, python3-pytest \u003c!nocheck\u003e, python3-setuptools"
   ],
   "Checksums-Sha256": [
-    "cdd5e2f7cab89230991e034d923e02ac3a7ec3de0f07ca50d1a297a2760ecaad 2119 qtsass_0.3.2-2.dsc 6c89c980c81a03ac82e2e678af1c83c57af0ee1f69932aa7dc19afbc35064766 28601 qtsass_0.3.2.orig.tar.gz 109aeaca14bdda02d8087ea8d3b12e4b3e0af0db7731a668c4b437b117e53023 3804 qtsass_0.3.2-2.debian.tar.xz"
+    "ad34cd89b40ae64e4dcc047e11d48daeb4368a2fc074f6e649f79ea1c0fcdf96 2140 qtsass_0.4.0-1.dsc b7dd08549744f4e8ffee74af8517c662010e8d9153225253c65d26fbc5ef697b 29466 qtsass_0.4.0.orig.tar.gz c532525d6a99179920ce54a3af03188fd8bd1112cc12d89db6b3d81844feb9f9 3848 qtsass_0.4.0-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/q/qtsass"
   ],
   "Files": [
-    "fa9862f7455e587d4586e2d31c1fe0c9 2119 qtsass_0.3.2-2.dsc c901577fda1e5fdf4f789bb55b93e253 28601 qtsass_0.3.2.orig.tar.gz 845d702d17215b09fc0b125950f2dece 3804 qtsass_0.3.2-2.debian.tar.xz"
+    "702f20e90d84709a649796cd490eddc1 2140 qtsass_0.4.0-1.dsc dba51b206d6d1d8996332caec5ec034c 29466 qtsass_0.4.0.orig.tar.gz 5e5c8b9065a3094f06c3098aee3f1f9f 3848 qtsass_0.4.0-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/python-team/packages/qtsass.git"
   ],
   "Version": [
-    "0.3.2-2"
+    "0.4.0-1"
   ]
 }

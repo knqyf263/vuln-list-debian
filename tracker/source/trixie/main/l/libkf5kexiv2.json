@@ -6,16 +6,16 @@
     "libkf5kexiv2-15.0.0, libkf5kexiv2-dev"
   ],
   "Build-Depends": [
-    "cmake (\u003e= 3.16.0~), debhelper-compat (= 13), extra-cmake-modules (\u003e= 5.90.0~), libexiv2-dev (\u003e= 0.25~), pkg-config, pkg-kde-tools (\u003e= 0.12), qtbase5-dev (\u003e= 5.15.0~)"
+    "cmake (\u003e= 3.16.0~), debhelper-compat (= 13), dh-sequence-kf5, dh-sequence-pkgkde-symbolshelper, extra-cmake-modules (\u003e= 5.90.0~), libexiv2-dev (\u003e= 0.25~), pkg-config, qtbase5-dev (\u003e= 5.15.0~)"
   ],
   "Checksums-Sha256": [
-    "169be9e0c5072f483d984a9bd478c4ff08d787ee5d650efed9238108ed266ad1 2597 libkf5kexiv2_22.12.3-1.dsc 6f9d6e28bb6e6dc73cbbbb0b0f788b6ada328616568a023b286126ce67332a94 60000 libkf5kexiv2_22.12.3.orig.tar.xz f6930fa01bd989aeb08bbbcbf406109a4c7761655691e57e7532c8e6cf3a2039 833 libkf5kexiv2_22.12.3.orig.tar.xz.asc 2f5d4d5e0d12b420432a456ff88f93f71ca5dd30fa2154606420b4b477d3e431 20704 libkf5kexiv2_22.12.3-1.debian.tar.xz"
+    "3be84a7e0372d8b0f674d8c22300d02467889b39e11b62d5244b2c91a7071a6c 2520 libkf5kexiv2_23.04.2-2.dsc c4e065902fdf9ce33e3812d19d6d19227d7955c0e6d73c6b72cfd536b3880804 60516 libkf5kexiv2_23.04.2.orig.tar.xz bf9e18b5cffc8d1f54bd34524c02078ab098df3870038cbaaa4c3d4d607696ef 833 libkf5kexiv2_23.04.2.orig.tar.xz.asc 342618865ed5e89542c3177d615909d387f1688a90a9ce83c1b8ce2dcba5ed6d 17424 libkf5kexiv2_23.04.2-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/libk/libkf5kexiv2"
   ],
   "Files": [
-    "5971790c288c91a511f0ea96dac54245 2597 libkf5kexiv2_22.12.3-1.dsc 9e9c426e4bb17e80df7cd382ef44aa7c 60000 libkf5kexiv2_22.12.3.orig.tar.xz 749b2c3fa65f55392ff1c1aafdc99400 833 libkf5kexiv2_22.12.3.orig.tar.xz.asc c7b7de90c6dc740c89d4c942a833f657 20704 libkf5kexiv2_22.12.3-1.debian.tar.xz"
+    "10e89456cccb4fe9e248c47ef02f8240 2520 libkf5kexiv2_23.04.2-2.dsc b0c2cd33cb1cf857317ff8502b60f7cd 60516 libkf5kexiv2_23.04.2.orig.tar.xz b343b5de42d75f152cfac3852e5ab3a6 833 libkf5kexiv2_23.04.2.orig.tar.xz.asc 725d62587fbc47b1ce62ef058093aea5 17424 libkf5kexiv2_23.04.2-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -42,7 +42,7 @@
     "4.6.2"
   ],
   "Uploaders": [
-    "Aurélien COUDERC \u003ccoucouf@debian.org\u003e, Norbert Preining \u003cnorbert@preining.info\u003e, Pino Toscano \u003cpino@debian.org\u003e, Sune Vuorela \u003csune@debian.org\u003e,"
+    "Aurélien COUDERC \u003ccoucouf@debian.org\u003e, Pino Toscano \u003cpino@debian.org\u003e,"
   ],
   "Vcs-Browser": [
     "https://salsa.debian.org/qt-kde-team/kde/libkexiv2"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/qt-kde-team/kde/libkexiv2.git"
   ],
   "Version": [
-    "22.12.3-1"
+    "23.04.2-2"
   ]
 }

@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-python, python3-aiohttp, python3-aiosqlite (\u003e= 0.16.0), python3-all (\u003e= 3.11.0), python3-async-timeout, python3-attr, python3-crccheck, python3-cryptography, python3-serial-asyncio, python3-setuptools, python3-typing-extensions, python3-voluptuous"
   ],
   "Checksums-Sha256": [
-    "7d88bfef7e4e95fc5e9cb8e0c021bc3182372f8825edd592dd30d3bd7167d101 2100 zigpy_0.56.0-1.dsc 037392bbfd48f2e85efc74f2ac16568e9fe31be13fd8e85168f33f6c3b8415a6 287650 zigpy_0.56.0.orig.tar.gz 580460873c6c54a54a2860cd93d45d8f17be38adb3dbfaa39b21df518ca63643 2324 zigpy_0.56.0-1.debian.tar.xz"
+    "9cdec651852b13919e67659d3a0d931a4de9f8df9313760fad47258432a93e86 2100 zigpy_0.56.1-1.dsc b2c92be36541c65ae66b49ded64ec5a1b349fcf1fcaaddd05de58bc4a295e299 287791 zigpy_0.56.1.orig.tar.gz b199f43e02b0dc00e8df3fcb35bf741eeec28aae09d485253ef4caa124748f1f 2332 zigpy_0.56.1-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/z/zigpy"
   ],
   "Files": [
-    "27aec58b47a70472d7eb53480e906eee 2100 zigpy_0.56.0-1.dsc 83ead5c708615ab908fc4bda2a379507 287650 zigpy_0.56.0.orig.tar.gz 1cf182f02d9250dc4d75fe92932dc982 2324 zigpy_0.56.0-1.debian.tar.xz"
+    "e02198930d2776959adeac38ef2bd22a 2100 zigpy_0.56.1-1.dsc 287c0e16a9708eb487dd34d31fe4124f 287791 zigpy_0.56.1.orig.tar.gz 23c59df2b0d5c25a4624764d24830040 2332 zigpy_0.56.1-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -48,6 +48,6 @@
     "https://salsa.debian.org/gspr/zigpy.git -b debian/sid"
   ],
   "Version": [
-    "0.56.0-1"
+    "0.56.1-1"
   ]
 }

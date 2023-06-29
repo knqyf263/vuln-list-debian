@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), libcunit1-dev, libtraceevent-dev (\u003e= 1:1.3.0), pkg-config, asciidoc, xmlto, source-highlight, flex, bison"
   ],
   "Checksums-Sha256": [
-    "31c5b427237a423aa97d69c5819b37ce514b6d3e15e1c9607a3aa10e11b8f198 2111 libtracefs_1.6.4-1.dsc 04dc327a886427f102e90a166d7c0b03e181abd3d8ade3353813c87f7db1b3ea 150700 libtracefs_1.6.4.orig.tar.xz 2db2dec485608830f3834a9b4877ff6570f624a7565c6b8396069b0c51b7fe0a 4304 libtracefs_1.6.4-1.debian.tar.xz"
+    "6d68d9df98fb33beb3bde43927f297b83f26ec4245939f81ef0782a37389d77d 2166 libtracefs_1.7.0-1.dsc 8a5e6d611cb31d722cc0217ce971bebbdd23ceac85ffed231c4e78fec09a5678 159200 libtracefs_1.7.0.orig.tar.xz 963202cb80b8dbcea1aeda8b3e721708f87faa347bf6bfcc02f5ec31289faafc 5068 libtracefs_1.7.0-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/libt/libtracefs"
   ],
   "Files": [
-    "cf8e1ef18ac005ddad9f5a680726c979 2111 libtracefs_1.6.4-1.dsc 2d248656074f99cfbb3ec7452d8e6f09 150700 libtracefs_1.6.4.orig.tar.xz fa4e0d3e815890275b933a6ff7c6dda7 4304 libtracefs_1.6.4-1.debian.tar.xz"
+    "ee0d1a079b53a235bddc925318a7a35e 2166 libtracefs_1.7.0-1.dsc 989e84cea221228234313ae229601af5 159200 libtracefs_1.7.0.orig.tar.xz 74f508fdc07993211c488979cc7493c3 5068 libtracefs_1.7.0-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -41,6 +41,12 @@
   "Standards-Version": [
     "4.6.2"
   ],
+  "Testsuite": [
+    "autopkgtest"
+  ],
+  "Testsuite-Triggers": [
+    "@builddeps@"
+  ],
   "Vcs-Browser": [
     "https://salsa.debian.org/sudip/libtracefs"
   ],
@@ -48,6 +54,6 @@
     "https://salsa.debian.org/sudip/libtracefs.git"
   ],
   "Version": [
-    "1.6.4-1"
+    "1.7.0-1"
   ]
 }

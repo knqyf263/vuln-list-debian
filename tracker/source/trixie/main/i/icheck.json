@@ -9,16 +9,16 @@
     "debhelper (\u003e= 9), libtext-diff-perl"
   ],
   "Checksums-Sha256": [
-    "b3856be14be31e34ea6e133cdec5a8b41564e620ee0213ea46a7f0fa1e7a1be1 1645 icheck_0.9.7-6.4.dsc 6c882b5b3f1bfe4146fa741fba816bc8e05347b8507d5bcb832a124cc41948c2 92226 icheck_0.9.7.orig.tar.gz 9637658fc0e66a71dcd0a884ca83b217341f31f58c695c4c0049716798155c23 3708 icheck_0.9.7-6.4.diff.gz"
+    "03486fe38673de3cdd5933d45d1067b3cb873c82907b3fc446db0b5b2d9e4874 1521 icheck_0.9.7-6.6.dsc 6c882b5b3f1bfe4146fa741fba816bc8e05347b8507d5bcb832a124cc41948c2 92226 icheck_0.9.7.orig.tar.gz ee58eb0babfe2f7908d946a94354f0fdc8fa4fce2d72e8e15887e1ae0102f44b 4064 icheck_0.9.7-6.6.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/i/icheck"
   ],
   "Files": [
-    "ffd669c8b20a7157a3784a3c8b913d89 1645 icheck_0.9.7-6.4.dsc 1be7b0fca5e61c48666303a8fb43238e 92226 icheck_0.9.7.orig.tar.gz 76578e579895f47f5041dfc45438e59d 3708 icheck_0.9.7-6.4.diff.gz"
+    "2d75e74999b6f127c9ff0b8330d4c65f 1521 icheck_0.9.7-6.6.dsc 1be7b0fca5e61c48666303a8fb43238e 92226 icheck_0.9.7.orig.tar.gz d9be8f29cdea90eb502f7e2093f0fbfa 4064 icheck_0.9.7-6.6.debian.tar.xz"
   ],
   "Format": [
-    "1.0"
+    "3.0 (quilt)"
   ],
   "Maintainer": [
     "Erinn Clark \u003cerinn@double-helix.org\u003e"
@@ -39,6 +39,6 @@
     "3.6.2"
   ],
   "Version": [
-    "0.9.7-6.4"
+    "0.9.7-6.6"
   ]
 }

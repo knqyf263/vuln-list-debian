@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[04 Mar 2011] DSA-2183-1 nbd - arbitrary code execution",
-    "Line": 10973,
+    "Line": 10976,
     "ID": "DSA-2183-1",
     "Description": "nbd - arbitrary code execution"
   },
   "Annotations": [
     {
       "Original": "{CVE-2011-0530}",
-      "Line": 10974,
+      "Line": 10977,
       "Type": "xref",
       "Bugs": [
         "CVE-2011-0530"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[lenny] - nbd 1:2.9.11-3lenny1",
-      "Line": 10975,
+      "Line": 10978,
       "Type": "package",
       "Release": "lenny",
       "Package": "nbd",

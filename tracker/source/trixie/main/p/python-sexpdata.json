@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-python, python3-all, python3-setuptools"
   ],
   "Checksums-Sha256": [
-    "41b53c67e16951d56ccdc88e13953a1a6da662f4f93b316459b9d37bbf21d00a 2068 python-sexpdata_0.0.3-3.dsc 7c02767eafdd72401fd2d1ab602149e28de3e2ff0bfe907d64ae7e969cb46463 6329 python-sexpdata_0.0.3.orig.tar.gz 32401a37653ab3bdab3f96c82d0a473ab244c127281910ef7cc8528235c2a583 2504 python-sexpdata_0.0.3-3.debian.tar.xz"
+    "2f4106e6be67ac72927eed1cde2cbd5e5557b8fc952c39e9e4f0efecbf913be7 2068 python-sexpdata_1.0.1-1.dsc 559df6d923dbb7da947089c514bb781a24d04802036da83ed4dcb32c2e892d42 8614 python-sexpdata_1.0.1.orig.tar.gz 101de9a672d3b1aa96c205fb533d23a9047119db248dab0797932ab4ea62d120 2580 python-sexpdata_1.0.1-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/python-sexpdata"
   ],
   "Files": [
-    "c9b8b68d895df90eab40f5f5310e29f4 2068 python-sexpdata_0.0.3-3.dsc 4212b82794fa1cf2c3852efd6b4b5e2f 6329 python-sexpdata_0.0.3.orig.tar.gz a2dbb5474a8fad7f5b82fff60aee8f02 2504 python-sexpdata_0.0.3-3.debian.tar.xz"
+    "c66f6cc7c5995d6d7b940f10736ea1ad 2068 python-sexpdata_1.0.1-1.dsc b30f45d3f8b5c40dce14ea90b3d67248 8614 python-sexpdata_1.0.1.orig.tar.gz d5b7543b2bf537f8a1232deca9b4f765 2580 python-sexpdata_1.0.1-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.1.4"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest-pkg-python"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/python-team/packages/python-sexpdata.git"
   ],
   "Version": [
-    "0.0.3-3"
+    "1.0.1-1"
   ]
 }

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[24 Apr 2007] DSA-1280-1 aircrack-ng - buffer overflow",
-    "Line": 14176,
+    "Line": 14179,
     "ID": "DSA-1280-1",
     "Description": "aircrack-ng - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2007-2057}",
-      "Line": 14177,
+      "Line": 14180,
       "Type": "xref",
       "Bugs": [
         "CVE-2007-2057"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[etch] - aircrack-ng 1:0.6.2-7etch1",
-      "Line": 14178,
+      "Line": 14181,
       "Type": "package",
       "Release": "etch",
       "Package": "aircrack-ng",
