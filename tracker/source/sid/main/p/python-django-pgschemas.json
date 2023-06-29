@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-python, pybuild-plugin-pyproject, python3-all, python3-django, python3-poetry, python3-psycopg2, python3-sphinx, python3-sphinx-rtd-theme"
   ],
   "Checksums-Sha256": [
-    "e5c4ac8f6a04757e97f32292294400421894987ad7b85dd47ba23ab4d3daa28d 2104 python-django-pgschemas_0.13.1-1.dsc cfbb2077a1439b5506e957f0c410f9818dc22b651a964eac5dec245e3b35d958 114162 python-django-pgschemas_0.13.1.orig.tar.gz 6df456f8a206217220eacfcd503a6c17c683b2914c0fc27835a095e03b5d90c1 4216 python-django-pgschemas_0.13.1-1.debian.tar.xz"
+    "0ea39b24f7937082b3f02c269009a148f1b6153d1aa08568ca782b309db014ec 2090 python-django-pgschemas_0.14-1.dsc 3392a892efbf3b69617e1ff4e88b0afcd62252b60df636b9b5cbf3970f91c2d3 113102 python-django-pgschemas_0.14.orig.tar.gz a930c551e10cfd03f7e23e7d46bb2e72051b0430db84e00e7f0e2139b6bcf687 4240 python-django-pgschemas_0.14-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/python-django-pgschemas"
   ],
   "Files": [
-    "ec071a2bffec434fb48aef4120c26bce 2104 python-django-pgschemas_0.13.1-1.dsc 15eb7153e23d15babf969f8f00bdd9d9 114162 python-django-pgschemas_0.13.1.orig.tar.gz 1ec9f6ad781443d7e1c9bb537673e5ce 4216 python-django-pgschemas_0.13.1-1.debian.tar.xz"
+    "c5d0ae9a7dc7618cba40a81d10873d9c 2090 python-django-pgschemas_0.14-1.dsc ad6425df601cca4dbc1b74ed8396b989 113102 python-django-pgschemas_0.14.orig.tar.gz d16569e00e9e57c8a0da40c45ed9c881 4240 python-django-pgschemas_0.14-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/python-team/packages/python-django-pgschemas.git"
   ],
   "Version": [
-    "0.13.1-1"
+    "0.14-1"
   ]
 }

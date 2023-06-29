@@ -9,16 +9,16 @@
     "bash-completion, dbus-daemon, debhelper-compat (= 13), dh-apparmor, dh-sequence-cruft, dh-sequence-python3, imagemagick, inkscape (\u003e= 1.0~), meson (\u003e= 0.56.0), pyflakes3, python3:any, python3-debian, python3-yaml:any, xmlstarlet, zip"
   ],
   "Checksums-Sha256": [
-    "08d7bc6a47717ec7e61144eccc2246af22d14eca8f52a625338ecb2904eb0bef 2985 game-data-packager_74.dsc fd2ac589cd526295594359e7c21ccbc6338ebbda96833cb9117d84636ff8caa2 7241328 game-data-packager_74.tar.xz"
+    "aa02f065f7bd7c74aff42c3525a341378596a1c46fb7b21d50e1513eea177b0b 2985 game-data-packager_75.dsc 3cae191472a2d1c6a5db2a46fba0565b0aaa484cc4f903da4607a2e0dd1da183 7235140 game-data-packager_75.tar.xz"
   ],
   "Dgit": [
-    "23c0a73b16a042a6a2ce0f673f24b14619f22630 debian archive/debian/74 https://git.dgit.debian.org/game-data-packager"
+    "470856633da959a71bdc31c6da949f321c3f9b26 debian archive/debian/75 https://git.dgit.debian.org/game-data-packager"
   ],
   "Directory": [
     "pool/contrib/g/game-data-packager"
   ],
   "Files": [
-    "83d3ad9d37e1191bf2895bd61cbb0e88 2985 game-data-packager_74.dsc e81c09caac2ce43a309e5d989053cee8 7241328 game-data-packager_74.tar.xz"
+    "04956fbe73a5fa45aa5b293bc6f27be1 2985 game-data-packager_75.dsc 31ab326a6566eb6bb5d57079c4c06f31 7235140 game-data-packager_75.tar.xz"
   ],
   "Format": [
     "3.0 (native)"
@@ -60,6 +60,6 @@
     "https://salsa.debian.org/games-team/game-data-packager.git"
   ],
   "Version": [
-    "74"
+    "75"
   ]
 }

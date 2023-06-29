@@ -12,13 +12,13 @@
     "dh-sequence-sphinxdoc \u003c!nodoc\u003e, libjs-jquery \u003c!nodoc\u003e, libjs-mathjax \u003c!nodoc\u003e, python3-sphinx-rtd-theme \u003c!nodoc\u003e"
   ],
   "Checksums-Sha256": [
-    "39d923ba4aaaf9c29d1f97398d109f23e93f2f70fe982c909a08b5e30543e408 3105 pymatgen_2023.06.23+dfsg1-1.dsc 23cdc7c37895bbb3dd53161181c6b3c24ca5d252f0b0a96df3c6717acfe33933 41689716 pymatgen_2023.06.23+dfsg1.orig.tar.xz 7c985121ab147026e2ea19bd8ac9969de303343bec6172f2fcce5e1b8003eaaf 15232 pymatgen_2023.06.23+dfsg1-1.debian.tar.xz"
+    "2881abe8f53841274c8bfde462af0d142de0a3ccb7762787e2dd661620a437f2 3105 pymatgen_2023.06.23+dfsg1-2.dsc 23cdc7c37895bbb3dd53161181c6b3c24ca5d252f0b0a96df3c6717acfe33933 41689716 pymatgen_2023.06.23+dfsg1.orig.tar.xz 41f36217d2e5a70cc34db519bbbac8aaf58fe43f5270f8069d9c5f29502eeafa 15352 pymatgen_2023.06.23+dfsg1-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/pymatgen"
   ],
   "Files": [
-    "ec26a88de07418ad9ac877a75124f9f2 3105 pymatgen_2023.06.23+dfsg1-1.dsc eca44a75e1a654ec380f52e4fea0e174 41689716 pymatgen_2023.06.23+dfsg1.orig.tar.xz b9870a099d3830d1b43106fde4a2483f 15232 pymatgen_2023.06.23+dfsg1-1.debian.tar.xz"
+    "575ebe2543753bc383fff7e9615c32ac 3105 pymatgen_2023.06.23+dfsg1-2.dsc eca44a75e1a654ec380f52e4fea0e174 41689716 pymatgen_2023.06.23+dfsg1.orig.tar.xz a10682511415113eca4bd721f7ab53b3 15352 pymatgen_2023.06.23+dfsg1-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -60,6 +60,6 @@
     "https://salsa.debian.org/debichem-team/pymatgen.git"
   ],
   "Version": [
-    "2023.06.23+dfsg1-1"
+    "2023.06.23+dfsg1-2"
   ]
 }

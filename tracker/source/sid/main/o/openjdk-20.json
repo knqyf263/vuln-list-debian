@@ -12,13 +12,13 @@
     "graphviz, pandoc"
   ],
   "Checksums-Sha256": [
-    "c48d078bf882cae044ee118a468c83b2468630a3d0557a665a59927107ff4141 4251 openjdk-20_20.0.1+9-4.dsc 26b1782429e211af3fbf3267499ad09120690106b1d1e56a73904e304510e077 66318080 openjdk-20_20.0.1+9.orig.tar.xz 37e371d6f5683c7eab007f8e6c225a37d3a7a2072fba1ef105344f5538b9f492 202672 openjdk-20_20.0.1+9-4.debian.tar.xz"
+    "375a0f44cbfa607e7c06617355090e994dae828625b2be37dff7b1b8ee18e351 4251 openjdk-20_20.0.1+9-5.dsc 26b1782429e211af3fbf3267499ad09120690106b1d1e56a73904e304510e077 66318080 openjdk-20_20.0.1+9.orig.tar.xz 7de9215cd00460786f9fca6683640469d1bf3c91a51410b68859c4dd1d19403b 202860 openjdk-20_20.0.1+9-5.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/o/openjdk-20"
   ],
   "Files": [
-    "535cb947a5f9f4c3811727d47bebc38d 4251 openjdk-20_20.0.1+9-4.dsc 7c368077dd3e67c9213f807a8238687a 66318080 openjdk-20_20.0.1+9.orig.tar.xz 3297cc335110e2065e674712b8badcf0 202672 openjdk-20_20.0.1+9-4.debian.tar.xz"
+    "0d3a6eadb7cc968e5b9cb40631007c85 4251 openjdk-20_20.0.1+9-5.dsc 7c368077dd3e67c9213f807a8238687a 66318080 openjdk-20_20.0.1+9.orig.tar.xz be0cb1f9f04b59122ca3140b10229347 202860 openjdk-20_20.0.1+9-5.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/openjdk-team/openjdk.git -b openjdk-20"
   ],
   "Version": [
-    "20.0.1+9-4"
+    "20.0.1+9-5"
   ]
 }
