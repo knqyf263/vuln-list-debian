@@ -6,16 +6,16 @@
     "python3-pdbfixer"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), dh-python, help2man, python3, python3-pytest \u003c!nocheck\u003e, python3-setuptools, python3-simtk \u003c!nocheck\u003e, rename"
+    "debhelper-compat (= 13), dh-python, help2man, python3, python3-openmm, python3-pytest \u003c!nocheck\u003e, python3-setuptools, rename"
   ],
   "Checksums-Sha256": [
-    "76723137535abfe95305e583f3c958d50bec8822e580111b76277ad14a375d31 2190 python-pdbfixer_1.8.1-2.dsc d50551abfe9dbaefc066f4d9d400cdebe57f1fefd9de9d01e12beb87efd99595 647653 python-pdbfixer_1.8.1.orig.tar.gz dfc0f6832974c8b84eb2f0458262df2cb0dbd8ea6811e27fcac8126d4d9a1305 2776 python-pdbfixer_1.8.1-2.debian.tar.xz"
+    "eeb0fd2d2ffb171f5584832c9d0a8f65feaaedce6b4f9f244bb5d88a1a43b90f 2166 python-pdbfixer_1.9-2.dsc 88b9a77e50655f89d0eb2075093773e82c27a4cef842cb7d735c877b20cd39fb 648085 python-pdbfixer_1.9.orig.tar.gz abc43eb09e83affc9cdd178ef410d46fe538a2e675c6fdac69427659ee3b0a0f 2936 python-pdbfixer_1.9-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/python-pdbfixer"
   ],
   "Files": [
-    "5db430b0350900edf3a932c7b7e027ae 2190 python-pdbfixer_1.8.1-2.dsc 9186c650d15bd3f0477ff7eadab24900 647653 python-pdbfixer_1.8.1.orig.tar.gz b803fa832e4c45f36202f58998b9158c 2776 python-pdbfixer_1.8.1-2.debian.tar.xz"
+    "fa2cf3ffe70705933a750d29e33feb10 2166 python-pdbfixer_1.9-2.dsc 48fc0c9c12eda19e786acbc9e62433f5 648085 python-pdbfixer_1.9.orig.tar.gz 3af5bdbd4554e8c13e82a9aca36bf378 2936 python-pdbfixer_1.9-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.0"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/python-team/packages/python-pdbfixer.git"
   ],
   "Version": [
-    "1.8.1-2"
+    "1.9-2"
   ]
 }

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[12 Feb 2022] DLA-2918-1 debian-edu-config - security update",
-    "Line": 1669,
+    "Line": 1672,
     "ID": "DLA-2918-1",
     "Description": "debian-edu-config - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-20001}",
-      "Line": 1670,
+      "Line": 1673,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-20001"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - debian-edu-config 1.929+deb9u5",
-      "Line": 1671,
+      "Line": 1674,
       "Type": "package",
       "Release": "stretch",
       "Package": "debian-edu-config",

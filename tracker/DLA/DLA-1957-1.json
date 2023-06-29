@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[14 Oct 2019] DLA-1957-1 tzdata - new upstream version",
-    "Line": 4623,
+    "Line": 4626,
     "ID": "DLA-1957-1",
     "Description": "tzdata - new upstream version"
   },
   "Annotations": [
     {
       "Original": "[jessie] - tzdata 2019c-0+deb8u1",
-      "Line": 4624,
+      "Line": 4627,
       "Type": "package",
       "Release": "jessie",
       "Package": "tzdata",

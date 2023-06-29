@@ -1,6 +1,6 @@
 {
   "Architecture": [
-    "alpha amd64 armel armhf arm64 i386 ia64 mips mipsel mips64 mips64el powerpc ppc64 ppc64el m68k riscv64 sh4 sparc sparc64 s390x x32 all"
+    "alpha amd64 arc armel armhf arm64 hppa i386 ia64 mips mipsel mips64 mips64el powerpc ppc64 ppc64el m68k riscv64 sh4 sparc sparc64 s390x x32 all"
   ],
   "Binary": [
     "openjdk-21-jdk-headless, openjdk-21-jre-headless, openjdk-21-jdk, openjdk-21-jre, openjdk-21-demo, openjdk-21-source, openjdk-21-doc, openjdk-21-dbg, openjdk-21-jre-zero"
@@ -12,13 +12,13 @@
     "graphviz, pandoc"
   ],
   "Checksums-Sha256": [
-    "6f39521f4243b6329504bd3dee19655b06485de2a1b140cac7120d3a91f90ff0 4490 openjdk-21_21~28ea-1.dsc b8ffd4b9f0984e0a7b572e0a3ed525c12777d89ec6fb1aea266a22279fd67b87 66172656 openjdk-21_21~28ea.orig.tar.xz f8ffbe59e86d423086909217f6f425245dbb5d27a7ba0da5488b108537477563 203020 openjdk-21_21~28ea-1.debian.tar.xz"
+    "92432fec43a9a8b0329bf419dea2a4da7b60e07fe5583d7ced1d07d8370b0559 4583 openjdk-21_21~28ea-2.dsc b8ffd4b9f0984e0a7b572e0a3ed525c12777d89ec6fb1aea266a22279fd67b87 66172656 openjdk-21_21~28ea.orig.tar.xz 4248c74f0e09bafba0f241202d2033d2fdc7b3087e590f3e5beca47599401571 203340 openjdk-21_21~28ea-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/o/openjdk-21"
   ],
   "Files": [
-    "39c382e1c19eeb95fed56ba524603b14 4490 openjdk-21_21~28ea-1.dsc 2e4cee409edc84265c58e0483bc31d59 66172656 openjdk-21_21~28ea.orig.tar.xz 88a9224526175deccb2d77460caa947a 203020 openjdk-21_21~28ea-1.debian.tar.xz"
+    "a2ca34dbcdb61f75150bc8ce31476d3b 4583 openjdk-21_21~28ea-2.dsc 2e4cee409edc84265c58e0483bc31d59 66172656 openjdk-21_21~28ea.orig.tar.xz dbebd1c641dd88ee50b56b795539d671 203340 openjdk-21_21~28ea-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -33,7 +33,7 @@
     "openjdk-21"
   ],
   "Package-List": [
-    "openjdk-21-dbg deb debug optional arch=alpha,amd64,armel,armhf,arm64,i386,ia64,mips,mipsel,mips64,mips64el,powerpc,ppc64,ppc64el,m68k,riscv64,sh4,sparc,sparc64,s390x,x32 openjdk-21-demo deb java optional arch=alpha,amd64,armel,armhf,arm64,i386,ia64,mips,mipsel,mips64,mips64el,powerpc,ppc64,ppc64el,m68k,riscv64,sh4,sparc,sparc64,s390x,x32 openjdk-21-doc deb doc optional arch=all openjdk-21-jdk deb java optional arch=alpha,amd64,armel,armhf,arm64,i386,ia64,mips,mipsel,mips64,mips64el,powerpc,ppc64,ppc64el,m68k,riscv64,sh4,sparc,sparc64,s390x,x32 openjdk-21-jdk-headless deb java optional arch=alpha,amd64,armel,armhf,arm64,i386,ia64,mips,mipsel,mips64,mips64el,powerpc,ppc64,ppc64el,m68k,riscv64,sh4,sparc,sparc64,s390x,x32 openjdk-21-jre deb java optional arch=alpha,amd64,armel,armhf,arm64,i386,ia64,mips,mipsel,mips64,mips64el,powerpc,ppc64,ppc64el,m68k,riscv64,sh4,sparc,sparc64,s390x,x32 openjdk-21-jre-headless deb java optional arch=alpha,amd64,armel,armhf,arm64,i386,ia64,mips,mipsel,mips64,mips64el,powerpc,ppc64,ppc64el,m68k,riscv64,sh4,sparc,sparc64,s390x,x32 openjdk-21-jre-zero deb java optional arch=amd64,i386,arm64,armhf,ppc64,ppc64el,riscv64,s390x openjdk-21-source deb java optional arch=all"
+    "openjdk-21-dbg deb debug optional arch=alpha,amd64,arc,armel,armhf,arm64,hppa,i386,ia64,mips,mipsel,mips64,mips64el,powerpc,ppc64,ppc64el,m68k,riscv64,sh4,sparc,sparc64,s390x,x32 openjdk-21-demo deb java optional arch=alpha,amd64,arc,armel,armhf,arm64,hppa,i386,ia64,mips,mipsel,mips64,mips64el,powerpc,ppc64,ppc64el,m68k,riscv64,sh4,sparc,sparc64,s390x,x32 openjdk-21-doc deb doc optional arch=all openjdk-21-jdk deb java optional arch=alpha,amd64,arc,armel,armhf,arm64,hppa,i386,ia64,mips,mipsel,mips64,mips64el,powerpc,ppc64,ppc64el,m68k,riscv64,sh4,sparc,sparc64,s390x,x32 openjdk-21-jdk-headless deb java optional arch=alpha,amd64,arc,armel,armhf,arm64,hppa,i386,ia64,mips,mipsel,mips64,mips64el,powerpc,ppc64,ppc64el,m68k,riscv64,sh4,sparc,sparc64,s390x,x32 openjdk-21-jre deb java optional arch=alpha,amd64,arc,armel,armhf,arm64,hppa,i386,ia64,mips,mipsel,mips64,mips64el,powerpc,ppc64,ppc64el,m68k,riscv64,sh4,sparc,sparc64,s390x,x32 openjdk-21-jre-headless deb java optional arch=alpha,amd64,arc,armel,armhf,arm64,hppa,i386,ia64,mips,mipsel,mips64,mips64el,powerpc,ppc64,ppc64el,m68k,riscv64,sh4,sparc,sparc64,s390x,x32 openjdk-21-jre-zero deb java optional arch=amd64,i386,arm64,armhf,ppc64,ppc64el,riscv64,s390x openjdk-21-source deb java optional arch=all"
   ],
   "Priority": [
     "optional"
@@ -51,12 +51,12 @@
     "Matthias Klose \u003cdoko@ubuntu.com\u003e"
   ],
   "Vcs-Browser": [
-    "https://salsa.debian.org/openjdk-team/openjdk"
+    "https://salsa.debian.org/openjdk-team/openjdk/tree/openjdk-21"
   ],
   "Vcs-Git": [
-    "https://salsa.debian.org/openjdk-team/openjdk.git"
+    "https://salsa.debian.org/openjdk-team/openjdk.git -b openjdk-21"
   ],
   "Version": [
-    "21~28ea-1"
+    "21~28ea-2"
   ]
 }

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[20 Dec 2020] DLA-2502-1 postsrsd - security update",
-    "Line": 2940,
+    "Line": 2943,
     "ID": "DLA-2502-1",
     "Description": "postsrsd - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-35573}",
-      "Line": 2941,
+      "Line": 2944,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-35573"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - postsrsd 1.4-1+deb9u1",
-      "Line": 2942,
+      "Line": 2945,
       "Type": "package",
       "Release": "stretch",
       "Package": "postsrsd",

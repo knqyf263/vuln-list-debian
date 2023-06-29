@@ -12,13 +12,13 @@
     "graphviz, pandoc"
   ],
   "Checksums-Sha256": [
-    "a9a34f7627c423b156005034e35ce384d4c7e029ddbcbb88351302909ac24f50 4530 openjdk-17_17.0.7+7-2.dsc 54979d3108824cb1ff03063f9d00154395eeb6aa37153f1e3d990bd3064fe65f 61894896 openjdk-17_17.0.7+7.orig.tar.xz 7f423f9c072ee84cb7beba9cc6649f0af9af7c00f9bad35d59e408457d5a3078 495924 openjdk-17_17.0.7+7-2.debian.tar.xz"
+    "bc7fe6a2fbb828dbe5404f323886474e59907658bca3dff778f7ef37581fac08 4530 openjdk-17_17.0.8~6-2.dsc b04c6d368b25e86bc691d9ee744c6f20510a276e2598a584403a4cefd57ea41a 62167820 openjdk-17_17.0.8~6.orig.tar.xz adb9d79445da5fbf6473ba35ef6f44603f36b9b0b72c232fa1f3961e2c31aded 496048 openjdk-17_17.0.8~6-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/o/openjdk-17"
   ],
   "Files": [
-    "51130f9677fdfb6f3549bc5056c96bdf 4530 openjdk-17_17.0.7+7-2.dsc 31686ecebc0181d2fce168e83c6f4791 61894896 openjdk-17_17.0.7+7.orig.tar.xz b378f51372be0707380b573fbea78e79 495924 openjdk-17_17.0.7+7-2.debian.tar.xz"
+    "8b48bd68774ca3e5300d0b9548036d84 4530 openjdk-17_17.0.8~6-2.dsc a1ff78c4ca3895db150166ccc75a88a6 62167820 openjdk-17_17.0.8~6.orig.tar.xz b11e30d66350b8a6ebbada6708cdb039 496048 openjdk-17_17.0.8~6-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -42,7 +42,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.5.1"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/openjdk-team/openjdk.git -b openjdk-17"
   ],
   "Version": [
-    "17.0.7+7-2"
+    "17.0.8~6-2"
   ]
 }
