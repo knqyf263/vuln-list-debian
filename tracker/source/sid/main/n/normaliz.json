@@ -12,13 +12,13 @@
     "texlive-latex-base, texlive-latex-recommended, texlive-latex-extra, texlive-pictures, texlive-fonts-recommended, texlive-fonts-extra"
   ],
   "Checksums-Sha256": [
-    "292c84885fa7db4cba70ba195d2cd8048c59fb3f7e5ec5c09c3666d63526d1b7 2578 normaliz_3.10.1+ds-1.dsc 48d3abcb39ad45c6dedf4eaf259807c2a28ff5d61f15eac94b56f1095ca40f26 2082064 normaliz_3.10.1+ds.orig.tar.xz 26ebb34145632d5253fda3154050f16b92004b0c3d615f9cbfe61749a1346f34 7512 normaliz_3.10.1+ds-1.debian.tar.xz"
+    "419190ee4594703e1ef865a0cb758f974c155d04e5668e046b7c9f7be2a34b10 2578 normaliz_3.10.1+ds-2.dsc 48d3abcb39ad45c6dedf4eaf259807c2a28ff5d61f15eac94b56f1095ca40f26 2082064 normaliz_3.10.1+ds.orig.tar.xz 352f7006f229540e4580efd3defd733ec0fbb5badda22739e329bab067e8bf83 7680 normaliz_3.10.1+ds-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/n/normaliz"
   ],
   "Files": [
-    "c61e0ffc538783bd905f14a7ae67d0e7 2578 normaliz_3.10.1+ds-1.dsc edf492824f473f52ef77553e1eed6827 2082064 normaliz_3.10.1+ds.orig.tar.xz 100527e897f967060ae95dc6a9975338 7512 normaliz_3.10.1+ds-1.debian.tar.xz"
+    "e951976a96d60c3392d5b86ffa2cba32 2578 normaliz_3.10.1+ds-2.dsc edf492824f473f52ef77553e1eed6827 2082064 normaliz_3.10.1+ds.orig.tar.xz 2b2936f1c6d3c3cb3d3dad01c3900906 7680 normaliz_3.10.1+ds-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/math-team/normaliz.git"
   ],
   "Version": [
-    "3.10.1+ds-1"
+    "3.10.1+ds-2"
   ]
 }

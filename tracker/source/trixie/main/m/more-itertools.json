@@ -6,16 +6,16 @@
     "python3-more-itertools"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), dh-python, python3-all, python3-setuptools"
+    "debhelper-compat (= 13), dh-sequence-python3, flit, pybuild-plugin-pyproject, python3-all"
   ],
   "Checksums-Sha256": [
-    "a61dbd5bac8321be24d3e18f03694ead159104c4245f12df9a4150e7d49759ed 2092 more-itertools_8.10.0-2.dsc 1debcabeb1df793814859d64a81ad7cb10504c24349368ccf214c664c474f41f 102929 more-itertools_8.10.0.orig.tar.gz 25da00af2b427194b34ba129d3327fca02973b4efbf5290da9b66f3af6f9596f 2812 more-itertools_8.10.0-2.debian.tar.xz"
+    "e1c0e29e95f84658ccb519fb59ceebe23acfa4133b52f9fa0b9934988a9bf793 2093 more-itertools_9.1.1-2.dsc 87396764a55deab2ce2b5b4810c392f939165742766cab9dc70312948a18d334 104319 more-itertools_9.1.1.orig.tar.gz cc0fab73bd5b3e37e5b9c27b0fc704df673a43d93f811e3e93152a2dde55db2e 3420 more-itertools_9.1.1-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/m/more-itertools"
   ],
   "Files": [
-    "02105974a60823c8c3467e8c720ac6a2 2092 more-itertools_8.10.0-2.dsc 9930552c4f7eedc00193673d5f7f0f19 102929 more-itertools_8.10.0.orig.tar.gz f389c7c5a9594049d6512bf089274df3 2812 more-itertools_8.10.0-2.debian.tar.xz"
+    "bff8a63bec2b0091cf24a861359bff14 2093 more-itertools_9.1.1-2.dsc 019faabd844ad8bc7b9752e44450c16d 104319 more-itertools_9.1.1.orig.tar.gz 97c56fea9f9e05723a38d3f3369a4f0f 3420 more-itertools_9.1.1-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,13 +39,13 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.0"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest"
   ],
   "Testsuite-Triggers": [
-    "python3-all, python3-setuptools"
+    "flit, python3-all"
   ],
   "Vcs-Browser": [
     "https://salsa.debian.org/python-team/packages/more-itertools"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/python-team/packages/more-itertools.git"
   ],
   "Version": [
-    "8.10.0-2"
+    "9.1.1-2"
   ]
 }
