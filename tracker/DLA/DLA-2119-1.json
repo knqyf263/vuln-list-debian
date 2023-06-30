@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[26 Feb 2020] DLA-2119-1 python-pysaml2 - security update",
-    "Line": 4129,
+    "Line": 4132,
     "ID": "DLA-2119-1",
     "Description": "python-pysaml2 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-5390}",
-      "Line": 4130,
+      "Line": 4133,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-5390"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - python-pysaml2 2.0.0-1+deb8u3",
-      "Line": 4131,
+      "Line": 4134,
       "Type": "package",
       "Release": "jessie",
       "Package": "python-pysaml2",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[26 Dec 2020] DLA-2488-2 python-apt - regression update",
-    "Line": 2933,
+    "Line": 2936,
     "ID": "DLA-2488-2",
     "Description": "python-apt - regression update"
   },
   "Annotations": [
     {
       "Original": "[stretch] - python-apt 1.4.3",
-      "Line": 2934,
+      "Line": 2937,
       "Type": "package",
       "Release": "stretch",
       "Package": "python-apt",

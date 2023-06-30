@@ -9,13 +9,13 @@
     "debhelper-compat (= 13)"
   ],
   "Checksums-Sha256": [
-    "d8c31ec9eab177b5ea6c0d932763c24513c2a21f09033ad3f15edfc2f18f1e39 1740 crosshurd_1.7.59.dsc b94b448f4d97fd143a124c96fb78d95c300fc4902a843629386b00a949b1badf 20956 crosshurd_1.7.59.tar.xz"
+    "4e2948a8cbbe644dad0eab686f6bee2ac1946597a1a16f6a4acc87c2907000e5 1740 crosshurd_1.7.60.dsc b0e69b659741f9e4f3623f60252be2255320b792cac878ddf57aa112a4f89296 20984 crosshurd_1.7.60.tar.xz"
   ],
   "Directory": [
     "pool/main/c/crosshurd"
   ],
   "Files": [
-    "9493e30ab40d38fc9b23573fc403d0d9 1740 crosshurd_1.7.59.dsc a1cc25afea837d837b3066678a69dd82 20956 crosshurd_1.7.59.tar.xz"
+    "bd486ae95234b9a70b29aa323b73009e 1740 crosshurd_1.7.60.dsc 2215d5f344dd9cc06a0277fc5267b9cb 20984 crosshurd_1.7.60.tar.xz"
   ],
   "Format": [
     "3.0 (native)"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/hurd-team/crosshurd.git"
   ],
   "Version": [
-    "1.7.59"
+    "1.7.60"
   ]
 }

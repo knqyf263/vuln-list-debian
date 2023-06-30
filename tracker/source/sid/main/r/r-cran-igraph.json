@@ -6,16 +6,16 @@
     "r-cran-igraph"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), dh-r, r-base-dev, r-cran-magrittr, r-cran-matrix, r-cran-pkgconfig, r-cran-rlang, libxml2-dev, pkg-config"
+    "debhelper-compat (= 13), dh-r, r-base-dev, r-cran-cli, r-cran-magrittr, r-cran-matrix, r-cran-pkgconfig, r-cran-rlang, r-cran-cpp11, libxml2-dev, pkg-config"
   ],
   "Checksums-Sha256": [
-    "e91d6c6128b3f0544088ec5c32824c1b9b19e03aaa874280a4e0640656d5d455 2297 r-cran-igraph_1.4.1-1.dsc 08a258f46ae87bcbe7f7cf47d46d2bbedb0663407921a30fc89892674b505df1 2910158 r-cran-igraph_1.4.1.orig.tar.gz 27cf7c3cafedae8ae1a8eb34dea79724df4b5b0471d41ed8f97c58640b9544c3 8924 r-cran-igraph_1.4.1-1.debian.tar.xz"
+    "aa567688e1603801583432c469d1024eb248c4fb2cadd9ef0ed2dd403618b87b 2323 r-cran-igraph_1.5.0-1.dsc d80778ff0fd0ee00a348c5d63b3b398b7467a1af49d85dc57fbee0a900fd7306 3314090 r-cran-igraph_1.5.0.orig.tar.gz a685316738a1eca8dfbb4d70449867e73a5c9e46644d9873a41a06a9788b3d43 9004 r-cran-igraph_1.5.0-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/r-cran-igraph"
   ],
   "Files": [
-    "7070365d97ad566d95c38ef5c99cff84 2297 r-cran-igraph_1.4.1-1.dsc 442f41be96f649ebc2c04314acfbe6df 2910158 r-cran-igraph_1.4.1.orig.tar.gz db90028874404077870900088bf90bbd 8924 r-cran-igraph_1.4.1-1.debian.tar.xz"
+    "2ebd5c6a5176ae778c228c4f2ae104f0 2323 r-cran-igraph_1.5.0-1.dsc 5e77d6cd9b04e72ceb0d51d2e5a232c8 3314090 r-cran-igraph_1.5.0.orig.tar.gz fe35e763a9ba2817217ffe6455b7fc76 9004 r-cran-igraph_1.5.0-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/r-pkg-team/r-cran-igraph.git"
   ],
   "Version": [
-    "1.4.1-1"
+    "1.5.0-1"
   ]
 }

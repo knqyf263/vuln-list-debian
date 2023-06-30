@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[23 Apr 2017] DLA-909-1 libcroco - security update",
-    "Line": 7826,
+    "Line": 7829,
     "ID": "DLA-909-1",
     "Description": "libcroco - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-7960 CVE-2017-7961}",
-      "Line": 7827,
+      "Line": 7830,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-7960",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[wheezy] - libcroco 0.6.6-2+deb7u1",
-      "Line": 7828,
+      "Line": 7831,
       "Type": "package",
       "Release": "wheezy",
       "Package": "libcroco",

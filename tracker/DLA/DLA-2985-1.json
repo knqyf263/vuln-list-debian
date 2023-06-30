@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[28 Apr 2022] DLA-2985-1 golang-1.7 - security update",
-    "Line": 1477,
+    "Line": 1480,
     "ID": "DLA-2985-1",
     "Description": "golang-1.7 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2022-23772 CVE-2022-23806 CVE-2022-24921}",
-      "Line": 1478,
+      "Line": 1481,
       "Type": "xref",
       "Bugs": [
         "CVE-2022-23772",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[stretch] - golang-1.7 1.7.4-2+deb9u5",
-      "Line": 1479,
+      "Line": 1482,
       "Type": "package",
       "Release": "stretch",
       "Package": "golang-1.7",

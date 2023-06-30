@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-r, r-base-dev, r-cran-filehash, r-cran-png"
   ],
   "Checksums-Sha256": [
-    "3ccb05a4db1dcfd69b0d92e01907246670b25cffd2a5b4938333136651082ad4 2286 r-cran-tikzdevice_0.12.4-1.dsc ac2029812e827cc0a81fd9478ff5eec010e934f27fb7fc8401c6895782b636f5 1448205 r-cran-tikzdevice_0.12.4.orig.tar.gz b921c81e46d9ce64b8823d2799b10e04d6d63c34e407a196f472a8e1e7af1e3a 4312 r-cran-tikzdevice_0.12.4-1.debian.tar.xz"
+    "a7076bdcdaab4eea2768d2b2f3451fbbbdb824f435844c2fd9faea320f877b5e 2286 r-cran-tikzdevice_0.12.4-2.dsc ac2029812e827cc0a81fd9478ff5eec010e934f27fb7fc8401c6895782b636f5 1448205 r-cran-tikzdevice_0.12.4.orig.tar.gz 35a419e81e1d36747c0fdaa77caeaa9ff025d7809c5454f33ce6ae9c6aa916ae 4352 r-cran-tikzdevice_0.12.4-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/r-cran-tikzdevice"
   ],
   "Files": [
-    "ce43dd49ac34839c0cb6843f795694d1 2286 r-cran-tikzdevice_0.12.4-1.dsc e7a4f1f48b17cd06d8fc6f9742148553 1448205 r-cran-tikzdevice_0.12.4.orig.tar.gz ce0307f6a60eae05b654d5893d177ae3 4312 r-cran-tikzdevice_0.12.4-1.debian.tar.xz"
+    "c9f26c92c4d4db6505eb1be64c55aa65 2286 r-cran-tikzdevice_0.12.4-2.dsc e7a4f1f48b17cd06d8fc6f9742148553 1448205 r-cran-tikzdevice_0.12.4.orig.tar.gz 5bb64f5eb106ba54bdff1f4e79200b78 4352 r-cran-tikzdevice_0.12.4-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/r-pkg-team/r-cran-tikzdevice.git"
   ],
   "Version": [
-    "0.12.4-1"
+    "0.12.4-2"
   ]
 }

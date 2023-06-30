@@ -9,13 +9,13 @@
     "debhelper-compat (= 12), dh-python, python3, rsync, python3-setuptools"
   ],
   "Checksums-Sha256": [
-    "a0a39bbe783b6c2781694ac7612aaaa5ba767779fdcb66e917ac2a0e48ccbbbf 1639 odoo_16.0.0+dfsg.1-1.dsc eb69edab922f6fbf1ab26392a0b42e0579e68b0d633b1c8a8ad366ce0a286852 83164476 odoo_16.0.0+dfsg.1.orig.tar.xz 567cd4c64486224155c21857195d258f8d3755886acc7e1436ad04f9b015b826 31864 odoo_16.0.0+dfsg.1-1.debian.tar.xz"
+    "a0f06b777154f189513faff524e8c7262b9ff048c3b5e040f3599fdc9bbd18f6 1647 odoo_16.0.0+dfsg.1-1.1.dsc eb69edab922f6fbf1ab26392a0b42e0579e68b0d633b1c8a8ad366ce0a286852 83164476 odoo_16.0.0+dfsg.1.orig.tar.xz 1b7c14f35ea26f09836272938250025cfa02946129d9b375c08e6b0d01bb97ac 31876 odoo_16.0.0+dfsg.1-1.1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/o/odoo"
   ],
   "Files": [
-    "d8058fbe377fe0240708d398db2465fe 1639 odoo_16.0.0+dfsg.1-1.dsc e6367b688bbb23d076914c3baef1d146 83164476 odoo_16.0.0+dfsg.1.orig.tar.xz 46363cc7980751ad997822d603acae88 31864 odoo_16.0.0+dfsg.1-1.debian.tar.xz"
+    "c6f3e88029d4ee0de1ce83e3437e3ab0 1647 odoo_16.0.0+dfsg.1-1.1.dsc e6367b688bbb23d076914c3baef1d146 83164476 odoo_16.0.0+dfsg.1.orig.tar.xz f88aef2e93a35077865bbe5fbf2aa574 31876 odoo_16.0.0+dfsg.1-1.1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/freexian-team/packages/odoo.git"
   ],
   "Version": [
-    "16.0.0+dfsg.1-1"
+    "16.0.0+dfsg.1-1.1"
   ]
 }

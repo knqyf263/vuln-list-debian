@@ -6,16 +6,16 @@
     "python-django-constance-doc, python3-django-constance"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), dh-python, python-django-doc, python3-all, python3-django, python3-django-picklefield, python3-doc, python3-mock, python3-pytest, python3-pytest-django, python3-setuptools, python3-sphinx, python3-sphinx-rtd-theme"
+    "debhelper-compat (= 13), dh-python, pybuild-plugin-pyproject, python-django-doc, python3-all, python3-django, python3-django-picklefield, python3-doc, python3-mock, python3-pytest, python3-pytest-django, python3-setuptools, python3-sphinx, python3-sphinx-rtd-theme"
   ],
   "Checksums-Sha256": [
-    "90012c5c2dd812c4b3959eb9304e3b7690ec7357c5a8e4afed0e7d41b914ac01 2465 python-django-constance_2.9.1-2.dsc be021529f825d82c672a8773a44d3b04d17b1dbf35e7abf1675dd948048e448d 167966 python-django-constance_2.9.1.orig.tar.gz 8f7686b0f536e68c95e7892173047373ea2100d5e983eb40259d528d0f30f594 5152 python-django-constance_2.9.1-2.debian.tar.xz"
+    "051b68098f3681b9c30f7ad43b95bd89708f1ae05b0a1bfc8edb5ce7d10bed7d 2146 python-django-constance_3.0.0-1.dsc 596597c97301ace70b24930e056a5da2a7f95b27c20713daf43f1b711b8baa88 167701 python-django-constance_3.0.0.orig.tar.gz a55f991d15bbb05bdba7e9c7cdac6f9e8021c19bebca1ee8044f6ea106c5768a 5296 python-django-constance_3.0.0-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/python-django-constance"
   ],
   "Files": [
-    "14feb06cbb710cc0ebad5d2e877d2edb 2465 python-django-constance_2.9.1-2.dsc a01ca7d3bb4dd3d8e96d579334056081 167966 python-django-constance_2.9.1.orig.tar.gz 8a398c131eb46af382d0d6c9ae8418a8 5152 python-django-constance_2.9.1-2.debian.tar.xz"
+    "621992030914fff3ed87ee7f4b9241b7 2146 python-django-constance_3.0.0-1.dsc bc0cfd0c68c7ed51a55e71fec32edd00 167701 python-django-constance_3.0.0.orig.tar.gz 493bc6eee9c0edac5802ad5a1ba5d6f7 5296 python-django-constance_3.0.0-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.5.1"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/python-team/packages/python-django-constance.git"
   ],
   "Version": [
-    "2.9.1-2"
+    "3.0.0-1"
   ]
 }

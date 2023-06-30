@@ -12,16 +12,16 @@
     "autoconf, emacs-nox | emacs25-nox | emacs25 | emacs24, texinfo, texlive-latex-base, texlive-fonts-recommended"
   ],
   "Checksums-Sha256": [
-    "7ade094eabfb0ee5f2f222c1ee60b6f40866c70bf88c6682620e8aa0dc4dda21 1620 vm_8.2.0b-9.dsc e099723ac7774c9495b1547e2e1b524464e5ae095d6bacb766f4fcb6eb426b6c 842170 vm_8.2.0b.orig.tar.gz 0bac019694ba617c558f28ca089952e6be5810255ebc4004bb66169ba6134486 105891 vm_8.2.0b-9.diff.gz"
+    "b8f165afc8055d49fb37f87abad02460cb9b240471cf6cde973531d098943998 1625 vm_8.2.0b-10.dsc e099723ac7774c9495b1547e2e1b524464e5ae095d6bacb766f4fcb6eb426b6c 842170 vm_8.2.0b.orig.tar.gz 0540b6a19337dc05c7230cf6316ece32f8c3fa11c4f4ecf27c0007d97021f622 105954 vm_8.2.0b-10.diff.gz"
   ],
   "Dgit": [
-    "324b147adea004fc3e5dc64256e8d9261ee86897 debian archive/debian/8.2.0b-9 https://git.dgit.debian.org/vm"
+    "9f75394160db39a68eb683b265e199bfd9033985 debian archive/debian/8.2.0b-10 https://git.dgit.debian.org/vm"
   ],
   "Directory": [
     "pool/main/v/vm"
   ],
   "Files": [
-    "e2f0b21e5f5d715054846da5e883faf2 1620 vm_8.2.0b-9.dsc 54b085ff8fecffc58afca5cc5f0e81e6 842170 vm_8.2.0b.orig.tar.gz 450c01daea1a99c4ca4509474978d5f1 105891 vm_8.2.0b-9.diff.gz"
+    "a7d6c3b4247bdadfe5efabdf98f3bd50 1625 vm_8.2.0b-10.dsc 54b085ff8fecffc58afca5cc5f0e81e6 842170 vm_8.2.0b.orig.tar.gz fcfa90adeb9b885aa24722630a4b6e34 105954 vm_8.2.0b-10.diff.gz"
   ],
   "Format": [
     "1.0"
@@ -54,6 +54,6 @@
     "bash, bsdutils, emacs"
   ],
   "Version": [
-    "8.2.0b-9"
+    "8.2.0b-10"
   ]
 }
