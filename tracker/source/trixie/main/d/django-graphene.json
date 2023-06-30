@@ -6,19 +6,19 @@
     "python-django-graphene-doc, python3-django-graphene"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), python3-all"
+    "debhelper-compat (= 13), dh-sequence-python3, dh-sequence-sphinxdoc, python3-all"
   ],
   "Build-Depends-Indep": [
-    "dh-python, python3-django, python3-graphene, python3-graphql-core, python3-promise, python3-pytest, python3-pytest-runner, python3-setuptools, python3-singledispatch, python3-sphinx, python3-sphinx-rtd-theme, python3-text-unidecode"
+    "pybuild-plugin-pyproject, python3-django (\u003e= 3.2) \u003c!nocheck\u003e, python3-django-filters (\u003e= 22.1) \u003c!nocheck\u003e, python3-doc \u003c!nodoc\u003e, python3-graphene (\u003e= 3.0) \u003c!nocheck\u003e, python3-graphql-core (\u003e= 3.1.0) \u003c!nocheck\u003e, python3-mock \u003c!nocheck\u003e, python3-promise, python3-pytest (\u003e= 7.1.3) \u003c!nocheck\u003e, python3-pytest-cov \u003c!nocheck\u003e, python3-pytest-django \u003c!nocheck\u003e, python3-pytest-random-order \u003c!nocheck\u003e, python3-pytest-runner \u003c!nocheck\u003e, python3-graphql-relay (\u003e= 3.2.0) \u003c!nocheck\u003e, python3-setuptools, python3-sphinx \u003c!nodoc\u003e, python3-sphinx-rtd-theme \u003c!nodoc\u003e, python3-text-unidecode \u003c!nocheck\u003e"
   ],
   "Checksums-Sha256": [
-    "25e0aadca8d7e48431b256fb6449e1ea02c60475ec95f20efde1549327c08ba1 2431 django-graphene_2.15.0-2.dsc 5c59aa23b9e7b20369149ccf59f527f8bbf82e18f416daac73f2bd431f5734b4 105484 django-graphene_2.15.0.orig.tar.gz f402c64dd3c785e13ad47d8cce567d5f081f569fad210daf6f3b171a30b3ebbf 1264840 django-graphene_2.15.0-2.debian.tar.xz"
+    "6205c105f55401cbee2836de59261715f71db14a8afccc77da1ef91852072310 2792 django-graphene_3.1.2-1.dsc 8d36f39841c92c9671881fffb64385d960f7630f29f05192e9cc253bfce38749 121639 django-graphene_3.1.2.orig.tar.gz 19689e88e2e123353ec475984556d167061659b36868a7ae4269f3e9cf9b1e71 1282020 django-graphene_3.1.2-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/d/django-graphene"
   ],
   "Files": [
-    "e4797e2f28678574bbe0e8b664828e3b 2431 django-graphene_2.15.0-2.dsc 80eab8645726478091be405c3d40d77f 105484 django-graphene_2.15.0.orig.tar.gz 8e920cead51fd59aa50b81f334e36c80 1264840 django-graphene_2.15.0-2.debian.tar.xz"
+    "99f1d21768e4fa08095932ddd8e60b24 2792 django-graphene_3.1.2-1.dsc 99970a7afe1ac91ad0334a9e062d4b8b 121639 django-graphene_3.1.2.orig.tar.gz a6464fd54b0fb6e47ae7b7b4ac316962 1282020 django-graphene_3.1.2-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -42,7 +42,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.0"
+    "4.6.2"
   ],
   "Uploaders": [
     "Carsten Schoenert \u003cc.schoenert@t-online.de\u003e,"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/python-team/packages/django-graphene.git"
   ],
   "Version": [
-    "2.15.0-2"
+    "3.1.2-1"
   ]
 }

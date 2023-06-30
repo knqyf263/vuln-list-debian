@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[29 Aug 2020] DLA-2353-1 bacula - security update",
-    "Line": 3404,
+    "Line": 3410,
     "ID": "DLA-2353-1",
     "Description": "bacula - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-11061}",
-      "Line": 3405,
+      "Line": 3411,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-11061"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - bacula 7.4.4+dfsg-6+deb9u2",
-      "Line": 3406,
+      "Line": 3412,
       "Type": "package",
       "Release": "stretch",
       "Package": "bacula",

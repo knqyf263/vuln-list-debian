@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[03 Mar 2023] DLA-3350-1 node-css-what - security update",
-    "Line": 383,
+    "Line": 389,
     "ID": "DLA-3350-1",
     "Description": "node-css-what - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-33587 CVE-2022-21222}",
-      "Line": 384,
+      "Line": 390,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-33587",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[buster] - node-css-what 2.1.0-1+deb10u1",
-      "Line": 385,
+      "Line": 391,
       "Type": "package",
       "Release": "buster",
       "Package": "node-css-what",

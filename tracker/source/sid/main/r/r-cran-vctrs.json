@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-r, r-base-dev, r-cran-cli (\u003e= 3.4.0), r-cran-glue, r-cran-lifecycle (\u003e= 1.0.3), r-cran-rlang (\u003e= 1.1.0)"
   ],
   "Checksums-Sha256": [
-    "4f664d47fa23195e9cf5cdcdb5c189777fc53a2281f6b8e8bdd79c87f2758c65 2255 r-cran-vctrs_0.6.2-1.dsc feecabe11f6c55e04377d36fa59842187f0a6fe52aaf867c08289a948781ee84 964633 r-cran-vctrs_0.6.2.orig.tar.gz 32be64f54991573387d3b9c391f95fbc7d9ff3c136149df35b3422bdd6c39549 3904 r-cran-vctrs_0.6.2-1.debian.tar.xz"
+    "ac0e68d6f9e630d62f34164cd7690826911d498583e11eac26c2dc9683a73364 2255 r-cran-vctrs_0.6.3-1.dsc 93dc220dcde8b440586b2260460ef354e827a17dfec1ea6a9815585a10cfa5c2 967338 r-cran-vctrs_0.6.3.orig.tar.gz 44deaf67b178c624427a1cce4e1e894e9d6e93fa3abbd3c01284b96137b317de 3912 r-cran-vctrs_0.6.3-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/r-cran-vctrs"
   ],
   "Files": [
-    "4d8a5b18d004fc83c17570030b6e8b9b 2255 r-cran-vctrs_0.6.2-1.dsc cccc39d36216f8e7ee817dd7bd850af8 964633 r-cran-vctrs_0.6.2.orig.tar.gz 7228b5f6b3b9a02bdd6192b30e0b93b7 3904 r-cran-vctrs_0.6.2-1.debian.tar.xz"
+    "49980b848dd8ed59f0d9c02fa8f902b8 2255 r-cran-vctrs_0.6.3-1.dsc 60946dc7e0dc1ba8d12d853dfdf3bc62 967338 r-cran-vctrs_0.6.3.orig.tar.gz 2b83dc52afdbe4ade0f8d3111e558307 3912 r-cran-vctrs_0.6.3-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/r-pkg-team/r-cran-vctrs.git"
   ],
   "Version": [
-    "0.6.2-1"
+    "0.6.3-1"
   ]
 }

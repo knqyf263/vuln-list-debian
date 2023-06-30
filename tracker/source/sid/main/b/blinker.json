@@ -6,16 +6,16 @@
     "python-blinker-doc, python3-blinker"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), pybuild-plugin-pyproject, python3-all, python3-pallets-sphinx-themes \u003c!nodoc\u003e, python3-pytest \u003c!nocheck\u003e, python3-setuptools, python3-sphinx \u003c!nodoc\u003e"
+    "debhelper-compat (= 13), pybuild-plugin-pyproject, python3-all, python3-pallets-sphinx-themes \u003c!nodoc\u003e, python3-pytest \u003c!nocheck\u003e, python3-pytest-asyncio \u003c!nocheck\u003e, python3-setuptools, python3-sphinx \u003c!nodoc\u003e, python3-sphinx-issues \u003c!nodoc\u003e"
   ],
   "Checksums-Sha256": [
-    "f75be1bce97602b699f829d5a7400a819523fb61d6fc9f37b400184160176143 2229 blinker_1.5-1.dsc 96e236b53f83c48d2433710e38e39c897491581b638c3d8260eb60650adb3afe 25094 blinker_1.5.orig.tar.gz c35bca33ec4c7cba8b1c4d5249e422ab857b625b0bad004796f694afb578eeaf 5624 blinker_1.5-1.debian.tar.xz"
+    "61743e4a628bdaf7e39e6cc1079ad77e8d43cb7c125dc3201670d9c9815e0314 2301 blinker_1.6.2-1.dsc bd08621bcae9f962faadc6aa3318b47cd9fa314005c8ffc59176ff768fda0ce9 29034 blinker_1.6.2.orig.tar.gz 068d97cc035535bcc1377a2a32ff56dedf7a5459efec6855b245e9d9d78040bb 5716 blinker_1.6.2-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/b/blinker"
   ],
   "Files": [
-    "f162424da9cd0b551c543a66dcee2f49 2229 blinker_1.5-1.dsc 5043776b4eba26025f34d1f8c4b802c7 25094 blinker_1.5.orig.tar.gz 3f54dd6649d5719410b034ecb1898cd7 5624 blinker_1.5-1.debian.tar.xz"
+    "7e5cd10ce877c3c2f7db951ab4ddd412 2301 blinker_1.6.2-1.dsc 6b301f4563432728f1cb865c0f6292b1 29034 blinker_1.6.2.orig.tar.gz feaf9f33a24c1668bbcae472abc51cc5 5716 blinker_1.6.2-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,13 +39,13 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest"
   ],
   "Testsuite-Triggers": [
-    "python3-all, python3-pytest"
+    "python3-all, python3-pytest, python3-pytest-asyncio"
   ],
   "Uploaders": [
     "Ondřej Surý \u003condrej@debian.org\u003e,"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/python-team/packages/blinker.git"
   ],
   "Version": [
-    "1.5-1"
+    "1.6.2-1"
   ]
 }

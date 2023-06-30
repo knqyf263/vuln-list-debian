@@ -6,16 +6,16 @@
     "r-cran-uwot"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), dh-r, r-base-dev, r-cran-matrix, r-cran-rcpp, r-cran-fnn, r-cran-rcppannoy (\u003e= 0.0.17), r-cran-irlba, r-cran-rcppprogress, r-cran-dqrng, libpcg-cpp-dev, libtbb-dev"
+    "debhelper-compat (= 13), dh-r, r-base-dev, r-cran-matrix, r-cran-rcpp, r-cran-fnn, r-cran-rcppannoy, r-cran-irlba, r-cran-rcppprogress, r-cran-dqrng, libpcg-cpp-dev, libtbb-dev"
   ],
   "Checksums-Sha256": [
-    "add5c7e7fa515974fd4bf243c956d2c430e9e54ceb8503144221a62575b01c64 2258 r-cran-uwot_0.1.14-2.dsc 8016e8192b7e72604ca71840cbe43fa1d2caed8a8ad7cbf20e85cd3b384a9fe0 146200 r-cran-uwot_0.1.14.orig.tar.gz 6a621a2fb3646b7b4e292492c0cae5e344edb39276608afdc45f70fbb021e5b7 3480 r-cran-uwot_0.1.14-2.debian.tar.xz"
+    "ef9cb3659c538e06ad576981ae80140873fcf7c0183dc7119b7c6b9a1b869c0c 2246 r-cran-uwot_0.1.15-1.dsc b367f976febd30554fb730ef1ce43759e98a8c8e76b446be61acb6fd9bcb0b4e 171893 r-cran-uwot_0.1.15.orig.tar.gz c81c63cfa00b90926bfd6ce824089faa48b6e859803f1ba4da44e7d26f18eee7 3080 r-cran-uwot_0.1.15-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/r-cran-uwot"
   ],
   "Files": [
-    "31f2e7d323a42d697acab6291fa7c175 2258 r-cran-uwot_0.1.14-2.dsc 3527e867a678954e589331799bea9a1d 146200 r-cran-uwot_0.1.14.orig.tar.gz 2bac3af9137edc3aaacc953b15fdeb21 3480 r-cran-uwot_0.1.14-2.debian.tar.xz"
+    "292cca242ac92da2d8a8401413a2e9c5 2246 r-cran-uwot_0.1.15-1.dsc dbde22182cc36f8d08637d857b76ebb9 171893 r-cran-uwot_0.1.15.orig.tar.gz 51de492a4d21a6480b73425107aa224b 3080 r-cran-uwot_0.1.15-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest, autopkgtest-pkg-r"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/r-pkg-team/r-cran-uwot.git"
   ],
   "Version": [
-    "0.1.14-2"
+    "0.1.15-1"
   ]
 }

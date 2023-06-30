@@ -6,16 +6,16 @@
     "libmetkit0d, libmetkit-data, libmetkit-dev, libmetkit-utils"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), ecbuild (\u003e= 3.3.0-3), gfortran | fortran-compiler, libeckit-dev (\u003e= 1.16.0-1~), libodc-dev [!powerpc !armel !armhf !i386 !mipsel], odc [!powerpc !armel !armhf !i386 !mipsel], libeccodes-dev, libeccodes-tools, libnetcdf-dev, libopenjp2-7-dev"
+    "debhelper-compat (= 13), ecbuild (\u003e= 3.7.2-1~), gfortran | fortran-compiler, libeckit-dev (\u003e= 1.23.1-1~), libodc-dev [!powerpc !armel !armhf !i386 !mipsel], odc [!powerpc !armel !armhf !i386 !mipsel], libeccodes-dev, libeccodes-tools, libnetcdf-dev, libopenjp2-7-dev"
   ],
   "Checksums-Sha256": [
-    "1afad9e6cbfdd8c4ee277dd7aef847389951d810942722110923bdba005caacb 2594 metkit_1.9.2-1.dsc 5fbb3e8e96676e5fc6382bf9d1e41fc61df35364f965ace68e3b165d9156c9ce 137120 metkit_1.9.2.orig.tar.xz 97148cc0727a88182f0f3fe3396e09005a4522330b70af77e53cbe5451c56416 3932 metkit_1.9.2-1.debian.tar.xz"
+    "3fdb3eab40a4a80aeb4580a9b8a2358ea6fc372669b4b225a53c9cb08b7eafc9 2608 metkit_1.10.13-2.dsc 2f9388623c4011b381ef3242d9f510e4fb5ab7ac0cca5285a3f7c023394cd707 412564 metkit_1.10.13.orig.tar.xz 67d0eba0a3fbcbbdbbe6177739cdfb3ed1d4f38ffbcc9f602c45b13ffdc8f88c 4308 metkit_1.10.13-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/m/metkit"
   ],
   "Files": [
-    "175cd3e82541fe44a6b13b5ef940935c 2594 metkit_1.9.2-1.dsc 660c06aca68d62742709c75b12356560 137120 metkit_1.9.2.orig.tar.xz 895a5ec0940c6578e6fa9f26dc21d2fa 3932 metkit_1.9.2-1.debian.tar.xz"
+    "8b483147c3101f5ab2473d0efe395921 2608 metkit_1.10.13-2.dsc 87c8a9a8dd19b9483e874624607865f0 412564 metkit_1.10.13.orig.tar.xz 6354f3249ac33410580928229d3a245e 4308 metkit_1.10.13-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,15 +39,15 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Vcs-Browser": [
     "https://salsa.debian.org:/science-team/metkit.git"
   ],
   "Vcs-Git": [
-    "https://salsa.debian.org:/science-team/metkit.git -b debian/latest"
+    "https://salsa.debian.org/science-team/metkit.git -b debian/latest"
   ],
   "Version": [
-    "1.9.2-1"
+    "1.10.13-2"
   ]
 }
