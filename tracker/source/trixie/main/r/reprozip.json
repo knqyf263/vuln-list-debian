@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-python, libsqlite3-dev, python3-all-dev, python3-requests, python3-rpaths, python3-setuptools, python3-usagestats, python3-yaml"
   ],
   "Checksums-Sha256": [
-    "6514c13bc52424803ea4e9feb18b2fe2108c319fff0878081f268be21fe5650b 2201 reprozip_1.1-2.dsc 876801836ad8beb09aaf707cbb2a74d6b3eef72077a27c0cb04ba1f20a3fb26a 55060 reprozip_1.1.orig.tar.gz 78d0c77fcf1104eec180bff2f164d6b411ade2416d06b38061436ea39bf6279d 7976 reprozip_1.1-2.debian.tar.xz"
+    "dabd502357caf5bd3cb87f0f6d166fa0fe787005ba7b7663bba54f33ff3092f0 2201 reprozip_1.2-1.dsc a98b7f04c52c60072e3c42da21997d3ad41161ff6cb1139e18cda8d3012120f9 58973 reprozip_1.2.orig.tar.gz e8937bea5da86f8e7c49b47b95a1fc671ea33c4c2088879290a033549af8e3be 8068 reprozip_1.2-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/reprozip"
   ],
   "Files": [
-    "d8aa896de8f8820c5369e4e16667c02c 2201 reprozip_1.1-2.dsc 680cf545209397a5a1da366c853541f5 55060 reprozip_1.1.orig.tar.gz 35ae7dc6ab956ce49b801318eacedfb0 7976 reprozip_1.1-2.debian.tar.xz"
+    "de78c1955314a34ca4b910061bef4f38 2201 reprozip_1.2-1.dsc cf815f673a18d8b16c7ab50329ff1b27 58973 reprozip_1.2.orig.tar.gz 131a9df76d069f37907ba6176cc30c6b 8068 reprozip_1.2-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.0"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/science-team/reprozip.git"
   ],
   "Version": [
-    "1.1-2"
+    "1.2-1"
   ]
 }

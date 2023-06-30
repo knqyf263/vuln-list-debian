@@ -9,16 +9,16 @@
     "debhelper-compat (= 13), dh-sequence-python3, mafft, python3-all, python3-setuptools, python3-pytest \u003c!nocheck\u003e, python3-pytest-mock \u003c!nocheck\u003e, python3-biopython \u003c!nocheck\u003e, python3-jsonschema \u003c!nocheck\u003e, python3-networkx \u003c!nocheck\u003e, python3-packaging \u003c!nocheck\u003e, python3-pandas \u003c!nocheck\u003e, python3-pyfastx \u003c!nocheck\u003e, python3-treetime (\u003e= 0.9.4) \u003c!nocheck\u003e, python3-freezegun \u003c!nocheck\u003e, python3-isodate \u003c!nocheck\u003e, python3-zstandard \u003c!nocheck\u003e, vcftools \u003c!nocheck\u003e, python3-xopen (\u003e= 1.7.0-1~)"
   ],
   "Checksums-Sha256": [
-    "90740ee46056ba37ab2520cfc5985cbbc346493fce398afb8cfb6254143edd22 2660 augur_22.0.2-1.dsc b1e1a091d152665884ee891ed226589caa731539f7937b14f07b9c85656844de 13376119 augur_22.0.2.orig.tar.gz ac1720a0e449cccd1f52f81584f0dd47dea76ecee1dfe9dbe3cf0b427f95126a 15020 augur_22.0.2-1.debian.tar.xz"
+    "475a42d6df6e0e53fb1189b8456c32f8fb04cb65dd40ea9ce353846cd192faa4 2660 augur_22.0.3-1.dsc 0c3b71533e10867640953b1649673fcc4947e9bb63e32730b0695d09b245b4ba 13376088 augur_22.0.3.orig.tar.gz 8adf29f73db7ff76206318ae98032c4d0a4b99d5326e146d160571db8b479815 15012 augur_22.0.3-1.debian.tar.xz"
   ],
   "Dgit": [
-    "26b775516fc18600b70933a79e8fd4e7096280fc debian archive/debian/22.0.2-1 https://git.dgit.debian.org/augur"
+    "0ec6113f0a19c2860760d44fcb0f0172617d8245 debian archive/debian/22.0.3-1 https://git.dgit.debian.org/augur"
   ],
   "Directory": [
     "pool/main/a/augur"
   ],
   "Files": [
-    "f648667eadcacc0411b0ec7e2aef19e6 2660 augur_22.0.2-1.dsc 0eaec2cef13ddd58f9f457632bfa7883 13376119 augur_22.0.2.orig.tar.gz 634caf49cc38082ee2687855811e74ec 15020 augur_22.0.2-1.debian.tar.xz"
+    "949cd44ab0727d33ec7b717dbfdef7e3 2660 augur_22.0.3-1.dsc 3bab4863e9f2541a9ecd193823f45693 13376088 augur_22.0.3.orig.tar.gz 5a4a88b325ca630a2d561a99de84382d 15012 augur_22.0.3-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -60,6 +60,6 @@
     "https://salsa.debian.org/med-team/augur.git"
   ],
   "Version": [
-    "22.0.2-1"
+    "22.0.3-1"
   ]
 }

@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-sequence-python3, pybuild-plugin-pyproject, python3-all, python3-poetry-core, python3-pytest \u003c!nocheck\u003e, python3-snowballstemmer (\u003e= 2.2.0), python3-sphinx"
   ],
   "Checksums-Sha256": [
-    "89955de78cb80cdf166c6c8bb904ba5722c8ee4562aafb62385dae08b5360452 2238 pydocstyle_6.2.3-3.dsc 1e53932641bf1f7fc2b8dc89c7b4799849b62c9931662befc6a717269d512eca 77612 pydocstyle_6.2.3.orig.tar.gz f974a281212d20c81c61127398d7e180d176d60cbf9c274deb618a9f8c2f2318 4824 pydocstyle_6.2.3-3.debian.tar.xz"
+    "d380adf65f4191a8848a0e3cdfeb9c44c30fb9218f108e975fe6fe52a48bb253 2238 pydocstyle_6.3.0-1.dsc 29ed0e8b1abe5f4590132f456b6f9cbf0866b89fabf836bc9474fde706e2e13e 78058 pydocstyle_6.3.0.orig.tar.gz 04b6951a791bda2cc1a5e00391bf303b42970a42fb3e83fdccf800c9c10ed4d4 4880 pydocstyle_6.3.0-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/pydocstyle"
   ],
   "Files": [
-    "176db2c535febea3e8f3edc391ac4804 2238 pydocstyle_6.2.3-3.dsc 88e920ca279732dfc76c6a3786df70a5 77612 pydocstyle_6.2.3.orig.tar.gz 7bd2c224ab8a7bf8410ddbf4597ba624 4824 pydocstyle_6.2.3-3.debian.tar.xz"
+    "6279f96f328452b21baaa7a8b3764913 2238 pydocstyle_6.3.0-1.dsc 2327b2a8d30cc1f293339b9c1ee53956 78058 pydocstyle_6.3.0.orig.tar.gz c3d7cebf6f539ba7852598dbccf8349d 4880 pydocstyle_6.3.0-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/python-team/packages/pydocstyle.git"
   ],
   "Version": [
-    "6.2.3-3"
+    "6.3.0-1"
   ]
 }

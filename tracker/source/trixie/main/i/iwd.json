@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), libdbus-1-dev, libell-dev (\u003e= 0.57), libreadline-dev, openssl \u003c!nocheck\u003e, python3-docutils \u003c!nodoc\u003e, systemd"
   ],
   "Checksums-Sha256": [
-    "d5ad684e23b87c2ed40c03f712b30a9570eed4d11ea87df3d32df3eb78cbbb31 1942 iwd_2.5-1.dsc 3441effed58297b63779e706c74884234acb874b07872f8b55e0da28729fda32 1064656 iwd_2.5.orig.tar.xz bc6357dd5092696479630701e5bee620cfa772b97011986f0f9048d44de9d952 16728 iwd_2.5-1.debian.tar.xz"
+    "073e722806d419de3aedf101c30613d851cf0b447c180c647dea66cc82f77404 1942 iwd_2.6-1.dsc f7ac93aeef672604f5b5194ca038035ae222925be392c4345873c9742f477797 1066332 iwd_2.6.orig.tar.xz e4bbf4a162435a1d18e9ec17294ed894947cdbe2b780781f8f3609c7334649d7 16748 iwd_2.6-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/i/iwd"
   ],
   "Files": [
-    "772129fef4fb2f072eac5f3125b4dc20 1942 iwd_2.5-1.dsc 29304b6c5d72e04ce3f046131d41a296 1064656 iwd_2.5.orig.tar.xz 608467cb4a8c2688e63aa695ca72f8fa 16728 iwd_2.5-1.debian.tar.xz"
+    "2713f080aebedc970c9e40e7551f7873 1942 iwd_2.6-1.dsc 4adea0f1b8fba7840d334b6a2855c626 1066332 iwd_2.6.orig.tar.xz ed369c288e97b5e5ed56ef221a0833ca 16748 iwd_2.6-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/debian/iwd.git"
   ],
   "Version": [
-    "2.5-1"
+    "2.6-1"
   ]
 }

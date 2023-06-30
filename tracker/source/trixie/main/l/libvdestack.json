@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), cmake (\u003e= 3.12), libvdeplug-dev, libcap-dev, libexecs-dev"
   ],
   "Checksums-Sha256": [
-    "02638d24faf939eb8698ab8a4aec4396d8275fa727a01bdb444160f57c5a9973 2101 libvdestack_0.1.2-1.dsc e5715ea5b3fe8c60f87d15348bdf7577b6a6538d809e7dcb3057ba6162d4f114 19334 libvdestack_0.1.2.orig.tar.gz 81f465bed4be7b275670ead7a4f3676912ce00e3394e58d033aa16b2c7fe0ddc 2432 libvdestack_0.1.2-1.debian.tar.xz"
+    "f63df61c6e0eb570920d5852b79b23964b21c7faf9bf1252b83d8fa7c4e7910a 2101 libvdestack_0.1.3-1.dsc ded64f3365c68f28846ed443ba32c8c3bddc070f6fcc1ce3712afd68b597ba65 19601 libvdestack_0.1.3.orig.tar.gz c05646b8fdde6ea19700f1bb24d034d56629266fdf0e022bf4b60a800fac85dc 2520 libvdestack_0.1.3-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/libv/libvdestack"
   ],
   "Files": [
-    "c61f17b60bd0c345fc018e322864d7e6 2101 libvdestack_0.1.2-1.dsc bb2da1397eadfe28aeb52d6e2f475d41 19334 libvdestack_0.1.2.orig.tar.gz 988f94748590b9e7e0a2f201728c1071 2432 libvdestack_0.1.2-1.debian.tar.xz"
+    "25b6ce32f3550a985a408490e269392b 2101 libvdestack_0.1.3-1.dsc 0f530042f40bc336a0c9dde1be58d090 19601 libvdestack_0.1.3.orig.tar.gz 9e77ad36bb102e25a14f3f1edfd58d40 2520 libvdestack_0.1.3-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.5.1"
+    "4.6.2"
   ],
   "Uploaders": [
     "Andrea Capriotti \u003ccapriott@debian.org\u003e, Renzo Davoli \u003crenzo@cs.unibo.it\u003e"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/virtualsquare-team/libvdestack.git"
   ],
   "Version": [
-    "0.1.2-1"
+    "0.1.3-1"
   ]
 }

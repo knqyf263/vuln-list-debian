@@ -6,16 +6,16 @@
     "xmoto, xmoto-data"
   ],
   "Build-Depends": [
-    "cmake, debhelper-compat (= 13), libbz2-dev, libchipmunk-dev, libcurl4-gnutls-dev, libgl-dev, libjpeg-dev, liblua5.1-0-dev, libode-dev, libpng-dev, libsdl-mixer1.2-dev, libsdl-net1.2-dev, libsdl-ttf2.0-dev, libsdl1.2-dev, libsqlite3-dev, libxdg-basedir-dev, libxml2-dev, zlib1g-dev"
+    "cmake, debhelper-compat (= 13), libbz2-dev, libchipmunk-dev, libcurl4-gnutls-dev, libgl-dev, libglu1-mesa-dev | libglu-dev, libjpeg-dev, liblua5.4-dev, liblzma-dev, libode-dev, libpng-dev, libsdl2-dev, libsdl2-mixer-dev, libsdl2-net-dev, libsdl2-ttf-dev, libsqlite3-dev, libxdg-basedir-dev, libxml2-dev, zlib1g-dev"
   ],
   "Checksums-Sha256": [
-    "ce0d9dff977ced0d2790c80c6f5e105960421db993172ac863e17d1261f2bee6 2398 xmoto_0.6.1+repack-9.dsc 340f81df1bf42930d89c8ff528c8c25caab8f99b2cf67bf3b38d65d079894197 33728736 xmoto_0.6.1+repack.orig.tar.xz be38be03e55f977c5fc4439243a4fdd993d70647d0bbe500b9175804b87c2ac2 15852 xmoto_0.6.1+repack-9.debian.tar.xz"
+    "6ed78ae4253d55a968d973d14b5ea85a7efb9f81925df5be8051266e56a5a0fe 2432 xmoto_0.6.2+repack-2.dsc 54e16d3d157c61542dd032ecf622234f25a8c20d821cc82debda6f4f093f9c7a 34156052 xmoto_0.6.2+repack.orig.tar.xz 73a3ec9d3ab07fda2eeeebabaee291dc5e00b495fa01a79ebe1b63174c7af3f3 15956 xmoto_0.6.2+repack-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/x/xmoto"
   ],
   "Files": [
-    "dfe0a876f072433e49bdd1a1cbba81ac 2398 xmoto_0.6.1+repack-9.dsc 5e2cdf3b5eb2c70cc89f40fa15cee0f1 33728736 xmoto_0.6.1+repack.orig.tar.xz 6aba4a506f087db218c81e8880874673 15852 xmoto_0.6.1+repack-9.debian.tar.xz"
+    "a075acf34cc775568a567fad39504aa6 2432 xmoto_0.6.2+repack-2.dsc d04200de5b7768194cc5d081498438a3 34156052 xmoto_0.6.2+repack.orig.tar.xz 6b1aeb3179d5460e54d39d16f6e9632f 15956 xmoto_0.6.2+repack-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/games-team/xmoto.git"
   ],
   "Version": [
-    "0.6.1+repack-9"
+    "0.6.2+repack-2"
   ]
 }

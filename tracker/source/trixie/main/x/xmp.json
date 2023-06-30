@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), libasound2-dev | libasound-dev [linux-any], libaudio-dev, libpulse-dev, libxmp-dev"
   ],
   "Checksums-Sha256": [
-    "3050900229f47bebd1de5b796a8cef741e67cb1df881bfb2ba7b326a2f35b8ff 1861 xmp_4.1.0-4.dsc 1dbd61074783545ac7bef5b5daa772fd2110764cb70f937af8c3fad30f73289e 210435 xmp_4.1.0.orig.tar.gz 550d61d39b04d4f42b84316f18dc47459ccebeeaa009a99109af1eca1a6fc4d3 7504 xmp_4.1.0-4.debian.tar.xz"
+    "7bb063d1e9d5a5b7fff8ed2d7d625d044aa3bf5ae8d3d2a5795de40791d67b29 1861 xmp_4.2.0-1.dsc dc54513af9a4681029a1243fd0c9cdf153d813a1125de6c782926674285bc5ae 224328 xmp_4.2.0.orig.tar.gz 92699334a662dfbf113db3fed916691af0368d09258002d3b4cd093f2afe86ff 7428 xmp_4.2.0-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/x/xmp"
   ],
   "Files": [
-    "759a65752091a07fbe2b093afea1a12e 1861 xmp_4.1.0-4.dsc d9661b0be1a7ec79fd6185b166c4e9dd 210435 xmp_4.1.0.orig.tar.gz bd8f02787799f27e18b47e8bcf6757bb 7504 xmp_4.1.0-4.debian.tar.xz"
+    "9b974d20da503447bf1877303c250561 1861 xmp_4.2.0-1.dsc db41dd01ec0919091c322b1d74bf56e7 224328 xmp_4.2.0.orig.tar.gz c49bd6b0834b94ababeeedabce1099cb 7428 xmp_4.2.0-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -48,6 +48,6 @@
     "https://salsa.debian.org/mod-player-team/xmp.git"
   ],
   "Version": [
-    "4.1.0-4"
+    "4.2.0-1"
   ]
 }

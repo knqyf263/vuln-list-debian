@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-r, r-base-dev, r-cran-ggplot2, r-cran-lattice, r-cran-mvtnorm"
   ],
   "Checksums-Sha256": [
-    "0132f42ed9ad02f9433a58da82d72c10b87442d59f8a5429ea37fb3d7d724068 2281 r-cran-dosefinding_1.0-4-1.dsc 62b7c67be561049003e2ed8eeec9bb71d2d1a3b0d998fced2206a188ddc1dccf 1217045 r-cran-dosefinding_1.0-4.orig.tar.gz c723c9ede50d428378f62cc8085c61e668d0c0a451c3c9b12937ba9ef04ea1c6 4020 r-cran-dosefinding_1.0-4-1.debian.tar.xz"
+    "4db1e2e630bc32b6373865a18e622029faa3ca4a0f6442d3c65e973bcd5e7d65 2281 r-cran-dosefinding_1.0-5-1.dsc 2ce72a661a5ece37119b15d74a2cc18987a64ab9e87ac46fa0452748267f8c69 1217337 r-cran-dosefinding_1.0-5.orig.tar.gz 493e2cf3e8f268df91e20d01475d7f52168c170b7a1ec0349813d6135c2749a7 4028 r-cran-dosefinding_1.0-5-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/r-cran-dosefinding"
   ],
   "Files": [
-    "a1d4c89b31ef0c992e27e5bd989438bc 2281 r-cran-dosefinding_1.0-4-1.dsc 69b75c6b76b0d0c29e9e998359b2cd9c 1217045 r-cran-dosefinding_1.0-4.orig.tar.gz 2dbde5ebedfd0bbb09657acba71caf96 4020 r-cran-dosefinding_1.0-4-1.debian.tar.xz"
+    "8a89dd747119edd067a9100bd9d5217b 2281 r-cran-dosefinding_1.0-5-1.dsc 32c3d4a4663d47bb417961048715cc54 1217337 r-cran-dosefinding_1.0-5.orig.tar.gz d7fa42983a36e5c76ce6f36dc15b0ac4 4028 r-cran-dosefinding_1.0-5-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/r-pkg-team/r-cran-dosefinding.git"
   ],
   "Version": [
-    "1.0-4-1"
+    "1.0-5-1"
   ]
 }

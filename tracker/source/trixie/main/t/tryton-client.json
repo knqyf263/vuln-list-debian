@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-python, gir1.2-gtk-3.0, python3, python3-chardet, python3-dateutil, python3-gi-cairo, python3-setuptools, python3-sphinx"
   ],
   "Checksums-Sha256": [
-    "6975e21a7f3d91612bb5238ebc71e34bde4b41b71946f5fd988d8593fb2dfa43 2546 tryton-client_6.0.26-1.dsc f4741a0dfa37bd0985b7551ab357f4b234cacfe4eb2f83958bdd019405496363 526294 tryton-client_6.0.26.orig.tar.gz c836eb6ed2d7d08eee84707226a5a0ae24c2b7f820cf55cecf087e043b9f7ebc 506 tryton-client_6.0.26.orig.tar.gz.asc b18c29e3708fe21675c595aa9190fb2d9f31c59bd1130b295943581e89c094b4 20396 tryton-client_6.0.26-1.debian.tar.xz"
+    "08f1c70052d13534a72b756e473e1044a858180a7b5dc7b19588e32f546d7ee2 2546 tryton-client_6.0.27-1.dsc 8cf8f3732486ff5f9753108a02dbf174d42a2a7ac9a0fb5310c4d38569f63147 526353 tryton-client_6.0.27.orig.tar.gz d3a999f5779b180d3c5583d4fd273236e4b044c9b432f6cfbc870ad8e083a81a 506 tryton-client_6.0.27.orig.tar.gz.asc f3ef0da169996f8ba0193b62f0b463a48e9ff7b17c7ddfec019427404ec801a6 20404 tryton-client_6.0.27-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/t/tryton-client"
   ],
   "Files": [
-    "48d9fa8c8a71b0666ccade0f112055cf 2546 tryton-client_6.0.26-1.dsc 1c24b66b22b114b6cfe28bf6686168b4 526294 tryton-client_6.0.26.orig.tar.gz 4a2d8b6bce1a0dda3cb52385277be567 506 tryton-client_6.0.26.orig.tar.gz.asc ae6135c107a0932cf65b6f34a79e3f21 20396 tryton-client_6.0.26-1.debian.tar.xz"
+    "556d738cc724f5da02b4d2b724a652fc 2546 tryton-client_6.0.27-1.dsc a7db14d1abae5ca00fa8c9969e663ab2 526353 tryton-client_6.0.27.orig.tar.gz 70cba7c2bd1323aa11f43fffa0f2de94 506 tryton-client_6.0.27.orig.tar.gz.asc 34d2c15488437d985c9b83881624588e 20404 tryton-client_6.0.27-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/tryton-team/tryton-client.git"
   ],
   "Version": [
-    "6.0.26-1"
+    "6.0.27-1"
   ]
 }

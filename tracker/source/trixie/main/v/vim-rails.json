@@ -9,19 +9,22 @@
     "debhelper-compat (= 13)"
   ],
   "Checksums-Sha256": [
-    "b2ef46d05210e5bae128a4658b1339e776e6729ff67700b9b19cb35fec13d06a 1865 vim-rails_4.5~20110829-2.dsc d15a29acc106a90363feb0336c79a34bdc15225b26b86d16b2b34f541b78481c 61369 vim-rails_4.5~20110829.orig.tar.gz 69272590f30b1c1cc7042fe735485edf0dd74374671edc261654fa76064d725d 3544 vim-rails_4.5~20110829-2.debian.tar.xz"
+    "9fd07a7fcb78023632f224fcadc7c322ca11328eb222dd6c81f80c08aae30d53 1851 vim-rails_5.4-1.dsc 4593881e06baf669d4dc0650961a4c78bf45b6f2037a61bd6b411946ccd50d72 64631 vim-rails_5.4.orig.tar.gz e33aa2b7af7db239ba99e23735e59d5cbf1b697e15f9e52a705ecbc850617570 3588 vim-rails_5.4-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/v/vim-rails"
   ],
   "Files": [
-    "a3ce9b0089294412cf928b9d8e6e1219 1865 vim-rails_4.5~20110829-2.dsc 16e0d44b585528a08bd6471a7fe6d7af 61369 vim-rails_4.5~20110829.orig.tar.gz ce0b020ffe1b691f520016a1244f5378 3544 vim-rails_4.5~20110829-2.debian.tar.xz"
+    "2877f07bd423c62f32c1a40bf31f24e5 1851 vim-rails_5.4-1.dsc 6e8367c5c0eb3fea4caa981216a06b4f 64631 vim-rails_5.4.orig.tar.gz 8428272947066ae7f90c98ec25ed22ba 3588 vim-rails_5.4-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
   ],
+  "Homepage": [
+    "https://www.vim.org/scripts/script.php?script_id=1567"
+  ],
   "Maintainer": [
-    "Debian QA Group \u003cpackages@qa.debian.org\u003e"
+    "Thiago Marques Siqueira \u003cthiagoms.15@gmail.com\u003e"
   ],
   "Package": [
     "vim-rails"
@@ -36,15 +39,15 @@
     "editors"
   ],
   "Standards-Version": [
-    "4.5.0"
+    "4.6.2"
   ],
   "Vcs-Browser": [
-    "http://git.debian.org/?p=collab-maint/vim-rails.git;a=summary"
+    "https://salsa.debian.org/debian/vim-rails"
   ],
   "Vcs-Git": [
-    "git://git.debian.org/collab-maint/vim-rails.git"
+    "https://salsa.debian.org/debian/vim-rails.git"
   ],
   "Version": [
-    "4.5~20110829-2"
+    "5.4-1"
   ]
 }

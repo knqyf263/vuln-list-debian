@@ -9,7 +9,7 @@
     "debhelper-compat (= 13), dh-ros, ament-cmake, cmake"
   ],
   "Checksums-Sha256": [
-    "aaad99f79c297ff92564946f4b9e5ca278a61582a4e15a54853f0f7518d5dce0 2135 ros2-test-interface-files_0.10.1-1.dsc 7688e8399ebba909745f0da05d1b598b1a5822dfccdbc3f6e11ab380f772f8f0 8451 ros2-test-interface-files_0.10.1.orig.tar.gz 39433352eb6d14ebb3634f9bb1c195fd7e5beb4df5a868f0bc8d21a081ee29fb 1540 ros2-test-interface-files_0.10.1-1.debian.tar.xz"
+    "85e83c88e679067ac673f5425e5ee9bb48c6a63a2fcfd802f7391c43c8a6408b 2135 ros2-test-interface-files_0.11.0-1.dsc 8027ccf9e83984a82369c42e7064057cff41595e45988cec0432eb29b8b5f141 8586 ros2-test-interface-files_0.11.0.orig.tar.gz 2c9e9e864221c5667fa3fe66de21980d88908b5c3f40725218e4a3f6f308cc64 1772 ros2-test-interface-files_0.11.0-1.debian.tar.xz"
   ],
   "Description": [
     "Test interface files for ROS 2 This package provides message definitions and fixtures which are used exclusively for testing purposes."
@@ -18,7 +18,7 @@
     "pool/main/r/ros2-test-interface-files"
   ],
   "Files": [
-    "f492f34e230e98722497061576cb7844 2135 ros2-test-interface-files_0.10.1-1.dsc d58ea37cb43e3acf82ecda9311a79c5f 8451 ros2-test-interface-files_0.10.1.orig.tar.gz d0f1940c517c29a4f0391ad3594caf49 1540 ros2-test-interface-files_0.10.1-1.debian.tar.xz"
+    "f65a0ca0154880f67b73e52f616d5b76 2135 ros2-test-interface-files_0.11.0-1.dsc 10ed7ab30c0261f6b1546ff0734853f7 8586 ros2-test-interface-files_0.11.0.orig.tar.gz b30151b17fcf92103aabc82fef223eda 1772 ros2-test-interface-files_0.11.0-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -42,7 +42,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Uploaders": [
     "Timo Röhling \u003croehling@debian.org\u003e"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/robotics-team/ros2-test-interface-files.git"
   ],
   "Version": [
-    "0.10.1-1"
+    "0.11.0-1"
   ]
 }

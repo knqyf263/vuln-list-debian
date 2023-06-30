@@ -6,16 +6,16 @@
     "libpwizlite-dev, libpwizlite3"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), cmake (\u003e= 3.12), dh-exec (\u003e= 0.3), dpkg-dev (\u003e= 1.18.25), libboost-dev, libboost-thread-dev, libboost-filesystem-dev, libboost-iostreams-dev, libboost-chrono-dev, zlib1g-dev, python3-docutils"
+    "debhelper-compat (= 13), cmake, dh-exec, dpkg-dev (\u003e= 1.18.25), libboost-dev, libboost-thread-dev, libboost-filesystem-dev, libboost-iostreams-dev, libboost-chrono-dev, zlib1g-dev, python3-docutils"
   ],
   "Checksums-Sha256": [
-    "47d5e437ebfd0ae9f754d8bb2a618cae1fb036110b2a8d289385720c9d323cac 2218 libpwizlite_3.0.4-1.dsc e9ca7e1fa64d27479ecb9d06109bd4b59b0d88e71a3eb65f8f2aa81eb4aa00b0 746489 libpwizlite_3.0.4.orig.tar.gz 292aa639b9bf3310214bdd0c6bfe2bb5f661a00a807e26fee2befda63e27b750 7904 libpwizlite_3.0.4-1.debian.tar.xz"
+    "5a0502afa70ab7631f3c27b72d678332d160bdb40764d0558e42ea72689ff0b8 2199 libpwizlite_3.0.5-1.dsc 5aa50baf25990a66bf41ee9e69b288df6ca0bb17751e8b75a17d6feb8a890606 752173 libpwizlite_3.0.5.orig.tar.gz d9c48b90bbe298b99ea72115b4f94783197064f7dd2c597528e4b3cd7d7847c4 8092 libpwizlite_3.0.5-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/libp/libpwizlite"
   ],
   "Files": [
-    "03169730e23c69420b1cbc1da892cc8c 2218 libpwizlite_3.0.4-1.dsc 809c0df7a435f493a396854e951c4313 746489 libpwizlite_3.0.4.orig.tar.gz 67e0cccfefd107643e7e19c1ba028c0f 7904 libpwizlite_3.0.4-1.debian.tar.xz"
+    "b397f7a6d02fc3e8246cb5dfdedbd8c0 2199 libpwizlite_3.0.5-1.dsc 250fb60fde3fe89efb7743110c95cb1f 752173 libpwizlite_3.0.5.orig.tar.gz e0fbb7b06cb5598e122a87ed2e86e689 8092 libpwizlite_3.0.5-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.0"
+    "4.6.2"
   ],
   "Uploaders": [
     "Filippo Rusconi \u003clopippo@debian.org\u003e"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/debichem-team/libpwizlite.git"
   ],
   "Version": [
-    "3.0.4-1"
+    "3.0.5-1"
   ]
 }

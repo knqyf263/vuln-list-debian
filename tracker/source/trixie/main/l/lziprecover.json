@@ -6,16 +6,16 @@
     "lziprecover"
   ],
   "Build-Depends": [
-    "debhelper (\u003e= 13.1~), debhelper-compat (= 13), texinfo"
+    "debhelper-compat (= 13), texinfo"
   ],
   "Checksums-Sha256": [
-    "d375795f277cc99fcaf94dbebadc4872120a3a6481581130db47dfc5d8215e8d 2008 lziprecover_1.24~pre1-1.dsc 76d895ebf252c5df23078a83e50d41fd83ffa95c6d13451012886201fcfc27f7 114860 lziprecover_1.24~pre1.orig.tar.xz 8f65b0b337ac41a1f0b7c8cca73466bcf9934d11e94e36f19e3e6fb3458c9a52 5940 lziprecover_1.24~pre1-1.debian.tar.xz"
+    "671aa1cae7bf428d53868f99aeaa4049dc8eeb370afb91e85dba51a1a4890121 1986 lziprecover_1.24~pre1-2.dsc 76d895ebf252c5df23078a83e50d41fd83ffa95c6d13451012886201fcfc27f7 114860 lziprecover_1.24~pre1.orig.tar.xz 16e97922cd84129dea49970ca561c5d62ba287d5a7a20ddd5a4fb2243d21f9a4 5972 lziprecover_1.24~pre1-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/l/lziprecover"
   ],
   "Files": [
-    "379529d6719175e5d7e5f5d40696868b 2008 lziprecover_1.24~pre1-1.dsc 79e8fc34fbad151c7a8bf5c7ad5110a2 114860 lziprecover_1.24~pre1.orig.tar.xz 935315a3dfcab4fa26b4e4c45c8c9b0b 5940 lziprecover_1.24~pre1-1.debian.tar.xz"
+    "c4ba35d24cafdef8e7e7e64b2e574409 1986 lziprecover_1.24~pre1-2.dsc 79e8fc34fbad151c7a8bf5c7ad5110a2 114860 lziprecover_1.24~pre1.orig.tar.xz f85b4d1dbed8b6aa87160518877f155e 5972 lziprecover_1.24~pre1-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -48,6 +48,6 @@
     "https://git.progress-linux.org/users/daniel.baumann/debian/packages/lziprecover"
   ],
   "Version": [
-    "1.24~pre1-1"
+    "1.24~pre1-2"
   ]
 }

@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-python, jdupes, python3-all, python3-setuptools, python3-sphinx"
   ],
   "Checksums-Sha256": [
-    "e4fcca58a5e6f14313a56786ef97dd957873bbc0b2d0fe03b0836d6e82408485 2718 tryton-modules-account-invoice-defer_6.0.3-3.dsc b9606cc5b0c582430c55b30c0400fcfafcf15f17c4f958cabcf0c673dcbc13d2 32022 tryton-modules-account-invoice-defer_6.0.3.orig.tar.gz 92b982b11750711173210bd066df6259a0be0d0e4ae09b70087501d363c0477f 506 tryton-modules-account-invoice-defer_6.0.3.orig.tar.gz.asc 85ebcd0efcd040b0b972cf84c2694de0927af3c6ae18d0a323e4fadcd8811073 11912 tryton-modules-account-invoice-defer_6.0.3-3.debian.tar.xz"
+    "aabc794b99afa6707cc26bbdf541a08ede25e89197a694d5a7c834a9f6e23f29 2718 tryton-modules-account-invoice-defer_6.0.4-1.dsc 9857f7a641f5d2dd066bb97f3c925c8e907850691354d67a9d5078840224afbb 30978 tryton-modules-account-invoice-defer_6.0.4.orig.tar.gz 6ff7080ae3fac4f5969583dbc8f6ab6f98ceb6fc64ea06e7e2fc6f21f8448b07 506 tryton-modules-account-invoice-defer_6.0.4.orig.tar.gz.asc 5264e3b228f3a0353112280113e0951eb33cba94cf0687d8757355942be5c08c 11944 tryton-modules-account-invoice-defer_6.0.4-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/t/tryton-modules-account-invoice-defer"
   ],
   "Files": [
-    "3d7e901d8ea01a18a0fd31282fc3702b 2718 tryton-modules-account-invoice-defer_6.0.3-3.dsc 46fa3adcf5fd4b7a652399543eed9ec7 32022 tryton-modules-account-invoice-defer_6.0.3.orig.tar.gz 142b1888882ecf256e32351ed117cb27 506 tryton-modules-account-invoice-defer_6.0.3.orig.tar.gz.asc b34ec22c8320879b102dc130402e2689 11912 tryton-modules-account-invoice-defer_6.0.3-3.debian.tar.xz"
+    "b2b3d1dc91146196bb5aad8425b1b5d3 2718 tryton-modules-account-invoice-defer_6.0.4-1.dsc aeb03df09b6769fe0246306a3a9b2a40 30978 tryton-modules-account-invoice-defer_6.0.4.orig.tar.gz 4234149cfe83de39c5ea6dd96b7f3a2b 506 tryton-modules-account-invoice-defer_6.0.4.orig.tar.gz.asc 9020f6b1328e686c80b6ef3750ac0a27 11944 tryton-modules-account-invoice-defer_6.0.4-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/tryton-team/tryton-modules-account-invoice-defer.git"
   ],
   "Version": [
-    "6.0.3-3"
+    "6.0.4-1"
   ]
 }

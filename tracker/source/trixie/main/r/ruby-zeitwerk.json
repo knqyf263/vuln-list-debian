@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), gem2deb, rake, ruby-minitest, ruby-minitest-focus, ruby-minitest-reporters"
   ],
   "Checksums-Sha256": [
-    "d7d78495b3bf1c52a524007e04e17e7d45af24c907430e1a6b1e372e13a15611 1484 ruby-zeitwerk_2.6.1-1.dsc 04bfd3e4fae8e9a91d0dcabd3f42f0a0346065b8957f8edfdc0bc12af110cda6 113276 ruby-zeitwerk_2.6.1.orig.tar.gz addc3258e096d09757a5be39577b444c6922b6dee5adcf92767713da87205a95 3048 ruby-zeitwerk_2.6.1-1.debian.tar.xz"
+    "a69e61e1a89828180beeb3b1e0eb015c9d2754ec0bf5a787c75fde566f4e416e 2118 ruby-zeitwerk_2.6.8-1.dsc 1694ee8f6afb5061ea28a713c869e396f9d06deb7540acb5206c5fa14950d81b 124209 ruby-zeitwerk_2.6.8.orig.tar.gz 24d321127edca227ecc935b8691824ed20bc62ce24e787693972795c74fcd2ed 3980 ruby-zeitwerk_2.6.8-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/ruby-zeitwerk"
   ],
   "Files": [
-    "9244030d0f7aa3239f2b49e8bb63ac23 1484 ruby-zeitwerk_2.6.1-1.dsc c610149194b4f75d947e502975529d3e 113276 ruby-zeitwerk_2.6.1.orig.tar.gz 06e7b3e9f1c748dea97fe0dd2da9e2a5 3048 ruby-zeitwerk_2.6.1-1.debian.tar.xz"
+    "db54da6c8972e688cf36935da0351e80 2118 ruby-zeitwerk_2.6.8-1.dsc 3a8675c00922a7310574929a43b9a790 124209 ruby-zeitwerk_2.6.8.orig.tar.gz 6314331d995f8a90a46c62ee1d03f545 3980 ruby-zeitwerk_2.6.8-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -42,7 +42,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest-pkg-ruby"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/ruby-team/ruby-zeitwerk.git"
   ],
   "Version": [
-    "2.6.1-1"
+    "2.6.8-1"
   ]
 }

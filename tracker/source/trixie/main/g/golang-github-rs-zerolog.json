@@ -6,16 +6,16 @@
     "golang-github-rs-zerolog-dev"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), dh-sequence-golang, golang-any, golang-github-coreos-go-systemd-dev, golang-github-pkg-errors-dev, golang-github-rs-xid-dev, golang-golang-x-tools-dev"
+    "debhelper-compat (= 13), dh-sequence-golang, golang-any, golang-github-coreos-go-systemd-dev, golang-github-mattn-go-colorable-dev, golang-github-pkg-errors-dev, golang-github-rs-xid-dev, golang-golang-x-tools-dev"
   ],
   "Checksums-Sha256": [
-    "6d7a079523575a163c21547fc22377e68e7a52123fdf20aeb394d9a41fe4f449 2349 golang-github-rs-zerolog_1.26.1-2.dsc 8d31146faaefe2f8d5d53fff04e936a84169e6c4869e6cd68840c707bf4e3612 164653 golang-github-rs-zerolog_1.26.1.orig.tar.gz b88176e16ae2fb9c586f5b56963049d0a938c3e4b3a5187eec4ee72029b1ea8f 3064 golang-github-rs-zerolog_1.26.1-2.debian.tar.xz"
+    "e5d38badfca35ea51ae1ea93b1283f060bb26f2129ba9d72eb6b7aac339f4c51 1781 golang-github-rs-zerolog_1.29.1-1.dsc 3ce3fd8b2a485c8e222af4f8363de032e80625ad8d502fca48ac46c2a46d4f62 166894 golang-github-rs-zerolog_1.29.1.orig.tar.gz 452cc19d9d981e2ebd625b49e8cf67ae960d7718b26aaee0b4e73bef1da95ed6 3156 golang-github-rs-zerolog_1.29.1-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/g/golang-github-rs-zerolog"
   ],
   "Files": [
-    "f1fc17863ca6c7dd90e81a7116164227 2349 golang-github-rs-zerolog_1.26.1-2.dsc 2a5f58e7851b25bb8cc206e12c2174d5 164653 golang-github-rs-zerolog_1.26.1.orig.tar.gz 5c025c1c0d68f0c15de9c6ab8c167f18 3064 golang-github-rs-zerolog_1.26.1-2.debian.tar.xz"
+    "dcfe67067bf25d9231371d34129b2e30 1781 golang-github-rs-zerolog_1.29.1-1.dsc f1154f2fb58034a4e1f11ee4bd17666f 166894 golang-github-rs-zerolog_1.29.1.orig.tar.gz 93e0720c05ece6f0598efb4c985adc23 3156 golang-github-rs-zerolog_1.29.1-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -42,7 +42,7 @@
     "golang"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest-pkg-go"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/go-team/packages/golang-github-rs-zerolog.git"
   ],
   "Version": [
-    "1.26.1-2"
+    "1.29.1-1"
   ]
 }

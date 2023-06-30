@@ -6,16 +6,16 @@
     "pdlzip"
   ],
   "Build-Depends": [
-    "debhelper (\u003e= 13.1~), debhelper-compat (= 13)"
+    "debhelper-compat (= 13)"
   ],
   "Checksums-Sha256": [
-    "605c509b7b0ea39126cbf4927aec6dd44641517ea08ef316075461942c8d147a 1901 pdlzip_1.12-5.dsc 9aa8b8135702cb13fdc4c14dd34a4cec7b7d22aa4fbe57f988441d7866ade29b 64036 pdlzip_1.12.orig.tar.xz 116581cfd69724e158a51700e5ab8c3dc16f99ade9814a50340e1981fc379440 5644 pdlzip_1.12-5.debian.tar.xz"
+    "2b2bd7f6fa251a93f64a5371be6b5657ccf30bb2f023361c232cce5d5fa22b2c 1879 pdlzip_1.12-6.dsc 9aa8b8135702cb13fdc4c14dd34a4cec7b7d22aa4fbe57f988441d7866ade29b 64036 pdlzip_1.12.orig.tar.xz 42af00280fcdb9dd8b35fe68a12abcef3bee994f76eed568189027b422acc0ff 5676 pdlzip_1.12-6.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/pdlzip"
   ],
   "Files": [
-    "5ad552e002a85e99195a4d7f33202ff4 1901 pdlzip_1.12-5.dsc 72c37fd2a0193751345bae3964a8b621 64036 pdlzip_1.12.orig.tar.xz b7db713425e25144a0217694f61bb777 5644 pdlzip_1.12-5.debian.tar.xz"
+    "ad41553d35b54e7fe46195ed8ac17532 1879 pdlzip_1.12-6.dsc 72c37fd2a0193751345bae3964a8b621 64036 pdlzip_1.12.orig.tar.xz d041deece998101cdb26b24dc1989a7b 5676 pdlzip_1.12-6.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -48,6 +48,6 @@
     "https://git.progress-linux.org/users/daniel.baumann/debian/packages/pdlzip"
   ],
   "Version": [
-    "1.12-5"
+    "1.12-6"
   ]
 }

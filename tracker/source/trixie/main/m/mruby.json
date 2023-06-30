@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), ruby, bison"
   ],
   "Checksums-Sha256": [
-    "4eb2814ee744bacaeb1de14d2e1d1cfc23451795988616e6b4597e36e7643457 1899 mruby_3.1.0-3.dsc 64ce0a967028a1a913d3dfc8d3f33b295332ab73be6f68e96d0f675f18c79ca8 741088 mruby_3.1.0.orig.tar.gz 9715814d51b0022b7ad61f4e8551b0b88f2783e41d235a5e338e635a33d69d60 7264 mruby_3.1.0-3.debian.tar.xz"
+    "e48a2ce9fe2c3cb73243d325c1e6186838eb62343711bfa177318a1491707687 1899 mruby_3.2.0-1.dsc 3c198e4a31d31fe8524013066fac84a67fe6cd6067d92c25a1c79089744cb608 803239 mruby_3.2.0.orig.tar.gz f41f90e46a60e9fca849391f9e2177beac898f20eb9c1fe44173ff3d2cf2f925 7308 mruby_3.2.0-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/m/mruby"
   ],
   "Files": [
-    "2c769f1d9eea2cd884ad334fd221f80b 1899 mruby_3.1.0-3.dsc d20d2ca1cf5638c40ea90ace6f76b43d 741088 mruby_3.1.0.orig.tar.gz e51197d88b9e4841928f404feb48ca76 7264 mruby_3.1.0-3.debian.tar.xz"
+    "7383ad53fae1d832e1d7a541b6701002 1899 mruby_3.2.0-1.dsc fbb67cc8a1ecfb9cdc1307ec1c02b489 803239 mruby_3.2.0.orig.tar.gz ad1b09bdff9038cf4bad67cf690434de 7308 mruby_3.2.0-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.0"
+    "4.6.2"
   ],
   "Uploaders": [
     "Akira Mitsui \u003cmurase.syuka@gmail.com\u003e"
@@ -51,6 +51,6 @@
     "https://github.com/mruby-debian/mruby.git"
   ],
   "Version": [
-    "3.1.0-3"
+    "3.2.0-1"
   ]
 }

@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-python, python3-all, python3-astropy, python3-astropy-helpers, python3-casa-formats-io, python3-dask, python3-pytest, python3-radio-beam, python3-setuptools"
   ],
   "Checksums-Sha256": [
-    "adb7a99b0885ef15a90c4d612bef58bd84d6a83cbc58cad4ff1db89dbe0ce41c 1618 spectral-cube_0.6.0-3.dsc 5d8a0d4528e0f1904c5b8593a371f803796dc8cf9972b60507c8d0c705ba17b0 243641 spectral-cube_0.6.0.orig.tar.gz cbaf02ecd86efeea81a78c4a2b78bca6f7b943794006326fc4dbc1470bade313 8728 spectral-cube_0.6.0-3.debian.tar.xz"
+    "b2ad054894126d97c529a03f0f48cce07ed31973311fa6bb999fa292ae89b54a 2223 spectral-cube_0.6.2-1.dsc d05afd3ef512862d38cfc494b1913bcc7b97656838af1b7a8304816fa96bd8f7 260831 spectral-cube_0.6.2.orig.tar.gz d8b440553256b0430779e42256bb5066161056ee4757302f74a33fe044dde2e7 5816 spectral-cube_0.6.2-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/s/spectral-cube"
   ],
   "Files": [
-    "e8328863556eca2fec7c17c497f0d7dc 1618 spectral-cube_0.6.0-3.dsc 3bde90bb005a31a4e138ca84f30ec367 243641 spectral-cube_0.6.0.orig.tar.gz 02e8bfc8a67484523052192ee2e67d78 8728 spectral-cube_0.6.0-3.debian.tar.xz"
+    "1bb50274071dcad5525703f08862999c 2223 spectral-cube_0.6.2-1.dsc e1972840e919fc49850d4d4a54611d70 260831 spectral-cube_0.6.2.orig.tar.gz 54e394fd88340ca9e059ac520560ed99 5816 spectral-cube_0.6.2-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/debian-astro-team/spectral-cube.git"
   ],
   "Version": [
-    "0.6.0-3"
+    "0.6.2-1"
   ]
 }

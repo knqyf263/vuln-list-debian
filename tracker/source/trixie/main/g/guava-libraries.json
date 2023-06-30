@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), default-jdk, junit4, libanimal-sniffer-java, libatinject-jsr330-api-java, liberror-prone-java, libjsr305-java, libmaven-bundle-plugin-java, libmaven-dependency-plugin-java, libtruth-java, maven-debian-helper, zip"
   ],
   "Checksums-Sha256": [
-    "f5d8177e4d621ddc61532078eeca0c24245bc5c3681a9d0a5945a3fad4a407bf 2331 guava-libraries_31.1-1.dsc 3dbb56b34e5ebd1b97184f72d31fbf9da24cc26c28f1ad3714aeeefdeedaed2a 3357924 guava-libraries_31.1.orig.tar.xz 64c4e8a3142229911c64cd5104990c0ec7d11a8fe84712d26b074bc0920eab44 21640 guava-libraries_31.1-1.debian.tar.xz"
+    "8e5048b5406ffdf17fe32860b2bea7bd5fe28c99285cd2ff11c2fa326987c0ac 2349 guava-libraries_32.0.1-1.dsc 9fe8fb149a2e9a0e24de658fb094767182593e64e21ba00556bc53ee35deae2c 3410548 guava-libraries_32.0.1.orig.tar.xz d36dd6df68408648b541ae2ae14a79bea227700ab9293b3465e85d4a39c60c29 21844 guava-libraries_32.0.1-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/g/guava-libraries"
   ],
   "Files": [
-    "fbb257a24378918ad6868ed6eccf0834 2331 guava-libraries_31.1-1.dsc b0cb2cc33d3364e32834e349d7c1bad0 3357924 guava-libraries_31.1.orig.tar.xz c5b82dd4bbb7a7fd08edbe615a6fbfbd 21640 guava-libraries_31.1-1.debian.tar.xz"
+    "ee6bbcc2afb419bf9ea902841f28a40d 2349 guava-libraries_32.0.1-1.dsc fb2aed9a2c52b7f546539beb4675eeed 3410548 guava-libraries_32.0.1.orig.tar.xz 48678299cdd8b992798f354d83628c2d 21844 guava-libraries_32.0.1-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "java"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Uploaders": [
     "Emmanuel Bourg \u003cebourg@apache.org\u003e, James Page \u003cjames.page@canonical.com\u003e"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/java-team/guava-libraries.git"
   ],
   "Version": [
-    "31.1-1"
+    "32.0.1-1"
   ]
 }

@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-python, jdupes, python3-all, python3-setuptools, python3-sphinx"
   ],
   "Checksums-Sha256": [
-    "ac76d128e70db32b2cbe8dfd578dec8b48257fc26ae29a06be189d44ea9350eb 2592 tryton-modules-stock-supply_6.0.5-1.dsc 21d7dd9352f32595af337715b33bfa693b3f006d94a62e25dc7c239e74cbcd32 45227 tryton-modules-stock-supply_6.0.5.orig.tar.gz d865c0ffb0bbc40592d476b7560716d2f0bd592efcdd82bb8f7a2095c8fd64f7 506 tryton-modules-stock-supply_6.0.5.orig.tar.gz.asc 729b77c1b7aaec158f8f08f3441fb31b70f0bc8b455bd22e3a2cfe00614fbd1f 14876 tryton-modules-stock-supply_6.0.5-1.debian.tar.xz"
+    "96c3e756eacb7ef105677ed70c27ab994bf57097032b19b31d89335ef4da92d8 2592 tryton-modules-stock-supply_6.0.6-1.dsc 1326b20f75969f0f5d1097c6f04cee5ce8e4614d21a91a08a038c16fa3daeaf8 45270 tryton-modules-stock-supply_6.0.6.orig.tar.gz 84fa0a74c92297369b26b325c1e5102df58b36d4cc12e9ae3e69c5a3b7c1a873 506 tryton-modules-stock-supply_6.0.6.orig.tar.gz.asc 66b9aa0e603b95cd64f5e218a37103bddb7cf65b76729acdb3c92c058576218e 14880 tryton-modules-stock-supply_6.0.6-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/t/tryton-modules-stock-supply"
   ],
   "Files": [
-    "b7cb2998a4ccf78f08e3dad54d29fca9 2592 tryton-modules-stock-supply_6.0.5-1.dsc 7e41bf8c50491e8833e7a9da14552abc 45227 tryton-modules-stock-supply_6.0.5.orig.tar.gz 9e9cae6b4b3abb84d9e0ced9c97e4645 506 tryton-modules-stock-supply_6.0.5.orig.tar.gz.asc b0505f85ba9e3ea92b8dca82e8d0ae99 14876 tryton-modules-stock-supply_6.0.5-1.debian.tar.xz"
+    "f389e542e226debc656359519a94bbae 2592 tryton-modules-stock-supply_6.0.6-1.dsc 771f18c1094a8e3c26134fddf2b147a2 45270 tryton-modules-stock-supply_6.0.6.orig.tar.gz 8dcd178d44ccbbc909f36e966b4088ed 506 tryton-modules-stock-supply_6.0.6.orig.tar.gz.asc 3f7e2958961e7417be06d3ec13e1b4e3 14880 tryton-modules-stock-supply_6.0.6-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/tryton-team/tryton-modules-stock-supply.git"
   ],
   "Version": [
-    "6.0.5-1"
+    "6.0.6-1"
   ]
 }

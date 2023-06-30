@@ -6,16 +6,16 @@
     "python3-jaraco.itertools"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), dh-python, python3-all, python3-inflect, python3-more-itertools, python3-pytest, python3-setuptools, python3-setuptools-scm, python3-six"
+    "debhelper-compat (= 13), dh-sequence-python3, pybuild-plugin-pyproject, python3-all, python3-setuptools"
   ],
   "Checksums-Sha256": [
-    "b50d67ad877a30d820ceb11c09ac55380b29d680e2e69c97d187df7198074d2d 2187 jaraco.itertools_2.0.1-5.dsc a747ea689afdbd802740a0f9bfa737a04ca4479ecfa3e9a7c680ce84a0ae2c97 11604 jaraco.itertools_2.0.1.orig.tar.gz 81e2c3b4eb728b17b3b2b30fb2d77733e88e1b54d7474b58542a7701192474c0 4316 jaraco.itertools_2.0.1-5.debian.tar.xz"
+    "1d92b19dec70f3969d61a4f29388f1eeff9713969a6cca762d16f517a5619967 2091 jaraco.itertools_6.3.0-1.dsc b0b13e73f728f2c3dfa220fe9cc378e3ff11cbac8aaadfd1fcc77aa61134767e 15783 jaraco.itertools_6.3.0.orig.tar.gz 83f27922a79a3ca2783456674af4abfbd1d6831f6a40b15f79544049d791e5f4 4804 jaraco.itertools_6.3.0-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/j/jaraco.itertools"
   ],
   "Files": [
-    "f84f7e1627efbe9b00ea584dec9f8757 2187 jaraco.itertools_2.0.1-5.dsc 4a551bc987235020ff06c1b9292abae6 11604 jaraco.itertools_2.0.1.orig.tar.gz 19c221122dfa226cbc84a62de29a9d79 4316 jaraco.itertools_2.0.1-5.debian.tar.xz"
+    "4a41b72f34ab432f1a3a2ff9e5075c47 2091 jaraco.itertools_6.3.0-1.dsc f54f73229c78c18c7c510dcdb44b38f8 15783 jaraco.itertools_6.3.0.orig.tar.gz 85620dabcc74892f79d8d4b590f69347 4804 jaraco.itertools_6.3.0-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,13 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.0"
-  ],
-  "Testsuite": [
-    "autopkgtest"
-  ],
-  "Testsuite-Triggers": [
-    "python3-all, python3-pytest"
+    "4.6.2"
   ],
   "Vcs-Browser": [
     "https://salsa.debian.org/python-team/packages/jaraco.itertools"
@@ -54,6 +48,6 @@
     "https://salsa.debian.org/python-team/packages/jaraco.itertools.git"
   ],
   "Version": [
-    "2.0.1-5"
+    "6.3.0-1"
   ]
 }

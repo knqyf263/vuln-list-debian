@@ -9,16 +9,16 @@
     "xml2rfc"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), dh-python, help2man, pyflakes3, python3, python3-appdirs (\u003e= 1.4.4), python3-configargparse (\u003e= 1.2.3), python3-dict2xml, python3-google-i18n-address, python3-html5lib, python3-intervaltree, python3-jinja2 (\u003e= 2.11), python3-lxml, python3-pycountry, python3-pypdf, python3-requests, python3-setuptools, python3-wcwidth (\u003e= 0.2.5), python3-yaml"
+    "debhelper-compat (= 13), dh-python, help2man, pybuild-plugin-pyproject, pyflakes3, python3, python3-platformdirs, python3-configargparse (\u003e= 1.2.3), python3-dict2xml, python3-google-i18n-address (\u003c\u003c 3.0), python3-html5lib, python3-intervaltree, python3-jinja2 (\u003e= 2.11), python3-lxml, python3-pycountry, python3-pypdf, python3-requests, python3-setuptools, python3-wcwidth (\u003e= 0.2.5), python3-yaml"
   ],
   "Checksums-Sha256": [
-    "3f20f2dbe1851849ed3c0e6816cf4c603f83f5eb9e8e7253d1dd902518e8d2b4 2054 xml2rfc_3.16.0-1.dsc bd5195d211bb123b685a1855d5811c72c3f77d5e5a4e1d9225842f04f6354cdb 2647931 xml2rfc_3.16.0.orig.tar.gz 7c9ef14cd79c761374c0b19591ef80bc7c548a84793d964f22154f962a8a6a10 850 xml2rfc_3.16.0.orig.tar.gz.asc d89bf24e0b3dc057e50cfeb98feec40dd8d6cb7f1416b4d6dbb1b4fd58e136a5 24060 xml2rfc_3.16.0-1.debian.tar.xz"
+    "e4308c26af06899c2ad26a6dfdfe8e33751d23ff94f497011c7cc5b1fc5ceb7d 2441 xml2rfc_3.17.4-1.dsc 7b7e91e7b46db56d0c9ea07e0d7c0d1aa79e2117f028a3134fef4b31fb96ce3a 2646275 xml2rfc_3.17.4.orig.tar.gz fb01c4302051edecd9fcbbd4f3a28a34bc9d4f09cfba70eb291f94f232d71484 18600 xml2rfc_3.17.4-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/non-free/x/xml2rfc"
   ],
   "Files": [
-    "092016719ef8daca9425a27e020a1b6c 2054 xml2rfc_3.16.0-1.dsc c7ac999f84fc4fb47d595a89dae8b981 2647931 xml2rfc_3.16.0.orig.tar.gz 614ae1e5a6807290ccf9d703a91d6bb5 850 xml2rfc_3.16.0.orig.tar.gz.asc c0840c775183be691151529965963d95 24060 xml2rfc_3.16.0-1.debian.tar.xz"
+    "2c6e901c842b4795ed9ed39174f60833 2441 xml2rfc_3.17.4-1.dsc c54045f88ff86441bedef973c834a739 2646275 xml2rfc_3.17.4.orig.tar.gz cb5a1be8a5d6d9ab1ed9e6ee7d2e9db8 18600 xml2rfc_3.17.4-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -60,6 +60,6 @@
     "https://salsa.debian.org/debian/pkg-xml2rfc.git"
   ],
   "Version": [
-    "3.16.0-1"
+    "3.17.4-1"
   ]
 }

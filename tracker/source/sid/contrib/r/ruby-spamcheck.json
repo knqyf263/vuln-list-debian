@@ -9,19 +9,19 @@
     "debhelper-compat (= 13), gem2deb (\u003e= 2.1~), ruby-grpc (\u003e= 1.0~), ruby-grpc-tools"
   ],
   "Checksums-Sha256": [
-    "caba9b8c52bbf0961d539e7895c6f5c51113894f8b523154e690a2eb22a61cff 2137 ruby-spamcheck_1.4.1-2.dsc 84e42c78aae8511f2f2e60926138ed19204e574efca0180fa369c1eab185a1c9 250267 ruby-spamcheck_1.4.1.orig.tar.gz eaac5123e65a4f24f8f6bcd8fc281c84d5788e6a72e2d8188fe5723e70466d18 2968 ruby-spamcheck_1.4.1-2.debian.tar.xz"
+    "31eeab2f0e7bad56bb113e4b279f77b88f5f23c2c7d65cbede319c2782adc268 2144 ruby-spamcheck_1.10.1-1.dsc 011ea7d1739ff831208e4312dfc903e08048de99851cf81ed1bdc63dde7e6a4c 252155 ruby-spamcheck_1.10.1.orig.tar.gz 995a4bb4dc86e6665c810f9850a92dd9663d9c7aee51d34c0fbb7095649b33d6 2808 ruby-spamcheck_1.10.1-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/contrib/r/ruby-spamcheck"
   ],
   "Files": [
-    "4a3e6617b1f0796505b8b1b2d8f9d045 2137 ruby-spamcheck_1.4.1-2.dsc fb9331e951b98a0c560ebf7acff690a6 250267 ruby-spamcheck_1.4.1.orig.tar.gz f72dbbaa38a5e5501d10fe53654ef0b7 2968 ruby-spamcheck_1.4.1-2.debian.tar.xz"
+    "ed19ab39cd5fb43e9469637b0c22cfbb 2144 ruby-spamcheck_1.10.1-1.dsc 1d667f126ee3b5d1ae43769f785e312e 252155 ruby-spamcheck_1.10.1.orig.tar.gz b95a8fa1eb062876d650f079599b0fad 2808 ruby-spamcheck_1.10.1-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
   ],
   "Homepage": [
-    "https://gitlab.com/gitlab-com/gl-security/engineering-and-research/automation-team/spam/spamcheck"
+    "https://gitlab.com/gitlab-org/gl-security/security-engineering/security-automation/spam/spamcheck"
   ],
   "Maintainer": [
     "Debian Ruby Team \u003cpkg-ruby-extras-maintainers@lists.alioth.debian.org\u003e"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/ruby-team/ruby-spamcheck.git"
   ],
   "Version": [
-    "1.4.1-2"
+    "1.10.1-1"
   ]
 }

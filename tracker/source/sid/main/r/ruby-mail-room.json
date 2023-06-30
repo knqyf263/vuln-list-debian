@@ -6,16 +6,16 @@
     "ruby-mail-room"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), gem2deb, procps, rake, redis-server, ruby-charlock-holmes, ruby-fakeredis, ruby-faraday, ruby-letter-opener, ruby-mail, ruby-mocha, ruby-pg, ruby-redis, ruby-redis-namespace, ruby-rspec, ruby-simplecov"
+    "debhelper-compat (= 13), gem2deb, procps, rake, redis-server, ruby-charlock-holmes, ruby-fakeredis, ruby-faraday, ruby-letter-opener, ruby-mail, ruby-mocha, ruby-pg, ruby-redis, ruby-redis-namespace, ruby-rspec, ruby-simplecov, ruby-jwt, ruby-webmock, ruby-oauth2"
   ],
   "Checksums-Sha256": [
-    "e1e561b28554fc7531de94740227ff2001d2ae0db8bd73d2bb7c69575c318aca 2362 ruby-mail-room_0.10.0+really0.0.9-3.dsc 09458c4a0ca112cd40d9cd6748dacd9a9b21eaebc9d3cc14b9061b6641f0f0e3 25936 ruby-mail-room_0.10.0+really0.0.9.orig.tar.gz 43153e14a9df9a459906f07b35f9633a623f5af12cca7b161ced418e77fb9b43 5140 ruby-mail-room_0.10.0+really0.0.9-3.debian.tar.xz"
+    "a86f1c5ba5adc60b100f4826511951aafea39b57bb2cb91efbf232181799b232 2406 ruby-mail-room_0.10.0+really0.0.23-1.dsc 82817914026ec1dfa1b7e96b943b4f5079d251029447f75091e1d10bbb997689 37465 ruby-mail-room_0.10.0+really0.0.23.orig.tar.gz f58ec7733ee811085cfbec6cee947d1dc9f3598bad64e8b40a53025a67118288 4592 ruby-mail-room_0.10.0+really0.0.23-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/ruby-mail-room"
   ],
   "Files": [
-    "59aa8667c6677f2526501c633d37c6e4 2362 ruby-mail-room_0.10.0+really0.0.9-3.dsc f0729e144c21f8735a3fc923315c3d6d 25936 ruby-mail-room_0.10.0+really0.0.9.orig.tar.gz 56ebc5ee117989f3ef1c33300f95e4b6 5140 ruby-mail-room_0.10.0+really0.0.9-3.debian.tar.xz"
+    "67eb370fdc998318965f961b30dcff5e 2406 ruby-mail-room_0.10.0+really0.0.23-1.dsc d3085526c4bdd3952ace3427433e7a3b 37465 ruby-mail-room_0.10.0+really0.0.23.orig.tar.gz 397782d6c908dbc0c44f6b55ffa29e42 4592 ruby-mail-room_0.10.0+really0.0.23-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/ruby-team/ruby-mail-room.git"
   ],
   "Version": [
-    "0.10.0+really0.0.9-3"
+    "0.10.0+really0.0.23-1"
   ]
 }

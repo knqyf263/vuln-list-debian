@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-python, jdupes, python3-all, python3-setuptools, python3-sphinx"
   ],
   "Checksums-Sha256": [
-    "22efa3ffbabcf16b88aa7f75960d8dee67ab5f7ae0adf68c38931b0b9d22ad0d 2535 tryton-modules-account_6.0.15-1.dsc 6d0c3dccc903c5234d854374e2511e8943578c4846aef80776267abbab0d9be9 492367 tryton-modules-account_6.0.15.orig.tar.gz ac64bc6120254535ce1ffc6d829d37f8c48f6ba66d69de6f1749071d1867b1f7 506 tryton-modules-account_6.0.15.orig.tar.gz.asc 7846dc22a7b9f67db4fbba87ea5dfb4830aed5eded985fed5f2330e8855011e9 15680 tryton-modules-account_6.0.15-1.debian.tar.xz"
+    "2414ef651bed976c47a2025529846589c73dfb0417dbef9550eccaae6203650f 2535 tryton-modules-account_6.0.17-1.dsc b0b7cc571a5e3cafb45265f1d4b06d2fad3e07723f2810ff784d2c9df2d5b990 492474 tryton-modules-account_6.0.17.orig.tar.gz 691b58fe87ba329162114c2f0bd71be79473ff9c719d1fcfc9619e7a65213a71 506 tryton-modules-account_6.0.17.orig.tar.gz.asc be803b62117b148fbd175efa5111e82e92f664c908a89faca98b68de589fb0de 15696 tryton-modules-account_6.0.17-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/t/tryton-modules-account"
   ],
   "Files": [
-    "76ae65a7fb4221df9cbcb69f87d0a369 2535 tryton-modules-account_6.0.15-1.dsc a7adacd3eaa2e97da54ececcf4de3d53 492367 tryton-modules-account_6.0.15.orig.tar.gz bc0ca617a28af247b51c5475fdb14e3a 506 tryton-modules-account_6.0.15.orig.tar.gz.asc a6e695d13c5845f61316ac0e866fe62b 15680 tryton-modules-account_6.0.15-1.debian.tar.xz"
+    "27c262be1c1f09b79e0a00c47fa479fd 2535 tryton-modules-account_6.0.17-1.dsc a0212e006a7cb05802bd8bb2afcc6481 492474 tryton-modules-account_6.0.17.orig.tar.gz 81f2a5fb93a28e3296aaac52c68f7fbe 506 tryton-modules-account_6.0.17.orig.tar.gz.asc 2b2dd3fb04ef1940d3c45c7636581c5b 15696 tryton-modules-account_6.0.17-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/tryton-team/tryton-modules-account.git"
   ],
   "Version": [
-    "6.0.15-1"
+    "6.0.17-1"
   ]
 }

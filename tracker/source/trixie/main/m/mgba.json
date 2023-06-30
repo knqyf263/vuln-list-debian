@@ -9,13 +9,13 @@
     "cmake (\u003e= 3.1), debhelper-compat (= 13), desktop-file-utils, libavcodec-dev, libavfilter-dev, libavformat-dev, libavutil-dev, libedit-dev, libelf-dev, libinih-dev, liblua5.4-dev, libmagickwand-dev, libpng-dev, libqt5opengl5-dev, libsdl2-dev, libsqlite3-dev, libswresample-dev, libswscale-dev, libzip-dev, pkg-config, qtbase5-dev, qtmultimedia5-dev, qttools5-dev-tools, rapidjson-dev, zipcmp, zipmerge, ziptool, zlib1g-dev"
   ],
   "Checksums-Sha256": [
-    "ecb4d867fc8ae5685577be25e50529353507ff143bda420088ee0f494908135f 2600 mgba_0.10.1+dfsg-1.dsc 359e19810277de87174b3b106c35b59bc7e6eb1606fd70b1e9a093d34759f34f 7627644 mgba_0.10.1+dfsg.orig.tar.xz 5b1838f386ce631c51028f55a02c15c7a407a544b2bcedaa976c1943ac02ebaa 9668 mgba_0.10.1+dfsg-1.debian.tar.xz"
+    "a35bb090f382c9269a48ddaf8ac4aa8ea835f441fe528b822240f844bd086d88 2600 mgba_0.10.2+dfsg-1.dsc 8cbfce12c7e2f1dc682df8aacc74e6608cf40e146c926cc978358466df22425c 7639832 mgba_0.10.2+dfsg.orig.tar.xz c0fb340ebd38d812e196b5d0cc0b7873ef046e0fccd2ba82b98fe89846d59ec1 9708 mgba_0.10.2+dfsg-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/m/mgba"
   ],
   "Files": [
-    "dcc7b90cd32f4cc862ccb89c379e6726 2600 mgba_0.10.1+dfsg-1.dsc 86be9ae918c828f9c0448e63c444f9f0 7627644 mgba_0.10.1+dfsg.orig.tar.xz dc84c6f8e3c440cccfd61109462dabdf 9668 mgba_0.10.1+dfsg-1.debian.tar.xz"
+    "50c398880182c03512c2a2c0746cabd9 2600 mgba_0.10.2+dfsg-1.dsc ae9dc8e75d00d0f1e87d0ba7b009f1cd 7639832 mgba_0.10.2+dfsg.orig.tar.xz b3062e7a824766c3f64323de763c8b9a 9708 mgba_0.10.2+dfsg-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/games-team/mgba.git"
   ],
   "Version": [
-    "0.10.1+dfsg-1"
+    "0.10.2+dfsg-1"
   ]
 }

@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-r, r-base-dev, r-cran-estimability (\u003e= 1.4.1), r-cran-numderiv, r-cran-mvtnorm"
   ],
   "Checksums-Sha256": [
-    "211b725e47a0ceba66eaaffc89d4ff9fafcfa98dd0f86140b089995b75e0304a 2202 r-cran-emmeans_1.8.6+dfsg-1.dsc 42225eba9204653dc3e34f83111ce8b8533bf0f7e3aae08fb7887625641220b6 679028 r-cran-emmeans_1.8.6+dfsg.orig.tar.xz f3f28170c2818867d09483de3ce3849bf4392db81997fa3bd2003f7df2fb472f 3692 r-cran-emmeans_1.8.6+dfsg-1.debian.tar.xz"
+    "a172339c9b7d6a47b01cb36d97220e64c8e03e5b6d07b1c4e650b3379f02c1e7 2202 r-cran-emmeans_1.8.7+dfsg-1.dsc e1165fc99ac7779288b3ad468ef5333653c20e32409790a30e6e3aeec8d34bdf 680840 r-cran-emmeans_1.8.7+dfsg.orig.tar.xz 0705c485c5fa54c8aa1c7e575706c3fcd39ec64ff1c831e48c0bf381eb7df3a5 3692 r-cran-emmeans_1.8.7+dfsg-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/r-cran-emmeans"
   ],
   "Files": [
-    "dd4a173944fd8a6000dea95d346e79a0 2202 r-cran-emmeans_1.8.6+dfsg-1.dsc 2a2c6ad7ec745baadad7aaec97746276 679028 r-cran-emmeans_1.8.6+dfsg.orig.tar.xz 196fe5c93a13479c65a0673dd35f419a 3692 r-cran-emmeans_1.8.6+dfsg-1.debian.tar.xz"
+    "67b988828a78a1d37c396167be6e2ec8 2202 r-cran-emmeans_1.8.7+dfsg-1.dsc 7f8901e3757662ec24f1b85767a41fff 680840 r-cran-emmeans_1.8.7+dfsg.orig.tar.xz 66caeccd8033e9c510714c03c8ff975f 3692 r-cran-emmeans_1.8.7+dfsg-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/r-pkg-team/r-cran-emmeans.git"
   ],
   "Version": [
-    "1.8.6+dfsg-1"
+    "1.8.7+dfsg-1"
   ]
 }

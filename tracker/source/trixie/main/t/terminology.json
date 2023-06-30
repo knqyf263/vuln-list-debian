@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), libeet-bin, libefl-all-dev (\u003e= 1.26), meson"
   ],
   "Checksums-Sha256": [
-    "016e340b6d2aeccd4d3fd223705511b91c6b3c0410e1be8afa4ac79a55a34954 2160 terminology_1.13.0-1.dsc 16a37fecd7bbd63ec9de3ec6c0af331cee77d6dfda838a1b1573d6f298474da5 2765572 terminology_1.13.0.orig.tar.xz 91cacedc9320c2e40a9585d2decdaf0911270dbb99c6e5e84c70c5841a927bb4 10024 terminology_1.13.0-1.debian.tar.xz"
+    "1b66d1b19868ef3e5f7cc850b7efa162c5347aaa66ebebdc306cc492e19b8de9 2160 terminology_1.13.0-2.dsc 16a37fecd7bbd63ec9de3ec6c0af331cee77d6dfda838a1b1573d6f298474da5 2765572 terminology_1.13.0.orig.tar.xz d81daa14b47a59576fbbb831d3b4b392fc1bacfb4667acd61e5d85e688271ffc 10936 terminology_1.13.0-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/t/terminology"
   ],
   "Files": [
-    "9aa22629f524e123f677677a709f2e04 2160 terminology_1.13.0-1.dsc 81e24535c1cf0ac9a506c711c9d621f7 2765572 terminology_1.13.0.orig.tar.xz 7f0d752a869960ee9e56e7ea4c7a1708 10024 terminology_1.13.0-1.debian.tar.xz"
+    "1157216c0e921a07e16bd81a07ba238a 2160 terminology_1.13.0-2.dsc 81e24535c1cf0ac9a506c711c9d621f7 2765572 terminology_1.13.0.orig.tar.xz a3730930d74362eb2634344956568100 10936 terminology_1.13.0-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.0"
+    "4.6.1"
   ],
   "Testsuite": [
     "autopkgtest"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/pkg-e-team/terminology.git"
   ],
   "Version": [
-    "1.13.0-1"
+    "1.13.0-2"
   ]
 }

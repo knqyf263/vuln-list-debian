@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), cmake, libexecs-dev, libmhash-dev, libcap-dev, libpam0g-dev"
   ],
   "Checksums-Sha256": [
-    "2db5c1a09b1571b6c54e48919cede3fc226deab7966d33d92be9e25a0f00496c 2012 cado_0.9.5-2.dsc 0fa49e1910b79726d46cb0f8b3fbb12f818c89d6368cd70c93429edd648f3be5 30573 cado_0.9.5.orig.tar.gz e3d9cef1a48e0b6d58f97a616a82eaae6edf188107ba3437a50375e4d7e8f58f 2480 cado_0.9.5-2.debian.tar.xz"
+    "771ab55b257038980a729cd7194d539caa8b9732aeff37d9f39eeb762377b7cd 2012 cado_0.9.6-1.dsc 35195ac4c7634b397a8d68325aac5d63a501ce507fc6406ada99a292c07dc8ef 30683 cado_0.9.6.orig.tar.gz c3bbc756c0d0db89378ef86d0823a197b7940a2a904cc5969b1a276cc9a8695d 2564 cado_0.9.6-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/c/cado"
   ],
   "Files": [
-    "76048e0c40162dd27c32a4b34836ce61 2012 cado_0.9.5-2.dsc 3b8e33e50817f4dc5ab311c9846471d7 30573 cado_0.9.5.orig.tar.gz 04aceb73224ed8da7904e99c23776327 2480 cado_0.9.5-2.debian.tar.xz"
+    "f3e49fb324e7fe7d83cb1c79d7e72339 2012 cado_0.9.6-1.dsc 0f641cb1e60392ee5b3e0be18942aa5b 30683 cado_0.9.6.orig.tar.gz 8d2e952b800d53b42763d3aac6ba4ced 2564 cado_0.9.6-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Uploaders": [
     "Mattia Biondi \u003cmattiabiondi1@gmail.com\u003e, Renzo Davoli \u003crenzo@cs.unibo.it\u003e, Andrea Capriotti \u003ccapriott@debian.org\u003e"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/virtualsquare-team/cado.git"
   ],
   "Version": [
-    "0.9.5-2"
+    "0.9.6-1"
   ]
 }

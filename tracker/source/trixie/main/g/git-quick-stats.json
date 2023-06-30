@@ -9,13 +9,13 @@
     "debhelper-compat (= 13)"
   ],
   "Checksums-Sha256": [
-    "d5ca6c46ff70034fc13eb3712b3adf2b309459a0f40fc118fa287ca1c58825d1 1931 git-quick-stats_2.4.1-1.dsc b9fb1eca95341939a575086298f9d3a869dae41e46946dc420128534dc3736a7 21773 git-quick-stats_2.4.1.orig.tar.gz 4b0199ad5cda71b861ff08f0fb51ea9c0e379a54cb4bc45fd858cabd89c47bea 2824 git-quick-stats_2.4.1-1.debian.tar.xz"
+    "5d9ebebcf30666b3c5ccc7a37010d86e31bbeca4a68ad13ebcf72739a79b027e 1929 git-quick-stats_2.5.0-1.dsc e6cc4b2a2c981a6f3a19801340217b20b16e137bec264d1c89399612b2a9e58e 21884 git-quick-stats_2.5.0.orig.tar.gz 62105a787681368c4499c7584c9babe812551cd387f41a0a25e6ff078220d92a 2904 git-quick-stats_2.5.0-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/g/git-quick-stats"
   ],
   "Files": [
-    "7a3fba0f02da4aba23a0b9c897e20a99 1931 git-quick-stats_2.4.1-1.dsc ac0631341b8ef2e13d749cab0eade0a7 21773 git-quick-stats_2.4.1.orig.tar.gz eb1b6855053316d22ba56af39882d00e 2824 git-quick-stats_2.4.1-1.debian.tar.xz"
+    "b7007883586e9aabab8a43878ef7bfb1 1929 git-quick-stats_2.5.0-1.dsc 251ecccc89f5756eadc84347474fff3f 21884 git-quick-stats_2.5.0.orig.tar.gz 9bc213a0ce48ead40ba35214ef71294c 2904 git-quick-stats_2.5.0-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1.0"
+    "4.6.2"
   ],
   "Vcs-Browser": [
     "https://salsa.debian.org/debian/git-quick-stats"
@@ -48,6 +48,6 @@
     "https://salsa.debian.org/debian/git-quick-stats.git"
   ],
   "Version": [
-    "2.4.1-1"
+    "2.5.0-1"
   ]
 }
