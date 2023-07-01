@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[14 Jul 2018] DLA-1424-1 linux-latest-4.9 - security update",
-    "Line": 6279,
+    "Line": 6282,
     "ID": "DLA-1424-1",
     "Description": "linux-latest-4.9 - security update"
   },
   "Annotations": [
     {
       "Original": "[jessie] - linux-latest-4.9 80+deb9u5~deb8u1",
-      "Line": 6280,
+      "Line": 6283,
       "Type": "package",
       "Release": "jessie",
       "Package": "linux-latest-4.9",

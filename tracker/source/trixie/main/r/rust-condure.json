@@ -6,16 +6,16 @@
     "condure"
   ],
   "Build-Depends": [
-    "debhelper (\u003e= 12), dh-cargo (\u003e= 25), cargo:native, rustc:native, libstd-rust-dev, librust-arrayvec-0.7+default-dev, librust-base64-0.13+default-dev, librust-clap-3+cargo-dev (\u003e= 3.2-~~), librust-clap-3+default-dev (\u003e= 3.2-~~), librust-clap-3+wrap-help-dev (\u003e= 3.2-~~), librust-httparse-1+default-dev (\u003e= 1.7-~~), librust-log-0.4+default-dev, librust-miniz-oxide-0.6+default-dev, librust-mio-0.8+default-dev, librust-mio-0.8+net-dev, librust-mio-0.8+os-ext-dev, librust-mio-0.8+os-poll-dev, librust-openssl-0.10+default-dev, librust-paste-1+default-dev, librust-sha1-0.10+default-dev, librust-signal-hook-0.3+default-dev, librust-slab-0.4+default-dev, librust-socket2-0.4+default-dev, librust-time-0.3+default-dev, librust-time-0.3+formatting-dev, librust-time-0.3+local-offset-dev, librust-time-0.3+macros-dev, librust-zmq-0.9+default-dev, help2man"
+    "debhelper (\u003e= 12), dh-cargo (\u003e= 25), cargo:native, rustc:native, libstd-rust-dev, librust-arrayvec-0.7+default-dev, librust-base64-0.21+default-dev, librust-clap-3+cargo-dev (\u003e= 3.2-~~), librust-clap-3+default-dev (\u003e= 3.2-~~), librust-clap-3+wrap-help-dev (\u003e= 3.2-~~), librust-httparse-1+default-dev (\u003e= 1.7-~~), librust-log-0.4+default-dev, librust-miniz-oxide-0.6+default-dev, librust-mio-0.8+default-dev, librust-mio-0.8+net-dev, librust-mio-0.8+os-ext-dev, librust-mio-0.8+os-poll-dev, librust-openssl-0.10+default-dev, librust-paste-1+default-dev, librust-sha1-0.10+default-dev, librust-signal-hook-0.3+default-dev, librust-slab-0.4+default-dev, librust-socket2-0.4+default-dev, librust-time-0.3+default-dev, librust-time-0.3+formatting-dev, librust-time-0.3+local-offset-dev, librust-time-0.3+macros-dev, librust-zmq-0.9+default-dev, help2man"
   ],
   "Checksums-Sha256": [
-    "e990dd2e23ad48e54996589aa7bae618f7ade22f72a5bf3f63ed658e9635053b 2698 rust-condure_1.9.1-1.dsc cf68606419dbead55d573b374605653d83537ff5918657a92384ce16156bae89 157967 rust-condure_1.9.1.orig.tar.gz 731608a7ca088bdee338493cd759a003d059f692f2733b6faaf523baa87442d9 3516 rust-condure_1.9.1-1.debian.tar.xz"
+    "c0021419f48a225d98e6d452ae205fb91e0d1a45da2c6f20d1964f8fb98bf176 2877 rust-condure_1.9.2-1.dsc 80a62986323b205c97cf58dbee34ae42a2744fe25ef405640a737014c305b484 158732 rust-condure_1.9.2.orig.tar.gz 347c4c787fe174921fb371663a39103b128d2feef2beb6dbaf88adbe2b8f0db0 3972 rust-condure_1.9.2-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/rust-condure"
   ],
   "Files": [
-    "ff172f1f778293c05a503389ada5b640 2698 rust-condure_1.9.1-1.dsc 4c1353e85ec9a1659e0acf8d91eea98e 157967 rust-condure_1.9.1.orig.tar.gz 0c6c2948744b1c0f6386dab278803f13 3516 rust-condure_1.9.1-1.debian.tar.xz"
+    "7e7fbe4558ac4d136f216e667fbf005f 2877 rust-condure_1.9.2-1.dsc dd72bb021998806d4898b2c2f106fe18 158732 rust-condure_1.9.2.orig.tar.gz 7103f63cfa0f373de03da799fda72ffb 3972 rust-condure_1.9.2-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/rust-team/debcargo-conf.git [src/condure]"
   ],
   "Version": [
-    "1.9.1-1"
+    "1.9.2-1"
   ]
 }

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[11 Feb 2019] DLA-1671-1 coturn - security update",
-    "Line": 5526,
+    "Line": 5529,
     "ID": "DLA-1671-1",
     "Description": "coturn - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-4056 CVE-2018-4058 CVE-2018-4059}",
-      "Line": 5527,
+      "Line": 5530,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-4056",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[jessie] - coturn 4.2.1.2-1+deb8u1",
-      "Line": 5528,
+      "Line": 5531,
       "Type": "package",
       "Release": "jessie",
       "Package": "coturn",

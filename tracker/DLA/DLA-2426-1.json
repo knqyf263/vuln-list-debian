@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[01 Nov 2020] DLA-2426-1 junit4 - security update",
-    "Line": 3187,
+    "Line": 3190,
     "ID": "DLA-2426-1",
     "Description": "junit4 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-15250}",
-      "Line": 3188,
+      "Line": 3191,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-15250"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - junit4 4.12-4+deb9u1",
-      "Line": 3189,
+      "Line": 3192,
       "Type": "package",
       "Release": "stretch",
       "Package": "junit4",

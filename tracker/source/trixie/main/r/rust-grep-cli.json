@@ -6,16 +6,16 @@
     "librust-grep-cli-dev"
   ],
   "Build-Depends": [
-    "debhelper (\u003e= 12), dh-cargo (\u003e= 24), cargo:native \u003c!nocheck\u003e, rustc:native \u003c!nocheck\u003e, libstd-rust-dev \u003c!nocheck\u003e, librust-atty-0.2+default-dev (\u003e= 0.2.11-~~) \u003c!nocheck\u003e, librust-bstr-0.2+default-dev \u003c!nocheck\u003e, librust-globset-0.4+default-dev (\u003e= 0.4.7-~~) \u003c!nocheck\u003e, librust-lazy-static-1+default-dev (\u003e= 1.1.0-~~) \u003c!nocheck\u003e, librust-log-0.4+default-dev (\u003e= 0.4.5-~~) \u003c!nocheck\u003e, librust-regex-1+default-dev (\u003e= 1.1-~~) \u003c!nocheck\u003e, librust-same-file-1+default-dev (\u003e= 1.0.4-~~) \u003c!nocheck\u003e, librust-termcolor-1+default-dev (\u003e= 1.0.4-~~) \u003c!nocheck\u003e, librust-winapi-util-0.1+default-dev (\u003e= 0.1.1-~~) \u003c!nocheck\u003e"
+    "debhelper (\u003e= 12), dh-cargo (\u003e= 25), cargo:native \u003c!nocheck\u003e, rustc:native \u003c!nocheck\u003e, libstd-rust-dev \u003c!nocheck\u003e, librust-atty-0.2+default-dev (\u003e= 0.2.11-~~) \u003c!nocheck\u003e, librust-bstr-1+default-dev (\u003e= 1.1.0-~~) \u003c!nocheck\u003e, librust-globset-0.4+default-dev (\u003e= 0.4.10-~~) \u003c!nocheck\u003e, librust-lazy-static-1+default-dev (\u003e= 1.1.0-~~) \u003c!nocheck\u003e, librust-log-0.4+default-dev (\u003e= 0.4.5-~~) \u003c!nocheck\u003e, librust-regex-1+default-dev (\u003e= 1.1-~~) \u003c!nocheck\u003e, librust-same-file-1+default-dev (\u003e= 1.0.4-~~) \u003c!nocheck\u003e, librust-termcolor-1+default-dev (\u003e= 1.0.4-~~) \u003c!nocheck\u003e, librust-winapi-util-0.1+default-dev (\u003e= 0.1.1-~~) \u003c!nocheck\u003e"
   ],
   "Checksums-Sha256": [
-    "3b209d4069bb36d688199b60fc3a9da1e3c9a5a662766feba6c3f0faf035730e 2688 rust-grep-cli_0.1.6-2.dsc 2dd110c34bb4460d0de5062413b773e385cbf8a85a63fc535590110a09e79e8a 18949 rust-grep-cli_0.1.6.orig.tar.gz f174258b3e209f4e03858acaa97000a1e15bf03ab6b8e92909de5851845003e5 3236 rust-grep-cli_0.1.6-2.debian.tar.xz"
+    "a9ca6925938e1fbf9c8028d3e559f5433dfbee56c2170ceefc5fa338b9c14b76 2730 rust-grep-cli_0.1.7-1.dsc d19fc6687bc64b6719a839cd24f2c700bcb05ffeb684d19da6a637c2455a7ba1 18936 rust-grep-cli_0.1.7.orig.tar.gz 6c226ed11a8a345c235df9c49ccafc913444c31908a53b16ec8a66569cf57e03 3252 rust-grep-cli_0.1.7-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/rust-grep-cli"
   ],
   "Files": [
-    "6ead6766010550ea261f54598a74cca2 2688 rust-grep-cli_0.1.6-2.dsc ba1f74c9fe8c49c1a8ee1b1d8595d6b8 18949 rust-grep-cli_0.1.6.orig.tar.gz c85928a61966d96ffb1f84380fdc6c65 3236 rust-grep-cli_0.1.6-2.debian.tar.xz"
+    "050a75838a48fa17c9f7a670501394af 2730 rust-grep-cli_0.1.7-1.dsc 9c456ae19ea77be7d3f43e0b86907f45 18936 rust-grep-cli_0.1.7.orig.tar.gz e386f4710a69be89767fad89511a1122 3252 rust-grep-cli_0.1.7-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.5.1"
+    "4.6.1"
   ],
   "Testsuite": [
     "autopkgtest"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/rust-team/debcargo-conf.git [src/grep-cli]"
   ],
   "Version": [
-    "0.1.6-2"
+    "0.1.7-1"
   ]
 }

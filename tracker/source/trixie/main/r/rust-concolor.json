@@ -9,13 +9,13 @@
     "debhelper (\u003e= 12), dh-cargo (\u003e= 25), cargo:native \u003c!nocheck\u003e, rustc:native \u003c!nocheck\u003e, libstd-rust-dev \u003c!nocheck\u003e"
   ],
   "Checksums-Sha256": [
-    "186c4261e1183c3f79fa148daeed923dab3d715d3b3abe91ca15ca3cbf1fdaac 2159 rust-concolor_0.0.11-1.dsc 318d6c16e73b3a900eb212ad6a82fc7d298c5ab8184c7a9998646455bc474a16 10249 rust-concolor_0.0.11.orig.tar.gz b43ba02a14fa63d6e6373926287c3dba0bb42635a9f5b8a7823511e89b04c962 3732 rust-concolor_0.0.11-1.debian.tar.xz"
+    "1d7452cea948bec83e78c8305d2c432cccaa8c9f1953cdb3a52654035ebfda23 1525 rust-concolor_0.0.12-1.dsc f7b3e3c41e9488eeda196b6806dbf487742107d61b2e16485bcca6c25ed5755b 10410 rust-concolor_0.0.12.orig.tar.gz a2a66159c0281e5482b20c35018bf5effb71f3490cf98fca8f013325ddb2834c 3796 rust-concolor_0.0.12-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/rust-concolor"
   ],
   "Files": [
-    "bbc70a54d57a93cceafb5475d9f23cb0 2159 rust-concolor_0.0.11-1.dsc 1b4a86a843424e9fadd7e803f35998d3 10249 rust-concolor_0.0.11.orig.tar.gz 148f04f720b483727c0a2ed2cef2ed30 3732 rust-concolor_0.0.11-1.debian.tar.xz"
+    "86ec9e345dcc13ae9cc36d65977e96b6 1525 rust-concolor_0.0.12-1.dsc 7d6960bc9dae3b14a6d51fa5c62572e2 10410 rust-concolor_0.0.12.orig.tar.gz 5332e0d636d3e8ccefe41892e3eaa7c2 3796 rust-concolor_0.0.12-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/rust-team/debcargo-conf.git [src/concolor]"
   ],
   "Version": [
-    "0.0.11-1"
+    "0.0.12-1"
   ]
 }

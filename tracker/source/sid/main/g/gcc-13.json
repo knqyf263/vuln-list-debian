@@ -12,13 +12,13 @@
     "doxygen (\u003e= 1.7.2), graphviz (\u003e= 2.2), ghostscript, texlive-latex-base, xsltproc, libxml2-utils, docbook-xsl-ns"
   ],
   "Checksums-Sha256": [
-    "183e98bc502c6145fda38b6c28b8b0a53bb127c1e6085e5e2d86412c68f2b23c 27472 gcc-13_13.1.0-6.dsc 885e4a54319e74321cca4c412aad11a2be0df81d816a3c1856e1430a03b6f4b0 89274824 gcc-13_13.1.0.orig.tar.gz d4d65924c36fcfd08af6ba441cbaeb0db7e150a4fbb2c9cb9c46eea9685f406f 1275168 gcc-13_13.1.0-6.debian.tar.xz"
+    "88933c1861e2194614f6cd01ed6b833268ad2a49f39379361f9e53b85f0fb8e8 27472 gcc-13_13.1.0-7.dsc 885e4a54319e74321cca4c412aad11a2be0df81d816a3c1856e1430a03b6f4b0 89274824 gcc-13_13.1.0.orig.tar.gz f02f9d40f90dfdf77f8a72f62317faf98db8c60118d1a51bde5d020231202cbf 1315992 gcc-13_13.1.0-7.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/g/gcc-13"
   ],
   "Files": [
-    "e4bc9216712de18c91fb534668ae9891 27472 gcc-13_13.1.0-6.dsc 3194cfc95c09ba18bf124577314021f5 89274824 gcc-13_13.1.0.orig.tar.gz 8175b940564b6cf12cc72e8ac78b6d31 1275168 gcc-13_13.1.0-6.debian.tar.xz"
+    "bc09c6ec521c38769ab4f634d9af2f8b 27472 gcc-13_13.1.0-7.dsc 3194cfc95c09ba18bf124577314021f5 89274824 gcc-13_13.1.0.orig.tar.gz fdc9f2366a4e48b32597b2e8dfa85ad4 1315992 gcc-13_13.1.0-7.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -60,6 +60,6 @@
     "https://salsa.debian.org/toolchain-team/gcc.git"
   ],
   "Version": [
-    "13.1.0-6"
+    "13.1.0-7"
   ]
 }

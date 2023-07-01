@@ -6,16 +6,16 @@
     "librust-rustls-pemfile-dev"
   ],
   "Build-Depends": [
-    "debhelper (\u003e= 12), dh-cargo (\u003e= 25), cargo:native \u003c!nocheck\u003e, rustc:native \u003c!nocheck\u003e, libstd-rust-dev \u003c!nocheck\u003e, librust-base64-0.13+default-dev \u003c!nocheck\u003e"
+    "debhelper (\u003e= 12), dh-cargo (\u003e= 25), cargo:native \u003c!nocheck\u003e, rustc:native \u003c!nocheck\u003e, libstd-rust-dev \u003c!nocheck\u003e, librust-base64-0.21+default-dev \u003c!nocheck\u003e"
   ],
   "Checksums-Sha256": [
-    "bd166a3681562626c3419401c85a3970c5867e16344b7b80a81fab1801e3c6e8 2278 rust-rustls-pemfile_1.0.0-1.dsc e7522c9de787ff061458fe9a829dc790a3f5b22dc571694fc5883f448b94d9a9 14559 rust-rustls-pemfile_1.0.0.orig.tar.gz aefd383c109f45d5f5c1677e2edcb86053d8fe4481f47d5e7609aed8649a5e06 3388 rust-rustls-pemfile_1.0.0-1.debian.tar.xz"
+    "c7d2bdf3824cd8b300374b510b8005e243b3b6a3d0148bf77b8ace05032ba058 2340 rust-rustls-pemfile_1.0.2-1.dsc d194b56d58803a43635bdc398cd17e383d6f71f9182b9a192c127ca42494a59b 19347 rust-rustls-pemfile_1.0.2.orig.tar.gz 59fc16765b2ba7b9cf3297667a515d775658c919e9752a39242c565e814a6eb5 3120 rust-rustls-pemfile_1.0.2-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/rust-rustls-pemfile"
   ],
   "Files": [
-    "fd5b0ea0e4b9da2c7cd716a24f42c4f4 2278 rust-rustls-pemfile_1.0.0-1.dsc 09472287a2416e788312063a5068c7b1 14559 rust-rustls-pemfile_1.0.0.orig.tar.gz d8bda7e0a9e62d0bc9c439feb8474374 3388 rust-rustls-pemfile_1.0.0-1.debian.tar.xz"
+    "69ed8c9a1b297acb45c351a7c93fd24b 2340 rust-rustls-pemfile_1.0.2-1.dsc 1fee79742060399cb46964ba4c7a9ab2 19347 rust-rustls-pemfile_1.0.2.orig.tar.gz dbf2fd979360451c9e5e565d4d751b01 3120 rust-rustls-pemfile_1.0.2-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,13 +39,13 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.5.1"
+    "4.6.1"
   ],
   "Testsuite": [
     "autopkgtest"
   ],
   "Testsuite-Triggers": [
-    "dh-cargo"
+    "dh-cargo, librust-bencher-0.1+default-dev"
   ],
   "Uploaders": [
     "Alexander Kjäll \u003calexander.kjall@gmail.com\u003e"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/rust-team/debcargo-conf.git [src/rustls-pemfile]"
   ],
   "Version": [
-    "1.0.0-1"
+    "1.0.2-1"
   ]
 }

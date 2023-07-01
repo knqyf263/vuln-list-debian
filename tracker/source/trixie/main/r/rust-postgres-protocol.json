@@ -6,16 +6,16 @@
     "librust-postgres-protocol-dev"
   ],
   "Build-Depends": [
-    "debhelper (\u003e= 12), dh-cargo (\u003e= 25), cargo:native \u003c!nocheck\u003e, rustc:native \u003c!nocheck\u003e, libstd-rust-dev \u003c!nocheck\u003e, librust-base64-0.13+default-dev \u003c!nocheck\u003e, librust-byteorder-1+default-dev \u003c!nocheck\u003e, librust-bytes-1+default-dev \u003c!nocheck\u003e, librust-fallible-iterator-0.2+default-dev \u003c!nocheck\u003e, librust-hmac-0.12+default-dev \u003c!nocheck\u003e, librust-md-5-0.10+default-dev \u003c!nocheck\u003e, librust-memchr-2+default-dev \u003c!nocheck\u003e, librust-rand-0.8+default-dev \u003c!nocheck\u003e, librust-sha2-0.10+default-dev \u003c!nocheck\u003e, librust-stringprep-0.1+default-dev \u003c!nocheck\u003e"
+    "debhelper (\u003e= 12), dh-cargo (\u003e= 25), cargo:native \u003c!nocheck\u003e, rustc:native \u003c!nocheck\u003e, libstd-rust-dev \u003c!nocheck\u003e, librust-base64-0.21+default-dev \u003c!nocheck\u003e, librust-byteorder-1+default-dev \u003c!nocheck\u003e, librust-bytes-1+default-dev \u003c!nocheck\u003e, librust-fallible-iterator-0.2+default-dev \u003c!nocheck\u003e, librust-hmac-0.12+default-dev \u003c!nocheck\u003e, librust-md-5-0.10+default-dev \u003c!nocheck\u003e, librust-memchr-2+default-dev \u003c!nocheck\u003e, librust-rand-0.8+default-dev \u003c!nocheck\u003e, librust-sha2-0.10+default-dev \u003c!nocheck\u003e, librust-stringprep-0.1+default-dev \u003c!nocheck\u003e"
   ],
   "Checksums-Sha256": [
-    "b58f25feddf7d866002694587024fd3e297879d86cf1c90a8f8c89fd791280e5 2640 rust-postgres-protocol_0.6.4-1.dsc 878c6cbf956e03af9aa8204b407b9cbf47c072164800aa918c516cd4b056c50c 24507 rust-postgres-protocol_0.6.4.orig.tar.gz 4308602c0c7a476ab743a963fcea9b01e4f7f1d895c5695ef5a103a0ac9695f0 2664 rust-postgres-protocol_0.6.4-1.debian.tar.xz"
+    "3b7d539a4c52494e28ff03b12f56a9dd64f9e2962e153672d4ab40079affae8f 2669 rust-postgres-protocol_0.6.5-1.dsc 78b7fa9f396f51dffd61546fd8573ee20592287996568e6175ceb0f8699ad75d 25157 rust-postgres-protocol_0.6.5.orig.tar.gz d7002e366c5348936fbaf6eccad7fbc645918759b425ee9d9994f8e278e418b2 2764 rust-postgres-protocol_0.6.5-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/rust-postgres-protocol"
   ],
   "Files": [
-    "54e2d9fb4d25f547950767609fde82b6 2640 rust-postgres-protocol_0.6.4-1.dsc 3b21417ee6fa0c377745499f2a6d4ddb 24507 rust-postgres-protocol_0.6.4.orig.tar.gz 31657eb2f70b248d24addcf01f5291c0 2664 rust-postgres-protocol_0.6.4-1.debian.tar.xz"
+    "7f85a17096d055b8b4b8e45fa7521b4d 2669 rust-postgres-protocol_0.6.5-1.dsc e1c2f037b7116bea496cf425f1cb50f1 25157 rust-postgres-protocol_0.6.5.orig.tar.gz ea7ae1e973042ae41e57eb95df5ee70e 2764 rust-postgres-protocol_0.6.5-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -36,7 +36,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.5.1"
+    "4.6.1"
   ],
   "Testsuite": [
     "autopkgtest"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/rust-team/debcargo-conf.git [src/postgres-protocol]"
   ],
   "Version": [
-    "0.6.4-1"
+    "0.6.5-1"
   ]
 }

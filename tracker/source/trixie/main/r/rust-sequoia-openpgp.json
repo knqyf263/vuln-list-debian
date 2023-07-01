@@ -3,19 +3,19 @@
     "any"
   ],
   "Binary": [
-    "librust-sequoia-openpgp-dev, librust-sequoia-openpgp+bzip2-dev, librust-sequoia-openpgp+compression-dev, librust-sequoia-openpgp+compression-bzip2-dev, librust-sequoia-openpgp+compression-deflate-dev, librust-sequoia-openpgp+default-dev, librust-sequoia-openpgp+flate2-dev, librust-sequoia-openpgp+nettle-dev"
+    "librust-sequoia-openpgp-dev"
   ],
   "Build-Depends": [
-    "debhelper (\u003e= 12), dh-cargo (\u003e= 25), cargo:native \u003c!nocheck\u003e, rustc:native \u003c!nocheck\u003e, libstd-rust-dev \u003c!nocheck\u003e, librust-anyhow-1+default-dev (\u003e= 1.0.18-~~) \u003c!nocheck\u003e, librust-base64-0.13+default-dev \u003c!nocheck\u003e | librust-base64-0.12+default-dev \u003c!nocheck\u003e, librust-buffered-reader-1+compression-bzip2-dev \u003c!nocheck\u003e, librust-buffered-reader-1+compression-deflate-dev \u003c!nocheck\u003e, librust-buffered-reader-1-dev \u003c!nocheck\u003e, librust-bzip2-0.4+default-dev \u003c!nocheck\u003e, librust-dyn-clone-1+default-dev \u003c!nocheck\u003e, librust-flate2-1+default-dev (\u003e= 1.0.1-~~) \u003c!nocheck\u003e, librust-idna-0.3+default-dev \u003c!nocheck\u003e | librust-idna-0.2+default-dev \u003c!nocheck\u003e, librust-lalrpop-dev (\u003e= 0.17-~~) \u003c!nocheck\u003e, librust-lalrpop-util+default-dev (\u003e= 0.17-~~) \u003c!nocheck\u003e, librust-lazy-static-1+default-dev (\u003e= 1.4.0-~~) \u003c!nocheck\u003e, librust-libc-0.2+default-dev (\u003e= 0.2.66-~~) \u003c!nocheck\u003e, librust-memsec-dev (\u003e= 0.5-~~) \u003c!nocheck\u003e, librust-nettle-7+default-dev (\u003e= 7.0.2-~~) \u003c!nocheck\u003e, librust-regex-1+default-dev \u003c!nocheck\u003e, librust-regex-syntax-0.6+default-dev \u003c!nocheck\u003e, librust-sha1collisiondetection-0.2+std-dev (\u003e= 0.2.3-~~) \u003c!nocheck\u003e, librust-thiserror-1+default-dev (\u003e= 1.0.2-~~) \u003c!nocheck\u003e, librust-xxhash-rust-0.8+default-dev \u003c!nocheck\u003e, librust-xxhash-rust-0.8+xxh3-dev \u003c!nocheck\u003e"
+    "debhelper (\u003e= 12), dh-cargo (\u003e= 25), cargo:native \u003c!nocheck\u003e, rustc:native \u003c!nocheck\u003e, libstd-rust-dev \u003c!nocheck\u003e, librust-anyhow-1+default-dev (\u003e= 1.0.18-~~) \u003c!nocheck\u003e, librust-base64-0.21+default-dev \u003c!nocheck\u003e, librust-buffered-reader-1+compression-bzip2-dev (\u003e= 1.1.5-~~) \u003c!nocheck\u003e, librust-buffered-reader-1+compression-deflate-dev (\u003e= 1.1.5-~~) \u003c!nocheck\u003e, librust-buffered-reader-1-dev (\u003e= 1.1.5-~~) \u003c!nocheck\u003e, librust-bzip2-0.4+default-dev \u003c!nocheck\u003e, librust-dyn-clone-1+default-dev \u003c!nocheck\u003e, librust-flate2-1+default-dev (\u003e= 1.0.1-~~) \u003c!nocheck\u003e, librust-idna-0.3+default-dev \u003c!nocheck\u003e | librust-idna-0.2+default-dev \u003c!nocheck\u003e, librust-lalrpop-0.19-dev \u003c!nocheck\u003e | librust-lalrpop-0.18-dev \u003c!nocheck\u003e | librust-lalrpop-0.17-dev \u003c!nocheck\u003e, librust-lalrpop-util-0.19+default-dev \u003c!nocheck\u003e | librust-lalrpop-util-0.18+default-dev \u003c!nocheck\u003e | librust-lalrpop-util-0.17+default-dev \u003c!nocheck\u003e, librust-lazy-static-1+default-dev (\u003e= 1.4.0-~~) \u003c!nocheck\u003e, librust-libc-0.2+default-dev (\u003e= 0.2.66-~~) \u003c!nocheck\u003e, librust-memsec-0.6-dev \u003c!nocheck\u003e | librust-memsec-0.5-dev \u003c!nocheck\u003e, librust-nettle-7+default-dev (\u003e= 7.2.2-~~) \u003c!nocheck\u003e, librust-once-cell-1+default-dev \u003c!nocheck\u003e, librust-regex-1+default-dev \u003c!nocheck\u003e, librust-regex-syntax-0.6+default-dev \u003c!nocheck\u003e, librust-sha1collisiondetection-0.2+std-dev (\u003e= 0.2.3-~~) \u003c!nocheck\u003e, librust-thiserror-1+default-dev (\u003e= 1.0.2-~~) \u003c!nocheck\u003e, librust-xxhash-rust-0.8+default-dev \u003c!nocheck\u003e, librust-xxhash-rust-0.8+xxh3-dev \u003c!nocheck\u003e"
   ],
   "Checksums-Sha256": [
-    "bc483fb35cb77d6efb6fe4b50b1a145498b8bd3086f80d9baafbbc45d1d12303 4276 rust-sequoia-openpgp_1.12.0-2.dsc 6aab653aad177cc40f34dbbc119127715f609d7e28481595506f1645bc67cd53 2887455 rust-sequoia-openpgp_1.12.0.orig.tar.gz aba4775702b2f85abaf61cceb1c9b9fb8b5a89361fbe99088291ff56feec2b40 6724 rust-sequoia-openpgp_1.12.0-2.debian.tar.xz"
+    "5c5567db8bfd3e801d7442c1c688026828c80eb39b571a0e5bca73e951ff0000 3831 rust-sequoia-openpgp_1.16.0-1.dsc 30efff3f9930e85b4284e76bbdad741f36412dfb1e370efd0de5866ae1a11dfc 2937534 rust-sequoia-openpgp_1.16.0.orig.tar.gz cd3521f72816bac4e2183a88f1a221e172e05765ef6a717e1c9361f5679d1a38 7136 rust-sequoia-openpgp_1.16.0-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/rust-sequoia-openpgp"
   ],
   "Files": [
-    "f4a7737dd7327bccc026cd5fc44a9bef 4276 rust-sequoia-openpgp_1.12.0-2.dsc f3a8ff7cd4a56b2051ea1edc435fce78 2887455 rust-sequoia-openpgp_1.12.0.orig.tar.gz f9575094ccb8abb3a0a260f9eabd1753 6724 rust-sequoia-openpgp_1.12.0-2.debian.tar.xz"
+    "68e072b3a34036c67b263a86c63d3047 3831 rust-sequoia-openpgp_1.16.0-1.dsc 0d8538d33d825dd3515e5d7ff31dd184 2937534 rust-sequoia-openpgp_1.16.0.orig.tar.gz ca15bfdb058b69e2feb34fec8c66c489 7136 rust-sequoia-openpgp_1.16.0-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -30,7 +30,7 @@
     "rust-sequoia-openpgp"
   ],
   "Package-List": [
-    "librust-sequoia-openpgp+bzip2-dev deb rust optional arch=any librust-sequoia-openpgp+compression-bzip2-dev deb rust optional arch=any librust-sequoia-openpgp+compression-deflate-dev deb rust optional arch=any librust-sequoia-openpgp+compression-dev deb rust optional arch=any librust-sequoia-openpgp+default-dev deb rust optional arch=any librust-sequoia-openpgp+flate2-dev deb rust optional arch=any librust-sequoia-openpgp+nettle-dev deb rust optional arch=any librust-sequoia-openpgp-dev deb rust optional arch=any"
+    "librust-sequoia-openpgp-dev deb rust optional arch=any"
   ],
   "Priority": [
     "extra"
@@ -45,7 +45,7 @@
     "autopkgtest"
   ],
   "Testsuite-Triggers": [
-    "dh-cargo, librust-quickcheck-1-dev, librust-rand-0.8+default-dev, librust-rpassword-6+default-dev"
+    "dh-cargo, librust-criterion-0.4+default-dev, librust-criterion-0.4+html-reports-dev, librust-quickcheck-1-dev, librust-rand-0.8+default-dev, librust-rpassword-6+default-dev"
   ],
   "Uploaders": [
     "Daniel Kahn Gillmor \u003cdkg@fifthhorseman.net\u003e"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/rust-team/debcargo-conf.git [src/sequoia-openpgp]"
   ],
   "Version": [
-    "1.12.0-2"
+    "1.16.0-1"
   ]
 }

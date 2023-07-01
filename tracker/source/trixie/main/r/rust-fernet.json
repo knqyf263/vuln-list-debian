@@ -6,16 +6,16 @@
     "librust-fernet-dev"
   ],
   "Build-Depends": [
-    "debhelper (\u003e= 12), dh-cargo (\u003e= 25), cargo:native \u003c!nocheck\u003e, rustc:native \u003c!nocheck\u003e, libstd-rust-dev \u003c!nocheck\u003e, librust-base64-0.13+default-dev \u003c!nocheck\u003e, librust-byteorder-1+default-dev \u003c!nocheck\u003e, librust-getrandom-0.2+default-dev \u003c!nocheck\u003e, librust-openssl-0.10+default-dev \u003c!nocheck\u003e, librust-zeroize-1+default-dev \u003c!nocheck\u003e, librust-zeroize-1+zeroize-derive-dev \u003c!nocheck\u003e"
+    "debhelper (\u003e= 12), dh-cargo (\u003e= 25), cargo:native \u003c!nocheck\u003e, rustc:native \u003c!nocheck\u003e, libstd-rust-dev \u003c!nocheck\u003e, librust-base64-0.21+default-dev \u003c!nocheck\u003e, librust-byteorder-1+default-dev \u003c!nocheck\u003e, librust-getrandom-0.2+default-dev \u003c!nocheck\u003e, librust-openssl-0.10+default-dev \u003c!nocheck\u003e, librust-zeroize-1+default-dev \u003c!nocheck\u003e, librust-zeroize-1+zeroize-derive-dev \u003c!nocheck\u003e"
   ],
   "Checksums-Sha256": [
-    "377c274b810adefd73998cc6a0b956eb1a7d7e747262f3eaf0418d39959ae423 2664 rust-fernet_0.2.0+really0.1.4-2.dsc 93804560e638370a8be6d59ce71ed803e55e230abdbf42598e666b41adda9b1f 12480 rust-fernet_0.2.0+really0.1.4.orig.tar.gz 6e6b8fc414e294e6fa38a0a89d8c9e13416fd93293e149a23cddbd5b94c69030 2336 rust-fernet_0.2.0+really0.1.4-2.debian.tar.xz"
+    "fe29ba9179d017f4f7e6df643d3bdf97eb56403607c0315901816725b50155dc 2664 rust-fernet_0.2.0+really0.1.4-3.dsc 93804560e638370a8be6d59ce71ed803e55e230abdbf42598e666b41adda9b1f 12480 rust-fernet_0.2.0+really0.1.4.orig.tar.gz 8a2849fe36ca01ea6295e1dd1294a03893d13b1d00e4231b06ccadd105d5e6b9 3968 rust-fernet_0.2.0+really0.1.4-3.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/rust-fernet"
   ],
   "Files": [
-    "edd4101d96ff2476e31a1b4d6415ab51 2664 rust-fernet_0.2.0+really0.1.4-2.dsc b3fb7f9c3938b29537318e7cd1b6d986 12480 rust-fernet_0.2.0+really0.1.4.orig.tar.gz 0fd6f1c3a975a61f7bc838291d501881 2336 rust-fernet_0.2.0+really0.1.4-2.debian.tar.xz"
+    "25df7832e457debb77f74bd98e93b89b 2664 rust-fernet_0.2.0+really0.1.4-3.dsc b3fb7f9c3938b29537318e7cd1b6d986 12480 rust-fernet_0.2.0+really0.1.4.orig.tar.gz 6ea41a6064705e5715f4d98f798e08c7 3968 rust-fernet_0.2.0+really0.1.4-3.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/rust-team/debcargo-conf.git [src/fernet]"
   ],
   "Version": [
-    "0.2.0+really0.1.4-2"
+    "0.2.0+really0.1.4-3"
   ]
 }

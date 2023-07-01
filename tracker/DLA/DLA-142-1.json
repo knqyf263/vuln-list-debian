@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[29 Jan 2015] DLA-142-1 privoxy - security update",
-    "Line": 10169,
+    "Line": 10172,
     "ID": "DLA-142-1",
     "Description": "privoxy - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-1031 CVE-2015-1381 CVE-2015-1382}",
-      "Line": 10170,
+      "Line": 10173,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-1031",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[squeeze] - privoxy 3.0.16-1+deb6u1",
-      "Line": 10171,
+      "Line": 10174,
       "Type": "package",
       "Release": "squeeze",
       "Package": "privoxy",

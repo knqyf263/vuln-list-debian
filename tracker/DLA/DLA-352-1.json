@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[26 Nov 2015] DLA-352-1 libcommons-collections3-java - security update",
-    "Line": 9526,
+    "Line": 9529,
     "ID": "DLA-352-1",
     "Description": "libcommons-collections3-java - security update"
   },
   "Annotations": [
     {
       "Original": "[squeeze] - libcommons-collections3-java 3.2.1-4+deb6u1",
-      "Line": 9527,
+      "Line": 9530,
       "Type": "package",
       "Release": "squeeze",
       "Package": "libcommons-collections3-java",

@@ -3,19 +3,19 @@
     "any"
   ],
   "Binary": [
-    "librust-bstr-dev, librust-bstr+default-dev, librust-bstr+lazy-static-dev, librust-bstr+regex-automata-dev, librust-bstr+serde-dev, librust-bstr+serde1-dev, librust-bstr+std-dev, librust-bstr+unicode-dev"
+    "librust-bstr-dev"
   ],
   "Build-Depends": [
-    "debhelper (\u003e= 12), dh-cargo (\u003e= 24), cargo:native \u003c!nocheck\u003e, rustc:native \u003c!nocheck\u003e, libstd-rust-dev \u003c!nocheck\u003e, librust-lazy-static-1+default-dev (\u003e= 1.2.0-~~) \u003c!nocheck\u003e, librust-memchr-2+std-dev (\u003e= 2.4.0-~~) \u003c!nocheck\u003e, librust-memchr-2-dev (\u003e= 2.4.0-~~) \u003c!nocheck\u003e, librust-regex-automata-0.1-dev (\u003e= 0.1.5-~~) \u003c!nocheck\u003e"
+    "debhelper (\u003e= 12), dh-cargo (\u003e= 25), cargo:native \u003c!nocheck\u003e, rustc:native \u003c!nocheck\u003e, libstd-rust-dev \u003c!nocheck\u003e, librust-memchr-2+std-dev (\u003e= 2.4.0-~~) \u003c!nocheck\u003e, librust-memchr-2-dev (\u003e= 2.4.0-~~) \u003c!nocheck\u003e, librust-once-cell-1+default-dev (\u003e= 1.14.0-~~) \u003c!nocheck\u003e, librust-regex-automata-0.1-dev (\u003e= 0.1.5-~~) \u003c!nocheck\u003e, librust-serde-1+alloc-dev (\u003e= 1.0.85-~~) \u003c!nocheck\u003e, librust-serde-1+std-dev (\u003e= 1.0.85-~~) \u003c!nocheck\u003e"
   ],
   "Checksums-Sha256": [
-    "71eabcaedf954e6a800425223b5d240d024e22cdd63484227bfea527f2fa06a8 2405 rust-bstr_0.2.17-1.dsc ba3569f383e8f1598449f1a423e72e99569137b47740b1da11ef19af3d5c3223 330350 rust-bstr_0.2.17.orig.tar.gz f83ca717f8889e57e98f028c195ba6f29a43b90e629b9614f318fcad6fe71b28 4200 rust-bstr_0.2.17-1.debian.tar.xz"
+    "20e7fa5429feb05f5774ea4bb4b1cdce9b1b5613d0cfa4e8ada4cf9e64aa439f 2574 rust-bstr_1.5.0-1.dsc a246e68bb43f6cd9db24bea052a53e40405417c5fb372e3d1a8a7f770a564ef5 346060 rust-bstr_1.5.0.orig.tar.gz 5c92021b06b02867b73ecb6570cdce77f786346b68df15952fa67807e0871730 3956 rust-bstr_1.5.0-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/rust-bstr"
   ],
   "Files": [
-    "2a706e48558512b74d837734ca8ce3bc 2405 rust-bstr_0.2.17-1.dsc f5b0c1878d1deab2cc401e09fa6c78af 330350 rust-bstr_0.2.17.orig.tar.gz ea95d14123c607b5fe600f950df1810a 4200 rust-bstr_0.2.17-1.debian.tar.xz"
+    "d3dd630ed0e9618a4a6ff02d6d3facab 2574 rust-bstr_1.5.0-1.dsc 6f3e63c50040110f331c0f722d26147f 346060 rust-bstr_1.5.0.orig.tar.gz 2a25cfe677f5e030fb17a8de29e7632a 3956 rust-bstr_1.5.0-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -30,7 +30,7 @@
     "rust-bstr"
   ],
   "Package-List": [
-    "librust-bstr+default-dev deb rust optional arch=any librust-bstr+lazy-static-dev deb rust optional arch=any librust-bstr+regex-automata-dev deb rust optional arch=any librust-bstr+serde-dev deb rust optional arch=any librust-bstr+serde1-dev deb rust optional arch=any librust-bstr+std-dev deb rust optional arch=any librust-bstr+unicode-dev deb rust optional arch=any librust-bstr-dev deb rust optional arch=any"
+    "librust-bstr-dev deb rust optional arch=any"
   ],
   "Priority": [
     "extra"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.5.1"
+    "4.6.1"
   ],
   "Testsuite": [
     "autopkgtest"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/rust-team/debcargo-conf.git [src/bstr]"
   ],
   "Version": [
-    "0.2.17-1"
+    "1.5.0-1"
   ]
 }

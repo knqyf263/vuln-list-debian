@@ -6,16 +6,16 @@
     "librust-oauth2-dev"
   ],
   "Build-Depends": [
-    "debhelper (\u003e= 12), dh-cargo (\u003e= 25), cargo:native \u003c!nocheck\u003e, rustc:native \u003c!nocheck\u003e, libstd-rust-dev \u003c!nocheck\u003e, librust-base64-0.13+default-dev \u003c!nocheck\u003e, librust-chrono-0.4+clock-dev \u003c!nocheck\u003e, librust-chrono-0.4+serde-dev \u003c!nocheck\u003e, librust-chrono-0.4+std-dev \u003c!nocheck\u003e, librust-http-0.2+default-dev \u003c!nocheck\u003e, librust-rand-0.8+default-dev \u003c!nocheck\u003e, librust-reqwest-0.11+blocking-dev \u003c!nocheck\u003e, librust-reqwest-0.11+rustls-tls-dev \u003c!nocheck\u003e, librust-serde-1+default-dev \u003c!nocheck\u003e, librust-serde-1+derive-dev \u003c!nocheck\u003e, librust-serde-json-1+default-dev \u003c!nocheck\u003e, librust-serde-path-to-error-0.1+default-dev \u003c!nocheck\u003e, librust-sha2-0.10+default-dev \u003c!nocheck\u003e, librust-thiserror-1+default-dev \u003c!nocheck\u003e, librust-url-2+default-dev (\u003e= 2.1-~~) \u003c!nocheck\u003e, librust-url-2+serde-dev (\u003e= 2.1-~~) \u003c!nocheck\u003e"
+    "debhelper (\u003e= 12), dh-cargo (\u003e= 25), cargo:native \u003c!nocheck\u003e, rustc:native \u003c!nocheck\u003e, libstd-rust-dev \u003c!nocheck\u003e, librust-base64-0.21+default-dev \u003c!nocheck\u003e, librust-chrono-0.4+clock-dev \u003c!nocheck\u003e, librust-chrono-0.4+serde-dev \u003c!nocheck\u003e, librust-chrono-0.4+std-dev \u003c!nocheck\u003e, librust-http-0.2+default-dev \u003c!nocheck\u003e, librust-rand-0.8+default-dev \u003c!nocheck\u003e, librust-reqwest-0.11+blocking-dev (\u003e= 0.11.14-~~) \u003c!nocheck\u003e, librust-reqwest-0.11+rustls-tls-dev (\u003e= 0.11.14-~~) \u003c!nocheck\u003e, librust-serde-1+default-dev \u003c!nocheck\u003e, librust-serde-1+derive-dev \u003c!nocheck\u003e, librust-serde-json-1+default-dev \u003c!nocheck\u003e, librust-serde-path-to-error-0.1+default-dev (\u003e= 0.1.2-~~) \u003c!nocheck\u003e, librust-sha2-0.10+default-dev \u003c!nocheck\u003e, librust-thiserror-1+default-dev \u003c!nocheck\u003e, librust-url-2+default-dev (\u003e= 2.1-~~) \u003c!nocheck\u003e, librust-url-2+serde-dev (\u003e= 2.1-~~) \u003c!nocheck\u003e"
   ],
   "Checksums-Sha256": [
-    "e4f040482899af227768ebfeee9e57074b6c2d1dddf26b2a5af1ed93ec78f04f 3041 rust-oauth2_4.3.0-1.dsc eeaf26a72311c087f8c5ba617c96fac67a5c04f430e716ac8d8ab2de62e23368 73921 rust-oauth2_4.3.0.orig.tar.gz 87e597e0b46824b8bbb1a21690b4eb74c400ba2f3db4e5cccb37c602af794cfb 3592 rust-oauth2_4.3.0-1.debian.tar.xz"
+    "7b0c89edf4c6f9a73a2b3ca6e2a25662ee3a4ea2f917df8f8ee8a5bf8db78360 3116 rust-oauth2_4.4.1-2.dsc 09a6e2a2b13a56ebeabba9142f911745be6456163fd6c3d361274ebcd891a80c 74263 rust-oauth2_4.4.1.orig.tar.gz 2ae93122ba1e4c9b693614ac70e8e0112fcca95a97ce9223bf1c2f86b0df1ee7 4788 rust-oauth2_4.4.1-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/rust-oauth2"
   ],
   "Files": [
-    "984d1bc8f9b1f90d63d64505ff161102 3041 rust-oauth2_4.3.0-1.dsc 2e5a0fb3b894d15d540056ec0c24ebc4 73921 rust-oauth2_4.3.0.orig.tar.gz cee17fbeed9424602a81c38dad3e61a7 3592 rust-oauth2_4.3.0-1.debian.tar.xz"
+    "1a3ef87b37d361d44bd6fef82c465f42 3116 rust-oauth2_4.4.1-2.dsc 488a126c7da94f11d9cd47de5d0eac80 74263 rust-oauth2_4.4.1.orig.tar.gz d8544e95bf378db1b0848b47b48b3b42 4788 rust-oauth2_4.4.1-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/rust-team/debcargo-conf.git [src/oauth2]"
   ],
   "Version": [
-    "4.3.0-1"
+    "4.4.1-2"
   ]
 }

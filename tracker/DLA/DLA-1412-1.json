@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[03 Jul 2018] DLA-1412-1 cups - security update",
-    "Line": 6313,
+    "Line": 6316,
     "ID": "DLA-1412-1",
     "Description": "cups - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-18190 CVE-2017-18248}",
-      "Line": 6314,
+      "Line": 6317,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-18190",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[jessie] - cups 1.7.5-11+deb8u3",
-      "Line": 6315,
+      "Line": 6318,
       "Type": "package",
       "Release": "jessie",
       "Package": "cups",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[14 Oct 2020] DLA-2406-1 jackson-databind - security update",
-    "Line": 3246,
+    "Line": 3249,
     "ID": "DLA-2406-1",
     "Description": "jackson-databind - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-25649}",
-      "Line": 3247,
+      "Line": 3250,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-25649"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - jackson-databind 2.8.6-1+deb9u8",
-      "Line": 3248,
+      "Line": 3251,
       "Type": "package",
       "Release": "stretch",
       "Package": "jackson-databind",

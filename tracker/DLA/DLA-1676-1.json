@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[14 Feb 2019] DLA-1676-1 unbound - security update",
-    "Line": 5511,
+    "Line": 5514,
     "ID": "DLA-1676-1",
     "Description": "unbound - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-15105}",
-      "Line": 5512,
+      "Line": 5515,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-15105"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - unbound 1.4.22-3+deb8u4",
-      "Line": 5513,
+      "Line": 5516,
       "Type": "package",
       "Release": "jessie",
       "Package": "unbound",

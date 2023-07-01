@@ -6,16 +6,16 @@
     "librust-base64-dev"
   ],
   "Build-Depends": [
-    "debhelper (\u003e= 12), dh-cargo (\u003e= 24), cargo:native \u003c!nocheck\u003e, rustc:native \u003c!nocheck\u003e, libstd-rust-dev \u003c!nocheck\u003e"
+    "debhelper (\u003e= 12), dh-cargo (\u003e= 25), cargo:native \u003c!nocheck\u003e, rustc:native \u003c!nocheck\u003e, libstd-rust-dev \u003c!nocheck\u003e"
   ],
   "Checksums-Sha256": [
-    "7696933b18b7a234c195c62ba1c2e290aef3b28ec835771a21c22250cca8458e 2224 rust-base64_0.13.0-1.dsc 904dfeac50f3cdaba28fc6f57fdcddb75f49ed61346676a78c4ffe55877802fd 62070 rust-base64_0.13.0.orig.tar.gz cdd67a02e39995de4cdc813203cdfa45b00bd35ea5ad6da33fb6ec2a6b280d4a 2896 rust-base64_0.13.0-1.debian.tar.xz"
+    "8345249bb0789810027ac020d70871591005056c05c17ce08cb41ac5bc090aa1 2354 rust-base64_0.21.2-1.dsc 604178f6c5c21f02dc555784810edfb88d34ac2c73b2eae109655649ee73ce3d 76389 rust-base64_0.21.2.orig.tar.gz 2cca38942f82883d7cd45c60ea1f55b27ca8a2979e49a8b2c44e4e96eef05d11 3016 rust-base64_0.21.2-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/rust-base64"
   ],
   "Files": [
-    "3ddbda380555346f44f4958f580fbf98 2224 rust-base64_0.13.0-1.dsc 80a2c27647a6acb1890a3a7de8fded72 62070 rust-base64_0.13.0.orig.tar.gz d00fdf4926c6e380250fce76afae9acc 2896 rust-base64_0.13.0-1.debian.tar.xz"
+    "b301d376c55b3a20988a6f68398fe301 2354 rust-base64_0.21.2-1.dsc 7be6172f6dbe2023b02f6a3131390d3d 76389 rust-base64_0.21.2.orig.tar.gz c58bc9c8072137ec8ff9f2b7057863eb 3016 rust-base64_0.21.2-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -36,13 +36,13 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.5.1"
+    "4.6.1"
   ],
   "Testsuite": [
     "autopkgtest"
   ],
   "Testsuite-Triggers": [
-    "dh-cargo, librust-criterion-0.3.2+default-dev, librust-rand-0.6+default-dev, librust-structopt-0.3+default-dev"
+    "dh-cargo, librust-criterion-0.4+default-dev, librust-rand-0.8+default-dev, librust-rand-0.8+small-rng-dev, librust-rstest-0.12+default-dev, librust-rstest-reuse-0.3+default-dev, librust-structopt-0.3+default-dev"
   ],
   "Uploaders": [
     "kpcyrd \u003cgit@rxv.cc\u003e, Andrej Shadura \u003candrewsh@debian.org\u003e"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/rust-team/debcargo-conf.git [src/base64]"
   ],
   "Version": [
-    "0.13.0-1"
+    "0.21.2-1"
   ]
 }
