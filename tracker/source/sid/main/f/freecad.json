@@ -12,13 +12,13 @@
     "doxygen"
   ],
   "Checksums-Sha256": [
-    "ebcd93936aaee65cd32afd3af86a5a4824c94558f8ab2965ecaa724cc628c00d 3423 freecad_0.20.2+dfsg1-5.dsc fde91f3ab109925743d0ef060d1f078a30ad9adcdc3b53a9a283a2f4f861a739 38576460 freecad_0.20.2+dfsg1.orig.tar.xz 575176394774c93d50cb054980b6746fdfb14a32555c79d7e709a98df3624881 30848 freecad_0.20.2+dfsg1-5.debian.tar.xz"
+    "af66ccbde52e6bc0dc5f8a9ea19fc75e79d2c96fb328af27a4b8671cc4e7dc2e 3423 freecad_0.20.2+dfsg1-6.dsc fde91f3ab109925743d0ef060d1f078a30ad9adcdc3b53a9a283a2f4f861a739 38576460 freecad_0.20.2+dfsg1.orig.tar.xz 8e206bb072cede8071d5d4292ac2db66cc4e5104056c12f33a1615b4debafb3b 32088 freecad_0.20.2+dfsg1-6.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/f/freecad"
   ],
   "Files": [
-    "a9747510ad4b1d175f09bb3e9d3691c6 3423 freecad_0.20.2+dfsg1-5.dsc 4e4548289787cc46adff37278e49f1b6 38576460 freecad_0.20.2+dfsg1.orig.tar.xz 7bdaa3154815ac459ebf24d1e4d9cc95 30848 freecad_0.20.2+dfsg1-5.debian.tar.xz"
+    "96a97e3905953ccc5988202fada42961 3423 freecad_0.20.2+dfsg1-6.dsc 4e4548289787cc46adff37278e49f1b6 38576460 freecad_0.20.2+dfsg1.orig.tar.xz de2f9949cb602c39e5964daebb92942d 32088 freecad_0.20.2+dfsg1-6.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -60,6 +60,6 @@
     "https://salsa.debian.org/science-team/freecad.git"
   ],
   "Version": [
-    "0.20.2+dfsg1-5"
+    "0.20.2+dfsg1-6"
   ]
 }

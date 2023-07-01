@@ -6,19 +6,19 @@
     "openjdk-11-jdk-headless, openjdk-11-jre-headless, openjdk-11-jdk, openjdk-11-jre, openjdk-11-demo, openjdk-11-source, openjdk-11-doc, openjdk-11-dbg, openjdk-11-jre-zero"
   ],
   "Build-Depends": [
-    "debhelper (\u003e= 11), m4, lsb-release, zip, unzip, sharutils, gawk, cpio, pkg-config, procps, wdiff, fastjar (\u003e= 2:0.96-0ubuntu2), time, strip-nondeterminism, debugedit (\u003e= 4.16), jtreg6 (\u003e= 6+1-0~) \u003c!nocheck\u003e, testng \u003c!nocheck\u003e, xvfb \u003c!nocheck\u003e, xauth \u003c!nocheck\u003e, xfonts-base \u003c!nocheck\u003e, libgl1-mesa-dri [!x32] \u003c!nocheck\u003e, xfwm4 \u003c!nocheck\u003e, x11-xkb-utils \u003c!nocheck\u003e, dbus-x11 \u003c!nocheck\u003e, libasmtools-java \u003c!nocheck\u003e, googletest \u003c!nocheck\u003e, google-mock \u003c!nocheck\u003e, autoconf, automake, autotools-dev, ant, ant-optional, g++-12 \u003c!cross\u003e, openjdk-11-jdk-headless:native | openjdk-10-jdk-headless:native, libxtst-dev, libxi-dev, libxt-dev, libxaw7-dev, libxrender-dev, libcups2-dev, libasound2-dev, liblcms2-dev, libfreetype6-dev (\u003e= 2.2.1), libxinerama-dev, libkrb5-dev, xsltproc, libpcsclite-dev, libxrandr-dev, libelf-dev, libfontconfig1-dev, libgtk2.0-0 | libgtk-3-0, libharfbuzz-dev, libffi-dev, zlib1g-dev:native, zlib1g-dev, libattr1-dev, libpng-dev, libjpeg-dev, libgif-dev, libnss3-dev (\u003e= 2:3.17.1), openjdk-11-jdk-headless \u003ccross\u003e"
+    "debhelper (\u003e= 11), m4, lsb-release, zip, unzip, sharutils, gawk, cpio, pkg-config, procps, wdiff, fastjar (\u003e= 2:0.96-0ubuntu2), time, strip-nondeterminism, debugedit (\u003e= 4.16), jtreg6 (\u003e= 6+1-0~) \u003c!nocheck\u003e, libtestng7-java \u003c!nocheck\u003e, xvfb \u003c!nocheck\u003e, xauth \u003c!nocheck\u003e, xfonts-base \u003c!nocheck\u003e, libgl1-mesa-dri [!x32] \u003c!nocheck\u003e, xfwm4 \u003c!nocheck\u003e, x11-xkb-utils \u003c!nocheck\u003e, dbus-x11 \u003c!nocheck\u003e, libasmtools-java \u003c!nocheck\u003e, googletest \u003c!nocheck\u003e, google-mock \u003c!nocheck\u003e, autoconf, automake, autotools-dev, ant, ant-optional, g++-12 \u003c!cross\u003e, openjdk-11-jdk-headless:native | openjdk-10-jdk-headless:native, libxtst-dev, libxi-dev, libxt-dev, libxaw7-dev, libxrender-dev, libcups2-dev, libasound2-dev, liblcms2-dev, libfreetype6-dev (\u003e= 2.2.1), libxinerama-dev, libkrb5-dev, xsltproc, libpcsclite-dev, libxrandr-dev, libelf-dev, libfontconfig1-dev, libgtk2.0-0 | libgtk-3-0, libharfbuzz-dev, libffi-dev, zlib1g-dev:native, zlib1g-dev, libattr1-dev, libpng-dev, libjpeg-dev, libgif-dev, libnss3-dev (\u003e= 2:3.17.1), openjdk-11-jdk-headless \u003ccross\u003e"
   ],
   "Build-Depends-Indep": [
     "graphviz, pandoc"
   ],
   "Checksums-Sha256": [
-    "da3f0f2f788576285f11c250e0cbfd913a9773a655e7cbb30394b93475a98d9c 4600 openjdk-11_11.0.19+7-1.dsc 8aeb8c865b11b102268bcea4e0e9d1dc39c1b0596b8ec0fb184dd2deed5b8b61 78706772 openjdk-11_11.0.19+7.orig.tar.xz 490efad4888f606a82e1021983d0f1aa44c12132357797aa5147fca27a890b62 160416 openjdk-11_11.0.19+7-1.debian.tar.xz"
+    "e47dd20d05cc284783c85c4adfc7867f4be4e113f4ebf92db3082747e0821a51 4609 openjdk-11_11.0.20~7-1.dsc 12cee8fd9ee1b6ccd4d57028353abc80b487dfb833f7481d245dc914f4e94ec2 68827032 openjdk-11_11.0.20~7.orig.tar.xz 65c53e10857ac741f5c464cb405faca7c460058d0347c241c4791be6a923df52 161192 openjdk-11_11.0.20~7-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/o/openjdk-11"
   ],
   "Files": [
-    "9ac81a9ef773773ccc4dc28dd7d34553 4600 openjdk-11_11.0.19+7-1.dsc ff2769235b5aae5c116e19a104d26397 78706772 openjdk-11_11.0.19+7.orig.tar.xz 9cc4c03e13388e480a52c9158ae04ff2 160416 openjdk-11_11.0.19+7-1.debian.tar.xz"
+    "a8635f88db237e3bd5a5794a77474220 4609 openjdk-11_11.0.20~7-1.dsc e748cf52ed9cfbbb8d8f44db4812f883 68827032 openjdk-11_11.0.20~7.orig.tar.xz ec6bda32ad8dcadc5a8667c0563ccca5 161192 openjdk-11_11.0.20~7-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -42,7 +42,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.5.1"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/openjdk-team/openjdk.git -b openjdk-11"
   ],
   "Version": [
-    "11.0.19+7-1"
+    "11.0.20~7-1"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "Architecture": [
-    "amd64 arm64 mips64el ppc64el s390x"
+    "amd64 arm64 mips64el ppc64el"
   ],
   "Binary": [
     "picolisp"
@@ -9,13 +9,13 @@
     "debhelper (\u003e= 12), dpkg-dev (\u003e= 1.18.11~), libssl-dev, libreadline-dev, libffi-dev, pkg-config, clang, llvm, picolisp"
   ],
   "Checksums-Sha256": [
-    "205b66b45b7bd107272824ea8089c1544c39e50c3f45b92b20ced80aabe84f91 1969 picolisp_23.3-2.dsc 5d322a97fa67d0d5a94e0cf989ace2bc7dd09f04985f4b2e0f0e6aceacbe2983 1062125 picolisp_23.3.orig.tar.gz 750be3c3665eacf3ff76c4b7e42752ba857fb681a02034c90a79051070d442a9 7448 picolisp_23.3-2.debian.tar.xz"
+    "7cb65e0c26c9ebd7c58e4172da5d701aa20f74b5a20df657b5e8cb2df2591e64 1957 picolisp_23.6-1.dsc 4985f4390fc5834e457a03957d347ae4a052bceb2c44eb130d35443999902334 1072589 picolisp_23.6.orig.tar.gz fc41ce5eb1fd602b5b2a42ca308c117a9af43aea5b5241eb54c05d2e46d55c9b 7800 picolisp_23.6-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/picolisp"
   ],
   "Files": [
-    "8985c29f9fb502840d1b272defb3a988 1969 picolisp_23.3-2.dsc 13346575f8c1b1442537d2a7aa3bbb58 1062125 picolisp_23.3.orig.tar.gz 23f0ac6dfdc0f1135cca8764e6132905 7448 picolisp_23.3-2.debian.tar.xz"
+    "daaf443f0f16fbdb05cdad1761fee703 1957 picolisp_23.6-1.dsc 70e78abfb9999ad133f0fdabfb6c9f1d 1072589 picolisp_23.6.orig.tar.gz 3caf2ec424d07588bfe4378df948b104 7800 picolisp_23.6-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -30,7 +30,7 @@
     "picolisp"
   ],
   "Package-List": [
-    "picolisp deb lisp optional arch=amd64,arm64,mips64el,ppc64el,s390x"
+    "picolisp deb lisp optional arch=amd64,arm64,mips64el,ppc64el"
   ],
   "Priority": [
     "source"
@@ -48,6 +48,6 @@
     "https://salsa.debian.org/koster/picolisp.git"
   ],
   "Version": [
-    "23.3-2"
+    "23.6-1"
   ]
 }
