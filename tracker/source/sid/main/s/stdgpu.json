@@ -6,10 +6,10 @@
     "libstdgpu-openmp0d, libstdgpu-openmp-dev, libstdgpu-hip0d, libstdgpu-hip-dev"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), cmake (\u003e= 3.26.4-3~), hipcc, libamdhip64-dev, libgtest-dev \u003c!nocheck\u003e, librocthrust-dev"
+    "debhelper-compat (= 13), cmake (\u003e= 3.26.4-3~), hipcc [amd64 arm64 ppc64el], libamdhip64-dev [amd64 arm64 ppc64el], libgtest-dev \u003c!nocheck\u003e, librocthrust-dev [amd64 arm64 ppc64el] | libthrust-dev"
   ],
   "Checksums-Sha256": [
-    "aef60df8300761a7f157ca99c2be7574b03e429d24f6ab687859f27689dce166 2511 stdgpu_1.3.0+git20220507.32e0517-2.dsc f5c8ed141446f367513738184ba477b2cadc51810f1de818c3017a5a7bab5af9 268875 stdgpu_1.3.0+git20220507.32e0517.orig.tar.gz 0d34a1c767e6d7a61e7a151a0d714cd7f12ba2d5e212be9422948423cce9efeb 11172 stdgpu_1.3.0+git20220507.32e0517-2.debian.tar.xz"
+    "6e914d905d26de20a3f43cff9879c8d98e7f63b1f8752e840dfe11c61a2f1d09 2625 stdgpu_1.3.0+git20220507.32e0517-4.dsc f5c8ed141446f367513738184ba477b2cadc51810f1de818c3017a5a7bab5af9 268875 stdgpu_1.3.0+git20220507.32e0517.orig.tar.gz 6b624f2ae45228a4de0ff5edd8f0e05e3ee338358116981750f1a6e33f5e22b1 11664 stdgpu_1.3.0+git20220507.32e0517-4.debian.tar.xz"
   ],
   "Description": [
     "Efficient STL-like Data Structures on the GPU stdgpu is an open-source library providing several generic GPU data structures for fast and reliable data management. Multiple platforms such as CUDA, OpenMP, and HIP are supported allowing you to rapidly write highly complex agnostic and native algorithms that look like sequential CPU code but are executed in parallel on the GPU."
@@ -18,7 +18,7 @@
     "pool/main/s/stdgpu"
   ],
   "Files": [
-    "bdb44127d58e9e4f2f7cbb5d995dc672 2511 stdgpu_1.3.0+git20220507.32e0517-2.dsc cee81854ca5d2cf61bd1dc6365070244 268875 stdgpu_1.3.0+git20220507.32e0517.orig.tar.gz e91d6bade04e154cb74f1f5ba05c5de7 11172 stdgpu_1.3.0+git20220507.32e0517-2.debian.tar.xz"
+    "977ac8a9523ac39202e1bbef2bd99395 2625 stdgpu_1.3.0+git20220507.32e0517-4.dsc cee81854ca5d2cf61bd1dc6365070244 268875 stdgpu_1.3.0+git20220507.32e0517.orig.tar.gz 3a0334c8a5536e1c8e6ac4ddce930580 11664 stdgpu_1.3.0+git20220507.32e0517-4.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -33,7 +33,7 @@
     "stdgpu"
   ],
   "Package-List": [
-    "libstdgpu-hip-dev deb libdevel optional arch=any libstdgpu-hip0d deb libs optional arch=any libstdgpu-openmp-dev deb libdevel optional arch=any libstdgpu-openmp0d deb libs optional arch=any"
+    "libstdgpu-hip-dev deb libdevel optional arch=amd64,arm64,ppc64el libstdgpu-hip0d deb libs optional arch=amd64,arm64,ppc64el libstdgpu-openmp-dev deb libdevel optional arch=any libstdgpu-openmp0d deb libs optional arch=any"
   ],
   "Priority": [
     "optional"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/debian/stdgpu.git"
   ],
   "Version": [
-    "1.3.0+git20220507.32e0517-2"
+    "1.3.0+git20220507.32e0517-4"
   ]
 }

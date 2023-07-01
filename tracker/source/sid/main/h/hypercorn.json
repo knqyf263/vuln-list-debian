@@ -6,22 +6,22 @@
     "python3-hypercorn"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), dh-sequence-python3, python3-all (\u003e= 3.7), python3-setuptools, python3-h11 (\u003e= 0.11.0), python3-h2 (\u003e= 3.1.0), python3-priority, python3-toml, python3-typing-extensions, python3-all-dev (\u003e= 3.8.2-3) | python3-mock, python3-hypothesis, python3-pytest, python3-pytest-asyncio, python3-pytest-cov, python3-trio (\u003e= 0.11.0), python3-uvloop, python3-wsproto (\u003e= 0.14.0)"
+    "debhelper-compat (= 13), dh-sequence-python3, help2man, pybuild-plugin-pyproject, python3-all (\u003e= 3.7), python3-all-dev (\u003e= 3.8.2-3) | python3-mock, python3-h11 (\u003e= 0.11.0), python3-h2 (\u003e= 3.1.0), python3-hypothesis, python3-poetry-core, python3-priority, python3-pytest, python3-pytest-asyncio, python3-pytest-cov, python3-setuptools, python3-toml, python3-trio (\u003e= 0.11.0), python3-typing-extensions, python3-uvloop, python3-wsproto (\u003e= 0.14.0)"
   ],
   "Checksums-Sha256": [
-    "38eca16e95914439b4c803288c6ee699aa1db92132a99cef938ff5750236e7db 1752 hypercorn_0.13.2-3.dsc 778a41397232ccd785d85fe724c05171f58a90e81281420f915e1ea33fe81207 115229 hypercorn_0.13.2.orig.tar.bz2 9468d74da6bb4efd4e016fb7a513b75aaaafad41182663cd6004914a5914dbd8 6104 hypercorn_0.13.2-3.debian.tar.xz"
+    "8ba55810780e3d81c6e508fbf5028482f52c332a4ea4439487e87eaf4133bb11 2164 hypercorn_0.14.3-1.dsc 1af65061783adb4c85b4bfe9b7c9f684b904cd6885c06d787868276647810e6f 154930 hypercorn_0.14.3.orig.tar.gz 735e8aa316bcc0b2aceed5ad860dacdb25d8f483fd6a7b62a010658bccdc6795 3744 hypercorn_0.14.3-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/h/hypercorn"
   ],
   "Files": [
-    "78f5e54b629d674a0976aa20c5ad9afd 1752 hypercorn_0.13.2-3.dsc 9c503767ad7943e7c7bade31ffb63bb8 115229 hypercorn_0.13.2.orig.tar.bz2 2cb5536c9d4408841887012582cf26d6 6104 hypercorn_0.13.2-3.debian.tar.xz"
+    "b7a5d0fe2aed21f70389e6d12c0512c9 2164 hypercorn_0.14.3-1.dsc bff4948ddf437774a1cc6481d3b87e26 154930 hypercorn_0.14.3.orig.tar.gz 730abbb4bded9fa3a0d576a417ed2a1a 3744 hypercorn_0.14.3-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
   ],
   "Homepage": [
-    "https://gitlab.com/pgjones/hypercorn"
+    "https://github.com/pgjones/hypercorn"
   ],
   "Maintainer": [
     "Debian Python Team \u003cteam+python@tracker.debian.org\u003e"
@@ -39,13 +39,16 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.0"
+    "4.6.2"
   ],
   "Testsuite": [
-    "autopkgtest-pkg-python"
+    "autopkgtest, autopkgtest-pkg-python"
+  ],
+  "Testsuite-Triggers": [
+    "@builddeps@, python3-all"
   ],
   "Uploaders": [
-    "Andrej Shadura \u003candrewsh@debian.org\u003e"
+    "Andrej Shadura \u003candrewsh@debian.org\u003e, Michael Fladischer \u003cfladi@debian.org\u003e,"
   ],
   "Vcs-Browser": [
     "https://salsa.debian.org/python-team/packages/hypercorn"
@@ -54,6 +57,6 @@
     "https://salsa.debian.org/python-team/packages/hypercorn.git"
   ],
   "Version": [
-    "0.13.2-3"
+    "0.14.3-1"
   ]
 }
