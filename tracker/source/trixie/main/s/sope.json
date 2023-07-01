@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), gnustep-make, gobjc, libgnustep-base-dev (\u003e= 1.29), libxml2-dev, libldap2-dev, libpq-dev, libssl-dev, default-libmysqlclient-dev, pkg-config, zlib1g-dev"
   ],
   "Checksums-Sha256": [
-    "e441f9eebfa4b01edcf60bf412698eed51e0406487f0a7f32c0501a67ef150ec 2146 sope_5.8.3-1.dsc 683ad1a8ae5f64c5fcf8656340281550ec576faaba27187b51c4104f24f1142c 2300099 sope_5.8.3.orig.tar.gz 141124630ffbde24e3d5bc1e9e65b3c4f703f83a27b8a0639e28b8a9f2c9d9c2 7424 sope_5.8.3-1.debian.tar.xz"
+    "8f6664b9439798f079cfabd5a9e20b6fe62b6cedca7020317ffd66249712f26e 2146 sope_5.8.4-1.dsc 7e7c3c2d94a3f31d3921e9d050100c7803a1ecbf515df957a823ea6dff1600b5 2283558 sope_5.8.4.orig.tar.gz a20616babb221c136b985d202f0ca6fdce2c4666d0be142728770d863af8e5e5 7440 sope_5.8.4-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/s/sope"
   ],
   "Files": [
-    "ecdf5ff22d1de04dce39afa242b1f606 2146 sope_5.8.3-1.dsc ee74ec55405c87cdbb076d36c240a5ac 2300099 sope_5.8.3.orig.tar.gz 5e9afac4f5cc535d00383d06169c04d9 7424 sope_5.8.3-1.debian.tar.xz"
+    "74377ae7689361848459ae2e7b888f80 2146 sope_5.8.4-1.dsc 4a2b57f9531306474d000a497a35df03 2283558 sope_5.8.4.orig.tar.gz 5614373bd025b07125fae59aec19be32 7440 sope_5.8.4-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/debian/sope.git"
   ],
   "Version": [
-    "5.8.3-1"
+    "5.8.4-1"
   ]
 }

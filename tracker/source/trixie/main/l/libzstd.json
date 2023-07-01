@@ -9,13 +9,13 @@
     "cmake, debhelper (\u003e\u003e 13.3.2~), help2man, liblz4-dev, liblzma-dev, zlib1g-dev, less \u003c!nocheck\u003e, python3 \u003c!nocheck\u003e"
   ],
   "Checksums-Sha256": [
-    "8f602f92b575aa8b5e979196fb6ee82d78f233521dc9636526d3ecba1f63c1b1 2589 libzstd_1.5.4+dfsg2-5.dsc 8cf4bbb65e77ec348d052c8d6230eba66d435bddf64c8b5be2fcb16880c19953 1582660 libzstd_1.5.4+dfsg2.orig.tar.xz be007507630aabfc7d88d5d3c467115935ca22025253491d525e0119bbb23d40 833 libzstd_1.5.4+dfsg2.orig.tar.xz.asc 82ce911445772861d0838bd4545f93bc50658bc7f3cefdb17a307dfb8ffca5d8 216092 libzstd_1.5.4+dfsg2-5.debian.tar.xz"
+    "503b2677c4d316fd409731949de064369d27a3addb858c2ca962ef65f91ed546 2324 libzstd_1.5.5+dfsg2-1.dsc d7cf3c10d416fd999cb8fcf7685d9268ba7bec8eb78121fc2d0d916fa393d22b 1784164 libzstd_1.5.5+dfsg2.orig.tar.xz 1c5070fa2228e1ae1cca4798e2388a58bb4160c14714d518baa9ef595e80f864 21144 libzstd_1.5.5+dfsg2-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/libz/libzstd"
   ],
   "Files": [
-    "5f407679c4e2f158374072beace84d9f 2589 libzstd_1.5.4+dfsg2-5.dsc b5e7f16f8d622f7ab651884cc163e0a9 1582660 libzstd_1.5.4+dfsg2.orig.tar.xz e93ceefe3683c60224b3b8aaba4eeb5a 833 libzstd_1.5.4+dfsg2.orig.tar.xz.asc 84bcab8a1770a36ed8882b6fd7d4f573 216092 libzstd_1.5.4+dfsg2-5.debian.tar.xz"
+    "8874b93c83d9d35aaf8ed15828296c13 2324 libzstd_1.5.5+dfsg2-1.dsc 757b1b125f12cb78fbf256e79ac6d3e9 1784164 libzstd_1.5.5+dfsg2.orig.tar.xz 03ceee0d483a6c90e2e0cc51a3a543bf 21144 libzstd_1.5.5+dfsg2-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/pkg-rpm-team/libzstd.git"
   ],
   "Version": [
-    "1.5.4+dfsg2-5"
+    "1.5.5+dfsg2-1"
   ]
 }

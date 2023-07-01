@@ -9,13 +9,13 @@
     "cmake, debhelper-compat (= 13), googletest \u003c!nocheck\u003e, libjpeg-dev"
   ],
   "Checksums-Sha256": [
-    "ddeb08761b38e68568bef2e2ac401e77e14242d2556cdbd8aeae3d17dde7bfbb 2171 libyuv_0.0~git20230123.b2528b0-1.dsc cc22ebe94004ac2e5718acdc45980c6f3b83599f19f5bd768c5ca034de659eef 570454 libyuv_0.0~git20230123.b2528b0.orig.tar.gz 76e01b2226288d3d4533f5c5dbdc2efd385ce2f19e52c40293492603fe7fdf16 5292 libyuv_0.0~git20230123.b2528b0-1.debian.tar.xz"
+    "ebf09f4bc24e32f2ae54415642c4ffaecf1cc0d4b5fda9e27460d5b58aaa6c90 2171 libyuv_0.0~git20230616.a366ad7-1.dsc 7be7f31684cb89236534058751f06dc19090874ac1849ac6cf04a5955b458681 561739 libyuv_0.0~git20230616.a366ad7.orig.tar.gz 166543b7a6ea8deb436ddd1db3737665721b04e2a54dff1eadfc380b4ee668f5 5332 libyuv_0.0~git20230616.a366ad7-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/liby/libyuv"
   ],
   "Files": [
-    "0b921b00907244948e128aeaa60bf6bc 2171 libyuv_0.0~git20230123.b2528b0-1.dsc e128a9457ce531535855acbbd24c39aa 570454 libyuv_0.0~git20230123.b2528b0.orig.tar.gz 865fc42d51cd1c7bd2a8dff04f7a0edd 5292 libyuv_0.0~git20230123.b2528b0-1.debian.tar.xz"
+    "ac04ffc84acc566708c3e52bbf9c6f0b 2171 libyuv_0.0~git20230616.a366ad7-1.dsc 0a76a7dab165931728d60c7f54bea4b3 561739 libyuv_0.0~git20230616.a366ad7.orig.tar.gz 48ae453237a1611036800d297cc66842 5332 libyuv_0.0~git20230616.a366ad7-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/debian/libyuv.git"
   ],
   "Version": [
-    "0.0~git20230123.b2528b0-1"
+    "0.0~git20230616.a366ad7-1"
   ]
 }

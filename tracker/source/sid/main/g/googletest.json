@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), cmake, python3:native"
   ],
   "Checksums-Sha256": [
-    "b67d27d4e489d06869965c9203c536335ccc1ebf54f0ea2a48682772f067bc1a 2131 googletest_1.13.0-4.dsc fa83df7152748dd21ae8847a8b0e4ec14382f49f66ece94c1afbb43883a487b0 862829 googletest_1.13.0.orig.tar.gz d82abec81858eeea8473abcdae78b7464e9e4aece5865974814324bce0ea41fd 10436 googletest_1.13.0-4.debian.tar.xz"
+    "8c45396c74414e8179ee0842126b4ad8effcbab23150e18c6ace7c5871f468fe 2131 googletest_1.13.0-5.dsc fa83df7152748dd21ae8847a8b0e4ec14382f49f66ece94c1afbb43883a487b0 862829 googletest_1.13.0.orig.tar.gz ebe1c2a68dce3efb070349b26623ae901caeef46401361c9ccdcd70b959b1161 11132 googletest_1.13.0-5.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/g/googletest"
   ],
   "Files": [
-    "414dc7a5c1a75ac9f0e17a24c6e6af59 2131 googletest_1.13.0-4.dsc 4679d5e8742c58ad0014118247e31267 862829 googletest_1.13.0.orig.tar.gz 87d6e736dace0c716b3e696728c325dc 10436 googletest_1.13.0-4.debian.tar.xz"
+    "e558cacb176abba27f7a159798cba77e 2131 googletest_1.13.0-5.dsc 4679d5e8742c58ad0014118247e31267 862829 googletest_1.13.0.orig.tar.gz e708daa4ffd7036a1944271405925382 11132 googletest_1.13.0-5.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Uploaders": [
     "Fredrik Hallenberg \u003challon@debian.org\u003e"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/debian/googletest.git"
   ],
   "Version": [
-    "1.13.0-4"
+    "1.13.0-5"
   ]
 }

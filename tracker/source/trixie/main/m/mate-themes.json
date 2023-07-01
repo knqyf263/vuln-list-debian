@@ -12,13 +12,13 @@
     "icon-naming-utils, intltool, libgtk2.0-dev, libxml-parser-perl, pkg-config"
   ],
   "Checksums-Sha256": [
-    "2888e09b35c1c2828cf6ca24361a50127dfd513db181fb82a23a5ce77467b618 2257 mate-themes_3.22.23-1.dsc 92119f1e4fed8764ea32e27eae7911b9fd78ae57d453fe6f21d752bae4fcc369 5518220 mate-themes_3.22.23.orig.tar.xz a76eb430e64cbd9556d2ac2829be5e46d699b9d7350dd99e8937ee964d57a658 13668 mate-themes_3.22.23-1.debian.tar.xz"
+    "257cde97f6f48f5ff8c252b5e6137775340ed1cb5ddcc335e4973faf342ef33d 2257 mate-themes_3.22.24-1.dsc 1061b5b8dbb733206088289290c43dab2b9eeeba18e36da301327f079684ea78 5519044 mate-themes_3.22.24.orig.tar.xz 7eb61112a9d93c7331a753575ba83736a0ecc7db178942fbfc00fc4a8720d323 13704 mate-themes_3.22.24-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/m/mate-themes"
   ],
   "Files": [
-    "2be5c1b7a271477ac72c97ed35149f30 2257 mate-themes_3.22.23-1.dsc eef3d1daff3f9ce9cd12502e61750553 5518220 mate-themes_3.22.23.orig.tar.xz 95a2e1500ec228468181a3755adf9d9e 13668 mate-themes_3.22.23-1.debian.tar.xz"
+    "c985adca5379545253700f18cdcf6219 2257 mate-themes_3.22.24-1.dsc f8ed1a51f5d30bb9d27fd2ce0426c45b 5519044 mate-themes_3.22.24.orig.tar.xz ab03bde86ee0f5cc8f9afddf14642c41 13704 mate-themes_3.22.24-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -42,7 +42,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.0"
+    "4.6.2"
   ],
   "Uploaders": [
     "John Paul Adrian Glaubitz \u003cglaubitz@physik.fu-berlin.de\u003e, Stefano Karapetsas \u003cstefano@karapetsas.com\u003e, Mike Gabriel \u003csunweaver@debian.org\u003e, Vangelis Mouhtsis \u003cvangelis@gnugr.org\u003e,"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/debian-mate-team/mate-themes.git"
   ],
   "Version": [
-    "3.22.23-1"
+    "3.22.24-1"
   ]
 }

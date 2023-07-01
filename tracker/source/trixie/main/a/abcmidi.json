@@ -9,13 +9,13 @@
     "debhelper-compat (= 13)"
   ],
   "Checksums-Sha256": [
-    "6bbaab810e878713403575a103b515ba64d91d0d995cd8878374e2698c393f15 2028 abcmidi_20230530+ds1-1.dsc c27fa779dbc1cf46b7a2293c81db166575c51ef5b4329bd6e5177ef4dd7185d0 394692 abcmidi_20230530+ds1.orig.tar.xz b189119320e7073f164bddb6ae637aecef458428e88f37ddfc702bfd6c44e438 8164 abcmidi_20230530+ds1-1.debian.tar.xz"
+    "9d7daaada1366c6c703a928084b121f63950fc1d0a8b21a19850f7957561cae8 2028 abcmidi_20230625+ds1-1.dsc d64c3170387e97a212585965d4e49a338da75f6cf70b11738a7e249799004c40 394768 abcmidi_20230625+ds1.orig.tar.xz efb00f01e39205084441b9bf48da9c562cf1d93352bf2318baa7afe18bb765d3 8184 abcmidi_20230625+ds1-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/a/abcmidi"
   ],
   "Files": [
-    "08a70845f7bcaf00b9e66c6faa185379 2028 abcmidi_20230530+ds1-1.dsc 0d7506b2d0dab0a4ae8e0998d78e123e 394692 abcmidi_20230530+ds1.orig.tar.xz 62e6c20a58ecdf26a0dac7fe1ce0a004 8164 abcmidi_20230530+ds1-1.debian.tar.xz"
+    "dc005678cd1488e4bddfed902f50f27a 2028 abcmidi_20230625+ds1-1.dsc 78d58632d8c43d31b2c98adb0d2f3311 394768 abcmidi_20230625+ds1.orig.tar.xz efa23987a9003f8ee565b5fe6edd6b9a 8184 abcmidi_20230625+ds1-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/multimedia-team/abcmidi.git"
   ],
   "Version": [
-    "20230530+ds1-1"
+    "20230625+ds1-1"
   ]
 }

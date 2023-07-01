@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), cmake, pkgconf | pkg-config, qtbase5-dev, qttools5-dev-tools, qttools5-dev, qtmultimedia5-dev, libtar-dev, libvorbis-dev, libxml2-dev"
   ],
   "Checksums-Sha256": [
-    "9660e1801120bfeb1c82c5639057721bac97eb9514aa4dbca7c6bf7ddf06b8de 2118 stopmotion_0.8.6-1.dsc d2a009f4d5d6be162a9010823f9fd7022cce937628a358f9ffaadbb792217cab 2251720 stopmotion_0.8.6.orig.tar.xz a68d4ae72ee95fb1e27bc37042239307f7374158a089bd12e5350165c5386979 12188 stopmotion_0.8.6-1.debian.tar.xz"
+    "8b180032b45abbe2031aafea1efd623621e1ac8b1f1c72c88026b1bcb3e34712 2118 stopmotion_0.8.6-2.dsc d2a009f4d5d6be162a9010823f9fd7022cce937628a358f9ffaadbb792217cab 2251720 stopmotion_0.8.6.orig.tar.xz 690f299f690921f8ab913bd9e8f527d1c6243a6eea3a41807a0faf9944dcabf7 65416 stopmotion_0.8.6-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/s/stopmotion"
   ],
   "Files": [
-    "fcd9879330810528ed0d2671ffee5aa5 2118 stopmotion_0.8.6-1.dsc 3f3960d56dfe51abd1453ab92d9afa38 2251720 stopmotion_0.8.6.orig.tar.xz 89aeaad5cbe271de66bed690d844388a 12188 stopmotion_0.8.6-1.debian.tar.xz"
+    "c3775a1157245b0127dbba2cd6f0bc3d 2118 stopmotion_0.8.6-2.dsc 3f3960d56dfe51abd1453ab92d9afa38 2251720 stopmotion_0.8.6.orig.tar.xz 476673e500709c5b1c60f2d1809ebb2a 65416 stopmotion_0.8.6-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/debian/stopmotion.git"
   ],
   "Version": [
-    "0.8.6-1"
+    "0.8.6-2"
   ]
 }

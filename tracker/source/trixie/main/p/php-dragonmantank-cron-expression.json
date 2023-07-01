@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-sequence-phpcomposer, phpab, phpunit \u003c!nocheck\u003e, php-webmozart-assert"
   ],
   "Checksums-Sha256": [
-    "404689ccbdfcbc0d9a207524e1ee59d6b9363f9c1f07ef15921d62b6162c1bc1 2340 php-dragonmantank-cron-expression_3.3.1-2.dsc 8818e78154708b090ba079c1853b3165e73e58fc51513444d721f636d2af71c1 24612 php-dragonmantank-cron-expression_3.3.1.orig.tar.xz 1d09d9cee30ac04b75e2b6ecb4e33c0d92979e2ad893a4f7f98beaeacff3a486 3944 php-dragonmantank-cron-expression_3.3.1-2.debian.tar.xz"
+    "3d197e916f1a07ed483d4fd8eb11ae737c24b5f9620e813282fcf90f9e1e36a7 2340 php-dragonmantank-cron-expression_3.3.2-1.dsc f87e966dcfb0e436058e3bde2511d63921d3abd750832d2ce9a8a871229d1bba 24788 php-dragonmantank-cron-expression_3.3.2.orig.tar.xz fba7bb0f66d8695e10f6b09c540ffded57dbe8a463a33d2db3a28f40eace6e28 3084 php-dragonmantank-cron-expression_3.3.2-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/php-dragonmantank-cron-expression"
   ],
   "Files": [
-    "5ca2fef1e2781e2c2ce00e65b3b9634a 2340 php-dragonmantank-cron-expression_3.3.1-2.dsc 3d4e20eafdb9352eeca7dab309c04782 24612 php-dragonmantank-cron-expression_3.3.1.orig.tar.xz cb296a048639ca67c71ea5bf96de0b5e 3944 php-dragonmantank-cron-expression_3.3.1-2.debian.tar.xz"
+    "b5552917b9022bf4ddbe1ec58f99dfb4 2340 php-dragonmantank-cron-expression_3.3.2-1.dsc c07fb75f7266a4490241fbfbaf1d6e50 24788 php-dragonmantank-cron-expression_3.3.2.orig.tar.xz 2a9fe944c32bf22e4e860d87c69a13e9 3084 php-dragonmantank-cron-expression_3.3.2-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.0"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/php-team/pear/php-dragonmantank-cron-expression.git -b debian/latest"
   ],
   "Version": [
-    "3.3.1-2"
+    "3.3.2-1"
   ]
 }

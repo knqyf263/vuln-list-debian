@@ -6,16 +6,16 @@
     "python3-pytest-djangoapp, python-pytest-djangoapp-doc"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), dh-python, python3-all, python3-django, python3-pytest, python3-pytest-runner, python3-setuptools, python3-sphinx"
+    "debhelper-compat (= 13), dh-python, pybuild-plugin-pyproject, python3-all, python3-django, python3-pytest, python3-pytest-runner, python3-setuptools, python3-sphinx"
   ],
   "Checksums-Sha256": [
-    "0f2400cee8cb290acda88bf09b9e22d9e6e1423d0e83761209a2fe6904a5ab21 2369 python-pytest-djangoapp_0.15.2-3.dsc f4ec04e38a59a44569b9d3a24535552ac6f47cfa888f70e8c1a37f4bb9443d54 26402 python-pytest-djangoapp_0.15.2.orig.tar.gz 9a5ea989a278ac326dc86d7de2f56b15ea16016be7d495f1e7a64d0d33ef9e80 3052 python-pytest-djangoapp_0.15.2-3.debian.tar.xz"
+    "bde5082e8b3d053dc01a9cef1f173c10edcb411ea448b0157bb5650ba52508be 2041 python-pytest-djangoapp_1.2.0-1.dsc f1e8242341e833af55f270a971ec66c249d9fa76d4237ac6ae0ae9839a333d91 29443 python-pytest-djangoapp_1.2.0.orig.tar.gz d8e861f1b4c9e3a53f79734ae25626642e0e4e59cf85b2074c9d6ed6ca43f9c3 3188 python-pytest-djangoapp_1.2.0-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/python-pytest-djangoapp"
   ],
   "Files": [
-    "2fa17034950d91bfb3c49c67f2f313a8 2369 python-pytest-djangoapp_0.15.2-3.dsc 3eaa49a1b4d98dad1f7b95898ee52272 26402 python-pytest-djangoapp_0.15.2.orig.tar.gz a149eb0dbd92339ad385677723b4ae61 3052 python-pytest-djangoapp_0.15.2-3.debian.tar.xz"
+    "500d1710a62c21a92bc0b81f96d87e24 2041 python-pytest-djangoapp_1.2.0-1.dsc 584204cd0b95ed02530bce6ede8f368d 29443 python-pytest-djangoapp_1.2.0.orig.tar.gz 210de10901bdc7c57352d29fe3272101 3188 python-pytest-djangoapp_1.2.0-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.0.1"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/python-team/packages/python-pytest-djangoapp.git"
   ],
   "Version": [
-    "0.15.2-3"
+    "1.2.0-1"
   ]
 }

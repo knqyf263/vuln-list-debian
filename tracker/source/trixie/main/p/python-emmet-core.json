@@ -6,16 +6,16 @@
     "python3-emmet-core"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), dh-sequence-python3, python3-setuptools, python3-setuptools-scm, python3-all, python3-pymatgen (\u003e= 2021.3~), python3-monty (\u003e= 2021.3~), python3-pydantic (\u003e= 1.10.2~), python3-pybtex, python3-typing-extensions (\u003e= 3.7~), python3-spglib (\u003e= 2.0.1~), python3-numpy, python3-pytest \u003c!nocheck\u003e, python3-bson \u003c!nocheck\u003e, python3-openbabel \u003c!nocheck\u003e"
+    "debhelper-compat (= 13), dh-sequence-python3, python3-setuptools, python3-setuptools-scm, python3-all, python3-pymatgen (\u003e= 2023.5.8~), python3-monty (\u003e= 2021.3~), python3-pydantic (\u003e= 1.10.2~), python3-pybtex, python3-typing-extensions (\u003e= 3.7~), python3-spglib (\u003e= 2.0.1~), python3-numpy, python3-pytest \u003c!nocheck\u003e, python3-bson \u003c!nocheck\u003e, python3-openbabel \u003c!nocheck\u003e"
   ],
   "Checksums-Sha256": [
-    "13f6dad7f0a6720e6aca6f487cc34ec65632ae20a67bafb94c5c86aa21255842 2468 python-emmet-core_0.44.0-3.dsc 3cf38b9d98fa0d3ca9ff0eef09fe5824b7c4a1200db6b2528107699b52c44a19 129878 python-emmet-core_0.44.0.orig.tar.gz 72f36bacf8138f0c3b615b8c47fa48df5b3c54990fec74135e88d5b7fe516998 31896684 python-emmet-core_0.44.0-3.debian.tar.xz"
+    "47693cee272c20558cde24124ae58a52b9853fd23410eade1b7a62c6c1a55acd 2470 python-emmet-core_0.57.1-1.dsc 93066718c466ea3ec6541008493677629f4d16da7261eb258c84540ee7bb020c 149166 python-emmet-core_0.57.1.orig.tar.gz 1a5ae65c7c1c67f58fd70509de8ef0b28d366b7f5bc240fe8d52a0f97bc1116f 43192048 python-emmet-core_0.57.1-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/python-emmet-core"
   ],
   "Files": [
-    "6717341cabe869e0c72a7a7157c7fd08 2468 python-emmet-core_0.44.0-3.dsc d16d5bfc9aa9fa90f9df43117d666ca9 129878 python-emmet-core_0.44.0.orig.tar.gz 4c504625d1db9c45d413ed1e1ab046d7 31896684 python-emmet-core_0.44.0-3.debian.tar.xz"
+    "583e1973c0793ff5ecea17bd1ce543e1 2470 python-emmet-core_0.57.1-1.dsc 824bf3472741610ebf0addf8cd562d6e 149166 python-emmet-core_0.57.1.orig.tar.gz 00858f6a12c71b10d3e943e2f518aad6 43192048 python-emmet-core_0.57.1-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/debichem-team/python-emmet-core.git"
   ],
   "Version": [
-    "0.44.0-3"
+    "0.57.1-1"
   ]
 }

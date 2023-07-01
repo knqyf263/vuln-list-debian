@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), cmake"
   ],
   "Checksums-Sha256": [
-    "127f01ffdad0542c7dfdcfc75923a0d78fd2749a0e1e767f0c5277fdfb234c8e 1710 base16384_2.2.2-1.dsc 948da6d9eca3af64123a7df1aa0f71a81e38ab02815ab2218e71a7aface0035e 28095 base16384_2.2.2.orig.tar.gz 7c1125c33f18d63065b2e070d08dfd31954e97175b08d7c78a5a20d2f4bceabd 1836 base16384_2.2.2-1.debian.tar.xz"
+    "9649be949f58618ff8f1690a141e45a5d46c9b72ef8a695bab600d6c18312922 1710 base16384_2.2.3-1.dsc 2e8f293a141608e26488bdf02b06a9a9696989e2efe42065255f61df7a03a5c6 28824 base16384_2.2.3.orig.tar.gz 2d03ea0d72fe99c3e64fd1b4bab54d7a195ec92bd2f764624bd18fe30db92af5 1868 base16384_2.2.3-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/b/base16384"
   ],
   "Files": [
-    "59eecbacb35ba4e6b7bee88ea1b6346e 1710 base16384_2.2.2-1.dsc f0f8bc270fd31431c8d6fb4555d6882b 28095 base16384_2.2.2.orig.tar.gz d136cf3ee92e19171e9c7cde82de1653 1836 base16384_2.2.2-1.debian.tar.xz"
+    "5d7d3e53407187dce81b229ec42dcdba 1710 base16384_2.2.3-1.dsc c379cf9432d8f9e169ff9b0861804477 28824 base16384_2.2.3.orig.tar.gz b11e56ecfdcc696c98f5ce25e04adaf0 1868 base16384_2.2.3-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -42,6 +42,6 @@
     "4.6.1"
   ],
   "Version": [
-    "2.2.2-1"
+    "2.2.3-1"
   ]
 }

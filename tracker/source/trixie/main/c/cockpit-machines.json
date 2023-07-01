@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), gettext (\u003e= 0.19.7), gettext (\u003e= 0.21) | appstream"
   ],
   "Checksums-Sha256": [
-    "6880f05c4ae9ea6e112e24ccb6248739c61f7da69b618424eeebe60e67ad6778 2144 cockpit-machines_292-1.dsc 07482207c15f1884caa905e050a75f142473aae9b9f64c287b3f96ed5b430e5d 2033884 cockpit-machines_292.orig.tar.xz f2db044d52c37f2a98049d3ad28da7c4028fdb2da6d746a65ad525ab01dddecd 5800 cockpit-machines_292-1.debian.tar.xz"
+    "36c19a8a4b3b2498cc572affd9501d545d60d8bbfc0818e3a8de51c949a0794e 2144 cockpit-machines_293-1.dsc 4b99d02d3a42a5f3f8a01e18543425ff44026656a5447d75f143af7c1f7f3b1e 2097008 cockpit-machines_293.orig.tar.xz 10ca7a393404b456ca94a5d1d73efe214bdfe6d0b8c40975145f3738c8aeb6ea 5900 cockpit-machines_293-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/c/cockpit-machines"
   ],
   "Files": [
-    "b9a5620e1cc4b820e5608ce5f1bade7b 2144 cockpit-machines_292-1.dsc 9bded051d7c90a099e5649658e10ab6c 2033884 cockpit-machines_292.orig.tar.xz 49706ddb366b97ccc9f8e77930237a9f 5800 cockpit-machines_292-1.debian.tar.xz"
+    "df71127f6e198cbf9ac8ad49301dbc55 2144 cockpit-machines_293-1.dsc 922f0810f730b6c27749e82f22e14812 2097008 cockpit-machines_293.orig.tar.xz 4533fd13c1d3201c0c4625fe5e9ae068 5900 cockpit-machines_293-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/debian/cockpit-machines.git"
   ],
   "Version": [
-    "292-1"
+    "293-1"
   ]
 }

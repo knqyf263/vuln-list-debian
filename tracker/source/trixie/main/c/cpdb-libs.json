@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), autoconf, pkg-config, sharutils, libglib2.0-dev, libcups2-dev (\u003e= 2.2.2), libdbus-1-dev"
   ],
   "Checksums-Sha256": [
-    "94b19f341d60e2c484b5d09cd40b5b7b53732ab137972d1553bf75cceea704c3 2739 cpdb-libs_1.2.0-2.dsc f30a172bc44aed667bc15de200907098e8eeced1a53bd68f5bfa8a5e82fe8990 16711 cpdb-libs_1.2.0.orig.tar.gz f627f2d3aec29cf81f93bc35dd793746770b87b4de481f4352d96cb7916625b2 6816 cpdb-libs_1.2.0-2.debian.tar.xz"
+    "c2cdec137271ac5810faaa6d7a5e287ed21337ff5786b9c92bed4236ed84cae6 2739 cpdb-libs_1.2.0-3.dsc f30a172bc44aed667bc15de200907098e8eeced1a53bd68f5bfa8a5e82fe8990 16711 cpdb-libs_1.2.0.orig.tar.gz b2b637f2f36463a8c60f897ffa51547c33483f6eb7698bdb33c03e0c472188d8 7836 cpdb-libs_1.2.0-3.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/c/cpdb-libs"
   ],
   "Files": [
-    "61d3c82c0ac54897f7cbfdb887bf0ee4 2739 cpdb-libs_1.2.0-2.dsc 2df7396b3c6ce05a0c001324d82396de 16711 cpdb-libs_1.2.0.orig.tar.gz 48278217bcafed06ae8fca4465de9cb7 6816 cpdb-libs_1.2.0-2.debian.tar.xz"
+    "1a69840d414ffe622abba3e37b4b6be4 2739 cpdb-libs_1.2.0-3.dsc 2df7396b3c6ce05a0c001324d82396de 16711 cpdb-libs_1.2.0.orig.tar.gz 8dd57e5700b7cdb4398ecd1a6f0b8b6f 7836 cpdb-libs_1.2.0-3.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/printing-team/cpdb-libs.git"
   ],
   "Version": [
-    "1.2.0-2"
+    "1.2.0-3"
   ]
 }

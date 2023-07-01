@@ -6,16 +6,16 @@
     "python3-bitstring, python-bitstring-doc"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), dh-python, python3-all, python3-setuptools, python3-sphinx"
+    "debhelper-compat (= 13), dh-python, pybuild-plugin-pyproject, python3-all, python3-setuptools, python3-sphinx"
   ],
   "Checksums-Sha256": [
-    "fc6bf8600f329cad6f5f7dea3a6759a3f239815c1ad83d1d93606ed852084bd0 2222 python-bitstring_3.1.7-2.dsc fa4a9f6fc8a15e69c6266968741b2cd7827001d646bd66b46fb6e93a28571f79 407574 python-bitstring_3.1.7.orig.tar.gz aff52447f4f205f08e531241ccbe8fa537ba2db4530345b37448760b73f45486 6576 python-bitstring_3.1.7-2.debian.tar.xz"
+    "55517fb20378b7aa24a653dba0fb1eec2bc5d86ab16c927e71dd5de239c0d9d5 2275 python-bitstring_4.0.2-1.dsc abe939a0fcc81349af37feb2c99e5d63357694bb00b2e23868aac83091327063 403862 python-bitstring_4.0.2.orig.tar.gz 5930bb5db6803263e1e6f715c10ebb2bcb1b831444f1e3883ee3c4c24af76151 4392 python-bitstring_4.0.2-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/python-bitstring"
   ],
   "Files": [
-    "0187603b9496404ad4243e93443caacf 2222 python-bitstring_3.1.7-2.dsc e7f5e81fa732dc0effa88ba949f443df 407574 python-bitstring_3.1.7.orig.tar.gz 5156c641978d5d4738668f291c492905 6576 python-bitstring_3.1.7-2.debian.tar.xz"
+    "7f9c26cd6791e4b34cfe01cf7317b4e2 2275 python-bitstring_4.0.2-1.dsc adf8b97672e0bdbe51c4785176309cdc 403862 python-bitstring_4.0.2.orig.tar.gz 287cff8d77d002ced1c1ab66d904b620 4392 python-bitstring_4.0.2-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -24,7 +24,7 @@
     "http://scott-griffiths.github.io/bitstring/"
   ],
   "Maintainer": [
-    "Debian Science Maintainers \u003cdebian-science-maintainers@lists.alioth.debian.org\u003e"
+    "Debian Python Team \u003cteam+python@tracker.debian.org\u003e"
   ],
   "Package": [
     "python-bitstring"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.5.0"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest"
@@ -48,15 +48,15 @@
     "python3-all"
   ],
   "Uploaders": [
-    "Ghislain Antony Vaillant \u003cghisvail@gmail.com\u003e"
+    "Scott Kitterman \u003cscott@kitterman.com\u003e, Ghislain Antony Vaillant \u003cghisvail@gmail.com\u003e"
   ],
   "Vcs-Browser": [
-    "https://salsa.debian.org/science-team/python-bitstring"
+    "https://salsa.debian.org/python-team/packages/python-bitstring"
   ],
   "Vcs-Git": [
-    "https://salsa.debian.org/science-team/python-bitstring.git"
+    "https://salsa.debian.org/python-team/packages/python-bitstring.git"
   ],
   "Version": [
-    "3.1.7-2"
+    "4.0.2-1"
   ]
 }

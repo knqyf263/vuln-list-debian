@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-r, r-base-dev, r-cran-rcolorbrewer, r-cran-data.table, r-bioc-genomicranges, r-bioc-iranges, r-cran-doparallel, r-cran-foreach"
   ],
   "Checksums-Sha256": [
-    "dbe317756f1642cda091cfa3db5061cb65f90202eb66a6f55aef6739aee560e5 2135 r-other-ascat_3.1.1-1.dsc 7d63c8bb8eb53f463732950f649db01f7055d89801438a2ac5933f16a9ba1042 32191449 r-other-ascat_3.1.1.orig.tar.gz 66afa91da47b98156dce2a4b59914de0a82ba32acd9b032eb6306281792267b0 2760 r-other-ascat_3.1.1-1.debian.tar.xz"
+    "0d303114630bd0ac6208cd7981efcf48aa6b1697ea8240f3282619c5c61b8d62 2135 r-other-ascat_3.1.2-1.dsc 5d65aef417ad12ea0e638b4179def5a9b8f25e1ccd757e41a6509534fe20eb17 32191968 r-other-ascat_3.1.2.orig.tar.gz 061e0f9c5e1cef5d331e057bcfb17b58c02fd1355eec6fa7a3664ed0757ac05c 2796 r-other-ascat_3.1.2-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/r-other-ascat"
   ],
   "Files": [
-    "2582bed61d8ced11487b6f3732c21c35 2135 r-other-ascat_3.1.1-1.dsc 9077c1fe0f4054fb8a1dd8172e098ac6 32191449 r-other-ascat_3.1.1.orig.tar.gz 4fa9d54676880457ab1ccf5257188b67 2760 r-other-ascat_3.1.1-1.debian.tar.xz"
+    "4e8fdd04faa40fdb7be924d026d29597 2135 r-other-ascat_3.1.2-1.dsc 12807431537fcc130c333fb14c7ba045 32191968 r-other-ascat_3.1.2.orig.tar.gz 83d830f0a521ddeb7039701e60e5c1a5 2796 r-other-ascat_3.1.2-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/r-pkg-team/r-other-ascat.git"
   ],
   "Version": [
-    "3.1.1-1"
+    "3.1.2-1"
   ]
 }

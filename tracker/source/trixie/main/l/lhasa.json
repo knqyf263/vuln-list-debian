@@ -6,16 +6,16 @@
     "lhasa, liblhasa-dev, liblhasa0"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), automake (\u003e= 1:1.11.3), autoconf (\u003e= 2.68), libtool (\u003e= 2.4.2), tzdata"
+    "debhelper-compat (= 12), automake (\u003e= 1:1.11.3), autoconf (\u003e= 2.68), libtool (\u003e= 2.4.2), tzdata"
   ],
   "Checksums-Sha256": [
-    "d820dbbe6b5ed75d85051cd3d6603882554297bc8cde034bc9c5757dec17ce9d 2007 lhasa_0.3.1-4.dsc fe7b76fa4359e42c80cb11537f8769da2f5d6c479f41717394d9409d46aa983d 2015072 lhasa_0.3.1.orig.tar.xz ae74ca85cc3ff2a55f5fd92458f4890960805b927cf3c8fc23a70e70e424ede5 4612 lhasa_0.3.1-4.debian.tar.xz"
+    "722bfa97c910ef387caf8c8309cad69937a74e83c50a73bf91b681463b505e6a 2007 lhasa_0.4.0-1.dsc c99f668f87ed31aee6bbb2ce18cf72638b86fdd0c07cc5809006ac95a9f2cd11 2179036 lhasa_0.4.0.orig.tar.xz 40d139e711c4732fdc49d47b91b6e9623074622fd5cd377edc6d203a1761c3c6 4148 lhasa_0.4.0-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/l/lhasa"
   ],
   "Files": [
-    "7446a2fd76ccf071f16f9f39234fa86a 2007 lhasa_0.3.1-4.dsc 0955c5d74ac925ea648a7fb733edc07c 2015072 lhasa_0.3.1.orig.tar.xz 6d82eb5d6c3a4fe9578477b8b975a3e2 4612 lhasa_0.3.1-4.debian.tar.xz"
+    "9abed9eecf663dfd5d23e58a8b37a143 2007 lhasa_0.4.0-1.dsc f5d9cdcbdd4416161282bbc61d6ad490 2179036 lhasa_0.4.0.orig.tar.xz ba8e2b533045afcdf1e20a2fd22d06f9 4148 lhasa_0.4.0-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "utils"
   ],
   "Standards-Version": [
-    "4.6.0"
+    "4.1.4"
   ],
   "Vcs-Browser": [
     "https://salsa.debian.org/debian/lhasa"
@@ -48,6 +48,6 @@
     "https://salsa.debian.org/debian/lhasa.git -b debian"
   ],
   "Version": [
-    "0.3.1-4"
+    "0.4.0-1"
   ]
 }

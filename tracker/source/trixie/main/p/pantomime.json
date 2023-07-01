@@ -3,19 +3,19 @@
     "any"
   ],
   "Binary": [
-    "libpantomime1.3, libpantomime-dev"
+    "libpantomime1.4, libpantomime-dev"
   ],
   "Build-Depends": [
-    "debhelper (\u003e= 12), gnustep-make, libgnustep-base-dev (\u003e= 1.29)"
+    "debhelper-compat (= 13), libgnustep-base-dev (\u003e= 1.29)"
   ],
   "Checksums-Sha256": [
-    "11adb59370b1c4be68c4ae6d336cbcb444b6b5bb0188b30dbd030a26f3240f6f 2140 pantomime_1.3.0+dfsg1-4.dsc 15d383a0748268327c3a49300cf4a7d171c8c69f92ce11139ab8dfec8a7d7b60 330191 pantomime_1.3.0+dfsg1.orig.tar.gz e3a35e878479906744dae7f3586aabc01928fba09a4943e8bc93d319f4962dcb 9168 pantomime_1.3.0+dfsg1-4.debian.tar.xz"
+    "755d1d970985d04e848e519e46c41c163f2d0bb7ee7c2c441d339e461c1b5a18 2125 pantomime_1.4.0+dfsg-2.dsc e3ffdea3baa1d9089f4fea141e490639e07f25a842f0b63e34499419f51dae22 218212 pantomime_1.4.0+dfsg.orig.tar.xz b34055e3732468f211ce11f4cd4156fcf4a476ac71e0bec6f6419c1301508d52 9184 pantomime_1.4.0+dfsg-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/pantomime"
   ],
   "Files": [
-    "ac9bf64a7e4117b606a01d859df65cdf 2140 pantomime_1.3.0+dfsg1-4.dsc 4417c9b9e8d393f325e66baa5d6f4768 330191 pantomime_1.3.0+dfsg1.orig.tar.gz 24c2d75cd1c3265ae501d4fe0dd07e3f 9168 pantomime_1.3.0+dfsg1-4.debian.tar.xz"
+    "54ef385c881ffdfbe330992f3058da9b 2125 pantomime_1.4.0+dfsg-2.dsc 2463aa70014c1753db83eb949cc73036 218212 pantomime_1.4.0+dfsg.orig.tar.xz 08cd6368e8601df5e44e168f0255709b 9184 pantomime_1.4.0+dfsg-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -30,7 +30,7 @@
     "pantomime"
   ],
   "Package-List": [
-    "libpantomime-dev deb libdevel optional arch=any libpantomime1.3 deb libs optional arch=any"
+    "libpantomime-dev deb libdevel optional arch=any libpantomime1.4 deb libs optional arch=any"
   ],
   "Priority": [
     "extra"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.3.0"
+    "4.6.2"
   ],
   "Uploaders": [
     "Eric Heintzmann \u003cheintzmann.eric@free.fr\u003e, Yavor Doganov \u003cyavor@gnu.org\u003e"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/gnustep-team/pantomime.git"
   ],
   "Version": [
-    "1.3.0+dfsg1-4"
+    "1.4.0+dfsg-2"
   ]
 }

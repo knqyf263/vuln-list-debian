@@ -9,13 +9,13 @@
     "debhelper-compat (= 13)"
   ],
   "Checksums-Sha256": [
-    "381886d22c3c89119e5c7eda3e04170a18bb2ab61e15823b00dc436101968a8b 2451 prometheus-node-exporter-collectors_0.0~git20230616.14e1f94-1.dsc 0238ea53170d507521530abdecdb2abd5d7c45ca21633a458cf44caa154b5777 41298 prometheus-node-exporter-collectors_0.0~git20230616.14e1f94.orig.tar.gz 5373dfc9f6cdabf498e96788ba890049a80496b84810d4a54e7840c4d6bd1d10 4112 prometheus-node-exporter-collectors_0.0~git20230616.14e1f94-1.debian.tar.xz"
+    "8ea5b8fa2c50ebd0ab7b91978e4638b274d10b458195649fee644c2afd2e2093 2451 prometheus-node-exporter-collectors_0.0~git20230625.ad4d9e8-1.dsc 4df08ab7fca9b324489c4092eb59be87da4c02431bd7be9a20cedce8cd11c022 41314 prometheus-node-exporter-collectors_0.0~git20230625.ad4d9e8.orig.tar.gz fca736d37b2792bbf87240bffb11ea2e1b1f5e8a9b4cdabf3ca68b6b64de0c78 4216 prometheus-node-exporter-collectors_0.0~git20230625.ad4d9e8-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/prometheus-node-exporter-collectors"
   ],
   "Files": [
-    "e412f4e644bb0295db6b52e52c9854c2 2451 prometheus-node-exporter-collectors_0.0~git20230616.14e1f94-1.dsc 0d367d8e8be608ec4ca10e16bb851cc0 41298 prometheus-node-exporter-collectors_0.0~git20230616.14e1f94.orig.tar.gz 1547337b551de8f138bd3260f18e6b4b 4112 prometheus-node-exporter-collectors_0.0~git20230616.14e1f94-1.debian.tar.xz"
+    "5876a6fef6c165895a672fa23fb4aef2 2451 prometheus-node-exporter-collectors_0.0~git20230625.ad4d9e8-1.dsc 00f0c8526292c7ad2329b212e3642fbe 41314 prometheus-node-exporter-collectors_0.0~git20230625.ad4d9e8.orig.tar.gz 22583d9be97905517d6ec870df788315 4216 prometheus-node-exporter-collectors_0.0~git20230625.ad4d9e8-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/go-team/packages/prometheus-node-exporter-collectors.git"
   ],
   "Version": [
-    "0.0~git20230616.14e1f94-1"
+    "0.0~git20230625.ad4d9e8-1"
   ]
 }

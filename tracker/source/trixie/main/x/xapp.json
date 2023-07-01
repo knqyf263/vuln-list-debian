@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-sequence-gir, dh-sequence-python3, gobject-introspection, gtk-doc-tools, intltool, libcairo2-dev, libdbus-1-dev, libdbusmenu-gtk3-dev, libgdk-pixbuf-2.0-dev, libgirepository1.0-dev, libglib2.0-dev, libgnomekbd-dev, libgtk-3-dev, libx11-dev, libxkbfile-dev, meson, python-gi-dev, python3, valac"
   ],
   "Checksums-Sha256": [
-    "43b75af5231ab259d2b573e605a9368a0f75ac39767347c4f06ee1fa0ee8ebcf 2809 xapp_2.4.3-1.dsc 0224d3de3b472398ea7008d5577ea840f704d1f92502338047091a080e946b31 243005 xapp_2.4.3.orig.tar.gz 44c0844e71097f9dff7b069fd074776cdb2b44bc72a4b57b66c7e362a6715ee3 8228 xapp_2.4.3-1.debian.tar.xz"
+    "ed08097440246e71e9a20357939a1ac7a498c14d187c17518fba7330f561786e 2809 xapp_2.6.1-1.dsc e507d10573b8e0d95223a74c4a578bd556cc4d2b28c786628b4e10bd8c540ed6 263793 xapp_2.6.1.orig.tar.gz 3abd0423161db4ec53bef90ef5ab08372a9d3a939d89fbdbfbf9a519321e0d76 8276 xapp_2.6.1-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/x/xapp"
   ],
   "Files": [
-    "aa24da199fc381959961ccba26f63dd1 2809 xapp_2.4.3-1.dsc 64d06c210b8deede43f8bc540b268e04 243005 xapp_2.4.3.orig.tar.gz 2e35d21f4adb85fe15b216ec54e4e624 8228 xapp_2.4.3-1.debian.tar.xz"
+    "506c29b3fde41c0861c5be75f486de0b 2809 xapp_2.6.1-1.dsc b815cb9e5a5e2385eed9f0859f7d6fd8 263793 xapp_2.6.1.orig.tar.gz 3843f7decbc49cd21256af6b2616510e 8276 xapp_2.6.1-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/cinnamon-team/xapp.git"
   ],
   "Version": [
-    "2.4.3-1"
+    "2.6.1-1"
   ]
 }

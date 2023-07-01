@@ -6,16 +6,16 @@
     "python3-vedo, python3-vedo-examples"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), dh-python, python3, python3-deprecated, python3-setuptools, python3-vtk9 (\u003c\u003c 9.1.1) | python3-vtk7, python3-numpy"
+    "debhelper-compat (= 13), dh-python, python3, python3-setuptools, python3-vtk9 (\u003c\u003c 9.1.1) | python3-vtk7, python3-numpy, python3-deprecated, python3-pygments"
   ],
   "Checksums-Sha256": [
-    "2afde1bf0668934c4d5a78c1037918952c65d89b08637dc2904b16deec11a4b6 2276 vedo_2023.4.3-1.dsc d5f0268ddd52e73f9184da028f0fd66070fbe6ad7b1db9962e0aaea452f0a1b6 4733111 vedo_2023.4.3.orig.tar.gz 81467ba9e6846f0a7362327dee506e695a2ba0d1f829d636e15cb7e6eb357a12 12912 vedo_2023.4.3-1.debian.tar.xz"
+    "3bcca8e96370d6446bbbe8f25f52293bc8cf8c242a39c355d25bfcc0c308a61e 2294 vedo_2023.4.6-1.dsc 83c2bdd90211fa79c75adb5ffab89a679beae88c679df19373dad02a9401a1a9 4704154 vedo_2023.4.6.orig.tar.gz 0a88ba74a80528f8146940014a899c8113cc0a0298d735ec2432a70e6aff4cc5 12992 vedo_2023.4.6-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/v/vedo"
   ],
   "Files": [
-    "93d000c02301e8311529e001895cc731 2276 vedo_2023.4.3-1.dsc 96597d5bf91df5c1bd0bcce8c6d08d71 4733111 vedo_2023.4.3.orig.tar.gz 0a41dbb62354c60f49bf57c09bd16f07 12912 vedo_2023.4.3-1.debian.tar.xz"
+    "33cba04775f9c3fa12fbb724629e9a16 2294 vedo_2023.4.6-1.dsc 7dae100939acb4e86b0e6d1556325bac 4704154 vedo_2023.4.6.orig.tar.gz d10238dd9cf2eb13b8aeed24fdd38c1c 12992 vedo_2023.4.6-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/science-team/vedo.git"
   ],
   "Version": [
-    "2023.4.3-1"
+    "2023.4.6-1"
   ]
 }

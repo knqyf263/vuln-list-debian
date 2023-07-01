@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), gobjc, libcurl4-openssl-dev, libgnustep-base-dev, liblasso3-dev, libldap2-dev, libmemcached-dev, liboath-dev, libsbjson-dev, libsodium-dev, libsope-dev (\u003e= 5.7.1), libssl-dev, libwbxml2-dev (\u003e= 0.11), libxml2-dev, libytnef-dev, libzip-dev, pkg-config, python3"
   ],
   "Checksums-Sha256": [
-    "b8b22ebb15662e20204674d1e090089c4628aa30ab6f4b715ff2f01165babd4e 2264 sogo_5.8.3-1.dsc c518a91f6b4ced61e013ecb545d4309fe0ed5cb0345d5b408167a9193ba7712a 34752052 sogo_5.8.3.orig.tar.gz 01e8c857a75912e833b567a3c01900841ac4878fba73e95fe0acb725279cb8ee 18008 sogo_5.8.3-1.debian.tar.xz"
+    "3582dfb512cdd5b8a9ec0915093b28f05e36c79bf4e1bb3765574a8d6fcb625f 2264 sogo_5.8.4-1.dsc 69b8032c8cae216cb2a9f33f48a84f1d1f115f940316ad583db678dcfd875805 34751474 sogo_5.8.4.orig.tar.gz 48d4becbdc4690b137ac49aaf35ce997007cbcadeda6058fecccf476e025ad16 18028 sogo_5.8.4-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/s/sogo"
   ],
   "Files": [
-    "d19a1ca9c9d6b479c4e3b7b8e93145c0 2264 sogo_5.8.3-1.dsc b2d635b4ec24090f27bfa8d6505ffb5d 34752052 sogo_5.8.3.orig.tar.gz ab292a235500046279cc987eb51afff2 18008 sogo_5.8.3-1.debian.tar.xz"
+    "03a52bd689e8f6a3579203e6c49bf1a3 2264 sogo_5.8.4-1.dsc 15003bad09434aa1a314d9a8d73c7664 34751474 sogo_5.8.4.orig.tar.gz 2609bb9567e08f9b16d7000ce296c87e 18028 sogo_5.8.4-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/debian/sogo.git"
   ],
   "Version": [
-    "5.8.3-1"
+    "5.8.4-1"
   ]
 }
