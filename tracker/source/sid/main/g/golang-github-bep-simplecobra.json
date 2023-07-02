@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-sequence-golang, golang-any (\u003e= 2:1.18~), golang-github-frankban-quicktest-dev (\u003e= 1.14.2), golang-github-spf13-cobra-dev (\u003e= 1.7.0)"
   ],
   "Checksums-Sha256": [
-    "efdd777b1ae9fce3534ddb12848b0a3ec3b918cccafcfc9d6712044c7da1e19d 2376 golang-github-bep-simplecobra_0.3.2-1.dsc 413e12cc99c7be93e3dfc832c8d137b483a263209343df40b55573fb0ba7344f 8550 golang-github-bep-simplecobra_0.3.2.orig.tar.gz 55693b34c2efb70e56743593dd2fe055828ceaaf18e6ef25210bfaf41f5f5073 2348 golang-github-bep-simplecobra_0.3.2-1.debian.tar.xz"
+    "039caf18b529d1d0cd7ddbf639dd210c4bac4074d955a1076f6739b3e670832c 2376 golang-github-bep-simplecobra_0.3.2-2.dsc 413e12cc99c7be93e3dfc832c8d137b483a263209343df40b55573fb0ba7344f 8550 golang-github-bep-simplecobra_0.3.2.orig.tar.gz f2ee5d0103886e74b4dbdce946441b64ec9f9094b75ba1291887b32683fb06b5 2400 golang-github-bep-simplecobra_0.3.2-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/g/golang-github-bep-simplecobra"
   ],
   "Files": [
-    "2f5df43f8cbecd2deb19c05d3d16981f 2376 golang-github-bep-simplecobra_0.3.2-1.dsc f766f31c80a2cfd1e333d57122d04bff 8550 golang-github-bep-simplecobra_0.3.2.orig.tar.gz 2552e94973fb118070dea5abb182f525 2348 golang-github-bep-simplecobra_0.3.2-1.debian.tar.xz"
+    "f1c94caba4eaafbbf6994c955e6f86a4 2376 golang-github-bep-simplecobra_0.3.2-2.dsc f766f31c80a2cfd1e333d57122d04bff 8550 golang-github-bep-simplecobra_0.3.2.orig.tar.gz 8f4faf20faa0749d82b90a2ce3ce982c 2400 golang-github-bep-simplecobra_0.3.2-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/go-team/packages/golang-github-bep-simplecobra.git"
   ],
   "Version": [
-    "0.3.2-1"
+    "0.3.2-2"
   ]
 }

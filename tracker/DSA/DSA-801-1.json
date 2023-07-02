@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[05 Sep 2005] DSA-801-1 ntp - programming error",
-    "Line": 16014,
+    "Line": 16023,
     "ID": "DSA-801-1",
     "Description": "ntp - programming error"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-2496}",
-      "Line": 16015,
+      "Line": 16024,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-2496"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[sarge] - ntp 1:4.2.0a+stable-2sarge1 (medium)",
-      "Line": 16016,
+      "Line": 16025,
       "Type": "package",
       "Release": "sarge",
       "Package": "ntp",
@@ -26,7 +26,7 @@
     },
     {
       "Original": "[woody] - ntp \u003cnot-affected\u003e (not affected according to DSA)",
-      "Line": 16017,
+      "Line": 16026,
       "Type": "package",
       "Release": "woody",
       "Package": "ntp",
@@ -35,7 +35,7 @@
     },
     {
       "Original": "NOTE: not fixed in testing at time of DSA (RC bugs)",
-      "Line": 16018,
+      "Line": 16027,
       "Type": "NOTE",
       "Description": "not fixed in testing at time of DSA (RC bugs)"
     }

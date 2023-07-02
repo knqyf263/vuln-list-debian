@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[03 Mar 2011] DSA-2180-1 iceape - several",
-    "Line": 10990,
+    "Line": 10999,
     "ID": "DSA-2180-1",
     "Description": "iceape - several"
   },
   "Annotations": [
     {
       "Original": "{CVE-2010-1585 CVE-2011-0051 CVE-2011-0053 CVE-2011-0054 CVE-2011-0055 CVE-2011-0056 CVE-2011-0057 CVE-2011-0059}",
-      "Line": 10991,
+      "Line": 11000,
       "Type": "xref",
       "Bugs": [
         "CVE-2010-1585",
@@ -23,7 +23,7 @@
     },
     {
       "Original": "[squeeze] - iceape 2.0.11-3",
-      "Line": 10992,
+      "Line": 11001,
       "Type": "package",
       "Release": "squeeze",
       "Package": "iceape",

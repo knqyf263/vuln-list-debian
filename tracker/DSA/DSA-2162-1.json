@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[14 Feb 2011] DSA-2162-1 openssl - invalid memory access",
-    "Line": 11054,
+    "Line": 11063,
     "ID": "DSA-2162-1",
     "Description": "openssl - invalid memory access"
   },
   "Annotations": [
     {
       "Original": "{CVE-2011-0014}",
-      "Line": 11055,
+      "Line": 11064,
       "Type": "xref",
       "Bugs": [
         "CVE-2011-0014"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - openssl 0.9.8o-4squeeze1",
-      "Line": 11056,
+      "Line": 11065,
       "Type": "package",
       "Release": "squeeze",
       "Package": "openssl",

@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-sequence-golang, golang-any (\u003e= 2:1.18~), golang-github-frankban-quicktest-dev (\u003e= 1.14.3)"
   ],
   "Checksums-Sha256": [
-    "a782805e0f7527f97caf2d0f1690ec8f3962b8c7eca6ab2e00fce0ab57cc00e2 2282 golang-github-bep-helpers_0.4.0-1.dsc 3e76c7b920afc6acfee334410a225bbb798bd802f9bed758d6b2d12ba98ce4dc 8064 golang-github-bep-helpers_0.4.0.orig.tar.gz ade7466d688ae4aa6b0fcbda76c2a4b6698febe8957431e8021c402d1a60c7ec 2224 golang-github-bep-helpers_0.4.0-1.debian.tar.xz"
+    "ee3fea830a779ffb9147bb2d1cb4c9efb1485f4a5bc4848c758572719a92896e 2282 golang-github-bep-helpers_0.4.0-2.dsc 3e76c7b920afc6acfee334410a225bbb798bd802f9bed758d6b2d12ba98ce4dc 8064 golang-github-bep-helpers_0.4.0.orig.tar.gz 238c6775c4c53912dab46776f4afb4081003ac3a03ddaac9cf88b5b5e1b0bf8c 2284 golang-github-bep-helpers_0.4.0-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/g/golang-github-bep-helpers"
   ],
   "Files": [
-    "ad8a63bd4d80c09801a0a7a3aab5efd6 2282 golang-github-bep-helpers_0.4.0-1.dsc 12c589c714083117230858ee96d79f36 8064 golang-github-bep-helpers_0.4.0.orig.tar.gz a2a6a342ad40af30a7bcca0276ef7371 2224 golang-github-bep-helpers_0.4.0-1.debian.tar.xz"
+    "5efbc76710e140a49cf3924d1ebb97b9 2282 golang-github-bep-helpers_0.4.0-2.dsc 12c589c714083117230858ee96d79f36 8064 golang-github-bep-helpers_0.4.0.orig.tar.gz 041acbcc3c65f474e227de14a44dca8f 2284 golang-github-bep-helpers_0.4.0-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/go-team/packages/golang-github-bep-helpers.git"
   ],
   "Version": [
-    "0.4.0-1"
+    "0.4.0-2"
   ]
 }

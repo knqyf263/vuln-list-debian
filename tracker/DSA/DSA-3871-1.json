@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[01 Jun 2017] DSA-3871-1 zookeeper - security update",
-    "Line": 5294,
+    "Line": 5303,
     "ID": "DSA-3871-1",
     "Description": "zookeeper - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-5637}",
-      "Line": 5295,
+      "Line": 5304,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-5637"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - zookeeper 3.4.5+dfsg-2+deb8u2",
-      "Line": 5296,
+      "Line": 5305,
       "Type": "package",
       "Release": "jessie",
       "Package": "zookeeper",

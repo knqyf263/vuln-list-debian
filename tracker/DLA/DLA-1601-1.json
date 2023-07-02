@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[30 Nov 2018] DLA-1601-1 perl - security update",
-    "Line": 5739,
+    "Line": 5742,
     "ID": "DLA-1601-1",
     "Description": "perl - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-18311}",
-      "Line": 5740,
+      "Line": 5743,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-18311"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - perl 5.20.2-3+deb8u12",
-      "Line": 5741,
+      "Line": 5744,
       "Type": "package",
       "Release": "jessie",
       "Package": "perl",

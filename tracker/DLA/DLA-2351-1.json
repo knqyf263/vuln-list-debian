@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[29 Aug 2020] DLA-2351-1 php-horde-kronolith - security update",
-    "Line": 3422,
+    "Line": 3425,
     "ID": "DLA-2351-1",
     "Description": "php-horde-kronolith - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-16906}",
-      "Line": 3423,
+      "Line": 3426,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-16906"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - php-horde-kronolith 4.2.19-1+deb9u2",
-      "Line": 3424,
+      "Line": 3427,
       "Type": "package",
       "Release": "stretch",
       "Package": "php-horde-kronolith",

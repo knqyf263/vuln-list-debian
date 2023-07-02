@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[04 Sep 2022] DLA-3098-1 libmodbus - security update",
-    "Line": 1147,
+    "Line": 1150,
     "ID": "DLA-3098-1",
     "Description": "libmodbus - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2022-0367}",
-      "Line": 1148,
+      "Line": 1151,
       "Type": "xref",
       "Bugs": [
         "CVE-2022-0367"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[buster] - libmodbus 3.1.4-2+deb10u2",
-      "Line": 1149,
+      "Line": 1152,
       "Type": "package",
       "Release": "buster",
       "Package": "libmodbus",

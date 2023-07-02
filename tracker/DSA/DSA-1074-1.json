@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[24 May 2006] DSA-1074-1 mpg123 - buffer overflow",
-    "Line": 14814,
+    "Line": 14823,
     "ID": "DSA-1074-1",
     "Description": "mpg123 - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2006-1655}",
-      "Line": 14815,
+      "Line": 14824,
       "Type": "xref",
       "Bugs": [
         "CVE-2006-1655"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[sarge] - mpg123 0.59r-20sarge1",
-      "Line": 14816,
+      "Line": 14825,
       "Type": "package",
       "Release": "sarge",
       "Package": "mpg123",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[15 Sep 2022] DLA-3109-1 nova - security update",
-    "Line": 1114,
+    "Line": 1117,
     "ID": "DLA-3109-1",
     "Description": "nova - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-14433}",
-      "Line": 1115,
+      "Line": 1118,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-14433"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[buster] - nova 2:18.1.0-6+deb10u1",
-      "Line": 1116,
+      "Line": 1119,
       "Type": "package",
       "Release": "buster",
       "Package": "nova",
