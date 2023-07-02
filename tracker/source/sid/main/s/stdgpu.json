@@ -9,7 +9,7 @@
     "debhelper-compat (= 13), cmake (\u003e= 3.26.4-3~), hipcc [amd64 arm64 ppc64el], libamdhip64-dev [amd64 arm64 ppc64el], libgtest-dev \u003c!nocheck\u003e, librocthrust-dev [amd64 arm64 ppc64el] | libthrust-dev"
   ],
   "Checksums-Sha256": [
-    "6e914d905d26de20a3f43cff9879c8d98e7f63b1f8752e840dfe11c61a2f1d09 2625 stdgpu_1.3.0+git20220507.32e0517-4.dsc f5c8ed141446f367513738184ba477b2cadc51810f1de818c3017a5a7bab5af9 268875 stdgpu_1.3.0+git20220507.32e0517.orig.tar.gz 6b624f2ae45228a4de0ff5edd8f0e05e3ee338358116981750f1a6e33f5e22b1 11664 stdgpu_1.3.0+git20220507.32e0517-4.debian.tar.xz"
+    "5d64471c3c1c22552b3543db5f6b3a1f84d09d1a0d4a76e3702cd758355e857c 2625 stdgpu_1.3.0+git20220507.32e0517-5.dsc f5c8ed141446f367513738184ba477b2cadc51810f1de818c3017a5a7bab5af9 268875 stdgpu_1.3.0+git20220507.32e0517.orig.tar.gz de0400091a2589348b07c8c9c9956646f69a070d1dc064f894c2ea1d8c9e0f2e 12096 stdgpu_1.3.0+git20220507.32e0517-5.debian.tar.xz"
   ],
   "Description": [
     "Efficient STL-like Data Structures on the GPU stdgpu is an open-source library providing several generic GPU data structures for fast and reliable data management. Multiple platforms such as CUDA, OpenMP, and HIP are supported allowing you to rapidly write highly complex agnostic and native algorithms that look like sequential CPU code but are executed in parallel on the GPU."
@@ -18,7 +18,7 @@
     "pool/main/s/stdgpu"
   ],
   "Files": [
-    "977ac8a9523ac39202e1bbef2bd99395 2625 stdgpu_1.3.0+git20220507.32e0517-4.dsc cee81854ca5d2cf61bd1dc6365070244 268875 stdgpu_1.3.0+git20220507.32e0517.orig.tar.gz 3a0334c8a5536e1c8e6ac4ddce930580 11664 stdgpu_1.3.0+git20220507.32e0517-4.debian.tar.xz"
+    "9f6864ec6198f2544acc3f9812fbde10 2625 stdgpu_1.3.0+git20220507.32e0517-5.dsc cee81854ca5d2cf61bd1dc6365070244 268875 stdgpu_1.3.0+git20220507.32e0517.orig.tar.gz 3e9b22316e43ffd2b19751fb43227325 12096 stdgpu_1.3.0+git20220507.32e0517-5.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/debian/stdgpu.git"
   ],
   "Version": [
-    "1.3.0+git20220507.32e0517-4"
+    "1.3.0+git20220507.32e0517-5"
   ]
 }

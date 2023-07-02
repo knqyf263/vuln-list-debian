@@ -6,19 +6,19 @@
     "python3-test-stages, tox-stages"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), dh-sequence-python3, pybuild-plugin-pyproject, python3-all, python3-click (\u003e\u003e 8), python3-packaging, python3-parse-stages, python3-pyparsing (\u003e\u003e 3), python3-setuptools (\u003e\u003e 61), python3-utf8-locale"
+    "debhelper-compat (= 13), dh-sequence-python3, pybuild-plugin-pyproject, python3-all, python3-click (\u003e\u003e 8), python3-distlib (\u003e\u003e 0.3.6), python3-hatchling, python3-hatch-requirements-txt, python3-packaging, python3-parse-stages, python3-pyparsing (\u003e\u003e 3), python3-utf8-locale (\u003e\u003e 1)"
   ],
   "Checksums-Sha256": [
-    "b9c24ebc609bb2d861fa71b125fba18b87937e9a58642bc2d3c99ed07977427d 2748 python-test-stages_0.1.1-1.dsc 5e59ab60b878b79c6ec86bad419038186768dfc157545f94ff112bdb44abf9d3 14468 python-test-stages_0.1.1.orig.tar.gz cd377b9b497618b99020874bd61e08699cc25e4512b74ccd9ba664a563eff7e3 833 python-test-stages_0.1.1.orig.tar.gz.asc d7685bf132edccd234cfba084bd4a870867996b2ec372600d3cfb57cb972afcd 6612 python-test-stages_0.1.1-1.debian.tar.xz"
+    "75a4639e83420e606a345558ce98cafa9267f5188512eec0a9a3f6f097073301 2529 python-test-stages_0.1.2-1.dsc d34828a3c9dba23b469e86ab185328e5a92dd2e8f8f0ee48ae9df1dca2317f7b 19349 python-test-stages_0.1.2.orig.tar.gz 30d24cf0e613a1065df1509c72ee43622d957ab2e5047b2d0a89f91011c42330 6852 python-test-stages_0.1.2-1.debian.tar.xz"
   ],
   "Dgit": [
-    "1700f9fb56df3c83238081ba4ec419335dcf3105 debian archive/debian/0.1.1-1 https://git.dgit.debian.org/python-test-stages"
+    "ae0fb1fb9f53b5191c6bafb75a785e828ba3a0f2 debian archive/debian/0.1.2-1 https://git.dgit.debian.org/python-test-stages"
   ],
   "Directory": [
     "pool/main/p/python-test-stages"
   ],
   "Files": [
-    "eaaf257c092c79feef49f8f15672fb10 2748 python-test-stages_0.1.1-1.dsc 12f96ef14ce59c4d2eafa1f467defaf4 14468 python-test-stages_0.1.1.orig.tar.gz 5378d5a71c9f95be45144793ee5c1abc 833 python-test-stages_0.1.1.orig.tar.gz.asc 8d4d5453371234252761a9bbd767ba76 6612 python-test-stages_0.1.1-1.debian.tar.xz"
+    "364af9ddb38d998f7ad8e31131045b83 2529 python-test-stages_0.1.2-1.dsc d37ba1d73b3ab5b84ee2258d0f757094 19349 python-test-stages_0.1.2.orig.tar.gz 90ea6f65ac716e439525f9053206ad42 6852 python-test-stages_0.1.2-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -60,6 +60,6 @@
     "https://salsa.debian.org/python-team/packages/test-stages.git"
   ],
   "Version": [
-    "0.1.1-1"
+    "0.1.2-1"
   ]
 }

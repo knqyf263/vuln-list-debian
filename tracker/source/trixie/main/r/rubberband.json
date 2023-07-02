@@ -9,13 +9,13 @@
     "cmake, debhelper-compat (= 13), docbook-to-man, ladspa-sdk, libboost-test-dev, libfftw3-dev, libsamplerate0-dev, libsndfile1-dev, libspeexdsp-dev, lv2-dev, meson, pkg-config, vamp-plugin-sdk"
   ],
   "Checksums-Sha256": [
-    "82c49dc0c87c1fae16839d4943ae26f2cfa0507c23f6246a09fdc151ae0e1688 2617 rubberband_3.1.2+dfsg0-1.dsc f944841dad344ba54d4a7c6732a9c76ef396b01a5a52b788014d0dc2c388ec1e 199808 rubberband_3.1.2+dfsg0.orig.tar.xz fa53e19bafc53bda5108b51a66b852c47200684ee58dc43a9b066c4ffd28dc69 11740 rubberband_3.1.2+dfsg0-1.debian.tar.xz"
+    "7830c8e91893403b81bf6120edf38a556550006aeefffb31732d539af55648e1 2610 rubberband_3.2.1+dfsg-5.dsc 6e0b168b42b9aa57a81d42f35e3c49053f867d69118119aa2e6ddcfc643b4a0f 203348 rubberband_3.2.1+dfsg.orig.tar.xz bffc805c1e635ec752c8f239995f6c9d71f1cb8934d606e4105eca5612abf4c1 12508 rubberband_3.2.1+dfsg-5.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/r/rubberband"
   ],
   "Files": [
-    "8cb7c6b9b7bc6375e71ebbb4644dc264 2617 rubberband_3.1.2+dfsg0-1.dsc c005e83539ad78fe2354cc6d376fdc71 199808 rubberband_3.1.2+dfsg0.orig.tar.xz fda6ccf06298f3f4e3ceea6cfa157936 11740 rubberband_3.1.2+dfsg0-1.debian.tar.xz"
+    "14466e87679e92c32f9febf02625a625 2610 rubberband_3.2.1+dfsg-5.dsc ace8956290fbef4df9fe65cea70d4ba0 203348 rubberband_3.2.1+dfsg.orig.tar.xz a76768d03e77048c87cf8129c286376a 12508 rubberband_3.2.1+dfsg-5.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "sound"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/multimedia-team/rubberband.git"
   ],
   "Version": [
-    "3.1.2+dfsg0-1"
+    "3.2.1+dfsg-5"
   ]
 }

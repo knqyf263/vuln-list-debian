@@ -9,13 +9,13 @@
     "debhelper (\u003e= 13), dh-python, python3-dev, libfuse3-dev, libgnutls28-dev, libxml2-dev, pkg-config, gnutls-bin \u003c!nocheck\u003e, nbdkit (\u003e= 1.12.4) \u003c!nocheck\u003e, nbdkit-plugin-dev (\u003e= 1.12.4) \u003c!nocheck\u003e, nbd-server \u003c!nocheck\u003e, qemu-utils \u003c!nocheck\u003e, qemu-system-common \u003c!nocheck\u003e, ocaml-nox, ocamlbuild, ocaml-findlib, dh-ocaml, bash-completion, iproute2 \u003c!nocheck\u003e, jq \u003c!nocheck\u003e"
   ],
   "Checksums-Sha256": [
-    "1c976ef09c61c8f2df6f1e2273453c0524390d23ba96db6cb587d29cdd102c97 2705 libnbd_1.16.1-1.dsc 287755d8ba24ed7e71c09a3c97cb5152d0af01e9d33386e0868fc6de07dee576 1379437 libnbd_1.16.1.orig.tar.gz 685ad23f70b74c12d99be8a3ede5f6050ca17b4036466d49e026335753da80e7 858 libnbd_1.16.1.orig.tar.gz.asc 23df92ac6d8040df4730a8d489e6cb855841574605df092ceb890b6edc8eb08d 84840 libnbd_1.16.1-1.debian.tar.xz"
+    "22e70afd9acf17c6ad49d9eac2e372078bc5905c361d0917af5444f0a354acb4 2705 libnbd_1.16.2-1.dsc 644520e2925af1f45ca24934feda3cc8519a287f5f26cb4069f0244681d19463 1330659 libnbd_1.16.2.orig.tar.gz fd0ada8dbbca8c6cba3575c50c5e5d87c695b5c3df1534883e458d0e8ec5d016 858 libnbd_1.16.2.orig.tar.gz.asc 888f7fa5c21a255d95269b6b942c39b5e3bf30c3927e52b82a73492f2918b6d4 84848 libnbd_1.16.2-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/libn/libnbd"
   ],
   "Files": [
-    "7fd9620c196d7025eddd9f3d20a0bf3f 2705 libnbd_1.16.1-1.dsc 26ce96688f17703c811cf80719ae8629 1379437 libnbd_1.16.1.orig.tar.gz 3fbca3cd879f4d01f7c42a7575af7bda 858 libnbd_1.16.1.orig.tar.gz.asc 814f7c3992b3200bec1e1cb36f939228 84840 libnbd_1.16.1-1.debian.tar.xz"
+    "641212038cbc13b7cda777c0491da58b 2705 libnbd_1.16.2-1.dsc 4dd9b0e5ac6a7f3fa95cf750db4aaa2f 1330659 libnbd_1.16.2.orig.tar.gz ba8c31da655f9eb6506e24fc6e673c56 858 libnbd_1.16.2.orig.tar.gz.asc 9ca4cf51cd51de32570ef8f50eec9a55 84848 libnbd_1.16.2-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -48,6 +48,6 @@
     "https://salsa.debian.org/debian/libnbd.git"
   ],
   "Version": [
-    "1.16.1-1"
+    "1.16.2-1"
   ]
 }

@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-golang, golang-any, golang-github-cloudflare-circl-dev (\u003e= 1.2.0), golang-golang-x-crypto-dev"
   ],
   "Checksums-Sha256": [
-    "83c4f20c9db1c15f0fabd3e124edf4116ec47d7134f1fe06e30f7dc87fe2bf1c 2573 golang-github-protonmail-go-crypto_0.0~git20230124.0acdc8a-4.dsc 7b701456ae21e5ddeec41668ba81b23f5865f51ce6c37ebe7539378fde6f0ded 307736 golang-github-protonmail-go-crypto_0.0~git20230124.0acdc8a.orig.tar.xz 4c1591eec03e4acd6bc956274d791cfbc4900cbe284ed05fb483b6752837de3a 4704 golang-github-protonmail-go-crypto_0.0~git20230124.0acdc8a-4.debian.tar.xz"
+    "f3875731cab928859d066644f874f46d42e596137a7b7e1f1d0c9b73472b2512 2573 golang-github-protonmail-go-crypto_0.0~git20230619.3fbb1f1-3.dsc d0b2b4abc2032cc4e5fd73cef05dbf8b8dd1b137a22461888a7669aab4550274 320452 golang-github-protonmail-go-crypto_0.0~git20230619.3fbb1f1.orig.tar.xz f7bfababc90a660f9cf92e3aa771aef2511df037f67cde849ba31a1fa3d4e1e1 3632 golang-github-protonmail-go-crypto_0.0~git20230619.3fbb1f1-3.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/g/golang-github-protonmail-go-crypto"
   ],
   "Files": [
-    "28a014bb00c2f6e616a0bd757c0b57c8 2573 golang-github-protonmail-go-crypto_0.0~git20230124.0acdc8a-4.dsc 27bd33d2cf0ef348109e333b5753a36d 307736 golang-github-protonmail-go-crypto_0.0~git20230124.0acdc8a.orig.tar.xz d15bf748f733c58920200af8da5d3545 4704 golang-github-protonmail-go-crypto_0.0~git20230124.0acdc8a-4.debian.tar.xz"
+    "f591a0e01ea33e1bcd351b19510e8cf7 2573 golang-github-protonmail-go-crypto_0.0~git20230619.3fbb1f1-3.dsc 9ad6c22c8983040355bfca17d1b9f850 320452 golang-github-protonmail-go-crypto_0.0~git20230619.3fbb1f1.orig.tar.xz 30e0e7082e77e9e9aace80adeaad6ab7 3632 golang-github-protonmail-go-crypto_0.0~git20230619.3fbb1f1-3.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/go-team/packages/golang-github-protonmail-go-crypto.git"
   ],
   "Version": [
-    "0.0~git20230124.0acdc8a-4"
+    "0.0~git20230619.3fbb1f1-3"
   ]
 }

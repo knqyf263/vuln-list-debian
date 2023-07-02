@@ -6,16 +6,16 @@
     "newsboat"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 12), libncursesw5-dev, libxml2-dev, libstfl-dev, libsqlite3-dev, perl, pkg-config, libcurl4-gnutls-dev, libjson-c-dev, catch2, nlohmann-json3-dev, asciidoctor, cargo, librust-chrono-0.4-dev, librust-time-0.1-dev, librust-rand-0.8-dev, librust-once-cell-1+parking-lot-dev, librust-regex-1-dev, librust-url-2-dev, librust-xdg-2-dev, librust-backtrace-0.3-dev, librust-backtrace-sys-0.1-dev, librust-unicode-width-0.1-dev, librust-nom-7-dev, librust-curl-sys-0.4+ssl-dev, librust-libc-0.2-dev, librust-gettext-rs-0.7-dev, librust-natord-1-dev, librust-clap-2-dev, librust-gettext-sys-0.21-dev, librust-tempfile-3-dev, librust-proptest-1+bit-set-dev, librust-proptest-1+rusty-fork-dev, librust-proptest-1+timeout-dev, librust-percent-encoding-2-dev, librust-section-testing-0.0.4-dev"
+    "debhelper-compat (= 12), libncursesw5-dev, libxml2-dev, libstfl-dev, libsqlite3-dev, perl, pkg-config, libcurl4-gnutls-dev, libjson-c-dev, asciidoctor, cargo, librust-lexopt-0.2-dev, librust-md5-0.7-dev, librust-bitflags-2-dev, librust-chrono-0.4-dev, librust-cxx-1-dev, librust-cxx-build-1-dev, librust-time-0.1-dev, librust-rand-0.8-dev, librust-once-cell-1+parking-lot-dev, librust-regex-1-dev, librust-url-2-dev, librust-xdg-2-dev, librust-backtrace-0.3-dev, librust-backtrace-sys-0.1-dev, librust-unicode-width-0.1-dev, librust-nom-7-dev, librust-curl-sys-0.4+ssl-dev, librust-libc-0.2-dev, librust-gettext-rs-0.7-dev, librust-natord-1-dev, librust-gettext-sys-0.21-dev, librust-tempfile-3-dev, librust-proptest-1+bit-set-dev, librust-proptest-1+rusty-fork-dev, librust-proptest-1+timeout-dev, librust-percent-encoding-2-dev, librust-section-testing-0.0.4-dev"
   ],
   "Checksums-Sha256": [
-    "1ed3e77fbe93ae794180b16c6c71289f2e16e4b312ff7383b21bb69d2ebea74e 2968 newsboat_2.21-1.5.dsc 0c46b3dd46bb578dd6dd4915db4cfdffb4352ab258f251080ad14655c75a9c31 661044 newsboat_2.21.orig.tar.xz 1cfbb9bf45b4c102a4f1f15f28039b48b5ee3c0cf6a4890d4dc88d86a08ba5a2 870 newsboat_2.21.orig.tar.xz.asc e0bc13e3cef613c84bdd35a8cf52eaa5ce42ca05538ad6fdf85b532ffadf3493 10332 newsboat_2.21-1.5.debian.tar.xz"
+    "6cbf279b5516df1c25f9e1cf4543618520cac815a64030b67397dbf73266b037 2976 newsboat_2.32-2.dsc 5b63514572a21e93f4dd3dd6c58f44fdbd9c9e6c6f978329a4766aabb13be6e6 816268 newsboat_2.32.orig.tar.xz 93b90322d0bdb42458e1ac0cefaa3524171e50eb1dca0ea654772523d60674c3 870 newsboat_2.32.orig.tar.xz.asc 4ee92bdb7f618a1e8085904b10479666eb4cc29474de9410ad87180913596b15 8204 newsboat_2.32-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/n/newsboat"
   ],
   "Files": [
-    "a2a19b7507446d61d77d94c49f465077 2968 newsboat_2.21-1.5.dsc 734997ba9a9e70f0a5e41bb6c195d0d2 661044 newsboat_2.21.orig.tar.xz 80359c4e969abe1addeea091253efc1c 870 newsboat_2.21.orig.tar.xz.asc d8dffd29aec6932ad212e2f4a208e070 10332 newsboat_2.21-1.5.debian.tar.xz"
+    "725ab43e113aa31a262f920a77ea20f7 2976 newsboat_2.32-2.dsc 9f55f0998b91f237f1cfa9b1317e1126 816268 newsboat_2.32.orig.tar.xz 901ce1136616cc5f1a28ecedcacb7ede 870 newsboat_2.32.orig.tar.xz.asc c061bff4f5adb56bff8f5a36e595ec7b 8204 newsboat_2.32-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -41,6 +41,12 @@
   "Standards-Version": [
     "4.5.0"
   ],
+  "Testsuite": [
+    "autopkgtest"
+  ],
+  "Testsuite-Triggers": [
+    "@builddeps@"
+  ],
   "Vcs-Browser": [
     "https://salsa.debian.org/nikos/newsboat"
   ],
@@ -48,6 +54,6 @@
     "https://salsa.debian.org/nikos/newsboat.git"
   ],
   "Version": [
-    "2.21-1.5"
+    "2.32-2"
   ]
 }

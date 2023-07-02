@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-python, python3-all, python3-babel, python3-click, python3-coverage, python3-dbus \u003c!nocheck\u003e, python3-flake8, python3-markdown, python3-pytest \u003c!nocheck\u003e, python3-pytest-cov \u003c!nocheck\u003e, python3-pytest-mock \u003c!nocheck\u003e, python3-pyyaml-env-tag, python3-requests, python3-requests-oauthlib, python3-setuptools"
   ],
   "Checksums-Sha256": [
-    "d7fe00a550ccd45f79d6de3893cfa75da6d038a2e05418fa9f89d83397ba93e4 2341 apprise_1.4.0-1.dsc 2df2015e8b59d92e51af7caa8e531651300dcee4ce8b8dfd6a3c995d30fe079b 1535852 apprise_1.4.0.orig.tar.gz 571423c8e75f93e6dbc479ed53bc419a469e3d785c971a70c1002315d3388334 4116 apprise_1.4.0-1.debian.tar.xz"
+    "260bfb8cb74f136857094cb26e7712eddf4075e112c71c9829e28b25b91cfaea 2341 apprise_1.4.0-2.dsc 2df2015e8b59d92e51af7caa8e531651300dcee4ce8b8dfd6a3c995d30fe079b 1535852 apprise_1.4.0.orig.tar.gz 28234e0f2ff1ef6a793c9aec77bb3efe4a7a6bbaaa258860076d5d5c1b7de9b0 4132 apprise_1.4.0-2.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/a/apprise"
   ],
   "Files": [
-    "32d774b44067ceacdbed39850474a42e 2341 apprise_1.4.0-1.dsc 0b966d7a29f0301f596b57ca66026488 1535852 apprise_1.4.0.orig.tar.gz d29214c2f55eef2ab446200bab7f012f 4116 apprise_1.4.0-1.debian.tar.xz"
+    "5a6550c55028f44c14566d8c11f910c4 2341 apprise_1.4.0-2.dsc 0b966d7a29f0301f596b57ca66026488 1535852 apprise_1.4.0.orig.tar.gz ac69b1dcfd075f2441c2728b7fdee69e 4132 apprise_1.4.0-2.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/python-team/packages/apprise.git"
   ],
   "Version": [
-    "1.4.0-1"
+    "1.4.0-2"
   ]
 }

@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-elpa, elpa-el-mock, elpa-s, elpa-dash, elpa-markdown-mode, elpa-mocker"
   ],
   "Checksums-Sha256": [
-    "30a6ccf82e88c55a22079c53e52e874a1c0c57cb6458764bb6c55d93ef450293 2092 markdown-toc-el_0.1.5-2.dsc 723d965a0c42acad2cc4b833f6ac0f17a09d43a39926797e91980c7eda6d79b6 23224 markdown-toc-el_0.1.5.orig.tar.xz a8945ff8ee8ee5a8198f21948b05c2c3208220e862776b5f23c782c27599109a 2684 markdown-toc-el_0.1.5-2.debian.tar.xz"
+    "56535072143b1239ef1663ecdd8b12ab047889a7d1409f42082f05b67068df61 2031 markdown-toc-el_0.1.5-3.dsc 723d965a0c42acad2cc4b833f6ac0f17a09d43a39926797e91980c7eda6d79b6 23224 markdown-toc-el_0.1.5.orig.tar.xz 4eb12344d1607c094c6f935d788fc6cacfdb5a4017291282aefeeed6721131f5 2708 markdown-toc-el_0.1.5-3.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/m/markdown-toc-el"
   ],
   "Files": [
-    "26b07a789bb0a5e6b51056e39f731569 2092 markdown-toc-el_0.1.5-2.dsc 0f269376a07f3a70befe877ebfc24c06 23224 markdown-toc-el_0.1.5.orig.tar.xz 1e70aa6ddb8971927c61e4d12204127f 2684 markdown-toc-el_0.1.5-2.debian.tar.xz"
+    "2f1879f7c621487b842b8a7bcafe4a75 2031 markdown-toc-el_0.1.5-3.dsc 0f269376a07f3a70befe877ebfc24c06 23224 markdown-toc-el_0.1.5.orig.tar.xz ab8e9ee5eed3679154a5717f15b0c810 2708 markdown-toc-el_0.1.5-3.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -24,7 +24,7 @@
     "https://github.com/ardumont/markdown-toc"
   ],
   "Maintainer": [
-    "Debian Emacsen team \u003cdebian-emacsen@lists.debian.org\u003e"
+    "Debian QA Group \u003cpackages@qa.debian.org\u003e"
   ],
   "Package": [
     "markdown-toc-el"
@@ -44,9 +44,6 @@
   "Testsuite": [
     "autopkgtest-pkg-elpa"
   ],
-  "Uploaders": [
-    "Nicholas D Steeves \u003csten@debian.org\u003e"
-  ],
   "Vcs-Browser": [
     "https://salsa.debian.org/emacsen-team/markdown-toc-el"
   ],
@@ -54,6 +51,6 @@
     "https://salsa.debian.org/emacsen-team/markdown-toc-el.git"
   ],
   "Version": [
-    "0.1.5-2"
+    "0.1.5-3"
   ]
 }

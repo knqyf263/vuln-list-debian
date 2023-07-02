@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), cmake"
   ],
   "Checksums-Sha256": [
-    "c91b6368104922737d1f4145deb61efa3c19642714b8faccf9d09d42f13643a3 1910 meshoptimizer_0.18+dfsg-2.dsc 881ea2cc687f1fef5ce70484e0ca6504e13856dd856677749f3763bc685956d3 145032 meshoptimizer_0.18+dfsg.orig.tar.xz 86df88697bd52d2aa980d0aa7c0c0d38af0dc4e150c6dca06ddc4a290d9bc29d 7996 meshoptimizer_0.18+dfsg-2.debian.tar.xz"
+    "5610018792df78ee0015ea71db1a198ad445bd42ef90968416039917cc271d47 1910 meshoptimizer_0.19+dfsg-1.dsc 520433de56e5966bd130ab8963f01755e02c91dda62825c1dc2cf391b428efbf 147212 meshoptimizer_0.19+dfsg.orig.tar.xz ae481d35cd34dab54368e1c35ea828adac07b591ecd008dc524dd2fc47a10709 8044 meshoptimizer_0.19+dfsg-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/m/meshoptimizer"
   ],
   "Files": [
-    "62c3ae288296ef3c8ab8f68fba9b4eb2 1910 meshoptimizer_0.18+dfsg-2.dsc 21ffce0599b5789e36b9751b7eb60ab5 145032 meshoptimizer_0.18+dfsg.orig.tar.xz 10b56271792b813b8233e5773ce38236 7996 meshoptimizer_0.18+dfsg-2.debian.tar.xz"
+    "29b1946abb57594d8e57d35c9fca4e03 1910 meshoptimizer_0.19+dfsg-1.dsc da790677cd557cf4d44232af791e1a95 147212 meshoptimizer_0.19+dfsg.orig.tar.xz 635ee8180812e58090be05961ee7ad7d 8044 meshoptimizer_0.19+dfsg-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Vcs-Browser": [
     "https://salsa.debian.org/roehling/meshoptimizer"
@@ -48,6 +48,6 @@
     "https://salsa.debian.org/roehling/meshoptimizer.git"
   ],
   "Version": [
-    "0.18+dfsg-2"
+    "0.19+dfsg-1"
   ]
 }

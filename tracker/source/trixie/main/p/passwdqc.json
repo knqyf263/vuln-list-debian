@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), libpam-dev"
   ],
   "Checksums-Sha256": [
-    "c92c0d0098384dba90604718ca984fcef970b3ff89ce9ca24ea7106f610d00c0 2390 passwdqc_2.0.2-1.dsc ff1f505764c020f6a4484b1e0cc4fdbf2e3f71b522926d90b4709104ca0604ab 88796 passwdqc_2.0.2.orig.tar.gz 14fdc4b5d5f94e4e4319cfaaea85d9de5b646dc3ec93583911afeef70cacf064 801 passwdqc_2.0.2.orig.tar.gz.asc 9e811e2985693289f0e8597f1dbb51c6b3cb770cd7dd3cd56a4879a6f5afc051 9724 passwdqc_2.0.2-1.debian.tar.xz"
+    "30603f592940bfd6be75788cd0bfb1ed6ef5d5fc4470c9d5c44282b7eeb52368 2390 passwdqc_2.0.3-1.dsc 53b0f4bc49369f06195e9e13abb6cff352d5acb79e861004ec95973896488cf4 89608 passwdqc_2.0.3.orig.tar.gz 1a5aa224c63b15c312f8809accc2e193dbe588db3c992c48d3b240c04c3f42f7 801 passwdqc_2.0.3.orig.tar.gz.asc 0e243415f3c5a6a9fc7dc7f616877fc4ff5f28a157d4a40f59750006dd8e8553 9884 passwdqc_2.0.3-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/passwdqc"
   ],
   "Files": [
-    "9fefd9c9e324b460e6eb89e1e505a021 2390 passwdqc_2.0.2-1.dsc b9789cf265c9867f34654e2a683ad057 88796 passwdqc_2.0.2.orig.tar.gz 57b7599eba3002205293dc85666592e0 801 passwdqc_2.0.2.orig.tar.gz.asc e58c1f27f12d31f1e08a93f6744325fb 9724 passwdqc_2.0.2-1.debian.tar.xz"
+    "1c8a90a5942ee24ea7a03e3cc81fc9d6 2390 passwdqc_2.0.3-1.dsc fd4d6fff2951256c3c0d013becef1298 89608 passwdqc_2.0.3.orig.tar.gz 557973a12c8b872ffbf8923d862bb761 801 passwdqc_2.0.3.orig.tar.gz.asc c61cb381b411f2c7193fc2d8cd772067 9884 passwdqc_2.0.3-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "admin"
   ],
   "Standards-Version": [
-    "4.5.1"
+    "4.6.2"
   ],
   "Uploaders": [
     "Samuel Henrique \u003csamueloph@debian.org\u003e, Unit 193 \u003cunit193@debian.org\u003e"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/pkg-security-team/passwdqc.git"
   ],
   "Version": [
-    "2.0.2-1"
+    "2.0.3-1"
   ]
 }

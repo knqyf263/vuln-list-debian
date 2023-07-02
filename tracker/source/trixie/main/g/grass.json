@@ -6,16 +6,16 @@
     "grass, grass-core, grass-gui, grass-doc, grass-dev-doc, grass-dev"
   ],
   "Build-Depends": [
-    "bison, debhelper-compat (= 12), dh-python, doxygen, fakeroot, flex, graphviz, libblas-dev, libbz2-dev, libcairo2-dev, libfftw3-dev, libfreetype-dev, libgdal-dev (\u003e= 2.0), libgeos-dev, libgl-dev, libglu-dev, libjpeg-dev, liblapack-dev, libmotif-dev | lesstif2-dev, default-libmysqlclient-dev, libncurses-dev, libnetcdf-dev, libpng-dev, libpq-dev, libproj-dev, libreadline-dev, libsqlite3-dev, libtiff-dev, libxmu-dev, libzstd-dev, netcdf-bin, pkg-config, proj-bin, python3, python3-dev, python3-numpy, python3-pil, python3-ply, python3-six, python3-wxgtk4.0, unixodbc-dev, zlib1g-dev"
+    "bison, debhelper-compat (= 13), dh-python, doxygen, fakeroot, flex, graphviz, libblas-dev, libbz2-dev, libcairo2-dev, libfftw3-dev, libfreetype-dev, libgdal-dev (\u003e= 2.0), libgeos-dev, libgl-dev, libglu-dev, libjpeg-dev, liblapack-dev, libmotif-dev | lesstif2-dev, default-libmysqlclient-dev, libncurses-dev, libnetcdf-dev, libpng-dev, libpq-dev, libproj-dev, libreadline-dev, libsqlite3-dev, libtiff-dev, libxmu-dev, libzstd-dev, netcdf-bin, pkg-config, proj-bin, python3, python3-dev, python3-numpy, python3-pil, python3-ply, python3-six, python3-wxgtk4.0, unixodbc-dev, zlib1g-dev"
   ],
   "Checksums-Sha256": [
-    "8875ea5b2a546d29980659863909ed50813f4f51244ba8ca52fadf58532788a5 2759 grass_8.2.1-1.dsc 8116202fb15352646442862230c7ca48ff8943b7bb83626160ce134980843abd 66827246 grass_8.2.1.orig.tar.gz 028f00aae568ac872b72fca33c0cccfe295bed468a2d1895804b45b388416b0f 33856 grass_8.2.1-1.debian.tar.xz"
+    "0639db0bfec9065c6d735717908e02c192d9c874d1bc68ae78ec26567bdc44db 2759 grass_8.3.0-1.dsc 8a38d297a41316ec0af1e4b4f8d00738f1fd98be768b8c6001b00e88817a2764 68481826 grass_8.3.0.orig.tar.gz a389bb44824cc8d9e85f99831a01e4912a6658ba61446550b2d94c43fc980da3 33944 grass_8.3.0-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/g/grass"
   ],
   "Files": [
-    "d03eaf90eead96f91ebdfe6eb9991ec9 2759 grass_8.2.1-1.dsc 6ef0c4f26901e03618bd4251bf246dfe 66827246 grass_8.2.1.orig.tar.gz 5c3ac519f97802892b47fa9887d9e0dc 33856 grass_8.2.1-1.debian.tar.xz"
+    "738f91baa7d41b579149ca60d64bff5e 2759 grass_8.3.0-1.dsc 1ebb4b9a726149ea9fa0bb2cd43b98c3 68481826 grass_8.3.0.orig.tar.gz 8cead598d57d3227b808e5f1834096c1 33944 grass_8.3.0-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/debian-gis-team/grass.git"
   ],
   "Version": [
-    "8.2.1-1"
+    "8.3.0-1"
   ]
 }

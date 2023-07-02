@@ -9,16 +9,16 @@
     "debhelper-compat (= 13)"
   ],
   "Checksums-Sha256": [
-    "e8275e8e2123cfcb65e187e9716ad090599ad138639c5aef6aca4fe6497ff256 2222 pd-lib-builder_0.6.0-6.dsc cf3eede202d85adbd9cce297987d5d9d9e3a83d742d6a2dd7ac99b7a23bc264c 18060 pd-lib-builder_0.6.0.orig.tar.gz b4c9be6c49851707901cbf7df88659da35080aea154dff92d9d987ef16b593ee 5528 pd-lib-builder_0.6.0-6.debian.tar.xz"
+    "45f893d2987cafcf2f2d5f00d7e2d024591de356fd45a7bffc8275877e1d0fdb 2255 pd-lib-builder_0.6.0-7.dsc cf3eede202d85adbd9cce297987d5d9d9e3a83d742d6a2dd7ac99b7a23bc264c 18060 pd-lib-builder_0.6.0.orig.tar.gz 11e222bab9a60ab8627cf63a770be2409206fd304346e8d097696deda1034a82 9020 pd-lib-builder_0.6.0-7.debian.tar.xz"
   ],
   "Dgit": [
-    "b6b5461dd19185effcdab63a36f38302de00e369 debian archive/debian/0.6.0-6 https://git.dgit.debian.org/pd-lib-builder"
+    "1ca762e542bc426c7873d04753e19523e78dd519 debian archive/debian/0.6.0-7 https://git.dgit.debian.org/pd-lib-builder"
   ],
   "Directory": [
     "pool/main/p/pd-lib-builder"
   ],
   "Files": [
-    "da4d188aba78148fbfa4e90f48db6969 2222 pd-lib-builder_0.6.0-6.dsc fecf27817afe27cb8222ef60b778019f 18060 pd-lib-builder_0.6.0.orig.tar.gz ea1bf08adec88e562ee35f56a96219d8 5528 pd-lib-builder_0.6.0-6.debian.tar.xz"
+    "7c8e38cc0a184a8b8a7443fe4f2d6457 2255 pd-lib-builder_0.6.0-7.dsc fecf27817afe27cb8222ef60b778019f 18060 pd-lib-builder_0.6.0.orig.tar.gz 26a72e057158a8d673508cbaffdbe170 9020 pd-lib-builder_0.6.0-7.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -42,7 +42,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest"
@@ -60,6 +60,6 @@
     "https://salsa.debian.org/multimedia-team/pd/pd-lib-builder.git"
   ],
   "Version": [
-    "0.6.0-6"
+    "0.6.0-7"
   ]
 }

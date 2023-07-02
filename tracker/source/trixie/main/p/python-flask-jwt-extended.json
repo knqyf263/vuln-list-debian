@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-python, python3-all, python3-cryptography \u003c!nocheck\u003e, python3-dateutil \u003c!nocheck\u003e, python3-flask, python3-jwt, python3-pytest \u003c!nocheck\u003e, python3-setuptools"
   ],
   "Checksums-Sha256": [
-    "b0fd3961993ee80eeb71e9ae4660d5a5dd3e3ad01cf753f4c72140a3a4da22ee 2403 python-flask-jwt-extended_4.4.4-2.dsc a08cb9cc1c6289d39477526d6542311754d6e6be129e3d32e690aa843c3df092 60087 python-flask-jwt-extended_4.4.4.orig.tar.gz 389d202889ebe65f2109cfcb4ab9a098ad6ceaeb0b5fe3fdcf754f3a46bb5cc6 3444 python-flask-jwt-extended_4.4.4-2.debian.tar.xz"
+    "932d2ae169d769eb1e39011135e8df047e4be26e3a0fdb24073599237b0f6f84 2430 python-flask-jwt-extended_4.5.2-1.dsc bf1e842670421b48ed0dd5e87c256624aca7ac8e6579085d8f51cf8785ed1d5d 60563 python-flask-jwt-extended_4.5.2.orig.tar.gz 5519b84c8c5a76c5cca9bd4f440c7fc8e3dcfa1acdb29f380ce5abbf51ef9e97 3508 python-flask-jwt-extended_4.5.2-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/python-flask-jwt-extended"
   ],
   "Files": [
-    "0a25dc7964acd63e78953b1cb64168d7 2403 python-flask-jwt-extended_4.4.4-2.dsc bd9fcb3dd0fd4196ffb661125915f7b9 60087 python-flask-jwt-extended_4.4.4.orig.tar.gz 28834f963ff0b78a73b0afcb4e8762d3 3444 python-flask-jwt-extended_4.4.4-2.debian.tar.xz"
+    "c2ccd17b7812ed9ce8133887b698494e 2430 python-flask-jwt-extended_4.5.2-1.dsc 9afca998144bcb687f5531dd8e4f3791 60563 python-flask-jwt-extended_4.5.2.orig.tar.gz 0aa10510015ad93c12c564c93fed179f 3508 python-flask-jwt-extended_4.5.2-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -39,7 +39,7 @@
     "misc"
   ],
   "Standards-Version": [
-    "4.6.1.1"
+    "4.6.2"
   ],
   "Testsuite": [
     "autopkgtest"
@@ -57,6 +57,6 @@
     "https://salsa.debian.org/python-team/packages/python-flask-jwt-extended.git"
   ],
   "Version": [
-    "4.4.4-2"
+    "4.5.2-1"
   ]
 }

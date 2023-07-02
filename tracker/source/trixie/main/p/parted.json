@@ -9,16 +9,16 @@
     "debhelper-compat (= 13), libncurses-dev | libncurses5-dev, libreadline-dev | libreadline6-dev, libdevmapper-dev [linux-any], uuid-dev, gettext, texinfo, libblkid-dev, pkg-config, check \u003c!nocheck\u003e, autoconf, automake, autopoint, gperf"
   ],
   "Checksums-Sha256": [
-    "2a181ce170282ae8b3380b75fd3eb0ff031ebdff95ebbb79538bc6d6e7fa4482 3010 parted_3.5-3.dsc 4938dd5c1c125f6c78b1f4b3e297526f18ee74aa43d45c248578b1d2470c05a2 1871824 parted_3.5.orig.tar.xz 1b4a381f344435baf69616a985fac6f411d740de9eebd91e4cccdf046332366a 488 parted_3.5.orig.tar.xz.asc f889132fc19d1283f157ad466fd71e1dd4ba4302b92c4660535f8fba5a1ff340 55716 parted_3.5-3.debian.tar.xz"
+    "cbaa49bae1a5dd59c6268d54cee36e1cfb9922c78d7a7937de50d27ca99ef50d 3010 parted_3.6-3.dsc 3b43dbe33cca0f9a18601ebab56b7852b128ec1a3df3a9b30ccde5e73359e612 1896164 parted_3.6.orig.tar.xz cdc0e7fcf5056e7f3f45d43bb980bd6d835b09a5c762ecd2b65c47742a0e583e 508 parted_3.6.orig.tar.xz.asc 93151442c45648e32df198433e25c576ca7746487bbf4a7cffee1da5481ca79b 56324 parted_3.6-3.debian.tar.xz"
   ],
   "Dgit": [
-    "223923842ef02a31781b25389342b509677e996e debian archive/debian/3.5-3 https://git.dgit.debian.org/parted"
+    "3df4120f4b395d3e71968f72ba03fc87777fce49 debian archive/debian/3.6-3 https://git.dgit.debian.org/parted"
   ],
   "Directory": [
     "pool/main/p/parted"
   ],
   "Files": [
-    "de904f64eff4af8f4b13dae3361d0895 3010 parted_3.5-3.dsc 336fde60786d5855b3876ee49ef1e6b2 1871824 parted_3.5.orig.tar.xz c6628218f693e77918acf4818549259f 488 parted_3.5.orig.tar.xz.asc 343e828c91ffe92304738aac97e7317e 55716 parted_3.5-3.debian.tar.xz"
+    "da8ac4a5d3553fa2fedf0ab38a049636 3010 parted_3.6-3.dsc 93d2d8f22baebc5eb65b85da05a79e4e 1896164 parted_3.6.orig.tar.xz 3afa5c04d8adfdead5eadb6596de9920 508 parted_3.6.orig.tar.xz.asc 6328f7a8ae2c5c5117384018fc237d6a 56324 parted_3.6-3.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/parted-team/parted.git"
   ],
   "Version": [
-    "3.5-3"
+    "3.6-3"
   ]
 }

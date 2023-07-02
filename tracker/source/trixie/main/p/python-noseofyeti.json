@@ -9,13 +9,13 @@
     "debhelper-compat (= 13), dh-python, python3-all, python3-setuptools"
   ],
   "Checksums-Sha256": [
-    "fce35234b814e60a5844ead056fb84476e0a74bec28d216bd707d94a886f04f7 2065 python-noseofyeti_2.4.1-1.dsc 96cb4fad8460102ea3e1e66852150c85a45541ea8ddfbf99cb9229770ac1854f 23432 python-noseofyeti_2.4.1.orig.tar.gz edbd1d37fe2c5743941c22282d098cb537e05ed5e7e0d97cbd0039939d1250d3 2660 python-noseofyeti_2.4.1-1.debian.tar.xz"
+    "c78c675b325aed0c5fcd9174a98dcc638e4db1f1415055608abe1996571e001a 2065 python-noseofyeti_2.4.2-1.dsc e483156a2b7262f4ef44b5ca3dbf6fbeaef932065cb6e0c10ec66b3a662eb6a4 23435 python-noseofyeti_2.4.2.orig.tar.gz e3b8b2708f7b257c2024f74381a8788a44e466ebea55d320ec007c285fb1a86e 2680 python-noseofyeti_2.4.2-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/python-noseofyeti"
   ],
   "Files": [
-    "0cfc6703009e1912f5a0e9e3723a284d 2065 python-noseofyeti_2.4.1-1.dsc cc59e06d21196b8a5c4af8c95eed451d 23432 python-noseofyeti_2.4.1.orig.tar.gz 2f648e7e3206e4cc5f58181354d8da87 2660 python-noseofyeti_2.4.1-1.debian.tar.xz"
+    "8cfca8cae372372f9d2a07bb5de8019f 2065 python-noseofyeti_2.4.2-1.dsc 96368779e7f4667e425ebb567b74feec 23435 python-noseofyeti_2.4.2.orig.tar.gz 2aedfba194ec2a19df21613b7a14b14b 2680 python-noseofyeti_2.4.2-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +51,6 @@
     "https://salsa.debian.org/python-team/packages/python-noseofyeti.git"
   ],
   "Version": [
-    "2.4.1-1"
+    "2.4.2-1"
   ]
 }

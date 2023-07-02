@@ -9,13 +9,13 @@
     "debhelper (\u003e= 7.0.50~), dh-python, gettext, intltool, python3-all"
   ],
   "Checksums-Sha256": [
-    "0a4678821d82faf3b823c3ac272c05ceb7300ef526e40286805d5272b66c3f2a 1742 apt-clone_0.4.3+nmu1.dsc 1fd368c0292b3c481f75e204907f02754e2b963cbfd393cd723699d8d35be661 459376 apt-clone_0.4.3+nmu1.tar.xz"
+    "da28c9b1986bde14543bf0e6a39f8faf1114d3b4891625a5b481cd8d42cdda81 1745 apt-clone_0.4.3+nmu2.dsc 941a10ddccfc09d2bfbffb39f50abfe9a6d81f5046bac9cf481a6f335a7754e5 459612 apt-clone_0.4.3+nmu2.tar.xz"
   ],
   "Directory": [
     "pool/main/a/apt-clone"
   ],
   "Files": [
-    "a557b8cadcf166b69541713be8705788 1742 apt-clone_0.4.3+nmu1.dsc 32129900e5eff83ec043aebfdc271ffe 459376 apt-clone_0.4.3+nmu1.tar.xz"
+    "33970588981bcf2050779acc7ac42296 1745 apt-clone_0.4.3+nmu2.dsc 2c0325888c6500406722512bdfcefbbc 459612 apt-clone_0.4.3+nmu2.tar.xz"
   ],
   "Format": [
     "3.0 (native)"
@@ -30,7 +30,7 @@
     "apt-clone"
   ],
   "Package-List": [
-    "apt-clone deb admin extra arch=all"
+    "apt-clone deb admin optional arch=all"
   ],
   "Priority": [
     "source"
@@ -54,6 +54,6 @@
     "https://github.com/mvo5/apt-clone"
   ],
   "Version": [
-    "0.4.3+nmu1"
+    "0.4.3+nmu2"
   ]
 }
