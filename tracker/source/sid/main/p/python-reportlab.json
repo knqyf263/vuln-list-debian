@@ -6,19 +6,16 @@
     "python3-reportlab, python-reportlab-doc, python3-reportlab-accel, python3-renderpm"
   ],
   "Build-Depends": [
-    "debhelper-compat (= 13), dh-python, python3-all-dev, python3-setuptools, libfreetype-dev, sharutils"
-  ],
-  "Build-Depends-Indep": [
-    "python3-pil, python3-sphinx"
+    "debhelper-compat (= 13), dh-python, python3-all-dev, python3-setuptools, libfreetype-dev, sharutils, python3-pil, python3-sphinx"
   ],
   "Checksums-Sha256": [
-    "32687f8f000e9270ec519f70a67f438e8a27514e4ebc6133958ab0f13daff440 2281 python-reportlab_4.0.4-2.dsc 7f70b3b56aff5f11cb4136c51a0f5a56fe6e4c8fbbac7b903076db99a8ef31c1 3132866 python-reportlab_4.0.4.orig.tar.gz 970d66ec2d6c05e4626c0a3774fdec8f0dcc44a5d0492007c3ff88af88a89ed8 12348 python-reportlab_4.0.4-2.debian.tar.xz"
+    "841205f3fb893d5aaa5e54b35a8791a70645ab7faa62dd0fd010d0e46eb2d0d6 2290 python-reportlab_4.0.4-5.dsc 7f70b3b56aff5f11cb4136c51a0f5a56fe6e4c8fbbac7b903076db99a8ef31c1 3132866 python-reportlab_4.0.4.orig.tar.gz 08e89e32dd001d9673fd5f707ae6d127ab28d55f7b58c6023daa867eb3702e42 12428 python-reportlab_4.0.4-5.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/p/python-reportlab"
   ],
   "Files": [
-    "b055794bbba3cd3c3b7125290393fafe 2281 python-reportlab_4.0.4-2.dsc eadd2f06fc4dbfd802666cbdd9ce8603 3132866 python-reportlab_4.0.4.orig.tar.gz d3175b5ec89a29dfb7dcb67279efa310 12348 python-reportlab_4.0.4-2.debian.tar.xz"
+    "f7361f9d8fe51d11b6b320c859f6552b 2290 python-reportlab_4.0.4-5.dsc eadd2f06fc4dbfd802666cbdd9ce8603 3132866 python-reportlab_4.0.4.orig.tar.gz 4fa9791ce5e3ef9d3ba5419be268b15d 12428 python-reportlab_4.0.4-5.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -51,6 +48,6 @@
     "https://salsa.debian.org/python-team/python-reportlab.git"
   ],
   "Version": [
-    "4.0.4-2"
+    "4.0.4-5"
   ]
 }

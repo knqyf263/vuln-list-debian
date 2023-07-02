@@ -9,13 +9,13 @@
     "debhelper-compat (= 13)"
   ],
   "Checksums-Sha256": [
-    "87f6ad6d90513b8eea1bb9f72d6669f05ece81b6c37ca3fce9d6dda106d6842a 1789 drbl_5.2.12-3.dsc f6e28b22d00e6a9d91efac45d10d8c62fbe913c8ed95239394238ef819ba42d7 2139380 drbl_5.2.12.orig.tar.gz 598dcb551d14ad9068c5a41f609b1cc3ca78c905a440adaa8d3a0e0d3816a4b4 9380 drbl_5.2.12-3.debian.tar.xz"
+    "1ec0724b9c9a8357b51ca1e3500db54fc23c23c881ff294ed9f3bde838c3ffde 1789 drbl_5.2.15-1.dsc 41d09160472dcd7829718cb97bba87b77148c4b5f8bdce4a0e16ba846ee931fd 2140063 drbl_5.2.15.orig.tar.gz 011c589280afe8a5d305bd89a4855f99dc17869e459ca64a70df45e2319b1710 9380 drbl_5.2.15-1.debian.tar.xz"
   ],
   "Directory": [
     "pool/main/d/drbl"
   ],
   "Files": [
-    "5fdd515bbea84847fe2887b008554332 1789 drbl_5.2.12-3.dsc e63d8a031bc509661fa0de1db954948a 2139380 drbl_5.2.12.orig.tar.gz 40efd9a5608a7160139c9ffa76aa1fa6 9380 drbl_5.2.12-3.debian.tar.xz"
+    "78eb04f28a254b2307260113be08414f 1789 drbl_5.2.15-1.dsc 2a0ebfd22e2026b24ef07527eab32c67 2140063 drbl_5.2.15.orig.tar.gz 878072ab3c9ae447551f67f368d5f63e 9380 drbl_5.2.15-1.debian.tar.xz"
   ],
   "Format": [
     "3.0 (quilt)"
@@ -48,6 +48,6 @@
     "https://salsa.debian.org/georgesk/drbl.git"
   ],
   "Version": [
-    "5.2.12-3"
+    "5.2.15-1"
   ]
 }

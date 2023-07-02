@@ -9,13 +9,13 @@
     "debhelper-compat (= 13)"
   ],
   "Checksums-Sha256": [
-    "9bfb1543bc8250f76befd3264d615dd1d8b461a506219d0aaa483eb8206787cb 2383 postgresql-common_251.dsc c1e5d0b3ba055196178c9e53f45df96aa353a15967747f83ffc1b0916f995dab 211032 postgresql-common_251.tar.xz"
+    "492d74793a65c99a0d949005d284176827a325a77742834638b8b635beadd7fa 2383 postgresql-common_252.dsc 51bf8789fd61913b5f99ba9eb7ca883674351ef8fc3bf56b9c4f5b1285d50348 211152 postgresql-common_252.tar.xz"
   ],
   "Directory": [
     "pool/main/p/postgresql-common"
   ],
   "Files": [
-    "683cda5c0eb95670824930839074a25a 2383 postgresql-common_251.dsc b518cbbbdf7027ba8f9a982348eed09a 211032 postgresql-common_251.tar.xz"
+    "8ca37c20113f2eff66a977188a977f99 2383 postgresql-common_252.dsc f6c5441e9e4c90f6218c331e440e9758 211152 postgresql-common_252.tar.xz"
   ],
   "Format": [
     "3.0 (native)"
@@ -54,6 +54,6 @@
     "https://salsa.debian.org/postgresql/postgresql-common.git"
   ],
   "Version": [
-    "251"
+    "252"
   ]
 }
