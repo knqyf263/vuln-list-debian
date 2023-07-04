@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[22 Apr 2013] DSA-2663-1 tinc - stack based buffer overflow",
-    "Line": 9394,
+    "Line": 9398,
     "ID": "DSA-2663-1",
     "Description": "tinc - stack based buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2013-1428}",
-      "Line": 9395,
+      "Line": 9399,
       "Type": "xref",
       "Bugs": [
         "CVE-2013-1428"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - tinc 1.0.13-1+squeeze1",
-      "Line": 9396,
+      "Line": 9400,
       "Type": "package",
       "Release": "squeeze",
       "Package": "tinc",

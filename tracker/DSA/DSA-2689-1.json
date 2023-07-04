@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[23 May 2013] DSA-2689-1 libxtst - several",
-    "Line": 9297,
+    "Line": 9301,
     "ID": "DSA-2689-1",
     "Description": "libxtst - several"
   },
   "Annotations": [
     {
       "Original": "{CVE-2013-2063}",
-      "Line": 9298,
+      "Line": 9302,
       "Type": "xref",
       "Bugs": [
         "CVE-2013-2063"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - libxtst 2:1.1.0-3+squeeze1",
-      "Line": 9299,
+      "Line": 9303,
       "Type": "package",
       "Release": "squeeze",
       "Package": "libxtst",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[wheezy] - libxtst 2:1.2.1-1+deb7u1",
-      "Line": 9300,
+      "Line": 9304,
       "Type": "package",
       "Release": "wheezy",
       "Package": "libxtst",

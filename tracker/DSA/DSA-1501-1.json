@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[21 Feb 2008] DSA-1501-1 dspam - information disclosure",
-    "Line": 13381,
+    "Line": 13385,
     "ID": "DSA-1501-1",
     "Description": "dspam - information disclosure"
   },
   "Annotations": [
     {
       "Original": "{CVE-2007-6418}",
-      "Line": 13382,
+      "Line": 13386,
       "Type": "xref",
       "Bugs": [
         "CVE-2007-6418"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[etch] - dspam 3.6.8-5etch1",
-      "Line": 13383,
+      "Line": 13387,
       "Type": "package",
       "Release": "etch",
       "Package": "dspam",

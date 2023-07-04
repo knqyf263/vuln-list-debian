@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[28 Dec 2006] DSA-1243-1 evince",
-    "Line": 14308,
+    "Line": 14312,
     "ID": "DSA-1243-1",
     "Description": "evince"
   },
   "Annotations": [
     {
       "Original": "{CVE-2006-5864}",
-      "Line": 14309,
+      "Line": 14313,
       "Type": "xref",
       "Bugs": [
         "CVE-2006-5864"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[sarge] - evince 0.1.5-2sarge1",
-      "Line": 14310,
+      "Line": 14314,
       "Type": "package",
       "Release": "sarge",
       "Package": "evince",

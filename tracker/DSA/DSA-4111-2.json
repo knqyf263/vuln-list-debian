@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[12 Feb 2018] DSA-4111-2 libreoffice - security update",
-    "Line": 4427,
+    "Line": 4431,
     "ID": "DSA-4111-2",
     "Description": "libreoffice - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-6871}",
-      "Line": 4428,
+      "Line": 4432,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-6871"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - libreoffice 1:4.3.3-2+deb8u10",
-      "Line": 4429,
+      "Line": 4433,
       "Type": "package",
       "Release": "jessie",
       "Package": "libreoffice",

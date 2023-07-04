@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[10 Aug 2008] DSA-1628-1 pdns - DNS spoofing",
-    "Line": 12943,
+    "Line": 12947,
     "ID": "DSA-1628-1",
     "Description": "pdns - DNS spoofing"
   },
   "Annotations": [
     {
       "Original": "{CVE-2008-3337}",
-      "Line": 12944,
+      "Line": 12948,
       "Type": "xref",
       "Bugs": [
         "CVE-2008-3337"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[etch] - pdns 2.9.20-8+etch1",
-      "Line": 12945,
+      "Line": 12949,
       "Type": "package",
       "Release": "etch",
       "Package": "pdns",

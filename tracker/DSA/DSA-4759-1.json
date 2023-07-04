@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[04 Sep 2020] DSA-4759-1 ark - security update",
-    "Line": 2234,
+    "Line": 2238,
     "ID": "DSA-4759-1",
     "Description": "ark - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-24654}",
-      "Line": 2235,
+      "Line": 2239,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-24654"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[buster] - ark 4:18.08.3-1+deb10u2",
-      "Line": 2236,
+      "Line": 2240,
       "Type": "package",
       "Release": "buster",
       "Package": "ark",

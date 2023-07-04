@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[14 Jun 2006] DSA-1098-1 - horde3 - missing input sanitising",
-    "Line": 14743,
+    "Line": 14747,
     "ID": "DSA-1098-1",
     "Description": "- horde3 - missing input sanitising"
   },
   "Annotations": [
     {
       "Original": "{CVE-2006-2195}",
-      "Line": 14744,
+      "Line": 14748,
       "Type": "xref",
       "Bugs": [
         "CVE-2006-2195"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[sarge] - horde3 3.0.4-4sarge4",
-      "Line": 14745,
+      "Line": 14749,
       "Type": "package",
       "Release": "sarge",
       "Package": "horde3",

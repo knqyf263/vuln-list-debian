@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[18 Aug 2006] DSA-1153 clamav - buffer overflow",
-    "Line": 14574,
+    "Line": 14578,
     "ID": "DSA-1153",
     "Description": "clamav - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2006-4018}",
-      "Line": 14575,
+      "Line": 14579,
       "Type": "xref",
       "Bugs": [
         "CVE-2006-4018"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[sarge] - clamav 0.84-2.sarge.10",
-      "Line": 14576,
+      "Line": 14580,
       "Type": "package",
       "Release": "sarge",
       "Package": "clamav",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[06 Jan 2022] DSA-5036-1 sphinxsearch - security update",
-    "Line": 1348,
+    "Line": 1352,
     "ID": "DSA-5036-1",
     "Description": "sphinxsearch - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-29050}",
-      "Line": 1349,
+      "Line": 1353,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-29050"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[buster] - sphinxsearch 2.2.11-2+deb10u1",
-      "Line": 1350,
+      "Line": 1354,
       "Type": "package",
       "Release": "buster",
       "Package": "sphinxsearch",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[15 Oct 2021] DSA-4987-1 squashfs-tools - security update",
-    "Line": 1517,
+    "Line": 1521,
     "ID": "DSA-4987-1",
     "Description": "squashfs-tools - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-41072}",
-      "Line": 1518,
+      "Line": 1522,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-41072"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[buster] - squashfs-tools 1:4.3-12+deb10u2",
-      "Line": 1519,
+      "Line": 1523,
       "Type": "package",
       "Release": "buster",
       "Package": "squashfs-tools",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[bullseye] - squashfs-tools 1:4.4-2+deb11u2",
-      "Line": 1520,
+      "Line": 1524,
       "Type": "package",
       "Release": "bullseye",
       "Package": "squashfs-tools",

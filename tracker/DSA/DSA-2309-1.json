@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[13 Sep 2011] DSA-2309-1 openssl - compromised certificate authority",
-    "Line": 10544,
+    "Line": 10548,
     "ID": "DSA-2309-1",
     "Description": "openssl - compromised certificate authority"
   },
   "Annotations": [
     {
       "Original": "{CVE-2011-1945}",
-      "Line": 10545,
+      "Line": 10549,
       "Type": "xref",
       "Bugs": [
         "CVE-2011-1945"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[lenny] - openssl 0.9.8g-15+lenny12",
-      "Line": 10546,
+      "Line": 10550,
       "Type": "package",
       "Release": "lenny",
       "Package": "openssl",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[squeeze] - openssl 0.9.8o-4squeeze2",
-      "Line": 10547,
+      "Line": 10551,
       "Type": "package",
       "Release": "squeeze",
       "Package": "openssl",

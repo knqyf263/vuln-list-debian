@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[13 Oct 2004] DSA-565-1 sox - buffer overflows",
-    "Line": 16981,
+    "Line": 16985,
     "ID": "DSA-565-1",
     "Description": "sox - buffer overflows"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-0557}",
-      "Line": 16982,
+      "Line": 16986,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-0557"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - sox 12.17.3-4woody2 (bug #262083)",
-      "Line": 16983,
+      "Line": 16987,
       "Type": "package",
       "Release": "woody",
       "Package": "sox",

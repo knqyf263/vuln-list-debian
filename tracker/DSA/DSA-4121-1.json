@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[22 Feb 2018] DSA-4121-1 gcc-6 - update",
-    "Line": 4396,
+    "Line": 4400,
     "ID": "DSA-4121-1",
     "Description": "gcc-6 - update"
   },
   "Annotations": [
     {
       "Original": "[stretch] - gcc-6 6.3.0-18+deb9u1",
-      "Line": 4397,
+      "Line": 4401,
       "Type": "package",
       "Release": "stretch",
       "Package": "gcc-6",
