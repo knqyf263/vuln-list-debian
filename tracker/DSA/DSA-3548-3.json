@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[05 Jun 2016] DSA-3548-3 samba - regression update",
-    "Line": 6172,
+    "Line": 6176,
     "ID": "DSA-3548-3",
     "Description": "samba - regression update"
   },
   "Annotations": [
     {
       "Original": "[jessie] - samba 2:4.2.10+dfsg-0+deb8u3",
-      "Line": 6173,
+      "Line": 6177,
       "Type": "package",
       "Release": "jessie",
       "Package": "samba",

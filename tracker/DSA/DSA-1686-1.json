@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[14 Dec 2008] DSA-1686-1 no-ip - arbitrary code execution",
-    "Line": 12766,
+    "Line": 12770,
     "ID": "DSA-1686-1",
     "Description": "no-ip - arbitrary code execution"
   },
   "Annotations": [
     {
       "Original": "{CVE-2008-5297}",
-      "Line": 12767,
+      "Line": 12771,
       "Type": "xref",
       "Bugs": [
         "CVE-2008-5297"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[etch] - no-ip 2.1.1-4+etch1",
-      "Line": 12768,
+      "Line": 12772,
       "Type": "package",
       "Release": "etch",
       "Package": "no-ip",

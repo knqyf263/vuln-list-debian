@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[28 Nov 2012] DSA-2578-1 rssh - several",
-    "Line": 9653,
+    "Line": 9657,
     "ID": "DSA-2578-1",
     "Description": "rssh - several"
   },
   "Annotations": [
     {
       "Original": "{CVE-2012-2251 CVE-2012-2252}",
-      "Line": 9654,
+      "Line": 9658,
       "Type": "xref",
       "Bugs": [
         "CVE-2012-2251",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[squeeze] - rssh 2.3.2-13squeeze3",
-      "Line": 9655,
+      "Line": 9659,
       "Type": "package",
       "Release": "squeeze",
       "Package": "rssh",

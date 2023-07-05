@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[15 Oct 2007] DSA-1386-1 wesnoth",
-    "Line": 13810,
+    "Line": 13814,
     "ID": "DSA-1386-1",
     "Description": "wesnoth"
   },
   "Annotations": [
     {
       "Original": "{CVE-2007-3917}",
-      "Line": 13811,
+      "Line": 13815,
       "Type": "xref",
       "Bugs": [
         "CVE-2007-3917"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[etch] - wesnoth 1.2-2",
-      "Line": 13812,
+      "Line": 13816,
       "Type": "package",
       "Release": "etch",
       "Package": "wesnoth",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[sarge] - wesnoth 0.9.0-6",
-      "Line": 13813,
+      "Line": 13817,
       "Type": "package",
       "Release": "sarge",
       "Package": "wesnoth",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[06 Jan 2005] DSA-626-1 tiff - unsanitised input",
-    "Line": 16796,
+    "Line": 16800,
     "ID": "DSA-626-1",
     "Description": "tiff - unsanitised input"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-1183}",
-      "Line": 16797,
+      "Line": 16801,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-1183"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - tiff 3.5.5-6.woody5",
-      "Line": 16798,
+      "Line": 16802,
       "Type": "package",
       "Release": "woody",
       "Package": "tiff",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "NOTE: not fixed in testing at time of DSA",
-      "Line": 16799,
+      "Line": 16803,
       "Type": "NOTE",
       "Description": "not fixed in testing at time of DSA"
     }

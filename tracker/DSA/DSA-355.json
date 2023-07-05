@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[30 Jul 2003] DSA-355 gallery - cross-site scripting",
-    "Line": 17678,
+    "Line": 17682,
     "ID": "DSA-355",
     "Description": "gallery - cross-site scripting"
   },
   "Annotations": [
     {
       "Original": "{CVE-2003-0614}",
-      "Line": 17679,
+      "Line": 17683,
       "Type": "xref",
       "Bugs": [
         "CVE-2003-0614"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - gallery 1.2.5-8woody1",
-      "Line": 17680,
+      "Line": 17684,
       "Type": "package",
       "Release": "woody",
       "Package": "gallery",

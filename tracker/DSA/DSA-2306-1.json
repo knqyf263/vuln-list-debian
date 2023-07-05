@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[11 Sep 2011] DSA-2306-1 ffmpeg - several",
-    "Line": 10559,
+    "Line": 10563,
     "ID": "DSA-2306-1",
     "Description": "ffmpeg - several"
   },
   "Annotations": [
     {
       "Original": "{CVE-2010-3908 CVE-2010-4704 CVE-2011-0480 CVE-2011-0722 CVE-2011-0723 CVE-2011-2161 CVE-2011-2160 CVE-2011-2162}",
-      "Line": 10560,
+      "Line": 10564,
       "Type": "xref",
       "Bugs": [
         "CVE-2010-3908",
@@ -23,7 +23,7 @@
     },
     {
       "Original": "[squeeze] - ffmpeg 4:0.5.4-1",
-      "Line": 10561,
+      "Line": 10565,
       "Type": "package",
       "Release": "squeeze",
       "Package": "ffmpeg",

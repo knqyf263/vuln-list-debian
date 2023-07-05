@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[13 Sep 2013] DSA-2756-1 wireshark - several",
-    "Line": 9058,
+    "Line": 9062,
     "ID": "DSA-2756-1",
     "Description": "wireshark - several"
   },
   "Annotations": [
     {
       "Original": "{CVE-2013-5718 CVE-2013-5720 CVE-2013-5722}",
-      "Line": 9059,
+      "Line": 9063,
       "Type": "xref",
       "Bugs": [
         "CVE-2013-5718",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[squeeze] - wireshark 1.2.11-6+squeeze12",
-      "Line": 9060,
+      "Line": 9064,
       "Type": "package",
       "Release": "squeeze",
       "Package": "wireshark",
@@ -27,7 +27,7 @@
     },
     {
       "Original": "[wheezy] - wireshark 1.8.2-5wheezy6",
-      "Line": 9061,
+      "Line": 9065,
       "Type": "package",
       "Release": "wheezy",
       "Package": "wireshark",

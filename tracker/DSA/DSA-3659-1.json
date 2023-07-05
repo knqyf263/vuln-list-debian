@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[04 Sep 2016] DSA-3659-1 linux - security update",
-    "Line": 5974,
+    "Line": 5978,
     "ID": "DSA-3659-1",
     "Description": "linux - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-5696 CVE-2016-6136 CVE-2016-6480 CVE-2016-6828}",
-      "Line": 5975,
+      "Line": 5979,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-5696",
@@ -19,7 +19,7 @@
     },
     {
       "Original": "[jessie] - linux 3.16.36-1+deb8u1",
-      "Line": 5976,
+      "Line": 5980,
       "Type": "package",
       "Release": "jessie",
       "Package": "linux",

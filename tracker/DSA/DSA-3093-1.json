@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[08 Dec 2014] DSA-3093-1 linux - security update",
-    "Line": 7936,
+    "Line": 7940,
     "ID": "DSA-3093-1",
     "Description": "linux - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2014-7841 CVE-2014-8369 CVE-2014-8884 CVE-2014-9090}",
-      "Line": 7937,
+      "Line": 7941,
       "Type": "xref",
       "Bugs": [
         "CVE-2014-7841",
@@ -19,7 +19,7 @@
     },
     {
       "Original": "[wheezy] - linux 3.2.63-2+deb7u2",
-      "Line": 7938,
+      "Line": 7942,
       "Type": "package",
       "Release": "wheezy",
       "Package": "linux",
