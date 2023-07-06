@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[12 May 2016] DLA-469-1 libgwenhywfar - security update",
-    "Line": 9177,
+    "Line": 9180,
     "ID": "DLA-469-1",
     "Description": "libgwenhywfar - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-7542}",
-      "Line": 9178,
+      "Line": 9181,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-7542"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - libgwenhywfar 4.3.3-1+deb7u1",
-      "Line": 9179,
+      "Line": 9182,
       "Type": "package",
       "Release": "wheezy",
       "Package": "libgwenhywfar",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[08 Dec 2019] DLA-2024-1 phpmyadmin - security update",
-    "Line": 4429,
+    "Line": 4432,
     "ID": "DLA-2024-1",
     "Description": "phpmyadmin - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-19617}",
-      "Line": 4430,
+      "Line": 4433,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-19617"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - phpmyadmin 4:4.2.12-2+deb8u7",
-      "Line": 4431,
+      "Line": 4434,
       "Type": "package",
       "Release": "jessie",
       "Package": "phpmyadmin",

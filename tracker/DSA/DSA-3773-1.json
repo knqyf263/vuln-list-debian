@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[27 Jan 2017] DSA-3773-1 openssl - security update",
-    "Line": 5623,
+    "Line": 5626,
     "ID": "DSA-3773-1",
     "Description": "openssl - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-7056 CVE-2016-8610 CVE-2017-3731}",
-      "Line": 5624,
+      "Line": 5627,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-7056",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[jessie] - openssl 1.0.1t-1+deb8u6",
-      "Line": 5625,
+      "Line": 5628,
       "Type": "package",
       "Release": "jessie",
       "Package": "openssl",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[10 Feb 2020] DLA-2099-1 checkstyle - security update",
-    "Line": 4197,
+    "Line": 4200,
     "ID": "DLA-2099-1",
     "Description": "checkstyle - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-10782}",
-      "Line": 4198,
+      "Line": 4201,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-10782"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - checkstyle 5.9-1+deb8u2",
-      "Line": 4199,
+      "Line": 4202,
       "Type": "package",
       "Release": "jessie",
       "Package": "checkstyle",

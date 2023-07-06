@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[31 Mar 2012] DSA-2442-2 openarena - UDP traffic amplification",
-    "Line": 10078,
+    "Line": 10081,
     "ID": "DSA-2442-2",
     "Description": "openarena - UDP traffic amplification"
   },
   "Annotations": [
     {
       "Original": "[squeeze] - openarena 0.8.5-5+squeeze3",
-      "Line": 10079,
+      "Line": 10082,
       "Type": "package",
       "Release": "squeeze",
       "Package": "openarena",

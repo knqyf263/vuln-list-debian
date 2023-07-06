@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[30 Dec 2002] DSA-218 bugzilla - cross site scripting",
-    "Line": 18102,
+    "Line": 18105,
     "ID": "DSA-218",
     "Description": "bugzilla - cross site scripting"
   },
   "Annotations": [
     {
       "Original": "{CVE-2002-2260}",
-      "Line": 18103,
+      "Line": 18106,
       "Type": "xref",
       "Bugs": [
         "CVE-2002-2260"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - bugzilla 2.14.2-0woody3",
-      "Line": 18104,
+      "Line": 18107,
       "Type": "package",
       "Release": "woody",
       "Package": "bugzilla",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[30 Sep 2022] DLA-3126-1 libsndfile - security update",
-    "Line": 1065,
+    "Line": 1068,
     "ID": "DLA-3126-1",
     "Description": "libsndfile - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-4156}",
-      "Line": 1066,
+      "Line": 1069,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-4156"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[buster] - libsndfile 1.0.28-6+deb10u2",
-      "Line": 1067,
+      "Line": 1070,
       "Type": "package",
       "Release": "buster",
       "Package": "libsndfile",

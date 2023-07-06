@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[02 Apr 2010] DSA-2026-1 netpbm-free - buffer overflow",
-    "Line": 11493,
+    "Line": 11496,
     "ID": "DSA-2026-1",
     "Description": "netpbm-free - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2009-4274}",
-      "Line": 11494,
+      "Line": 11497,
       "Type": "xref",
       "Bugs": [
         "CVE-2009-4274"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[lenny] - netpbm-free 2:10.0-12+lenny1",
-      "Line": 11495,
+      "Line": 11498,
       "Type": "package",
       "Release": "lenny",
       "Package": "netpbm-free",

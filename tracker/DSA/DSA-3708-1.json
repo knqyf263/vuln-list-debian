@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[07 Nov 2016] DSA-3708-1 mat - security update",
-    "Line": 5825,
+    "Line": 5828,
     "ID": "DSA-3708-1",
     "Description": "mat - security update"
   },
   "Annotations": [
     {
       "Original": "[jessie] - mat 0.5.2-3+deb8u1",
-      "Line": 5826,
+      "Line": 5829,
       "Type": "package",
       "Release": "jessie",
       "Package": "mat",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[18 Jul 2017] DLA-1031-1 evince - security update",
-    "Line": 7468,
+    "Line": 7471,
     "ID": "DLA-1031-1",
     "Description": "evince - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-1000083}",
-      "Line": 7469,
+      "Line": 7472,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-1000083"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - evince 3.4.0-3.1+deb7u1",
-      "Line": 7470,
+      "Line": 7473,
       "Type": "package",
       "Release": "wheezy",
       "Package": "evince",

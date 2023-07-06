@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[01 Mar 2019] DLA-1699-1 ldb - security update",
-    "Line": 5447,
+    "Line": 5450,
     "ID": "DLA-1699-1",
     "Description": "ldb - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-3824}",
-      "Line": 5448,
+      "Line": 5451,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-3824"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - ldb 2:1.1.20-0+deb8u2",
-      "Line": 5449,
+      "Line": 5452,
       "Type": "package",
       "Release": "jessie",
       "Package": "ldb",

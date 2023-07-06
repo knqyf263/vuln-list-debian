@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[09 Jan 2018] DLA-1234-2 gdk-pixbuf - regression update",
-    "Line": 6845,
+    "Line": 6848,
     "ID": "DLA-1234-2",
     "Description": "gdk-pixbuf - regression update"
   },
   "Annotations": [
     {
       "Original": "[wheezy] - gdk-pixbuf 2.26.1-1+deb7u8",
-      "Line": 6846,
+      "Line": 6849,
       "Type": "package",
       "Release": "wheezy",
       "Package": "gdk-pixbuf",

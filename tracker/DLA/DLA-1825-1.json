@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[18 Jun 2019] DLA-1825-1 kdepim - security update",
-    "Line": 5061,
+    "Line": 5064,
     "ID": "DLA-1825-1",
     "Description": "kdepim - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-10732}",
-      "Line": 5062,
+      "Line": 5065,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-10732"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - kdepim 4:4.14.1-1+deb8u2",
-      "Line": 5063,
+      "Line": 5066,
       "Type": "package",
       "Release": "jessie",
       "Package": "kdepim",

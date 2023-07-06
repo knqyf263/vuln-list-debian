@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[04 Sep 2006] DSA-1168-1 imagemagick",
-    "Line": 14536,
+    "Line": 14539,
     "ID": "DSA-1168-1",
     "Description": "imagemagick"
   },
   "Annotations": [
     {
       "Original": "{CVE-2006-2440 CVE-2006-3743 CVE-2006-3744}",
-      "Line": 14537,
+      "Line": 14540,
       "Type": "xref",
       "Bugs": [
         "CVE-2006-2440",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[sarge] - imagemagick 6:6.0.6.2-2.7",
-      "Line": 14538,
+      "Line": 14541,
       "Type": "package",
       "Release": "sarge",
       "Package": "imagemagick",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[09 Dec 2020] DSA-4809-1 python-apt - security update",
-    "Line": 2092,
+    "Line": 2095,
     "ID": "DSA-4809-1",
     "Description": "python-apt - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-27351}",
-      "Line": 2093,
+      "Line": 2096,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-27351"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[buster] - python-apt 1.8.4.2",
-      "Line": 2094,
+      "Line": 2097,
       "Type": "package",
       "Release": "buster",
       "Package": "python-apt",

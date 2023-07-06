@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[06 Oct 2008] DSA-1645-1 lighttpd - various problems",
-    "Line": 12895,
+    "Line": 12898,
     "ID": "DSA-1645-1",
     "Description": "lighttpd - various problems"
   },
   "Annotations": [
     {
       "Original": "{CVE-2008-4298 CVE-2008-4359 CVE-2008-4360}",
-      "Line": 12896,
+      "Line": 12899,
       "Type": "xref",
       "Bugs": [
         "CVE-2008-4298",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[etch] - lighttpd 1.4.13-4etch11",
-      "Line": 12897,
+      "Line": 12900,
       "Type": "package",
       "Release": "etch",
       "Package": "lighttpd",
