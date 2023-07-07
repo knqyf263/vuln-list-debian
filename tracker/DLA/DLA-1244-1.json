@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[16 Jan 2018] DLA-1244-1 ca-certificates - security update",
-    "Line": 6822,
+    "Line": 6828,
     "ID": "DLA-1244-1",
     "Description": "ca-certificates - security update"
   },
   "Annotations": [
     {
       "Original": "[wheezy] - ca-certificates 20130119+deb7u2",
-      "Line": 6823,
+      "Line": 6829,
       "Type": "package",
       "Release": "wheezy",
       "Package": "ca-certificates",

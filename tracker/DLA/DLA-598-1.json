@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[20 Aug 2016] DLA-598-1 suckless-tools - security update",
-    "Line": 8794,
+    "Line": 8800,
     "ID": "DLA-598-1",
     "Description": "suckless-tools - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-6866}",
-      "Line": 8795,
+      "Line": 8801,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-6866"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - suckless-tools 38-2+deb7u1",
-      "Line": 8796,
+      "Line": 8802,
       "Type": "package",
       "Release": "wheezy",
       "Package": "suckless-tools",

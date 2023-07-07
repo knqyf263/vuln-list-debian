@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[03 Jul 2021] DLA-2702-1 djvulibre - security update",
-    "Line": 2354,
+    "Line": 2360,
     "ID": "DLA-2702-1",
     "Description": "djvulibre - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-3630}",
-      "Line": 2355,
+      "Line": 2361,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-3630"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - djvulibre 3.5.27.1-7+deb9u2",
-      "Line": 2356,
+      "Line": 2362,
       "Type": "package",
       "Release": "stretch",
       "Package": "djvulibre",

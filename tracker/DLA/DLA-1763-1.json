@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[24 Apr 2019] DLA-1763-1 putty - security update",
-    "Line": 5258,
+    "Line": 5264,
     "ID": "DLA-1763-1",
     "Description": "putty - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-9894 CVE-2019-9897 CVE-2019-9898}",
-      "Line": 5259,
+      "Line": 5265,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-9894",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[jessie] - putty 0.63-10+deb8u2",
-      "Line": 5260,
+      "Line": 5266,
       "Type": "package",
       "Release": "jessie",
       "Package": "putty",
