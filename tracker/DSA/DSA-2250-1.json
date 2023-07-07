@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[31 May 2011] DSA-2250-1 citadel - denial of service",
-    "Line": 10777,
+    "Line": 10781,
     "ID": "DSA-2250-1",
     "Description": "citadel - denial of service"
   },
   "Annotations": [
     {
       "Original": "{CVE-2011-1756}",
-      "Line": 10778,
+      "Line": 10782,
       "Type": "xref",
       "Bugs": [
         "CVE-2011-1756"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - citadel 7.83-2squeeze2",
-      "Line": 10779,
+      "Line": 10783,
       "Type": "package",
       "Release": "squeeze",
       "Package": "citadel",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[lenny] - citadel 7.37-8+lenny1",
-      "Line": 10780,
+      "Line": 10784,
       "Type": "package",
       "Release": "lenny",
       "Package": "citadel",

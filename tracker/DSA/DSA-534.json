@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[22 Jul 2004] DSA-534 mailreader - directory traversal",
-    "Line": 17096,
+    "Line": 17100,
     "ID": "DSA-534",
     "Description": "mailreader - directory traversal"
   },
   "Annotations": [
     {
       "Original": "{CVE-2002-1581}",
-      "Line": 17097,
+      "Line": 17101,
       "Type": "xref",
       "Bugs": [
         "CVE-2002-1581"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - mailreader 2.3.29-5woody1",
-      "Line": 17098,
+      "Line": 17102,
       "Type": "package",
       "Release": "woody",
       "Package": "mailreader",

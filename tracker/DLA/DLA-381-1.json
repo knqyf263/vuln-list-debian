@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[10 Jan 2016] DLA-381-1 icu - security update",
-    "Line": 9453,
+    "Line": 9455,
     "ID": "DLA-381-1",
     "Description": "icu - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-2632}",
-      "Line": 9454,
+      "Line": 9456,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-2632"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - icu 4.4.1-8+squeeze5",
-      "Line": 9455,
+      "Line": 9457,
       "Type": "package",
       "Release": "squeeze",
       "Package": "icu",

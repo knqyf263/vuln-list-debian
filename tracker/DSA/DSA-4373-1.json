@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[28 Jan 2019] DSA-4373-1 coturn - security update",
-    "Line": 3574,
+    "Line": 3578,
     "ID": "DSA-4373-1",
     "Description": "coturn - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-4056 CVE-2018-4058 CVE-2018-4059}",
-      "Line": 3575,
+      "Line": 3579,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-4056",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[stretch] - coturn 4.5.0.5-1+deb9u1",
-      "Line": 3576,
+      "Line": 3580,
       "Type": "package",
       "Release": "stretch",
       "Package": "coturn",

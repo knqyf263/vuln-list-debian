@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[07 Apr 2003] DSA-279 metrics - insecure temporary file creation",
-    "Line": 17919,
+    "Line": 17923,
     "ID": "DSA-279",
     "Description": "metrics - insecure temporary file creation"
   },
   "Annotations": [
     {
       "Original": "{CVE-2003-0202}",
-      "Line": 17920,
+      "Line": 17924,
       "Type": "xref",
       "Bugs": [
         "CVE-2003-0202"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "NOTE: Potato-only vulnerability, package was removed from woody.",
-      "Line": 17921,
+      "Line": 17925,
       "Type": "NOTE",
       "Description": "Potato-only vulnerability, package was removed from woody."
     }

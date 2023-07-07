@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[30 Jan 2006] DSA-959-1 unalz - buffer overflow",
-    "Line": 15279,
+    "Line": 15283,
     "ID": "DSA-959-1",
     "Description": "unalz - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-3862}",
-      "Line": 15280,
+      "Line": 15284,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-3862"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[sarge] - unalz 0.30.1",
-      "Line": 15281,
+      "Line": 15285,
       "Type": "package",
       "Release": "sarge",
       "Package": "unalz",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "NOTE: not fixed in testing at time of DSA (unfixed in sid)",
-      "Line": 15282,
+      "Line": 15286,
       "Type": "NOTE",
       "Description": "not fixed in testing at time of DSA (unfixed in sid)"
     }

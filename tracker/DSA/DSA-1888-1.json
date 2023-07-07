@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[16 Sep 2009] DSA-1888-1 openssl - cryptographic weakness",
-    "Line": 12019,
+    "Line": 12023,
     "ID": "DSA-1888-1",
     "Description": "openssl - cryptographic weakness"
   },
   "Annotations": [
     {
       "Original": "{CVE-2009-2409}",
-      "Line": 12020,
+      "Line": 12024,
       "Type": "xref",
       "Bugs": [
         "CVE-2009-2409"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[etch] - openssl097 0.9.7k-3.1etch5",
-      "Line": 12021,
+      "Line": 12025,
       "Type": "package",
       "Release": "etch",
       "Package": "openssl097",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[etch] - openssl 0.9.8c-4etch9",
-      "Line": 12022,
+      "Line": 12026,
       "Type": "package",
       "Release": "etch",
       "Package": "openssl",
@@ -34,7 +34,7 @@
     },
     {
       "Original": "[lenny] - openssl 0.9.8g-15+lenny5",
-      "Line": 12023,
+      "Line": 12027,
       "Type": "package",
       "Release": "lenny",
       "Package": "openssl",

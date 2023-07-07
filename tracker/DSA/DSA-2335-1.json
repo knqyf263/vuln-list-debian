@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[05 Nov 2011] DSA-2335-1 man2html - missing input sanitization",
-    "Line": 10467,
+    "Line": 10471,
     "ID": "DSA-2335-1",
     "Description": "man2html - missing input sanitization"
   },
   "Annotations": [
     {
       "Original": "{CVE-2011-2770}",
-      "Line": 10468,
+      "Line": 10472,
       "Type": "xref",
       "Bugs": [
         "CVE-2011-2770"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[lenny] - man2html 1.6f-3+lenny1",
-      "Line": 10469,
+      "Line": 10473,
       "Type": "package",
       "Release": "lenny",
       "Package": "man2html",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[squeeze] - man2html 1.6f+repack-1+squeeze1",
-      "Line": 10470,
+      "Line": 10474,
       "Type": "package",
       "Release": "squeeze",
       "Package": "man2html",

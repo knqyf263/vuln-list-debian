@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[30 Jun 2006] DSA-1104 openoffice.org - several vulnerabilities",
-    "Line": 14735,
+    "Line": 14739,
     "ID": "DSA-1104",
     "Description": "openoffice.org - several vulnerabilities"
   },
   "Annotations": [
     {
       "Original": "{CVE-2006-2198 CVE-2006-2199 CVE-2006-3117}",
-      "Line": 14736,
+      "Line": 14740,
       "Type": "xref",
       "Bugs": [
         "CVE-2006-2198",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[sarge] - openoffice.org 1.1.3-9sarge3",
-      "Line": 14737,
+      "Line": 14741,
       "Type": "package",
       "Release": "sarge",
       "Package": "openoffice.org",

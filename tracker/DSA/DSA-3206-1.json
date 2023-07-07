@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[28 Mar 2015] DSA-3206-1 dulwich - security update",
-    "Line": 7591,
+    "Line": 7595,
     "ID": "DSA-3206-1",
     "Description": "dulwich - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2014-9706 CVE-2015-0838}",
-      "Line": 7592,
+      "Line": 7596,
       "Type": "xref",
       "Bugs": [
         "CVE-2014-9706",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[wheezy] - dulwich 0.8.5-2+deb7u2",
-      "Line": 7593,
+      "Line": 7597,
       "Type": "package",
       "Release": "wheezy",
       "Package": "dulwich",

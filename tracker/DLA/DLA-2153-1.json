@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[22 Mar 2020] DLA-2153-1 jackson-databind - security update",
-    "Line": 4038,
+    "Line": 4040,
     "ID": "DLA-2153-1",
     "Description": "jackson-databind - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-10672 CVE-2020-10673}",
-      "Line": 4039,
+      "Line": 4041,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-10672",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[jessie] - jackson-databind 2.4.2-2+deb8u13",
-      "Line": 4040,
+      "Line": 4042,
       "Type": "package",
       "Release": "jessie",
       "Package": "jackson-databind",

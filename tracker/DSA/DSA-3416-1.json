@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[13 Dec 2015] DSA-3416-1 libphp-phpmailer - security update",
-    "Line": 6819,
+    "Line": 6823,
     "ID": "DSA-3416-1",
     "Description": "libphp-phpmailer - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-8476}",
-      "Line": 6820,
+      "Line": 6824,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-8476"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - libphp-phpmailer 5.1-1.1",
-      "Line": 6821,
+      "Line": 6825,
       "Type": "package",
       "Release": "wheezy",
       "Package": "libphp-phpmailer",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[jessie] - libphp-phpmailer 5.2.9+dfsg-2+deb8u1",
-      "Line": 6822,
+      "Line": 6826,
       "Type": "package",
       "Release": "jessie",
       "Package": "libphp-phpmailer",

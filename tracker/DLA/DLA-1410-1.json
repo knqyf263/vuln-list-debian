@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[01 Jul 2018] DLA-1410-1 python-pysaml2 - security update",
-    "Line": 6336,
+    "Line": 6338,
     "ID": "DLA-1410-1",
     "Description": "python-pysaml2 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-1000433}",
-      "Line": 6337,
+      "Line": 6339,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-1000433"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - python-pysaml2 2.0.0-1+deb8u2",
-      "Line": 6338,
+      "Line": 6340,
       "Type": "package",
       "Release": "jessie",
       "Package": "python-pysaml2",

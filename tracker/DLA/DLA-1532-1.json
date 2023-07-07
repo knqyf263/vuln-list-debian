@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[04 Oct 2018] DLA-1532-1 dnsmasq - update",
-    "Line": 5960,
+    "Line": 5962,
     "ID": "DLA-1532-1",
     "Description": "dnsmasq - update"
   },
   "Annotations": [
     {
       "Original": "[jessie] - dnsmasq 2.72-3+deb8u4",
-      "Line": 5961,
+      "Line": 5963,
       "Type": "package",
       "Release": "jessie",
       "Package": "dnsmasq",

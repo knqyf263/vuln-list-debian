@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[05 Jan 2005] DSA-624-1 zip - buffer overflow",
-    "Line": 16811,
+    "Line": 16815,
     "ID": "DSA-624-1",
     "Description": "zip - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-1010}",
-      "Line": 16812,
+      "Line": 16816,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-1010"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - zip 2.30-5woody2",
-      "Line": 16813,
+      "Line": 16817,
       "Type": "package",
       "Release": "woody",
       "Package": "zip",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "NOTE: fixed in testing at time of DSA",
-      "Line": 16814,
+      "Line": 16818,
       "Type": "NOTE",
       "Description": "fixed in testing at time of DSA"
     }
