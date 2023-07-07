@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[01 Sep 2007] DSA-1366-1 clamav",
-    "Line": 13918,
+    "Line": 13922,
     "ID": "DSA-1366-1",
     "Description": "clamav"
   },
   "Annotations": [
     {
       "Original": "{CVE-2007-4510 CVE-2007-4560}",
-      "Line": 13919,
+      "Line": 13923,
       "Type": "xref",
       "Bugs": [
         "CVE-2007-4510",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[etch] - clamav 0.90.1-3etch7",
-      "Line": 13920,
+      "Line": 13924,
       "Type": "package",
       "Release": "etch",
       "Package": "clamav",

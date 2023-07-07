@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[30 Mar 2022] DLA-2966-1 libgc - security update",
-    "Line": 1556,
+    "Line": 1559,
     "ID": "DLA-2966-1",
     "Description": "libgc - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-9427}",
-      "Line": 1557,
+      "Line": 1560,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-9427"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - libgc 1:7.4.2-8+deb9u1",
-      "Line": 1558,
+      "Line": 1561,
       "Type": "package",
       "Release": "stretch",
       "Package": "libgc",

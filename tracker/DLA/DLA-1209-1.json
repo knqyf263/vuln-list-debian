@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[15 Dec 2017] DLA-1209-1 sensible-utils - security update",
-    "Line": 6936,
+    "Line": 6939,
     "ID": "DLA-1209-1",
     "Description": "sensible-utils - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-17512}",
-      "Line": 6937,
+      "Line": 6940,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-17512"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - sensible-utils 0.0.7+deb7u1",
-      "Line": 6938,
+      "Line": 6941,
       "Type": "package",
       "Release": "wheezy",
       "Package": "sensible-utils",

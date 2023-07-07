@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[19 Sep 2017] DSA-3979-1 pyjwt - security update",
-    "Line": 4927,
+    "Line": 4931,
     "ID": "DSA-3979-1",
     "Description": "pyjwt - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-11424}",
-      "Line": 4928,
+      "Line": 4932,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-11424"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - pyjwt 0.2.1-1+deb8u2",
-      "Line": 4929,
+      "Line": 4933,
       "Type": "package",
       "Release": "jessie",
       "Package": "pyjwt",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[stretch] - pyjwt 1.4.2-1+deb9u1",
-      "Line": 4930,
+      "Line": 4934,
       "Type": "package",
       "Release": "stretch",
       "Package": "pyjwt",

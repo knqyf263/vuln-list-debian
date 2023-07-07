@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[23 Jan 2016] DLA-399-1 foomatic-filters - security update",
-    "Line": 9400,
+    "Line": 9403,
     "ID": "DLA-399-1",
     "Description": "foomatic-filters - security update"
   },
   "Annotations": [
     {
       "Original": "[squeeze] - foomatic-filters 4.0.5-6+squeeze2+deb6u13",
-      "Line": 9401,
+      "Line": 9404,
       "Type": "package",
       "Release": "squeeze",
       "Package": "foomatic-filters",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[16 Mar 2021] DSA-4871-1 tor - security update",
-    "Line": 1902,
+    "Line": 1906,
     "ID": "DSA-4871-1",
     "Description": "tor - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-28089 CVE-2021-28090}",
-      "Line": 1903,
+      "Line": 1907,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-28089",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[buster] - tor 0.3.5.14-1",
-      "Line": 1904,
+      "Line": 1908,
       "Type": "package",
       "Release": "buster",
       "Package": "tor",

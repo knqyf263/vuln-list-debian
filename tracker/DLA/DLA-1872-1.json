@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[06 Aug 2019] DLA-1872-1 python-django - security update",
-    "Line": 4911,
+    "Line": 4914,
     "ID": "DLA-1872-1",
     "Description": "python-django - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-14232 CVE-2019-14233}",
-      "Line": 4912,
+      "Line": 4915,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-14232",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[jessie] - python-django 1.7.11-1+deb8u7",
-      "Line": 4913,
+      "Line": 4916,
       "Type": "package",
       "Release": "jessie",
       "Package": "python-django",

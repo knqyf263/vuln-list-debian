@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[01 Aug 2015] DSA-3324-1 icedove - security update",
-    "Line": 7175,
+    "Line": 7179,
     "ID": "DSA-3324-1",
     "Description": "icedove - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-2721 CVE-2015-2724 CVE-2015-2734 CVE-2015-2735 CVE-2015-2736 CVE-2015-2737 CVE-2015-2738 CVE-2015-2739 CVE-2015-2740 CVE-2015-4000}",
-      "Line": 7176,
+      "Line": 7180,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-2721",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[wheezy] - icedove 31.8.0-1~deb7u1",
-      "Line": 7177,
+      "Line": 7181,
       "Type": "package",
       "Release": "wheezy",
       "Package": "icedove",
@@ -34,7 +34,7 @@
     },
     {
       "Original": "[jessie] - icedove 31.8.0-1~deb8u1",
-      "Line": 7178,
+      "Line": 7182,
       "Type": "package",
       "Release": "jessie",
       "Package": "icedove",

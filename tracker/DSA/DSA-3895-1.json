@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[22 Jun 2017] DSA-3895-1 flatpak - security update",
-    "Line": 5237,
+    "Line": 5241,
     "ID": "DSA-3895-1",
     "Description": "flatpak - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-9780}",
-      "Line": 5238,
+      "Line": 5242,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-9780"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - flatpak 0.8.5-2+deb9u1",
-      "Line": 5239,
+      "Line": 5243,
       "Type": "package",
       "Release": "stretch",
       "Package": "flatpak",

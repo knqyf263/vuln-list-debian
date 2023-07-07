@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[14 Jul 2005] DSA-746-1 phpgroupware - remote command execution",
-    "Line": 16247,
+    "Line": 16251,
     "ID": "DSA-746-1",
     "Description": "phpgroupware - remote command execution"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-1921}",
-      "Line": 16248,
+      "Line": 16252,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-1921"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - phpgroupware \u003cunfixed\u003e (high)",
-      "Line": 16249,
+      "Line": 16253,
       "Type": "package",
       "Release": "woody",
       "Package": "phpgroupware",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[sarge] - phpgroupware 0.9.16.005-3.sarge0 (high)",
-      "Line": 16250,
+      "Line": 16254,
       "Type": "package",
       "Release": "sarge",
       "Package": "phpgroupware",
@@ -35,7 +35,7 @@
     },
     {
       "Original": "NOTE: fixed in testing at time of DSA",
-      "Line": 16251,
+      "Line": 16255,
       "Type": "NOTE",
       "Description": "fixed in testing at time of DSA"
     }

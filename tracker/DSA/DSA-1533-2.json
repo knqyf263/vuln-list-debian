@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[01 Apr 2008] DSA-1533-2 exiftags",
-    "Line": 13239,
+    "Line": 13243,
     "ID": "DSA-1533-2",
     "Description": "exiftags"
   },
   "Annotations": [
     {
       "Original": "{CVE-2007-6354 CVE-2007-6355 CVE-2007-6356}",
-      "Line": 13240,
+      "Line": 13244,
       "Type": "xref",
       "Bugs": [
         "CVE-2007-6354",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[sarge] - exiftags 0.98-1.1+0sarge1",
-      "Line": 13241,
+      "Line": 13245,
       "Type": "package",
       "Release": "sarge",
       "Package": "exiftags",
