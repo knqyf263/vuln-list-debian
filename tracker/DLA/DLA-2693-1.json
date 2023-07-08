@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[28 Jun 2021] DLA-2693-1 xmlbeans - security update",
-    "Line": 2392,
+    "Line": 2395,
     "ID": "DLA-2693-1",
     "Description": "xmlbeans - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-23926}",
-      "Line": 2393,
+      "Line": 2396,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-23926"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - xmlbeans 2.6.0+dfsg-1+deb9u1",
-      "Line": 2394,
+      "Line": 2397,
       "Type": "package",
       "Release": "stretch",
       "Package": "xmlbeans",

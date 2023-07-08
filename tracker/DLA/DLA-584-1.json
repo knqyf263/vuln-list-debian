@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[04 Aug 2016] DLA-584-1 libsys-syslog-perl - security update",
-    "Line": 8850,
+    "Line": 8853,
     "ID": "DLA-584-1",
     "Description": "libsys-syslog-perl - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-1238}",
-      "Line": 8851,
+      "Line": 8854,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-1238"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - libsys-syslog-perl 0.29-1+deb7u1",
-      "Line": 8852,
+      "Line": 8855,
       "Type": "package",
       "Release": "wheezy",
       "Package": "libsys-syslog-perl",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[07 Jul 2019] DLA-1845-1 dosbox - security update",
-    "Line": 5008,
+    "Line": 5011,
     "ID": "DLA-1845-1",
     "Description": "dosbox - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-7165 CVE-2019-12594}",
-      "Line": 5009,
+      "Line": 5012,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-7165",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[jessie] - dosbox 0.74-4+deb8u1",
-      "Line": 5010,
+      "Line": 5013,
       "Type": "package",
       "Release": "jessie",
       "Package": "dosbox",

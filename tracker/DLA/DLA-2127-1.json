@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[29 Feb 2020] DLA-2127-1 dojo - security update",
-    "Line": 4128,
+    "Line": 4131,
     "ID": "DLA-2127-1",
     "Description": "dojo - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-10785}",
-      "Line": 4129,
+      "Line": 4132,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-10785"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - dojo 1.10.2+dfsg-1+deb8u2",
-      "Line": 4130,
+      "Line": 4133,
       "Type": "package",
       "Release": "jessie",
       "Package": "dojo",

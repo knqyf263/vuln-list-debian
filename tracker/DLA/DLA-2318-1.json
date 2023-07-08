@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[09 Aug 2020] DLA-2318-1 wpa - security update",
-    "Line": 3539,
+    "Line": 3542,
     "ID": "DLA-2318-1",
     "Description": "wpa - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-10064 CVE-2020-12695}",
-      "Line": 3540,
+      "Line": 3543,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-10064",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[stretch] - wpa 2:2.4-1+deb9u7",
-      "Line": 3541,
+      "Line": 3544,
       "Type": "package",
       "Release": "stretch",
       "Package": "wpa",
