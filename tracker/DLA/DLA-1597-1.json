@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[26 Nov 2018] DLA-1597-1 gnuplot - security update",
-    "Line": 5774,
+    "Line": 5782,
     "ID": "DLA-1597-1",
     "Description": "gnuplot - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-19490 CVE-2018-19491 CVE-2018-19492}",
-      "Line": 5775,
+      "Line": 5783,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-19490",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[jessie] - gnuplot 4.6.6-2+deb8u1",
-      "Line": 5776,
+      "Line": 5784,
       "Type": "package",
       "Release": "jessie",
       "Package": "gnuplot",

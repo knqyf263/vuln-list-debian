@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[07 Jul 2023] DLA-3482-1 debian-archive-keyring - security update",
-    "Line": 7,
+    "Line": 15,
     "ID": "DLA-3482-1",
     "Description": "debian-archive-keyring - security update"
   },
   "Annotations": [
     {
       "Original": "[buster] - debian-archive-keyring 2019.1+deb10u2",
-      "Line": 8,
+      "Line": 16,
       "Type": "package",
       "Release": "buster",
       "Package": "debian-archive-keyring",

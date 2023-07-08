@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[12 Dec 2016] DLA-732-3 monit - regression update",
-    "Line": 8379,
+    "Line": 8387,
     "ID": "DLA-732-3",
     "Description": "monit - regression update"
   },
   "Annotations": [
     {
       "Original": "[wheezy] - monit 1:5.4-2+deb7u3",
-      "Line": 8380,
+      "Line": 8388,
       "Type": "package",
       "Release": "wheezy",
       "Package": "monit",

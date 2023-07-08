@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[15 Sep 2016] DLA-621-1 autotrace - security update",
-    "Line": 8737,
+    "Line": 8745,
     "ID": "DLA-621-1",
     "Description": "autotrace - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-7392}",
-      "Line": 8738,
+      "Line": 8746,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-7392"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - autotrace 0.31.1-16+deb7u1",
-      "Line": 8739,
+      "Line": 8747,
       "Type": "package",
       "Release": "wheezy",
       "Package": "autotrace",
