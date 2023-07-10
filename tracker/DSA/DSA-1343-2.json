@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[02 Aug 2007] DSA-1343-2 file",
-    "Line": 13870,
+    "Line": 13874,
     "ID": "DSA-1343-2",
     "Description": "file"
   },
   "Annotations": [
     {
       "Original": "{CVE-2007-2799}",
-      "Line": 13871,
+      "Line": 13875,
       "Type": "xref",
       "Bugs": [
         "CVE-2007-2799"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[etch] - file 4.17-5etch3",
-      "Line": 13872,
+      "Line": 13876,
       "Type": "package",
       "Release": "etch",
       "Package": "file",

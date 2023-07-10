@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[10 Jan 2019] DSA-4365-1 tmpreaper - security update",
-    "Line": 3608,
+    "Line": 3612,
     "ID": "DSA-4365-1",
     "Description": "tmpreaper - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-3461}",
-      "Line": 3609,
+      "Line": 3613,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-3461"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - tmpreaper 1.6.13+nmu1+deb9u1",
-      "Line": 3610,
+      "Line": 3614,
       "Type": "package",
       "Release": "stretch",
       "Package": "tmpreaper",

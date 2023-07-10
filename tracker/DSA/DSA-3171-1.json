@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[23 Feb 2015] DSA-3171-1 samba - security update",
-    "Line": 7705,
+    "Line": 7709,
     "ID": "DSA-3171-1",
     "Description": "samba - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-0240}",
-      "Line": 7706,
+      "Line": 7710,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-0240"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - samba 2:3.6.6-6+deb7u5",
-      "Line": 7707,
+      "Line": 7711,
       "Type": "package",
       "Release": "wheezy",
       "Package": "samba",

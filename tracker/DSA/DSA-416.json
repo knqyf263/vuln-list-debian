@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[06 Jan 2004] DSA-416 fsp - buffer overflow, directory traversal",
-    "Line": 17500,
+    "Line": 17504,
     "ID": "DSA-416",
     "Description": "fsp - buffer overflow, directory traversal"
   },
   "Annotations": [
     {
       "Original": "{CVE-2003-1022 CVE-2004-0011}",
-      "Line": 17501,
+      "Line": 17505,
       "Type": "xref",
       "Bugs": [
         "CVE-2003-1022",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[woody] - fsp 2.81.b3-3.1woody1",
-      "Line": 17502,
+      "Line": 17506,
       "Type": "package",
       "Release": "woody",
       "Package": "fsp",

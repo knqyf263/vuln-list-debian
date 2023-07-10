@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[21 Feb 2004] DSA-446 synaesthesia - insecure file creation",
-    "Line": 17401,
+    "Line": 17405,
     "ID": "DSA-446",
     "Description": "synaesthesia - insecure file creation"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-0160}",
-      "Line": 17402,
+      "Line": 17406,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-0160"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - synaesthesia 2.1-2.1woody1",
-      "Line": 17403,
+      "Line": 17407,
       "Type": "package",
       "Release": "woody",
       "Package": "synaesthesia",

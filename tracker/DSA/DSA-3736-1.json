@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[16 Dec 2016] DSA-3736-1 libupnp - security update",
-    "Line": 5751,
+    "Line": 5755,
     "ID": "DSA-3736-1",
     "Description": "libupnp - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-6255 CVE-2016-8863}",
-      "Line": 5752,
+      "Line": 5756,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-6255",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[jessie] - libupnp 1:1.6.19+git20141001-1+deb8u1",
-      "Line": 5753,
+      "Line": 5757,
       "Type": "package",
       "Release": "jessie",
       "Package": "libupnp",

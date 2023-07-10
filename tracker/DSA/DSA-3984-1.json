@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[26 Sep 2017] DSA-3984-1 git - security update",
-    "Line": 4911,
+    "Line": 4915,
     "ID": "DSA-3984-1",
     "Description": "git - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-14867}",
-      "Line": 4912,
+      "Line": 4916,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-14867"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - git 1:2.1.4-2.1+deb8u5",
-      "Line": 4913,
+      "Line": 4917,
       "Type": "package",
       "Release": "jessie",
       "Package": "git",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[stretch] - git 1:2.11.0-3+deb9u2",
-      "Line": 4914,
+      "Line": 4918,
       "Type": "package",
       "Release": "stretch",
       "Package": "git",

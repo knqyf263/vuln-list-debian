@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[18 Feb 2004] DSA-439 linux-kernel-2.4.16-arm - several vulnerabilities",
-    "Line": 17424,
+    "Line": 17428,
     "ID": "DSA-439",
     "Description": "linux-kernel-2.4.16-arm - several vulnerabilities"
   },
   "Annotations": [
     {
       "Original": "{CVE-2003-0961 CVE-2003-0985 CVE-2004-0077}",
-      "Line": 17425,
+      "Line": 17429,
       "Type": "xref",
       "Bugs": [
         "CVE-2003-0961",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[woody] - kernel-image-2.4.16-lart 2.4.16-20040204",
-      "Line": 17426,
+      "Line": 17430,
       "Type": "package",
       "Release": "woody",
       "Package": "kernel-image-2.4.16-lart",
@@ -27,7 +27,7 @@
     },
     {
       "Original": "[woody] - kernel-image-2.4.16-netwinder 2.4.16-20040204",
-      "Line": 17427,
+      "Line": 17431,
       "Type": "package",
       "Release": "woody",
       "Package": "kernel-image-2.4.16-netwinder",
@@ -36,7 +36,7 @@
     },
     {
       "Original": "[woody] - kernel-image-2.4.16-riscpc 2.4.16-20040204",
-      "Line": 17428,
+      "Line": 17432,
       "Type": "package",
       "Release": "woody",
       "Package": "kernel-image-2.4.16-riscpc",
@@ -45,7 +45,7 @@
     },
     {
       "Original": "[woody] - kernel-patch-2.4.16-arm 20040204",
-      "Line": 17429,
+      "Line": 17433,
       "Type": "package",
       "Release": "woody",
       "Package": "kernel-patch-2.4.16-arm",

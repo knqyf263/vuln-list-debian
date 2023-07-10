@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[15 Jan 2019] DSA-4367-2 systemd - regression update",
-    "Line": 3594,
+    "Line": 3598,
     "ID": "DSA-4367-2",
     "Description": "systemd - regression update"
   },
   "Annotations": [
     {
       "Original": "[stretch] - systemd 232-25+deb9u8",
-      "Line": 3595,
+      "Line": 3599,
       "Type": "package",
       "Release": "stretch",
       "Package": "systemd",

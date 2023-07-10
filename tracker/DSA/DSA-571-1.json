@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[20 Oct 2004] DSA-571-1 libpng3 - buffer overflows, integer overflow",
-    "Line": 16982,
+    "Line": 16986,
     "ID": "DSA-571-1",
     "Description": "libpng3 - buffer overflows, integer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-0599}",
-      "Line": 16983,
+      "Line": 16987,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-0599"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - libpng3 1.2.1-1.1.woody.9",
-      "Line": 16984,
+      "Line": 16988,
       "Type": "package",
       "Release": "woody",
       "Package": "libpng3",

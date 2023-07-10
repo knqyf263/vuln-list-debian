@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[26 Dec 2020] DSA-4819-1 kitty - security update",
-    "Line": 2069,
+    "Line": 2073,
     "ID": "DSA-4819-1",
     "Description": "kitty - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-35605}",
-      "Line": 2070,
+      "Line": 2074,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-35605"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[buster] - kitty 0.13.3-1+deb10u1",
-      "Line": 2071,
+      "Line": 2075,
       "Type": "package",
       "Release": "buster",
       "Package": "kitty",

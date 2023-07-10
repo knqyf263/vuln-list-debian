@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[15 Jul 2009] DSA-1835-1 tiff - several vulnerabilities",
-    "Line": 12241,
+    "Line": 12245,
     "ID": "DSA-1835-1",
     "Description": "tiff - several vulnerabilities"
   },
   "Annotations": [
     {
       "Original": "{CVE-2009-2285 CVE-2009-2347}",
-      "Line": 12242,
+      "Line": 12246,
       "Type": "xref",
       "Bugs": [
         "CVE-2009-2285",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[etch] - tiff 3.8.2-7+etch3",
-      "Line": 12243,
+      "Line": 12247,
       "Type": "package",
       "Release": "etch",
       "Package": "tiff",
@@ -26,7 +26,7 @@
     },
     {
       "Original": "[lenny] - tiff 3.8.2-11.2",
-      "Line": 12244,
+      "Line": 12248,
       "Type": "package",
       "Release": "lenny",
       "Package": "tiff",
