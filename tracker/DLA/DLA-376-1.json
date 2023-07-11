@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[30 Dec 2015] DLA-376-1 mono - security update",
-    "Line": 9495,
+    "Line": 9501,
     "ID": "DLA-376-1",
     "Description": "mono - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2009-0689}",
-      "Line": 9496,
+      "Line": 9502,
       "Type": "xref",
       "Bugs": [
         "CVE-2009-0689"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - mono 2.6.7-5.1+deb6u2",
-      "Line": 9497,
+      "Line": 9503,
       "Type": "package",
       "Release": "squeeze",
       "Package": "mono",

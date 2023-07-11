@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[28 Dec 2021] DLA-2859-1 zziplib - security update",
-    "Line": 1904,
+    "Line": 1910,
     "ID": "DLA-2859-1",
     "Description": "zziplib - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-18442}",
-      "Line": 1905,
+      "Line": 1911,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-18442"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - zziplib 0.13.62-3.2~deb9u2",
-      "Line": 1906,
+      "Line": 1912,
       "Type": "package",
       "Release": "stretch",
       "Package": "zziplib",

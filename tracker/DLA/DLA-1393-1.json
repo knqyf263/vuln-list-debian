@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[01 Jun 2018] DLA-1393-1 wheezy-lts - end-of-life",
-    "Line": 6412,
+    "Line": 6418,
     "ID": "DLA-1393-1",
     "Description": "wheezy-lts - end-of-life"
   },
   "Annotations": [
     {
       "Original": "NOTE: end of security support for wheezy-lts",
-      "Line": 6413,
+      "Line": 6419,
       "Type": "NOTE",
       "Description": "end of security support for wheezy-lts"
     }

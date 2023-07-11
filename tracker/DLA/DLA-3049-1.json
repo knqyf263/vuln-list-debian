@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[09 Jun 2022] DLA-3049-1 mailman - security update",
-    "Line": 1329,
+    "Line": 1335,
     "ID": "DLA-3049-1",
     "Description": "mailman - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-43331 CVE-2021-43332 CVE-2021-44227}",
-      "Line": 1330,
+      "Line": 1336,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-43331",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[stretch] - mailman 1:2.1.23-1+deb9u8",
-      "Line": 1331,
+      "Line": 1337,
       "Type": "package",
       "Release": "stretch",
       "Package": "mailman",

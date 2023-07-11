@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[22 Oct 2016] DLA-673-1 kdepimlibs - security update",
-    "Line": 8597,
+    "Line": 8603,
     "ID": "DLA-673-1",
     "Description": "kdepimlibs - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-7966}",
-      "Line": 8598,
+      "Line": 8604,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-7966"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - kdepimlibs 4:4.8.4-2+deb7u1",
-      "Line": 8599,
+      "Line": 8605,
       "Type": "package",
       "Release": "wheezy",
       "Package": "kdepimlibs",

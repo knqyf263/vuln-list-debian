@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[07 Oct 2020] DLA-2399-1 packagekit - security update",
-    "Line": 3307,
+    "Line": 3313,
     "ID": "DLA-2399-1",
     "Description": "packagekit - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-16121 CVE-2020-16122}",
-      "Line": 3308,
+      "Line": 3314,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-16121",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[stretch] - packagekit 1.1.5-2+deb9u2",
-      "Line": 3309,
+      "Line": 3315,
       "Type": "package",
       "Release": "stretch",
       "Package": "packagekit",
