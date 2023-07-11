@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[29 Nov 2015] DLA-354-1 nss - security update",
-    "Line": 9551,
+    "Line": 9557,
     "ID": "DLA-354-1",
     "Description": "nss - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-7181 CVE-2015-7182}",
-      "Line": 9552,
+      "Line": 9558,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-7181",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[squeeze] - nss 3.12.8-1+squeeze13",
-      "Line": 9553,
+      "Line": 9559,
       "Type": "package",
       "Release": "squeeze",
       "Package": "nss",

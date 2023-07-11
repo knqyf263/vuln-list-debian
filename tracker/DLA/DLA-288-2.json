@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[29 Sep 2015] DLA-288-2 openssh - regression update",
-    "Line": 9658,
+    "Line": 9664,
     "ID": "DLA-288-2",
     "Description": "openssh - regression update"
   },
   "Annotations": [
     {
       "Original": "[squeeze] - openssh 1:5.5p1-6+squeeze7",
-      "Line": 9659,
+      "Line": 9665,
       "Type": "package",
       "Release": "squeeze",
       "Package": "openssh",

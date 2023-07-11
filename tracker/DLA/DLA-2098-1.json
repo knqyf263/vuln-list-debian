@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[09 Feb 2020] DLA-2098-1 ipmitool - security update",
-    "Line": 4225,
+    "Line": 4231,
     "ID": "DLA-2098-1",
     "Description": "ipmitool - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-5208}",
-      "Line": 4226,
+      "Line": 4232,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-5208"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - ipmitool 1.8.14-4+deb8u1",
-      "Line": 4227,
+      "Line": 4233,
       "Type": "package",
       "Release": "jessie",
       "Package": "ipmitool",

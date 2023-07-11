@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[22 Jul 2015] DLA-279-1 python-tornado - security update",
-    "Line": 9778,
+    "Line": 9784,
     "ID": "DLA-279-1",
     "Description": "python-tornado - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2014-9720}",
-      "Line": 9779,
+      "Line": 9785,
       "Type": "xref",
       "Bugs": [
         "CVE-2014-9720"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - python-tornado 1.0.1-1+deb6u1",
-      "Line": 9780,
+      "Line": 9786,
       "Type": "package",
       "Release": "squeeze",
       "Package": "python-tornado",

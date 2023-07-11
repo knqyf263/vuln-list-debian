@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[21 Oct 2020] DLA-2410-1 bluez - security update",
-    "Line": 3265,
+    "Line": 3271,
     "ID": "DLA-2410-1",
     "Description": "bluez - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-27153}",
-      "Line": 3266,
+      "Line": 3272,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-27153"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - bluez 5.43-2+deb9u3",
-      "Line": 3267,
+      "Line": 3273,
       "Type": "package",
       "Release": "stretch",
       "Package": "bluez",

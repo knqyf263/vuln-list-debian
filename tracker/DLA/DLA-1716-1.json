@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[18 Mar 2019] DLA-1716-1 ikiwiki - security update",
-    "Line": 5421,
+    "Line": 5427,
     "ID": "DLA-1716-1",
     "Description": "ikiwiki - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-9187}",
-      "Line": 5422,
+      "Line": 5428,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-9187"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - ikiwiki 3.20141016.4+deb8u1",
-      "Line": 5423,
+      "Line": 5429,
       "Type": "package",
       "Release": "jessie",
       "Package": "ikiwiki",

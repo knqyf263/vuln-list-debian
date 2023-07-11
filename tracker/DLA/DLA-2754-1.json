@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[04 Sep 2021] DLA-2754-1 pywps - security update",
-    "Line": 2217,
+    "Line": 2223,
     "ID": "DLA-2754-1",
     "Description": "pywps - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-39371}",
-      "Line": 2218,
+      "Line": 2224,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-39371"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - pywps 4.0.0-3+deb9u1",
-      "Line": 2219,
+      "Line": 2225,
       "Type": "package",
       "Release": "stretch",
       "Package": "pywps",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[02 Dec 2016] DLA-732-1 monit - security update",
-    "Line": 8417,
+    "Line": 8423,
     "ID": "DLA-732-1",
     "Description": "monit - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-7067}",
-      "Line": 8418,
+      "Line": 8424,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-7067"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - monit 1:5.4-2+deb7u1",
-      "Line": 8419,
+      "Line": 8425,
       "Type": "package",
       "Release": "wheezy",
       "Package": "monit",
