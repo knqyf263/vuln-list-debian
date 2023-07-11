@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[07 Jan 2021] DLA-2520-1 golang-websocket - security update",
-    "Line": 2933,
+    "Line": 2936,
     "ID": "DLA-2520-1",
     "Description": "golang-websocket - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-27813}",
-      "Line": 2934,
+      "Line": 2937,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-27813"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - golang-websocket 1.1.0-1+deb9u1",
-      "Line": 2935,
+      "Line": 2938,
       "Type": "package",
       "Release": "stretch",
       "Package": "golang-websocket",

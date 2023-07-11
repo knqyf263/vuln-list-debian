@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[01 Mar 2017] DLA-844-1 libquicktime - security update",
-    "Line": 8058,
+    "Line": 8061,
     "ID": "DLA-844-1",
     "Description": "libquicktime - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-2399}",
-      "Line": 8059,
+      "Line": 8062,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-2399"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - libquicktime 2:1.2.4-3+deb7u1",
-      "Line": 8060,
+      "Line": 8063,
       "Type": "package",
       "Release": "wheezy",
       "Package": "libquicktime",

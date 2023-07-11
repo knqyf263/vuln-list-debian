@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[18 Jun 2023] DLA-3456-1 requests - security update",
-    "Line": 98,
+    "Line": 101,
     "ID": "DLA-3456-1",
     "Description": "requests - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2023-32681}",
-      "Line": 99,
+      "Line": 102,
       "Type": "xref",
       "Bugs": [
         "CVE-2023-32681"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[buster] - requests 2.21.0-1+deb10u1",
-      "Line": 100,
+      "Line": 103,
       "Type": "package",
       "Release": "buster",
       "Package": "requests",

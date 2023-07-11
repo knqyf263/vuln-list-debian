@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[16 Jan 2015] DLA-135-1 ia32-libs - security update",
-    "Line": 10229,
+    "Line": 10232,
     "ID": "DLA-135-1",
     "Description": "ia32-libs - security update"
   },
   "Annotations": [
     {
       "Original": "[squeeze] - ia32-libs 20150116",
-      "Line": 10230,
+      "Line": 10233,
       "Type": "package",
       "Release": "squeeze",
       "Package": "ia32-libs",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[squeeze] - ia32-libs-gtk 20150116",
-      "Line": 10231,
+      "Line": 10234,
       "Type": "package",
       "Release": "squeeze",
       "Package": "ia32-libs-gtk",
