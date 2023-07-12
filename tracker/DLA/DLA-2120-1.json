@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[26 Feb 2020] DLA-2120-1 rake - security update",
-    "Line": 4178,
+    "Line": 4181,
     "ID": "DLA-2120-1",
     "Description": "rake - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-8130}",
-      "Line": 4179,
+      "Line": 4182,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-8130"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - rake 10.3.2-2+deb8u1",
-      "Line": 4180,
+      "Line": 4183,
       "Type": "package",
       "Release": "jessie",
       "Package": "rake",

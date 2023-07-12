@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[18 Aug 2022] DLA-3076-1 freecad - security update",
-    "Line": 1259,
+    "Line": 1262,
     "ID": "DLA-3076-1",
     "Description": "freecad - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-45844}",
-      "Line": 1260,
+      "Line": 1263,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-45844"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[buster] - freecad 0.18~pre1+dfsg1-5+deb10u1",
-      "Line": 1261,
+      "Line": 1264,
       "Type": "package",
       "Release": "buster",
       "Package": "freecad",

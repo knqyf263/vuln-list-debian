@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[31 Dec 2015] DLA-377-1 ia32-libs - security update",
-    "Line": 9500,
+    "Line": 9503,
     "ID": "DLA-377-1",
     "Description": "ia32-libs - security update"
   },
   "Annotations": [
     {
       "Original": "[squeeze] - ia32-libs 20151231",
-      "Line": 9501,
+      "Line": 9504,
       "Type": "package",
       "Release": "squeeze",
       "Package": "ia32-libs",

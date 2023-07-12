@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[09 Jul 2014] DLA-0014-1 phpmyadmin - security update",
-    "Line": 10602,
+    "Line": 10605,
     "ID": "DLA-0014-1",
     "Description": "phpmyadmin - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2013-3239 CVE-2013-4995 CVE-2013-4996 CVE-2013-5003}",
-      "Line": 10603,
+      "Line": 10606,
       "Type": "xref",
       "Bugs": [
         "CVE-2013-3239",
@@ -19,7 +19,7 @@
     },
     {
       "Original": "[squeeze] - phpmyadmin 4:3.3.7-8",
-      "Line": 10604,
+      "Line": 10607,
       "Type": "package",
       "Release": "squeeze",
       "Package": "phpmyadmin",

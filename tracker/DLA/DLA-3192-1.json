@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[17 Nov 2022] DLA-3192-1 lava - security update",
-    "Line": 917,
+    "Line": 920,
     "ID": "DLA-3192-1",
     "Description": "lava - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2022-42902}",
-      "Line": 918,
+      "Line": 921,
       "Type": "xref",
       "Bugs": [
         "CVE-2022-42902"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[buster] - lava 2019.01-5+deb10u1",
-      "Line": 919,
+      "Line": 922,
       "Type": "package",
       "Release": "buster",
       "Package": "lava",

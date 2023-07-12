@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[03 Jun 2022] DLA-3039-1 pypdf2 - security update",
-    "Line": 1368,
+    "Line": 1371,
     "ID": "DLA-3039-1",
     "Description": "pypdf2 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2022-24859}",
-      "Line": 1369,
+      "Line": 1372,
       "Type": "xref",
       "Bugs": [
         "CVE-2022-24859"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - pypdf2 1.26.0-2+deb9u1",
-      "Line": 1370,
+      "Line": 1373,
       "Type": "package",
       "Release": "stretch",
       "Package": "pypdf2",

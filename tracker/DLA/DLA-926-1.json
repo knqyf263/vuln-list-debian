@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[29 Apr 2017] DLA-926-1 batik - security update",
-    "Line": 7827,
+    "Line": 7830,
     "ID": "DLA-926-1",
     "Description": "batik - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-5662}",
-      "Line": 7828,
+      "Line": 7831,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-5662"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - batik 1.7+dfsg-3+deb7u2",
-      "Line": 7829,
+      "Line": 7832,
       "Type": "package",
       "Release": "wheezy",
       "Package": "batik",
