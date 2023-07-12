@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[16 Aug 2021] DLA-2744-1 usermode - security update",
-    "Line": 2266,
+    "Line": 2269,
     "ID": "DLA-2744-1",
     "Description": "usermode - security update"
   },
   "Annotations": [
     {
       "Original": "[stretch] - usermode 1.109-1+deb9u1",
-      "Line": 2267,
+      "Line": 2270,
       "Type": "package",
       "Release": "stretch",
       "Package": "usermode",

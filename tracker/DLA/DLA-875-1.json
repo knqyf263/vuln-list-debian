@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[28 Mar 2017] DLA-875-1 php5 - security update",
-    "Line": 7973,
+    "Line": 7976,
     "ID": "DLA-875-1",
     "Description": "php5 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-7478 CVE-2016-7479 CVE-2017-7272}",
-      "Line": 7974,
+      "Line": 7977,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-7478",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[wheezy] - php5 5.4.45-0+deb7u8",
-      "Line": 7975,
+      "Line": 7978,
       "Type": "package",
       "Release": "wheezy",
       "Package": "php5",

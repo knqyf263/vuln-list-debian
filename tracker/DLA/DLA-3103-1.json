@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[12 Sep 2022] DLA-3103-1 zlib - security update",
-    "Line": 1175,
+    "Line": 1178,
     "ID": "DLA-3103-1",
     "Description": "zlib - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2022-37434}",
-      "Line": 1176,
+      "Line": 1179,
       "Type": "xref",
       "Bugs": [
         "CVE-2022-37434"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[buster] - zlib 1:1.2.11.dfsg-1+deb10u2",
-      "Line": 1177,
+      "Line": 1180,
       "Type": "package",
       "Release": "buster",
       "Package": "zlib",

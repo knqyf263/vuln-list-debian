@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[17 Sep 2014] DLA-57-1 libstruts1.2-java - security update",
-    "Line": 10469,
+    "Line": 10472,
     "ID": "DLA-57-1",
     "Description": "libstruts1.2-java - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2014-0114}",
-      "Line": 10470,
+      "Line": 10473,
       "Type": "xref",
       "Bugs": [
         "CVE-2014-0114"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - libstruts1.2-java 1.2.9-4+deb6u1",
-      "Line": 10471,
+      "Line": 10474,
       "Type": "package",
       "Release": "squeeze",
       "Package": "libstruts1.2-java",

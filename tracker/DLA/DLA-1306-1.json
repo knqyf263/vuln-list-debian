@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[11 Mar 2018] DLA-1306-1 vips - security update",
-    "Line": 6674,
+    "Line": 6677,
     "ID": "DLA-1306-1",
     "Description": "vips - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-7998}",
-      "Line": 6675,
+      "Line": 6678,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-7998"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - vips 7.28.5-1+deb7u2",
-      "Line": 6676,
+      "Line": 6679,
       "Type": "package",
       "Release": "wheezy",
       "Package": "vips",

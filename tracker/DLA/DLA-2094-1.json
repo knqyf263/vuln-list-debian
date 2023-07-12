@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[01 Feb 2020] DLA-2094-1 sudo - security update",
-    "Line": 4252,
+    "Line": 4255,
     "ID": "DLA-2094-1",
     "Description": "sudo - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-18634}",
-      "Line": 4253,
+      "Line": 4256,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-18634"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - sudo 1.8.10p3-1+deb8u7",
-      "Line": 4254,
+      "Line": 4257,
       "Type": "package",
       "Release": "jessie",
       "Package": "sudo",
