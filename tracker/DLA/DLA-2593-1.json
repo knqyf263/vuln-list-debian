@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[14 Mar 2021] DLA-2593-1 ca-certificates - whitelist Symantec CA",
-    "Line": 2730,
+    "Line": 2733,
     "ID": "DLA-2593-1",
     "Description": "ca-certificates - whitelist Symantec CA"
   },
   "Annotations": [
     {
       "Original": "[stretch] - ca-certificates 20200601~deb9u2",
-      "Line": 2731,
+      "Line": 2734,
       "Type": "package",
       "Release": "stretch",
       "Package": "ca-certificates",

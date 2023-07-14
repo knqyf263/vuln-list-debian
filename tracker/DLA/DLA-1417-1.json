@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[07 Jul 2018] DLA-1417-1 ca-certificates - security update",
-    "Line": 6351,
+    "Line": 6354,
     "ID": "DLA-1417-1",
     "Description": "ca-certificates - security update"
   },
   "Annotations": [
     {
       "Original": "[jessie] - ca-certificates 20141019+deb8u4",
-      "Line": 6352,
+      "Line": 6355,
       "Type": "package",
       "Release": "jessie",
       "Package": "ca-certificates",

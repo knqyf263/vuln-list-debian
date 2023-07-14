@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[30 Mar 2018] DLA-1330-1 openssl - security update",
-    "Line": 6610,
+    "Line": 6613,
     "ID": "DLA-1330-1",
     "Description": "openssl - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-0739}",
-      "Line": 6611,
+      "Line": 6614,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-0739"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - openssl 1.0.1t-1+deb7u4",
-      "Line": 6612,
+      "Line": 6615,
       "Type": "package",
       "Release": "wheezy",
       "Package": "openssl",

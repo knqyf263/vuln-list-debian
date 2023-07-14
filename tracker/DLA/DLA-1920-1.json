@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[13 Sep 2019] DLA-1920-1 golang-go.crypto - security update",
-    "Line": 4801,
+    "Line": 4804,
     "ID": "DLA-1920-1",
     "Description": "golang-go.crypto - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-11841}",
-      "Line": 4802,
+      "Line": 4805,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-11841"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - golang-go.crypto 0.0~hg190-1+deb8u2",
-      "Line": 4803,
+      "Line": 4806,
       "Type": "package",
       "Release": "jessie",
       "Package": "golang-go.crypto",
