@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[18 May 2022] DLA-3014-1 elog - security update",
-    "Line": 1448,
+    "Line": 1451,
     "ID": "DLA-3014-1",
     "Description": "elog - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-8859}",
-      "Line": 1449,
+      "Line": 1452,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-8859"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - elog 3.1.2-1-1+deb9u1",
-      "Line": 1450,
+      "Line": 1453,
       "Type": "package",
       "Release": "stretch",
       "Package": "elog",

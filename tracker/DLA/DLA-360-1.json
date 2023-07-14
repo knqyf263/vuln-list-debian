@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[06 Dec 2015] DLA-360-1 linux-2.6 - security update",
-    "Line": 9557,
+    "Line": 9560,
     "ID": "DLA-360-1",
     "Description": "linux-2.6 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2013-7446 CVE-2015-7799 CVE-2015-7833 CVE-2015-7990 CVE-2015-8324}",
-      "Line": 9558,
+      "Line": 9561,
       "Type": "xref",
       "Bugs": [
         "CVE-2013-7446",
@@ -20,7 +20,7 @@
     },
     {
       "Original": "[squeeze] - linux-2.6 2.6.32-48squeeze17",
-      "Line": 9559,
+      "Line": 9562,
       "Type": "package",
       "Release": "squeeze",
       "Package": "linux-2.6",

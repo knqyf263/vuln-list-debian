@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[08 Sep 2018] DLA-1498-1 curl - security update",
-    "Line": 6103,
+    "Line": 6106,
     "ID": "DLA-1498-1",
     "Description": "curl - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-14618}",
-      "Line": 6104,
+      "Line": 6107,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-14618"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - curl 7.38.0-4+deb8u12",
-      "Line": 6105,
+      "Line": 6108,
       "Type": "package",
       "Release": "jessie",
       "Package": "curl",

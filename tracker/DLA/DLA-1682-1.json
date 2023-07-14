@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[18 Feb 2019] DLA-1682-1 uriparser - security update",
-    "Line": 5548,
+    "Line": 5551,
     "ID": "DLA-1682-1",
     "Description": "uriparser - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-20721}",
-      "Line": 5549,
+      "Line": 5552,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-20721"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - uriparser 0.8.0.1-2+deb8u2",
-      "Line": 5550,
+      "Line": 5553,
       "Type": "package",
       "Release": "jessie",
       "Package": "uriparser",

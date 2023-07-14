@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[08 Dec 2016] DLA-737-1 roundcube - security update",
-    "Line": 8424,
+    "Line": 8427,
     "ID": "DLA-737-1",
     "Description": "roundcube - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-9920}",
-      "Line": 8425,
+      "Line": 8428,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-9920"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - roundcube 0.7.2-9+deb7u5",
-      "Line": 8426,
+      "Line": 8429,
       "Type": "package",
       "Release": "wheezy",
       "Package": "roundcube",

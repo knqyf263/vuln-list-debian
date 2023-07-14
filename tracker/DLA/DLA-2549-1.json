@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[08 Feb 2021] DLA-2549-1 gdisk - security update",
-    "Line": 2865,
+    "Line": 2868,
     "ID": "DLA-2549-1",
     "Description": "gdisk - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-0256 CVE-2021-0308}",
-      "Line": 2866,
+      "Line": 2869,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-0256",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[stretch] - gdisk 1.0.1-1+deb9u1",
-      "Line": 2867,
+      "Line": 2870,
       "Type": "package",
       "Release": "stretch",
       "Package": "gdisk",

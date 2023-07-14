@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[29 Jun 2023] DLA-3474-1 systemd - security update",
-    "Line": 62,
+    "Line": 65,
     "ID": "DLA-3474-1",
     "Description": "systemd - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2022-3821}",
-      "Line": 63,
+      "Line": 66,
       "Type": "xref",
       "Bugs": [
         "CVE-2022-3821"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[buster] - systemd 241-7~deb10u10",
-      "Line": 64,
+      "Line": 67,
       "Type": "package",
       "Release": "buster",
       "Package": "systemd",

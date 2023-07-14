@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[18 Feb 2019] DLA-1680-1 tiff - security update",
-    "Line": 5554,
+    "Line": 5557,
     "ID": "DLA-1680-1",
     "Description": "tiff - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-17000 CVE-2018-19210 CVE-2019-7663}",
-      "Line": 5555,
+      "Line": 5558,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-17000",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[jessie] - tiff 4.0.3-12.3+deb8u8",
-      "Line": 5556,
+      "Line": 5559,
       "Type": "package",
       "Release": "jessie",
       "Package": "tiff",
