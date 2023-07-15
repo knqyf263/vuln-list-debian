@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[07 May 2020] DSA-4676-2 salt - security update",
-    "Line": 2514,
+    "Line": 2517,
     "ID": "DSA-4676-2",
     "Description": "salt - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-11651 CVE-2020-11652}",
-      "Line": 2515,
+      "Line": 2518,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-11651",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[stretch] - salt 2016.11.2+ds-1+deb9u4",
-      "Line": 2516,
+      "Line": 2519,
       "Type": "package",
       "Release": "stretch",
       "Package": "salt",

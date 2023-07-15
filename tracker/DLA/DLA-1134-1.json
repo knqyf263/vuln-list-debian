@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[16 Oct 2017] DLA-1134-1 sdl-image1.2 - security update",
-    "Line": 7205,
+    "Line": 7208,
     "ID": "DLA-1134-1",
     "Description": "sdl-image1.2 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-2887}",
-      "Line": 7206,
+      "Line": 7209,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-2887"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - sdl-image1.2 1.2.12-2+deb7u1",
-      "Line": 7207,
+      "Line": 7210,
       "Type": "package",
       "Release": "wheezy",
       "Package": "sdl-image1.2",

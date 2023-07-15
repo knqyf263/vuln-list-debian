@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[20 Oct 2005] DSA-867-1 module-assistant - insecure temporary file",
-    "Line": 15734,
+    "Line": 15737,
     "ID": "DSA-867-1",
     "Description": "module-assistant - insecure temporary file"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-3121}",
-      "Line": 15735,
+      "Line": 15738,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-3121"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[sarge] - module-assistant 0.9sarge1",
-      "Line": 15736,
+      "Line": 15739,
       "Type": "package",
       "Release": "sarge",
       "Package": "module-assistant",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "NOTE: fixed in testing at time of DSA",
-      "Line": 15737,
+      "Line": 15740,
       "Type": "NOTE",
       "Description": "fixed in testing at time of DSA"
     }

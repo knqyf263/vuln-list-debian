@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[31 Aug 2018] DLA-1488-1 mariadb-10.0 - security update",
-    "Line": 6136,
+    "Line": 6139,
     "ID": "DLA-1488-1",
     "Description": "mariadb-10.0 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-3058 CVE-2018-3063 CVE-2018-3064 CVE-2018-3066}",
-      "Line": 6137,
+      "Line": 6140,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-3058",
@@ -19,7 +19,7 @@
     },
     {
       "Original": "[jessie] - mariadb-10.0 10.0.36-0+deb8u1",
-      "Line": 6138,
+      "Line": 6141,
       "Type": "package",
       "Release": "jessie",
       "Package": "mariadb-10.0",

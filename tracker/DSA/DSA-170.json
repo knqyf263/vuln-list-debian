@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[04 Oct 2002] DSA-170 tomcat4 - source code disclosure",
-    "Line": 18264,
+    "Line": 18267,
     "ID": "DSA-170",
     "Description": "tomcat4 - source code disclosure"
   },
   "Annotations": [
     {
       "Original": "{CVE-2002-1148}",
-      "Line": 18265,
+      "Line": 18268,
       "Type": "xref",
       "Bugs": [
         "CVE-2002-1148"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - tomcat4 4.0.3-3woody1",
-      "Line": 18266,
+      "Line": 18269,
       "Type": "package",
       "Release": "woody",
       "Package": "tomcat4",

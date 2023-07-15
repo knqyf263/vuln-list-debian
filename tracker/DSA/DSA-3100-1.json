@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[13 Dec 2014] DSA-3100-1 mediawiki - security update",
-    "Line": 7934,
+    "Line": 7937,
     "ID": "DSA-3100-1",
     "Description": "mediawiki - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2014-9277}",
-      "Line": 7935,
+      "Line": 7938,
       "Type": "xref",
       "Bugs": [
         "CVE-2014-9277"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - mediawiki 1:1.19.20+dfsg-0+deb7u2",
-      "Line": 7936,
+      "Line": 7939,
       "Type": "package",
       "Release": "wheezy",
       "Package": "mediawiki",

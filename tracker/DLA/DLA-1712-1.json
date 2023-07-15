@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[13 Mar 2019] DLA-1712-1 libsndfile - security update",
-    "Line": 5460,
+    "Line": 5463,
     "ID": "DLA-1712-1",
     "Description": "libsndfile - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-3832}",
-      "Line": 5461,
+      "Line": 5464,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-3832"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - libsndfile 1.0.25-9.1+deb8u4",
-      "Line": 5462,
+      "Line": 5465,
       "Type": "package",
       "Release": "jessie",
       "Package": "libsndfile",

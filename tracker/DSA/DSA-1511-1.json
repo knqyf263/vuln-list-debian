@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[03 Mar 2008] DSA-1511-1 icu - multiple problems",
-    "Line": 13338,
+    "Line": 13341,
     "ID": "DSA-1511-1",
     "Description": "icu - multiple problems"
   },
   "Annotations": [
     {
       "Original": "{CVE-2007-4770 CVE-2007-4771}",
-      "Line": 13339,
+      "Line": 13342,
       "Type": "xref",
       "Bugs": [
         "CVE-2007-4770",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[etch] - icu 3.6-2etch1",
-      "Line": 13340,
+      "Line": 13343,
       "Type": "package",
       "Release": "etch",
       "Package": "icu",

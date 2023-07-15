@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[21 Dec 2020] DLA-2503-1 node-ini - security update",
-    "Line": 3007,
+    "Line": 3010,
     "ID": "DLA-2503-1",
     "Description": "node-ini - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-7788}",
-      "Line": 3008,
+      "Line": 3011,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-7788"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - node-ini 1.1.0-1+deb9u1",
-      "Line": 3009,
+      "Line": 3012,
       "Type": "package",
       "Release": "stretch",
       "Package": "node-ini",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[04 Apr 2003] DSA-278 sendmail - char-to-int conversion",
-    "Line": 17934,
+    "Line": 17937,
     "ID": "DSA-278",
     "Description": "sendmail - char-to-int conversion"
   },
   "Annotations": [
     {
       "Original": "{CVE-2003-0161}",
-      "Line": 17935,
+      "Line": 17938,
       "Type": "xref",
       "Bugs": [
         "CVE-2003-0161"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - sendmail 8.12.3-6.3",
-      "Line": 17936,
+      "Line": 17939,
       "Type": "package",
       "Release": "woody",
       "Package": "sendmail",

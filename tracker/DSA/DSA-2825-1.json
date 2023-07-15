@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[20 Dec 2013] DSA-2825-1 wireshark - several",
-    "Line": 8831,
+    "Line": 8834,
     "ID": "DSA-2825-1",
     "Description": "wireshark - several"
   },
   "Annotations": [
     {
       "Original": "{CVE-2013-7113 CVE-2013-7114}",
-      "Line": 8832,
+      "Line": 8835,
       "Type": "xref",
       "Bugs": [
         "CVE-2013-7113",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[wheezy] - wireshark 1.8.2-5wheezy9",
-      "Line": 8833,
+      "Line": 8836,
       "Type": "package",
       "Release": "wheezy",
       "Package": "wireshark",

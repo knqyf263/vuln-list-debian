@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[29 Sep 2005] DSA-825-1 loop-aes-utils - privilege escalation",
-    "Line": 15927,
+    "Line": 15930,
     "ID": "DSA-825-1",
     "Description": "loop-aes-utils - privilege escalation"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-2876}",
-      "Line": 15928,
+      "Line": 15931,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-2876"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[sarge] - loop-aes-utils 2.12p-4sarge1 (medium)",
-      "Line": 15929,
+      "Line": 15932,
       "Type": "package",
       "Release": "sarge",
       "Package": "loop-aes-utils",
@@ -26,7 +26,7 @@
     },
     {
       "Original": "NOTE: fixed in testing at the time of the DSA",
-      "Line": 15930,
+      "Line": 15933,
       "Type": "NOTE",
       "Description": "fixed in testing at the time of the DSA"
     }

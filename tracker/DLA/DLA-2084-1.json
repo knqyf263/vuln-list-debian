@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[29 Jan 2020] DLA-2084-1 graphicsmagick - security update",
-    "Line": 4294,
+    "Line": 4297,
     "ID": "DLA-2084-1",
     "Description": "graphicsmagick - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-19950 CVE-2019-19951 CVE-2019-19953}",
-      "Line": 4295,
+      "Line": 4298,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-19950",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[jessie] - graphicsmagick 1.3.20-3+deb8u8",
-      "Line": 4296,
+      "Line": 4299,
       "Type": "package",
       "Release": "jessie",
       "Package": "graphicsmagick",

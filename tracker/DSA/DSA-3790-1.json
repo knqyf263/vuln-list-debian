@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[16 Feb 2017] DSA-3790-1 spice - security update",
-    "Line": 5587,
+    "Line": 5590,
     "ID": "DSA-3790-1",
     "Description": "spice - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-9577 CVE-2016-9578}",
-      "Line": 5588,
+      "Line": 5591,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-9577",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[jessie] - spice 0.12.5-1+deb8u4",
-      "Line": 5589,
+      "Line": 5592,
       "Type": "package",
       "Release": "jessie",
       "Package": "spice",
