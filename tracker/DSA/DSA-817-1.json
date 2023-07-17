@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[22 Sep 2005] DSA-817-1 python2.2 - integer overflow",
-    "Line": 15978,
+    "Line": 15981,
     "ID": "DSA-817-1",
     "Description": "python2.2 - integer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-2491}",
-      "Line": 15979,
+      "Line": 15982,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-2491"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - python2.2 2.2.1-4.8 (bug #324531; medium)",
-      "Line": 15980,
+      "Line": 15983,
       "Type": "package",
       "Release": "woody",
       "Package": "python2.2",
@@ -27,7 +27,7 @@
     },
     {
       "Original": "[sarge] - python2.2 2.2.3dfsg-2sarge1 (bug #324531; medium)",
-      "Line": 15981,
+      "Line": 15984,
       "Type": "package",
       "Release": "sarge",
       "Package": "python2.2",
@@ -38,7 +38,7 @@
     },
     {
       "Original": "NOTE: not fixed in testing at time of DSA (waiting on gmp)",
-      "Line": 15982,
+      "Line": 15985,
       "Type": "NOTE",
       "Description": "not fixed in testing at time of DSA (waiting on gmp)"
     }

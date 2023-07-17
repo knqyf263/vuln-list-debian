@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[11 Jul 2005] DSA-751-1 squid - IP spoofing",
-    "Line": 16292,
+    "Line": 16295,
     "ID": "DSA-751-1",
     "Description": "squid - IP spoofing"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-1519}",
-      "Line": 16293,
+      "Line": 16296,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-1519"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - squid 2.4.6-2woody9",
-      "Line": 16294,
+      "Line": 16297,
       "Type": "package",
       "Release": "woody",
       "Package": "squid",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "NOTE: fixed in testing at time of DSA",
-      "Line": 16295,
+      "Line": 16298,
       "Type": "NOTE",
       "Description": "fixed in testing at time of DSA"
     }

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[05 May 2015] DSA-3251-1 dnsmasq - security update",
-    "Line": 7464,
+    "Line": 7467,
     "ID": "DSA-3251-1",
     "Description": "dnsmasq - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-3294}",
-      "Line": 7465,
+      "Line": 7468,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-3294"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - dnsmasq 2.62-3+deb7u2",
-      "Line": 7466,
+      "Line": 7469,
       "Type": "package",
       "Release": "wheezy",
       "Package": "dnsmasq",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[jessie] - dnsmasq 2.72-3+deb8u1",
-      "Line": 7467,
+      "Line": 7470,
       "Type": "package",
       "Release": "jessie",
       "Package": "dnsmasq",

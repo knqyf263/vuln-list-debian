@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[27 Oct 2005] DSA-874-1 lynx - buffer overflow",
-    "Line": 15712,
+    "Line": 15715,
     "ID": "DSA-874-1",
     "Description": "lynx - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-3120}",
-      "Line": 15713,
+      "Line": 15716,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-3120"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - lynx 2.8.4.1b-3.3",
-      "Line": 15714,
+      "Line": 15717,
       "Type": "package",
       "Release": "woody",
       "Package": "lynx",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[sarge] - lynx 2.8.5-2sarge1",
-      "Line": 15715,
+      "Line": 15718,
       "Type": "package",
       "Release": "sarge",
       "Package": "lynx",
@@ -34,7 +34,7 @@
     },
     {
       "Original": "NOTE: not fixed in testing at time of DSA (unfixed in sid)",
-      "Line": 15716,
+      "Line": 15719,
       "Type": "NOTE",
       "Description": "not fixed in testing at time of DSA (unfixed in sid)"
     }

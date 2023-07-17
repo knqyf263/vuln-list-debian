@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[27 Nov 2006] DSA-1220 pstotext",
-    "Line": 14409,
+    "Line": 14412,
     "ID": "DSA-1220",
     "Description": "pstotext"
   },
   "Annotations": [
     {
       "Original": "{CVE-2006-5869}",
-      "Line": 14410,
+      "Line": 14413,
       "Type": "xref",
       "Bugs": [
         "CVE-2006-5869"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[sarge] - pstotext 1.9-1sarge2",
-      "Line": 14411,
+      "Line": 14414,
       "Type": "package",
       "Release": "sarge",
       "Package": "pstotext",

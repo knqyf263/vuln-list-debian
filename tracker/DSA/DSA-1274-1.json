@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[02 Apr 2007] DSA-1274-1 file - buffer overflow",
-    "Line": 14243,
+    "Line": 14246,
     "ID": "DSA-1274-1",
     "Description": "file - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2007-1536}",
-      "Line": 14244,
+      "Line": 14247,
       "Type": "xref",
       "Bugs": [
         "CVE-2007-1536"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[sarge] - file 4.12-1sarge1",
-      "Line": 14245,
+      "Line": 14248,
       "Type": "package",
       "Release": "sarge",
       "Package": "file",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[etch] - file 4.17-5etch1",
-      "Line": 14246,
+      "Line": 14249,
       "Type": "package",
       "Release": "etch",
       "Package": "file",
