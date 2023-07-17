@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[05 Nov 2004] DSA-585-1 shadow - programming error",
-    "Line": 16946,
+    "Line": 16952,
     "ID": "DSA-585-1",
     "Description": "shadow - programming error"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-1001}",
-      "Line": 16947,
+      "Line": 16953,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-1001"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - shadow 20000902-12woody1",
-      "Line": 16948,
+      "Line": 16954,
       "Type": "package",
       "Release": "woody",
       "Package": "shadow",

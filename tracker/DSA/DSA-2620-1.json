@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[12 Feb 2013] DSA-2620-1 rails - several",
-    "Line": 9549,
+    "Line": 9555,
     "ID": "DSA-2620-1",
     "Description": "rails - several"
   },
   "Annotations": [
     {
       "Original": "{CVE-2013-0276 CVE-2013-0277}",
-      "Line": 9550,
+      "Line": 9556,
       "Type": "xref",
       "Bugs": [
         "CVE-2013-0276",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[squeeze] - rails 2.3.5-1.2+squeeze7",
-      "Line": 9551,
+      "Line": 9557,
       "Type": "package",
       "Release": "squeeze",
       "Package": "rails",

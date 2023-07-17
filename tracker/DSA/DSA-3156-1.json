@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[07 Feb 2015] DSA-3156-1 liblivemedia - security update",
-    "Line": 7757,
+    "Line": 7763,
     "ID": "DSA-3156-1",
     "Description": "liblivemedia - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2013-6933}",
-      "Line": 7758,
+      "Line": 7764,
       "Type": "xref",
       "Bugs": [
         "CVE-2013-6933"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - liblivemedia 2012.05.17-1+wheezy1",
-      "Line": 7759,
+      "Line": 7765,
       "Type": "package",
       "Release": "wheezy",
       "Package": "liblivemedia",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[wheezy] - vlc 2.0.3-5+deb7u2",
-      "Line": 7760,
+      "Line": 7766,
       "Type": "package",
       "Release": "wheezy",
       "Package": "vlc",
@@ -34,7 +34,7 @@
     },
     {
       "Original": "[wheezy] - mplayer 2:1.0~rc4.dfsg1+svn34540-1+deb7u1",
-      "Line": 7761,
+      "Line": 7767,
       "Type": "package",
       "Release": "wheezy",
       "Package": "mplayer",

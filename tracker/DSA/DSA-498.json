@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[30 Apr 2004] DSA-498 libpng - out of bound access",
-    "Line": 17220,
+    "Line": 17226,
     "ID": "DSA-498",
     "Description": "libpng - out of bound access"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-0421}",
-      "Line": 17221,
+      "Line": 17227,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-0421"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - libpng 1.0.12-3.woody.5",
-      "Line": 17222,
+      "Line": 17228,
       "Type": "package",
       "Release": "woody",
       "Package": "libpng",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[woody] - libpng3 1.2.1-1.1.woody.5",
-      "Line": 17223,
+      "Line": 17229,
       "Type": "package",
       "Release": "woody",
       "Package": "libpng3",

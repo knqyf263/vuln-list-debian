@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[23 May 2015] DSA-3272-1 ipsec-tools - security update",
-    "Line": 7381,
+    "Line": 7387,
     "ID": "DSA-3272-1",
     "Description": "ipsec-tools - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-4047}",
-      "Line": 7382,
+      "Line": 7388,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-4047"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - ipsec-tools 1:0.8.0-14+deb7u1",
-      "Line": 7383,
+      "Line": 7389,
       "Type": "package",
       "Release": "wheezy",
       "Package": "ipsec-tools",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[jessie] - ipsec-tools 1:0.8.2+20140711-2+deb8u1",
-      "Line": 7384,
+      "Line": 7390,
       "Type": "package",
       "Release": "jessie",
       "Package": "ipsec-tools",

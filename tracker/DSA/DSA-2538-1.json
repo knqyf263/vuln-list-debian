@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[05 Sep 2012] DSA-2538-1 moin - privilege escalation",
-    "Line": 9799,
+    "Line": 9805,
     "ID": "DSA-2538-1",
     "Description": "moin - privilege escalation"
   },
   "Annotations": [
     {
       "Original": "{CVE-2012-4404}",
-      "Line": 9800,
+      "Line": 9806,
       "Type": "xref",
       "Bugs": [
         "CVE-2012-4404"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - moin 1.9.3-1+squeeze2",
-      "Line": 9801,
+      "Line": 9807,
       "Type": "package",
       "Release": "squeeze",
       "Package": "moin",

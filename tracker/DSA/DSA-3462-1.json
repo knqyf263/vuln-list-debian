@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[30 Jan 2016] DSA-3462-1 radicale - security update",
-    "Line": 6658,
+    "Line": 6664,
     "ID": "DSA-3462-1",
     "Description": "radicale - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-8747 CVE-2015-8748}",
-      "Line": 6659,
+      "Line": 6665,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-8747",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[wheezy] - radicale 0.7-1.1+deb7u1",
-      "Line": 6660,
+      "Line": 6666,
       "Type": "package",
       "Release": "wheezy",
       "Package": "radicale",
@@ -26,7 +26,7 @@
     },
     {
       "Original": "[jessie] - radicale 0.9-1+deb8u1",
-      "Line": 6661,
+      "Line": 6667,
       "Type": "package",
       "Release": "jessie",
       "Package": "radicale",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[29 Oct 2003] DSA-396 thttpd - missing input sanitizing, wrong calculation",
-    "Line": 17571,
+    "Line": 17577,
     "ID": "DSA-396",
     "Description": "thttpd - missing input sanitizing, wrong calculation"
   },
   "Annotations": [
     {
       "Original": "{CVE-2002-1562 CVE-2003-0899}",
-      "Line": 17572,
+      "Line": 17578,
       "Type": "xref",
       "Bugs": [
         "CVE-2002-1562",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[woody] - thttpd 2.21b-11.2",
-      "Line": 17573,
+      "Line": 17579,
       "Type": "package",
       "Release": "woody",
       "Package": "thttpd",
