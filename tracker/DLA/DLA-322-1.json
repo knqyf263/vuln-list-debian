@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[30 Sep 2015] DLA-322-1 commons-httpclient - security update",
-    "Line": 9675,
+    "Line": 9678,
     "ID": "DLA-322-1",
     "Description": "commons-httpclient - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-5262}",
-      "Line": 9676,
+      "Line": 9679,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-5262"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - commons-httpclient 3.1-9+deb6u2",
-      "Line": 9677,
+      "Line": 9680,
       "Type": "package",
       "Release": "squeeze",
       "Package": "commons-httpclient",

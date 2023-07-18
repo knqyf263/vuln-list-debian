@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[10 Dec 2020] DLA-2487-1 apt - security update",
-    "Line": 3063,
+    "Line": 3066,
     "ID": "DLA-2487-1",
     "Description": "apt - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-27350}",
-      "Line": 3064,
+      "Line": 3067,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-27350"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - apt 1.4.11",
-      "Line": 3065,
+      "Line": 3068,
       "Type": "package",
       "Release": "stretch",
       "Package": "apt",

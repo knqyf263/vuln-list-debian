@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[09 Jan 2020] DLA-2061-1 firefox-esr - security update",
-    "Line": 4366,
+    "Line": 4369,
     "ID": "DLA-2061-1",
     "Description": "firefox-esr - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-17016 CVE-2019-17017 CVE-2019-17022 CVE-2019-17024}",
-      "Line": 4367,
+      "Line": 4370,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-17016",
@@ -19,7 +19,7 @@
     },
     {
       "Original": "[jessie] - firefox-esr 68.4.0esr-1~deb8u1",
-      "Line": 4368,
+      "Line": 4371,
       "Type": "package",
       "Release": "jessie",
       "Package": "firefox-esr",

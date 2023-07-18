@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[09 Sep 2017] DLA-1093-1 tiff - security update",
-    "Line": 7330,
+    "Line": 7333,
     "ID": "DLA-1093-1",
     "Description": "tiff - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-11335 CVE-2017-12944 CVE-2017-13726 CVE-2017-13727}",
-      "Line": 7331,
+      "Line": 7334,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-11335",
@@ -19,7 +19,7 @@
     },
     {
       "Original": "[wheezy] - tiff 4.0.2-6+deb7u16",
-      "Line": 7332,
+      "Line": 7335,
       "Type": "package",
       "Release": "wheezy",
       "Package": "tiff",

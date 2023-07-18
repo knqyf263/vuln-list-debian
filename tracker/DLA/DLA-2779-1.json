@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[09 Oct 2021] DLA-2779-1 mediawiki - security update",
-    "Line": 2172,
+    "Line": 2175,
     "ID": "DLA-2779-1",
     "Description": "mediawiki - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-35197 CVE-2021-41798 CVE-2021-41799}",
-      "Line": 2173,
+      "Line": 2176,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-35197",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[stretch] - mediawiki 1:1.27.7-1~deb9u10",
-      "Line": 2174,
+      "Line": 2177,
       "Type": "package",
       "Release": "stretch",
       "Package": "mediawiki",
