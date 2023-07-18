@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[09 Oct 2002] DSA-173 bugzilla - privilege escalation",
-    "Line": 18266,
+    "Line": 18267,
     "ID": "DSA-173",
     "Description": "bugzilla - privilege escalation"
   },
   "Annotations": [
     {
       "Original": "{CVE-2002-1196}",
-      "Line": 18267,
+      "Line": 18268,
       "Type": "xref",
       "Bugs": [
         "CVE-2002-1196"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - bugzilla 2.14.2-0woody2",
-      "Line": 18268,
+      "Line": 18269,
       "Type": "package",
       "Release": "woody",
       "Package": "bugzilla",
