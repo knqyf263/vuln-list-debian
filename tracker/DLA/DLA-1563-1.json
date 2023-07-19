@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[01 Nov 2018] DLA-1563-1 tzdata - update",
-    "Line": 5917,
+    "Line": 5920,
     "ID": "DLA-1563-1",
     "Description": "tzdata - update"
   },
   "Annotations": [
     {
       "Original": "[jessie] - tzdata 2018g-0+deb8u1",
-      "Line": 5918,
+      "Line": 5921,
       "Type": "package",
       "Release": "jessie",
       "Package": "tzdata",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[10 Oct 2019] DLA-1954-1 lucene-solr - security update",
-    "Line": 4707,
+    "Line": 4710,
     "ID": "DLA-1954-1",
     "Description": "lucene-solr - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-0193}",
-      "Line": 4708,
+      "Line": 4711,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-0193"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - lucene-solr 3.6.2+dfsg-5+deb8u3",
-      "Line": 4709,
+      "Line": 4712,
       "Type": "package",
       "Release": "jessie",
       "Package": "lucene-solr",

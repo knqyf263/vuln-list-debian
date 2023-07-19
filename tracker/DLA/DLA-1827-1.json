@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[19 Jun 2019] DLA-1827-1 gvfs - security update",
-    "Line": 5113,
+    "Line": 5116,
     "ID": "DLA-1827-1",
     "Description": "gvfs - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-12795}",
-      "Line": 5114,
+      "Line": 5117,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-12795"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - gvfs 1.22.2-1+deb8u1",
-      "Line": 5115,
+      "Line": 5118,
       "Type": "package",
       "Release": "jessie",
       "Package": "gvfs",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[18 Oct 2019] DLA-1963-2 poppler - regression update",
-    "Line": 4670,
+    "Line": 4673,
     "ID": "DLA-1963-2",
     "Description": "poppler - regression update"
   },
   "Annotations": [
     {
       "Original": "[jessie] - poppler 0.26.5-2+deb8u13",
-      "Line": 4671,
+      "Line": 4674,
       "Type": "package",
       "Release": "jessie",
       "Package": "poppler",

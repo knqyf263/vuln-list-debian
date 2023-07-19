@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[13 Apr 2019] DLA-1628-2 jasper - regression update",
-    "Line": 5339,
+    "Line": 5342,
     "ID": "DLA-1628-2",
     "Description": "jasper - regression update"
   },
   "Annotations": [
     {
       "Original": "[jessie] - jasper 1.900.1-debian1-2.4+deb8u6",
-      "Line": 5340,
+      "Line": 5343,
       "Type": "package",
       "Release": "jessie",
       "Package": "jasper",

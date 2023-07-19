@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[29 Dec 2021] DLA-2862-1 python-gnupg - security update",
-    "Line": 1919,
+    "Line": 1922,
     "ID": "DLA-2862-1",
     "Description": "python-gnupg - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-12020 CVE-2019-6690}",
-      "Line": 1920,
+      "Line": 1923,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-12020",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[stretch] - python-gnupg 0.3.9-1+deb9u1",
-      "Line": 1921,
+      "Line": 1924,
       "Type": "package",
       "Release": "stretch",
       "Package": "python-gnupg",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[06 Oct 2016] DLA-647-1 freeimage - security update",
-    "Line": 8698,
+    "Line": 8701,
     "ID": "DLA-647-1",
     "Description": "freeimage - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-5684}",
-      "Line": 8699,
+      "Line": 8702,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-5684"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - freeimage 3.15.1-1.1+deb7u1",
-      "Line": 8700,
+      "Line": 8703,
       "Type": "package",
       "Release": "wheezy",
       "Package": "freeimage",

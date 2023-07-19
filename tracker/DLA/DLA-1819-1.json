@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[16 Jun 2019] DLA-1819-1 pyxdg - security update",
-    "Line": 5137,
+    "Line": 5140,
     "ID": "DLA-1819-1",
     "Description": "pyxdg - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-12761}",
-      "Line": 5138,
+      "Line": 5141,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-12761"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - pyxdg 0.25-4+deb8u1",
-      "Line": 5139,
+      "Line": 5142,
       "Type": "package",
       "Release": "jessie",
       "Package": "pyxdg",

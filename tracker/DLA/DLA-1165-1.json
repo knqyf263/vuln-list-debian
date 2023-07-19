@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[07 Nov 2017] DLA-1165-1 libpam4j - security update",
-    "Line": 7120,
+    "Line": 7123,
     "ID": "DLA-1165-1",
     "Description": "libpam4j - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-12197}",
-      "Line": 7121,
+      "Line": 7124,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-12197"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - libpam4j 1.4-2+deb7u1",
-      "Line": 7122,
+      "Line": 7125,
       "Type": "package",
       "Release": "wheezy",
       "Package": "libpam4j",
