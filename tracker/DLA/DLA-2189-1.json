@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[26 Apr 2020] DLA-2189-1 rzip - security update",
-    "Line": 3982,
+    "Line": 3985,
     "ID": "DLA-2189-1",
     "Description": "rzip - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-8364}",
-      "Line": 3983,
+      "Line": 3986,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-8364"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - rzip 2.1-2+deb8u1",
-      "Line": 3984,
+      "Line": 3987,
       "Type": "package",
       "Release": "jessie",
       "Package": "rzip",

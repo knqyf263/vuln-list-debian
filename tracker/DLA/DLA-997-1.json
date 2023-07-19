@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[20 Jun 2017] DLA-997-1 libffi - security update",
-    "Line": 7631,
+    "Line": 7634,
     "ID": "DLA-997-1",
     "Description": "libffi - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-1000376}",
-      "Line": 7632,
+      "Line": 7635,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-1000376"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - libffi 3.0.10-3+deb7u1",
-      "Line": 7633,
+      "Line": 7636,
       "Type": "package",
       "Release": "wheezy",
       "Package": "libffi",

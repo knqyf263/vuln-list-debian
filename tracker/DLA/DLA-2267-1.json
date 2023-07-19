@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[30 Jun 2020] DLA-2267-1 libmatio - security update",
-    "Line": 3741,
+    "Line": 3744,
     "ID": "DLA-2267-1",
     "Description": "libmatio - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-17533}",
-      "Line": 3742,
+      "Line": 3745,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-17533"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - libmatio 1.5.2-3+deb8u1",
-      "Line": 3743,
+      "Line": 3746,
       "Type": "package",
       "Release": "jessie",
       "Package": "libmatio",

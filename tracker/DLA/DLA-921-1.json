@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[27 Apr 2017] DLA-921-1 slurm-llnl - security update",
-    "Line": 7860,
+    "Line": 7863,
     "ID": "DLA-921-1",
     "Description": "slurm-llnl - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-10030}",
-      "Line": 7861,
+      "Line": 7864,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-10030"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - slurm-llnl 2.3.4-2+deb7u1",
-      "Line": 7862,
+      "Line": 7865,
       "Type": "package",
       "Release": "wheezy",
       "Package": "slurm-llnl",

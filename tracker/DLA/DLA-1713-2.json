@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[14 Oct 2019] DLA-1713-2 libsdl1.2 - regression update",
-    "Line": 4696,
+    "Line": 4699,
     "ID": "DLA-1713-2",
     "Description": "libsdl1.2 - regression update"
   },
   "Annotations": [
     {
       "Original": "[jessie] - libsdl1.2 1.2.15-10+deb8u2",
-      "Line": 4697,
+      "Line": 4700,
       "Type": "package",
       "Release": "jessie",
       "Package": "libsdl1.2",

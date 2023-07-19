@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[27 Jul 2018] DLA-1414-2 mercurial - regression update",
-    "Line": 6272,
+    "Line": 6275,
     "ID": "DLA-1414-2",
     "Description": "mercurial - regression update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-17458}",
-      "Line": 6273,
+      "Line": 6276,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-17458"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - mercurial 3.1.2-2+deb8u6",
-      "Line": 6274,
+      "Line": 6277,
       "Type": "package",
       "Release": "jessie",
       "Package": "mercurial",

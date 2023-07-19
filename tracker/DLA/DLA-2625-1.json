@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[14 Apr 2021] DLA-2625-1 courier-authlib - security update",
-    "Line": 2645,
+    "Line": 2648,
     "ID": "DLA-2625-1",
     "Description": "courier-authlib - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-28374}",
-      "Line": 2646,
+      "Line": 2649,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-28374"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - courier-authlib 0.66.4-9+deb9u1",
-      "Line": 2647,
+      "Line": 2650,
       "Type": "package",
       "Release": "stretch",
       "Package": "courier-authlib",

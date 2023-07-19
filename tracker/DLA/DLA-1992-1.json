@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[14 Nov 2019] DLA-1992-1 ghostscript - security update",
-    "Line": 4589,
+    "Line": 4592,
     "ID": "DLA-1992-1",
     "Description": "ghostscript - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-14869}",
-      "Line": 4590,
+      "Line": 4593,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-14869"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - ghostscript 9.26a~dfsg-0+deb8u6",
-      "Line": 4591,
+      "Line": 4594,
       "Type": "package",
       "Release": "jessie",
       "Package": "ghostscript",

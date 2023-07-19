@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[22 Sep 2017] DLA-1105-1 clamav - security update",
-    "Line": 7300,
+    "Line": 7303,
     "ID": "DLA-1105-1",
     "Description": "clamav - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-6418 CVE-2017-6420}",
-      "Line": 7301,
+      "Line": 7304,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-6418",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[wheezy] - clamav 0.99.2+dfsg-0+deb7u3",
-      "Line": 7302,
+      "Line": 7305,
       "Type": "package",
       "Release": "wheezy",
       "Package": "clamav",

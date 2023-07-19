@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[05 Dec 2022] DLA-3225-1 awstats - security update",
-    "Line": 838,
+    "Line": 841,
     "ID": "DLA-3225-1",
     "Description": "awstats - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2022-46391}",
-      "Line": 839,
+      "Line": 842,
       "Type": "xref",
       "Bugs": [
         "CVE-2022-46391"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[buster] - awstats 7.6+dfsg-2+deb10u2",
-      "Line": 840,
+      "Line": 843,
       "Type": "package",
       "Release": "buster",
       "Package": "awstats",

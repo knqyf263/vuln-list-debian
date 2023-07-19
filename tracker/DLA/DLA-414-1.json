@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[12 Feb 2016] DLA-414-1 chrony - security update",
-    "Line": 9403,
+    "Line": 9406,
     "ID": "DLA-414-1",
     "Description": "chrony - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-1567}",
-      "Line": 9404,
+      "Line": 9407,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-1567"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - chrony 1.24-3+squeeze3",
-      "Line": 9405,
+      "Line": 9408,
       "Type": "package",
       "Release": "squeeze",
       "Package": "chrony",
