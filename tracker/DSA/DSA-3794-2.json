@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[02 Mar 2017] DSA-3794-2 munin - regression update",
-    "Line": 5567,
+    "Line": 5571,
     "ID": "DSA-3794-2",
     "Description": "munin - regression update"
   },
   "Annotations": [
     {
       "Original": "[jessie] - munin 2.0.25-1+deb8u2",
-      "Line": 5568,
+      "Line": 5572,
       "Type": "package",
       "Release": "jessie",
       "Package": "munin",

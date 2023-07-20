@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[11 Jan 2009] DSA-1700-1 lasso - validation bypass",
-    "Line": 12753,
+    "Line": 12757,
     "ID": "DSA-1700-1",
     "Description": "lasso - validation bypass"
   },
   "Annotations": [
     {
       "Original": "{CVE-2009-0050}",
-      "Line": 12754,
+      "Line": 12758,
       "Type": "xref",
       "Bugs": [
         "CVE-2009-0050"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[etch] - lasso 0.6.5-3+etch1",
-      "Line": 12755,
+      "Line": 12759,
       "Type": "package",
       "Release": "etch",
       "Package": "lasso",

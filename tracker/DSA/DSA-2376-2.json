@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[31 Dec 2011] DSA-2376-2 ipmitool - insecure pid file",
-    "Line": 10339,
+    "Line": 10343,
     "ID": "DSA-2376-2",
     "Description": "ipmitool - insecure pid file"
   },
   "Annotations": [
     {
       "Original": "{CVE-2011-4339}",
-      "Line": 10340,
+      "Line": 10344,
       "Type": "xref",
       "Bugs": [
         "CVE-2011-4339"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[lenny] - ipmitool 1.8.9-2+squeeze1",
-      "Line": 10341,
+      "Line": 10345,
       "Type": "package",
       "Release": "lenny",
       "Package": "ipmitool",

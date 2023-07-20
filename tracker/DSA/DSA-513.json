@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[03 Jun 2004] DSA-513 log2mail - format string",
-    "Line": 17185,
+    "Line": 17189,
     "ID": "DSA-513",
     "Description": "log2mail - format string"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-0450}",
-      "Line": 17186,
+      "Line": 17190,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-0450"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - log2mail 0.2.5.2",
-      "Line": 17187,
+      "Line": 17191,
       "Type": "package",
       "Release": "woody",
       "Package": "log2mail",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[23 Apr 2012] DSA-2456-1 dropbear - use after free",
-    "Line": 10069,
+    "Line": 10073,
     "ID": "DSA-2456-1",
     "Description": "dropbear - use after free"
   },
   "Annotations": [
     {
       "Original": "{CVE-2012-0920}",
-      "Line": 10070,
+      "Line": 10074,
       "Type": "xref",
       "Bugs": [
         "CVE-2012-0920"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - dropbear 0.52-5+squeeze1",
-      "Line": 10071,
+      "Line": 10075,
       "Type": "package",
       "Release": "squeeze",
       "Package": "dropbear",

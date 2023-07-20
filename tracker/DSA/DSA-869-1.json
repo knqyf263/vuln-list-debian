@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[20 Oct 2005] DSA-869-1 eric - missing input sanitising",
-    "Line": 15739,
+    "Line": 15743,
     "ID": "DSA-869-1",
     "Description": "eric - missing input sanitising"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-3068}",
-      "Line": 15740,
+      "Line": 15744,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-3068"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[sarge] - eric 3.6.2-2",
-      "Line": 15741,
+      "Line": 15745,
       "Type": "package",
       "Release": "sarge",
       "Package": "eric",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "NOTE: not fixed in testing at time of DSA (KDE/qt transition)",
-      "Line": 15742,
+      "Line": 15746,
       "Type": "NOTE",
       "Description": "not fixed in testing at time of DSA (KDE/qt transition)"
     }

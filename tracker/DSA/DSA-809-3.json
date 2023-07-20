@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[07 Nov 2005] DSA-809-3 squid - assertion error",
-    "Line": 15926,
+    "Line": 15930,
     "ID": "DSA-809-3",
     "Description": "squid - assertion error"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-2794}",
-      "Line": 15927,
+      "Line": 15931,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-2794"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - squid 2.4.6-2woody11",
-      "Line": 15928,
+      "Line": 15932,
       "Type": "package",
       "Release": "woody",
       "Package": "squid",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[sarge] - squid 2.5.9-10sarge1",
-      "Line": 15929,
+      "Line": 15933,
       "Type": "package",
       "Release": "sarge",
       "Package": "squid",
@@ -34,13 +34,13 @@
     },
     {
       "Original": "NOTE: fixed in testing at time of DSA",
-      "Line": 15930,
+      "Line": 15934,
       "Type": "NOTE",
       "Description": "fixed in testing at time of DSA"
     },
     {
       "Original": "NOTE: -1 and -2 had regressions",
-      "Line": 15931,
+      "Line": 15935,
       "Type": "NOTE",
       "Description": "-1 and -2 had regressions"
     }

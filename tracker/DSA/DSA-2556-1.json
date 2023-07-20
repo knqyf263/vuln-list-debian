@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[07 Oct 2012] DSA-2556-1 icedove - several",
-    "Line": 9751,
+    "Line": 9755,
     "ID": "DSA-2556-1",
     "Description": "icedove - several"
   },
   "Annotations": [
     {
       "Original": "{CVE-2012-1970 CVE-2012-1972 CVE-2012-1973 CVE-2012-1974 CVE-2012-1975 CVE-2012-1976 CVE-2012-3959 CVE-2012-3962 CVE-2012-3969 CVE-2012-3972 CVE-2012-3978}",
-      "Line": 9752,
+      "Line": 9756,
       "Type": "xref",
       "Bugs": [
         "CVE-2012-1970",
@@ -26,7 +26,7 @@
     },
     {
       "Original": "[squeeze] - icedove 3.0.11-1+squeeze13",
-      "Line": 9753,
+      "Line": 9757,
       "Type": "package",
       "Release": "squeeze",
       "Package": "icedove",

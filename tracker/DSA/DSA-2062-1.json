@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[17 Jun 2010] DSA-2062-1 sudo - environment sanitization bypass",
-    "Line": 11410,
+    "Line": 11414,
     "ID": "DSA-2062-1",
     "Description": "sudo - environment sanitization bypass"
   },
   "Annotations": [
     {
       "Original": "{CVE-2010-1646}",
-      "Line": 11411,
+      "Line": 11415,
       "Type": "xref",
       "Bugs": [
         "CVE-2010-1646"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[lenny] - sudo 1.6.9p17-3",
-      "Line": 11412,
+      "Line": 11416,
       "Type": "package",
       "Release": "lenny",
       "Package": "sudo",
