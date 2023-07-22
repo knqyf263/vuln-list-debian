@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[14 May 2020] DSA-4685-1 apt - security update",
-    "Line": 2517,
+    "Line": 2521,
     "ID": "DSA-4685-1",
     "Description": "apt - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-3810}",
-      "Line": 2518,
+      "Line": 2522,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-3810"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - apt 1.4.10",
-      "Line": 2519,
+      "Line": 2523,
       "Type": "package",
       "Release": "stretch",
       "Package": "apt",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[buster] - apt 1.8.2.1",
-      "Line": 2520,
+      "Line": 2524,
       "Type": "package",
       "Release": "buster",
       "Package": "apt",

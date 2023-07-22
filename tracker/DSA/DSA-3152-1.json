@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[03 Feb 2015] DSA-3152-1 unzip - security update",
-    "Line": 7791,
+    "Line": 7795,
     "ID": "DSA-3152-1",
     "Description": "unzip - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2014-9636}",
-      "Line": 7792,
+      "Line": 7796,
       "Type": "xref",
       "Bugs": [
         "CVE-2014-9636"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - unzip 6.0-8+deb7u2",
-      "Line": 7793,
+      "Line": 7797,
       "Type": "package",
       "Release": "wheezy",
       "Package": "unzip",
