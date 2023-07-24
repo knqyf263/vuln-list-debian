@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[18 Jun 2004] DSA-521 sup - format string vulnerability",
-    "Line": 17169,
+    "Line": 17172,
     "ID": "DSA-521",
     "Description": "sup - format string vulnerability"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-0451}",
-      "Line": 17170,
+      "Line": 17173,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-0451"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - sup 1.8-8woody2",
-      "Line": 17171,
+      "Line": 17174,
       "Type": "package",
       "Release": "woody",
       "Package": "sup",

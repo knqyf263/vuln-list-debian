@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[15 Apr 2003] DSA-287 epic - buffer overflows",
-    "Line": 17928,
+    "Line": 17931,
     "ID": "DSA-287",
     "Description": "epic - buffer overflows"
   },
   "Annotations": [
     {
       "Original": "{CVE-2003-0324}",
-      "Line": 17929,
+      "Line": 17932,
       "Type": "xref",
       "Bugs": [
         "CVE-2003-0324"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - epic 3.004-17.1",
-      "Line": 17930,
+      "Line": 17933,
       "Type": "package",
       "Release": "woody",
       "Package": "epic",

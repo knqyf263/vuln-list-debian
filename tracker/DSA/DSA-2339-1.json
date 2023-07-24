@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[07 Nov 2011] DSA-2339-1 nss - several",
-    "Line": 10487,
+    "Line": 10490,
     "ID": "DSA-2339-1",
     "Description": "nss - several"
   },
   "Annotations": [
     {
       "Original": "{CVE-2011-3640}",
-      "Line": 10488,
+      "Line": 10491,
       "Type": "xref",
       "Bugs": [
         "CVE-2011-3640"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - nss 3.12.8-1+squeeze4",
-      "Line": 10489,
+      "Line": 10492,
       "Type": "package",
       "Release": "squeeze",
       "Package": "nss",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[lenny] - nss 3.12.3.1-0lenny7",
-      "Line": 10490,
+      "Line": 10493,
       "Type": "package",
       "Release": "lenny",
       "Package": "nss",

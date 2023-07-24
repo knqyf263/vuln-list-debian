@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[12 Jun 2019] DSA-4461-1 zookeeper - security update",
-    "Line": 3328,
+    "Line": 3331,
     "ID": "DSA-4461-1",
     "Description": "zookeeper - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-0201}",
-      "Line": 3329,
+      "Line": 3332,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-0201"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - zookeeper 3.4.9-3+deb9u2",
-      "Line": 3330,
+      "Line": 3333,
       "Type": "package",
       "Release": "stretch",
       "Package": "zookeeper",

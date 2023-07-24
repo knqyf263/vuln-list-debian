@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[13 Jul 2005] DSA-755-1 tiff - buffer overflow",
-    "Line": 16286,
+    "Line": 16289,
     "ID": "DSA-755-1",
     "Description": "tiff - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-1544}",
-      "Line": 16287,
+      "Line": 16290,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-1544"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - tiff 3.5.5-7 (medium)",
-      "Line": 16288,
+      "Line": 16291,
       "Type": "package",
       "Release": "woody",
       "Package": "tiff",
@@ -26,7 +26,7 @@
     },
     {
       "Original": "NOTE: fixed in testing at time of DSA",
-      "Line": 16289,
+      "Line": 16292,
       "Type": "NOTE",
       "Description": "fixed in testing at time of DSA"
     }

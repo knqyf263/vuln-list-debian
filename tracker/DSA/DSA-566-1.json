@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[14 Oct 2004] DSA-566-1 cupsys - unsanitised input",
-    "Line": 17022,
+    "Line": 17025,
     "ID": "DSA-566-1",
     "Description": "cupsys - unsanitised input"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-0923}",
-      "Line": 17023,
+      "Line": 17026,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-0923"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - cupsys 1.1.14-5woody7",
-      "Line": 17024,
+      "Line": 17027,
       "Type": "package",
       "Release": "woody",
       "Package": "cupsys",

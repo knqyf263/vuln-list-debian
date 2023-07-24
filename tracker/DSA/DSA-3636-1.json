@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[30 Jul 2016] DSA-3636-1 collectd - security update",
-    "Line": 6086,
+    "Line": 6089,
     "ID": "DSA-3636-1",
     "Description": "collectd - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-6254}",
-      "Line": 6087,
+      "Line": 6090,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-6254"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - collectd 5.4.1-6+deb8u1",
-      "Line": 6088,
+      "Line": 6091,
       "Type": "package",
       "Release": "jessie",
       "Package": "collectd",

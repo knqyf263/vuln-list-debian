@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[20 Dec 2004] DSA-612-1 a2ps - unsanitised input",
-    "Line": 16882,
+    "Line": 16885,
     "ID": "DSA-612-1",
     "Description": "a2ps - unsanitised input"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-1170}",
-      "Line": 16883,
+      "Line": 16886,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-1170"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - a2ps 1:4.13b-4.2",
-      "Line": 16884,
+      "Line": 16887,
       "Type": "package",
       "Release": "woody",
       "Package": "a2ps",
