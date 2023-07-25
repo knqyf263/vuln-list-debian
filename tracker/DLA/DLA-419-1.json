@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[17 Feb 2016] DLA-419-1 gtk+2.0 - security update",
-    "Line": 9391,
+    "Line": 9394,
     "ID": "DLA-419-1",
     "Description": "gtk+2.0 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2013-7447}",
-      "Line": 9392,
+      "Line": 9395,
       "Type": "xref",
       "Bugs": [
         "CVE-2013-7447"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - gtk+2.0 2.20.1-2+deb6u1",
-      "Line": 9393,
+      "Line": 9396,
       "Type": "package",
       "Release": "squeeze",
       "Package": "gtk+2.0",

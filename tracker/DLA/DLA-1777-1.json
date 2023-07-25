@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[06 May 2019] DLA-1777-1 jquery - security update",
-    "Line": 5273,
+    "Line": 5276,
     "ID": "DLA-1777-1",
     "Description": "jquery - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-11358}",
-      "Line": 5274,
+      "Line": 5277,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-11358"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - jquery 1.7.2+dfsg-3.2+deb8u6",
-      "Line": 5275,
+      "Line": 5278,
       "Type": "package",
       "Release": "jessie",
       "Package": "jquery",

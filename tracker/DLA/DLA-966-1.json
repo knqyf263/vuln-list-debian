@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[30 May 2017] DLA-966-1 pngquant - security update",
-    "Line": 7726,
+    "Line": 7729,
     "ID": "DLA-966-1",
     "Description": "pngquant - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-5735}",
-      "Line": 7727,
+      "Line": 7730,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-5735"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - pngquant 1.0-4.1+deb7u1",
-      "Line": 7728,
+      "Line": 7731,
       "Type": "package",
       "Release": "wheezy",
       "Package": "pngquant",

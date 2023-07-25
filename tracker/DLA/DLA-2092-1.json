@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[01 Feb 2020] DLA-2092-1 qtbase-opensource-src - security update",
-    "Line": 4282,
+    "Line": 4285,
     "ID": "DLA-2092-1",
     "Description": "qtbase-opensource-src - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-0569}",
-      "Line": 4283,
+      "Line": 4286,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-0569"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - qtbase-opensource-src 5.3.2+dfsg-4+deb8u4",
-      "Line": 4284,
+      "Line": 4287,
       "Type": "package",
       "Release": "jessie",
       "Package": "qtbase-opensource-src",

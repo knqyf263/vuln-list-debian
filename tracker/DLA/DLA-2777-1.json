@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[03 Oct 2021] DLA-2777-1 tiff - security update",
-    "Line": 2187,
+    "Line": 2190,
     "ID": "DLA-2777-1",
     "Description": "tiff - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-19131 CVE-2020-19144}",
-      "Line": 2188,
+      "Line": 2191,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-19131",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[stretch] - tiff 4.0.8-2+deb9u7",
-      "Line": 2189,
+      "Line": 2192,
       "Type": "package",
       "Release": "stretch",
       "Package": "tiff",

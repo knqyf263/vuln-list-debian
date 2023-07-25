@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[17 Dec 2016] DLA-746-2 tomcat6 - regression update",
-    "Line": 8388,
+    "Line": 8391,
     "ID": "DLA-746-2",
     "Description": "tomcat6 - regression update"
   },
   "Annotations": [
     {
       "Original": "[wheezy] - tomcat6 6.0.45+dfsg-1~deb7u5",
-      "Line": 8389,
+      "Line": 8392,
       "Type": "package",
       "Release": "wheezy",
       "Package": "tomcat6",
