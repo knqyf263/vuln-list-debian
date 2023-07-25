@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[08 Jan 2021] DLA-2521-1 firefox-esr - security update",
-    "Line": 2966,
+    "Line": 2969,
     "ID": "DLA-2521-1",
     "Description": "firefox-esr - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-16044}",
-      "Line": 2967,
+      "Line": 2970,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-16044"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - firefox-esr 78.6.1esr-1~deb9u1",
-      "Line": 2968,
+      "Line": 2971,
       "Type": "package",
       "Release": "stretch",
       "Package": "firefox-esr",

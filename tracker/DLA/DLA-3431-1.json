@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[22 May 2023] DLA-3431-1 sqlite - security update",
-    "Line": 216,
+    "Line": 219,
     "ID": "DLA-3431-1",
     "Description": "sqlite - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-6153 CVE-2018-8740}",
-      "Line": 217,
+      "Line": 220,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-6153",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[buster] - sqlite 2.8.17-15+deb10u1",
-      "Line": 218,
+      "Line": 221,
       "Type": "package",
       "Release": "buster",
       "Package": "sqlite",

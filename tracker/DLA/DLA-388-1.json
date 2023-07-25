@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[15 Jan 2016] DLA-388-1 dwarfutils - security update",
-    "Line": 9490,
+    "Line": 9493,
     "ID": "DLA-388-1",
     "Description": "dwarfutils - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-8750}",
-      "Line": 9491,
+      "Line": 9494,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-8750"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - dwarfutils 20100214-1+deb6u1",
-      "Line": 9492,
+      "Line": 9495,
       "Type": "package",
       "Release": "squeeze",
       "Package": "dwarfutils",
