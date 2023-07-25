@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[01 Jan 2020] DLA-2056-1 waitress - security update",
-    "Line": 4396,
+    "Line": 4408,
     "ID": "DLA-2056-1",
     "Description": "waitress - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-16789}",
-      "Line": 4397,
+      "Line": 4409,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-16789"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - waitress 0.8.9-2+deb8u1",
-      "Line": 4398,
+      "Line": 4410,
       "Type": "package",
       "Release": "jessie",
       "Package": "waitress",

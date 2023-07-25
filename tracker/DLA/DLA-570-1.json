@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[30 Jul 2016] DLA-570-1 kde4libs - security update",
-    "Line": 8949,
+    "Line": 8961,
     "ID": "DLA-570-1",
     "Description": "kde4libs - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-6232}",
-      "Line": 8950,
+      "Line": 8962,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-6232"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - kde4libs 4:4.8.4-4+deb7u2",
-      "Line": 8951,
+      "Line": 8963,
       "Type": "package",
       "Release": "wheezy",
       "Package": "kde4libs",

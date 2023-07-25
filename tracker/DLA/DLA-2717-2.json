@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[27 Aug 2021] DLA-2717-2 redis - regression update",
-    "Line": 2279,
+    "Line": 2291,
     "ID": "DLA-2717-2",
     "Description": "redis - regression update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-32761}",
-      "Line": 2280,
+      "Line": 2292,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-32761"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - redis 3:3.2.6-3+deb9u6",
-      "Line": 2281,
+      "Line": 2293,
       "Type": "package",
       "Release": "stretch",
       "Package": "redis",

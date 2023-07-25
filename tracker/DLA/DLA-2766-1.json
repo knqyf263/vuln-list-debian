@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[27 Sep 2021] DLA-2766-1 openssl - security update",
-    "Line": 2226,
+    "Line": 2238,
     "ID": "DLA-2766-1",
     "Description": "openssl - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-3712}",
-      "Line": 2227,
+      "Line": 2239,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-3712"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - openssl 1.1.0l-1~deb9u4",
-      "Line": 2228,
+      "Line": 2240,
       "Type": "package",
       "Release": "stretch",
       "Package": "openssl",

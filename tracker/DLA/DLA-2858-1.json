@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[28 Dec 2021] DLA-2858-1 libzip - security update",
-    "Line": 1943,
+    "Line": 1955,
     "ID": "DLA-2858-1",
     "Description": "libzip - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-14107}",
-      "Line": 1944,
+      "Line": 1956,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-14107"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - libzip 1.1.2-1.1+deb9u1",
-      "Line": 1945,
+      "Line": 1957,
       "Type": "package",
       "Release": "stretch",
       "Package": "libzip",
