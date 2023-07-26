@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[13 Dec 2017] DLA-1203-2 xrdp - regression update",
-    "Line": 7015,
+    "Line": 7018,
     "ID": "DLA-1203-2",
     "Description": "xrdp - regression update"
   },
   "Annotations": [
     {
       "Original": "[wheezy] - xrdp 0.5.0-2+deb7u3",
-      "Line": 7016,
+      "Line": 7019,
       "Type": "package",
       "Release": "wheezy",
       "Package": "xrdp",

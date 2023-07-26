@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[16 May 2021] DLA-2663-1 libimage-exiftool-perl - security update",
-    "Line": 2551,
+    "Line": 2554,
     "ID": "DLA-2663-1",
     "Description": "libimage-exiftool-perl - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-22204}",
-      "Line": 2552,
+      "Line": 2555,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-22204"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - libimage-exiftool-perl 10.40-1+deb9u1",
-      "Line": 2553,
+      "Line": 2556,
       "Type": "package",
       "Release": "stretch",
       "Package": "libimage-exiftool-perl",

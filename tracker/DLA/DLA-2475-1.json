@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[01 Dec 2020] DLA-2475-1 pdfresurrect - security update",
-    "Line": 3124,
+    "Line": 3127,
     "ID": "DLA-2475-1",
     "Description": "pdfresurrect - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-14934 CVE-2020-20740}",
-      "Line": 3125,
+      "Line": 3128,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-14934",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[stretch] - pdfresurrect 0.12-6+deb9u1",
-      "Line": 3126,
+      "Line": 3129,
       "Type": "package",
       "Release": "stretch",
       "Package": "pdfresurrect",

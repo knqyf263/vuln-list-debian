@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[09 Jan 2020] DSA-4601-1 ldm - security update",
-    "Line": 2825,
+    "Line": 2832,
     "ID": "DSA-4601-1",
     "Description": "ldm - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-20373}",
-      "Line": 2826,
+      "Line": 2833,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-20373"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - ldm 2:2.2.18-2+deb9u1",
-      "Line": 2827,
+      "Line": 2834,
       "Type": "package",
       "Release": "stretch",
       "Package": "ldm",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[buster] - ldm 2:2.18.06-1+deb10u1",
-      "Line": 2828,
+      "Line": 2835,
       "Type": "package",
       "Release": "buster",
       "Package": "ldm",

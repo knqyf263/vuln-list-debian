@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[24 Dec 2004] DSA-617-1 libtiff - insufficient input validation",
-    "Line": 16870,
+    "Line": 16877,
     "ID": "DSA-617-1",
     "Description": "libtiff - insufficient input validation"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-1308}",
-      "Line": 16871,
+      "Line": 16878,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-1308"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - tiff 3.5.5-6.woody3",
-      "Line": 16872,
+      "Line": 16879,
       "Type": "package",
       "Release": "woody",
       "Package": "tiff",

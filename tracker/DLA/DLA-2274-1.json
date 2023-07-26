@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[09 Jul 2020] DLA-2274-1 fwupd - security update",
-    "Line": 3739,
+    "Line": 3742,
     "ID": "DLA-2274-1",
     "Description": "fwupd - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-10759}",
-      "Line": 3740,
+      "Line": 3743,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-10759"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - fwupd 0.7.4-2+deb9u1",
-      "Line": 3741,
+      "Line": 3744,
       "Type": "package",
       "Release": "stretch",
       "Package": "fwupd",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[31 Dec 2016] DLA-770-1 libphp-phpmailer - security update",
-    "Line": 8350,
+    "Line": 8353,
     "ID": "DLA-770-1",
     "Description": "libphp-phpmailer - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-10033}",
-      "Line": 8351,
+      "Line": 8354,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-10033"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - libphp-phpmailer 5.1-1.2",
-      "Line": 8352,
+      "Line": 8355,
       "Type": "package",
       "Release": "wheezy",
       "Package": "libphp-phpmailer",

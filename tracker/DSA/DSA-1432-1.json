@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[16 Dec 2007] DSA-1432-1 link-grammar - buffer overflow",
-    "Line": 13663,
+    "Line": 13670,
     "ID": "DSA-1432-1",
     "Description": "link-grammar - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2007-5395}",
-      "Line": 13664,
+      "Line": 13671,
       "Type": "xref",
       "Bugs": [
         "CVE-2007-5395"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[etch] - link-grammar 4.2.2-4etch1",
-      "Line": 13665,
+      "Line": 13672,
       "Type": "package",
       "Release": "etch",
       "Package": "link-grammar",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[07 Nov 2009] DSA-1930-1 drupal6 - several vulnerabilities",
-    "Line": 11887,
+    "Line": 11894,
     "ID": "DSA-1930-1",
     "Description": "drupal6 - several vulnerabilities"
   },
   "Annotations": [
     {
       "Original": "{CVE-2009-2372 CVE-2009-2373 CVE-2009-2374}",
-      "Line": 11888,
+      "Line": 11895,
       "Type": "xref",
       "Bugs": [
         "CVE-2009-2372",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[lenny] - drupal6 6.6-3lenny3",
-      "Line": 11889,
+      "Line": 11896,
       "Type": "package",
       "Release": "lenny",
       "Package": "drupal6",

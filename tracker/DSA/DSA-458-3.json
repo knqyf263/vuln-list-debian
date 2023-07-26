@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[31 Aug 2004] DSA-458-3 python2.2 - buffer overflow",
-    "Line": 17103,
+    "Line": 17110,
     "ID": "DSA-458-3",
     "Description": "python2.2 - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-0150}",
-      "Line": 17104,
+      "Line": 17111,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-0150"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - python2.2 2.2.1-4.6",
-      "Line": 17105,
+      "Line": 17112,
       "Type": "package",
       "Release": "woody",
       "Package": "python2.2",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "NOTE: Previous DSA had regressions",
-      "Line": 17106,
+      "Line": 17113,
       "Type": "NOTE",
       "Description": "Previous DSA had regressions"
     }

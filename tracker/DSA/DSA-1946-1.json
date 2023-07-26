@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[04 Dec 2009] DSA-1946-1 belpic - cryptographic weakness",
-    "Line": 11826,
+    "Line": 11833,
     "ID": "DSA-1946-1",
     "Description": "belpic - cryptographic weakness"
   },
   "Annotations": [
     {
       "Original": "{CVE-2009-0049}",
-      "Line": 11827,
+      "Line": 11834,
       "Type": "xref",
       "Bugs": [
         "CVE-2009-0049"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[etch] - belpic 2.5.9-7.etch.1",
-      "Line": 11828,
+      "Line": 11835,
       "Type": "package",
       "Release": "etch",
       "Package": "belpic",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[14 Nov 2016] DLA-707-1 sudo - security update",
-    "Line": 8545,
+    "Line": 8548,
     "ID": "DLA-707-1",
     "Description": "sudo - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-7032 CVE-2016-7076}",
-      "Line": 8546,
+      "Line": 8549,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-7032",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[wheezy] - sudo 1.8.5p2-1+nmu3+deb7u2",
-      "Line": 8547,
+      "Line": 8550,
       "Type": "package",
       "Release": "wheezy",
       "Package": "sudo",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[13 Jul 2008] DSA-1608-1 mysql-dfsg-5.0 - authorization bypass",
-    "Line": 13053,
+    "Line": 13060,
     "ID": "DSA-1608-1",
     "Description": "mysql-dfsg-5.0 - authorization bypass"
   },
   "Annotations": [
     {
       "Original": "{CVE-2008-2079 CVE-2008-4097}",
-      "Line": 13054,
+      "Line": 13061,
       "Type": "xref",
       "Bugs": [
         "CVE-2008-2079",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[etch] - mysql-dfsg-5.0 5.0.32-7etch6",
-      "Line": 13055,
+      "Line": 13062,
       "Type": "package",
       "Release": "etch",
       "Package": "mysql-dfsg-5.0",

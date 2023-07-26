@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[05 Sep 2010] DSA-2103-1 smbind - sql injection",
-    "Line": 11298,
+    "Line": 11305,
     "ID": "DSA-2103-1",
     "Description": "smbind - sql injection"
   },
   "Annotations": [
     {
       "Original": "{CVE-2010-3076}",
-      "Line": 11299,
+      "Line": 11306,
       "Type": "xref",
       "Bugs": [
         "CVE-2010-3076"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[lenny] - smbind 0.4.7-3+lenny1",
-      "Line": 11300,
+      "Line": 11307,
       "Type": "package",
       "Release": "lenny",
       "Package": "smbind",

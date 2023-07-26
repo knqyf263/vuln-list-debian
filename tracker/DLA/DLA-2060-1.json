@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[08 Jan 2020] DLA-2060-1 phpmyadmin - security update",
-    "Line": 4396,
+    "Line": 4399,
     "ID": "DLA-2060-1",
     "Description": "phpmyadmin - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-5504}",
-      "Line": 4397,
+      "Line": 4400,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-5504"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - phpmyadmin 4:4.2.12-2+deb8u8",
-      "Line": 4398,
+      "Line": 4401,
       "Type": "package",
       "Release": "jessie",
       "Package": "phpmyadmin",
