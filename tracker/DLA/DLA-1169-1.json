@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[11 Nov 2017] DLA-1169-1 postgresql-common - security update",
-    "Line": 7133,
+    "Line": 7136,
     "ID": "DLA-1169-1",
     "Description": "postgresql-common - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-8806}",
-      "Line": 7134,
+      "Line": 7137,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-8806"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - postgresql-common 134wheezy6",
-      "Line": 7135,
+      "Line": 7138,
       "Type": "package",
       "Release": "wheezy",
       "Package": "postgresql-common",

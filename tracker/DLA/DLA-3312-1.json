@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[08 Feb 2023] DLA-3312-1 shim - security update",
-    "Line": 597,
+    "Line": 600,
     "ID": "DLA-3312-1",
     "Description": "shim - security update"
   },
   "Annotations": [
     {
       "Original": "[buster] - shim 15.7-1~deb10u1",
-      "Line": 598,
+      "Line": 601,
       "Type": "package",
       "Release": "buster",
       "Package": "shim",

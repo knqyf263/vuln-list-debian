@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[16 Nov 2016] DLA-708-1 mysql-5.5 - security update",
-    "Line": 8545,
+    "Line": 8548,
     "ID": "DLA-708-1",
     "Description": "mysql-5.5 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-5584 CVE-2016-7440}",
-      "Line": 8546,
+      "Line": 8549,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-5584",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[wheezy] - mysql-5.5 5.5.53-0+deb7u1",
-      "Line": 8547,
+      "Line": 8550,
       "Type": "package",
       "Release": "wheezy",
       "Package": "mysql-5.5",

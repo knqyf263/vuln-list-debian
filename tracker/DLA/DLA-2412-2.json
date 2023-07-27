@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[22 Dec 2020] DLA-2412-2 openjdk-8 - regression update",
-    "Line": 3038,
+    "Line": 3041,
     "ID": "DLA-2412-2",
     "Description": "openjdk-8 - regression update"
   },
   "Annotations": [
     {
       "Original": "[stretch] - openjdk-8 8u275-b01-1~deb9u1",
-      "Line": 3039,
+      "Line": 3042,
       "Type": "package",
       "Release": "stretch",
       "Package": "openjdk-8",
