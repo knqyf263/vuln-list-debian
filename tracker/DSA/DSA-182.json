@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[28 Oct 2002] DSA-182 kdegraphics - buffer overflow",
-    "Line": 18257,
+    "Line": 18260,
     "ID": "DSA-182",
     "Description": "kdegraphics - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2002-0838}",
-      "Line": 18258,
+      "Line": 18261,
       "Type": "xref",
       "Bugs": [
         "CVE-2002-0838"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - kdegraphics 2.2.2-6.8",
-      "Line": 18259,
+      "Line": 18262,
       "Type": "package",
       "Release": "woody",
       "Package": "kdegraphics",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[29 Mar 2015] DSA-3208-1 freexl - security update",
-    "Line": 7626,
+    "Line": 7629,
     "ID": "DSA-3208-1",
     "Description": "freexl - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-2753 CVE-2015-2754 CVE-2015-2776}",
-      "Line": 7627,
+      "Line": 7630,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-2753",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[wheezy] - freexl 1.0.0b-1+deb7u1",
-      "Line": 7628,
+      "Line": 7631,
       "Type": "package",
       "Release": "wheezy",
       "Package": "freexl",

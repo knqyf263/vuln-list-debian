@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[13 Jun 2003] DSA-320 mikmod - buffer overflow",
-    "Line": 17836,
+    "Line": 17839,
     "ID": "DSA-320",
     "Description": "mikmod - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2003-0427}",
-      "Line": 17837,
+      "Line": 17840,
       "Type": "xref",
       "Bugs": [
         "CVE-2003-0427"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - mikmod 3.1.6-4woody3",
-      "Line": 17838,
+      "Line": 17841,
       "Type": "package",
       "Release": "woody",
       "Package": "mikmod",

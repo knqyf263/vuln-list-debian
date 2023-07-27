@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[04 Apr 2005] DSA-705-1 wu-ftpd - missing input sanitising",
-    "Line": 16518,
+    "Line": 16521,
     "ID": "DSA-705-1",
     "Description": "wu-ftpd - missing input sanitising"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-0256}",
-      "Line": 16519,
+      "Line": 16522,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-0256"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - wu-ftpd 2.6.2-3woody5",
-      "Line": 16520,
+      "Line": 16523,
       "Type": "package",
       "Release": "woody",
       "Package": "wu-ftpd",
@@ -25,13 +25,13 @@
     },
     {
       "Original": "NOTE: DSA mentions CVE-2003-0854 as fixed, but this update only",
-      "Line": 16521,
+      "Line": 16524,
       "Type": "NOTE",
       "Description": "DSA mentions CVE-2003-0854 as fixed, but this update only"
     },
     {
       "Original": "NOTE: contains a workaround.",
-      "Line": 16522,
+      "Line": 16525,
       "Type": "NOTE",
       "Description": "contains a workaround."
     }

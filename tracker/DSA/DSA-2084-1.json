@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[03 Aug 2010] DSA-2084-1 tiff - arbitrary code execution",
-    "Line": 11362,
+    "Line": 11365,
     "ID": "DSA-2084-1",
     "Description": "tiff - arbitrary code execution"
   },
   "Annotations": [
     {
       "Original": "{CVE-2010-1411}",
-      "Line": 11363,
+      "Line": 11366,
       "Type": "xref",
       "Bugs": [
         "CVE-2010-1411"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[lenny] - tiff 3.8.2-11.3",
-      "Line": 11364,
+      "Line": 11367,
       "Type": "package",
       "Release": "lenny",
       "Package": "tiff",

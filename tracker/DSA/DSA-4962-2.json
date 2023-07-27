@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[31 Aug 2021] DSA-4962-2 ledgersmb - regression update",
-    "Line": 1654,
+    "Line": 1657,
     "ID": "DSA-4962-2",
     "Description": "ledgersmb - regression update"
   },
   "Annotations": [
     {
       "Original": "[buster] - ledgersmb 1.6.9+ds-1+deb10u3",
-      "Line": 1655,
+      "Line": 1658,
       "Type": "package",
       "Release": "buster",
       "Package": "ledgersmb",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[bullseye] - ledgersmb 1.6.9+ds-2+deb11u3",
-      "Line": 1656,
+      "Line": 1659,
       "Type": "package",
       "Release": "bullseye",
       "Package": "ledgersmb",

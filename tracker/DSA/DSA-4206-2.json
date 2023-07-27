@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[26 May 2018] DSA-4206-2 gitlab - regression update",
-    "Line": 4127,
+    "Line": 4130,
     "ID": "DSA-4206-2",
     "Description": "gitlab - regression update"
   },
   "Annotations": [
     {
       "Original": "[stretch] - gitlab 8.13.11+dfsg1-8+deb9u3",
-      "Line": 4128,
+      "Line": 4131,
       "Type": "package",
       "Release": "stretch",
       "Package": "gitlab",

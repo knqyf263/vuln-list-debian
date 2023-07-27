@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[18 Aug 2017] DSA-3947-1 newsbeuter - security update",
-    "Line": 5083,
+    "Line": 5086,
     "ID": "DSA-3947-1",
     "Description": "newsbeuter - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-12904}",
-      "Line": 5084,
+      "Line": 5087,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-12904"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - newsbeuter 2.8-2+deb8u1",
-      "Line": 5085,
+      "Line": 5088,
       "Type": "package",
       "Release": "jessie",
       "Package": "newsbeuter",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[stretch] - newsbeuter 2.9-5+deb9u1",
-      "Line": 5086,
+      "Line": 5089,
       "Type": "package",
       "Release": "stretch",
       "Package": "newsbeuter",

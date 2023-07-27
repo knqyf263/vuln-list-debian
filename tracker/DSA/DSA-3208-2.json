@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[14 Nov 2015] DSA-3208-2 freexl - regression update",
-    "Line": 6930,
+    "Line": 6933,
     "ID": "DSA-3208-2",
     "Description": "freexl - regression update"
   },
   "Annotations": [
     {
       "Original": "[wheezy] - freexl 1.0.0b-1+deb7u3",
-      "Line": 6931,
+      "Line": 6934,
       "Type": "package",
       "Release": "wheezy",
       "Package": "freexl",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[jessie] - freexl 1.0.0g-1+deb8u3",
-      "Line": 6932,
+      "Line": 6935,
       "Type": "package",
       "Release": "jessie",
       "Package": "freexl",

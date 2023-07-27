@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[09 Dec 2013] DSA-2815-1 munin - denial of service",
-    "Line": 8896,
+    "Line": 8899,
     "ID": "DSA-2815-1",
     "Description": "munin - denial of service"
   },
   "Annotations": [
     {
       "Original": "{CVE-2013-6048 CVE-2013-6359}",
-      "Line": 8897,
+      "Line": 8900,
       "Type": "xref",
       "Bugs": [
         "CVE-2013-6048",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[wheezy] - munin 2.0.6-4+deb7u2",
-      "Line": 8898,
+      "Line": 8901,
       "Type": "package",
       "Release": "wheezy",
       "Package": "munin",

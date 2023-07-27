@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[08 Apr 2014] DSA-2897-1 tomcat7 - security update",
-    "Line": 8604,
+    "Line": 8607,
     "ID": "DSA-2897-1",
     "Description": "tomcat7 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2012-3544 CVE-2013-2067 CVE-2013-2071 CVE-2013-4286 CVE-2013-4322 CVE-2014-0050}",
-      "Line": 8605,
+      "Line": 8608,
       "Type": "xref",
       "Bugs": [
         "CVE-2012-3544",
@@ -21,7 +21,7 @@
     },
     {
       "Original": "[wheezy] - tomcat7 7.0.28-4+deb7u1",
-      "Line": 8606,
+      "Line": 8609,
       "Type": "package",
       "Release": "wheezy",
       "Package": "tomcat7",

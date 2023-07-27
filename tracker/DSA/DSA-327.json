@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[19 Jun 2003] DSA-327 xbl - buffer overflows",
-    "Line": 17815,
+    "Line": 17818,
     "ID": "DSA-327",
     "Description": "xbl - buffer overflows"
   },
   "Annotations": [
     {
       "Original": "{CVE-2003-0451}",
-      "Line": 17816,
+      "Line": 17819,
       "Type": "xref",
       "Bugs": [
         "CVE-2003-0451"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - xbl 1.0k-3woody1",
-      "Line": 17817,
+      "Line": 17820,
       "Type": "package",
       "Release": "woody",
       "Package": "xbl",

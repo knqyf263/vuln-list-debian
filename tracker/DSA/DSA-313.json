@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[11 Jun 2003] DSA-313 ethereal - buffer overflows, integer overflows",
-    "Line": 17858,
+    "Line": 17861,
     "ID": "DSA-313",
     "Description": "ethereal - buffer overflows, integer overflows"
   },
   "Annotations": [
     {
       "Original": "{CVE-2003-0356 CVE-2003-0357}",
-      "Line": 17859,
+      "Line": 17862,
       "Type": "xref",
       "Bugs": [
         "CVE-2003-0356",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[woody] - ethereal 0.9.4-1woody4",
-      "Line": 17860,
+      "Line": 17863,
       "Type": "package",
       "Release": "woody",
       "Package": "ethereal",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[08 Jul 2005] DSA-744-1 fuse - programming error",
-    "Line": 16338,
+    "Line": 16341,
     "ID": "DSA-744-1",
     "Description": "fuse - programming error"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-1858}",
-      "Line": 16339,
+      "Line": 16342,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-1858"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[sarge] - fuse 2.2.1-4sarge2",
-      "Line": 16340,
+      "Line": 16343,
       "Type": "package",
       "Release": "sarge",
       "Package": "fuse",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "NOTE: fixed in testing at time of DSA",
-      "Line": 16341,
+      "Line": 16344,
       "Type": "NOTE",
       "Description": "fixed in testing at time of DSA"
     }
