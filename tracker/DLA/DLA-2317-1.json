@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[08 Aug 2020] DLA-2317-1 pillow - security update",
-    "Line": 3616,
+    "Line": 3618,
     "ID": "DLA-2317-1",
     "Description": "pillow - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-10177}",
-      "Line": 3617,
+      "Line": 3619,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-10177"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - pillow 4.0.0-4+deb9u2",
-      "Line": 3618,
+      "Line": 3620,
       "Type": "package",
       "Release": "stretch",
       "Package": "pillow",

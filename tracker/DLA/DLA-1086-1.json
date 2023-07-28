@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[03 Sep 2017] DLA-1086-1 enigmail - security update",
-    "Line": 7386,
+    "Line": 7388,
     "ID": "DLA-1086-1",
     "Description": "enigmail - security update"
   },
   "Annotations": [
     {
       "Original": "[wheezy] - enigmail 2:1.9.8.1-1~deb7u1",
-      "Line": 7387,
+      "Line": 7389,
       "Type": "package",
       "Release": "wheezy",
       "Package": "enigmail",

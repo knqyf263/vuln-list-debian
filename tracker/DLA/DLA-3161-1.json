@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[26 Oct 2022] DLA-3161-1 tzdata - new timezone database",
-    "Line": 1050,
+    "Line": 1052,
     "ID": "DLA-3161-1",
     "Description": "tzdata - new timezone database"
   },
   "Annotations": [
     {
       "Original": "[buster] - tzdata 2021a-0+deb10u8",
-      "Line": 1051,
+      "Line": 1053,
       "Type": "package",
       "Release": "buster",
       "Package": "tzdata",
