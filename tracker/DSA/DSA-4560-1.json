@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[06 Nov 2019] DSA-4560-1 simplesamlphp - security update",
-    "Line": 2985,
+    "Line": 2991,
     "ID": "DSA-4560-1",
     "Description": "simplesamlphp - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-3465}",
-      "Line": 2986,
+      "Line": 2992,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-3465"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - simplesamlphp 1.14.11-1+deb9u2",
-      "Line": 2987,
+      "Line": 2993,
       "Type": "package",
       "Release": "stretch",
       "Package": "simplesamlphp",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[buster] - simplesamlphp 1.16.3-1+deb10u1",
-      "Line": 2988,
+      "Line": 2994,
       "Type": "package",
       "Release": "buster",
       "Package": "simplesamlphp",

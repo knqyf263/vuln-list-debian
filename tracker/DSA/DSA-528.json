@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[17 Jul 2004] DSA-528 ethereal - denial of service",
-    "Line": 17160,
+    "Line": 17166,
     "ID": "DSA-528",
     "Description": "ethereal - denial of service"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-0635}",
-      "Line": 17161,
+      "Line": 17167,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-0635"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - ethereal 0.9.4-1woody8",
-      "Line": 17162,
+      "Line": 17168,
       "Type": "package",
       "Release": "woody",
       "Package": "ethereal",

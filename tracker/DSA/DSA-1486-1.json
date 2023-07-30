@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[05 Feb 2008] DSA-1486-1 gnatsweb - cross-site scripting",
-    "Line": 13490,
+    "Line": 13496,
     "ID": "DSA-1486-1",
     "Description": "gnatsweb - cross-site scripting"
   },
   "Annotations": [
     {
       "Original": "{CVE-2007-2808}",
-      "Line": 13491,
+      "Line": 13497,
       "Type": "xref",
       "Bugs": [
         "CVE-2007-2808"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[etch] - gnatsweb 4.00-1etch1",
-      "Line": 13492,
+      "Line": 13498,
       "Type": "package",
       "Release": "etch",
       "Package": "gnatsweb",

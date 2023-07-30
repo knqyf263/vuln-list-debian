@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[29 May 2006] DSA-1081-1 libextractor - buffer overflow",
-    "Line": 14858,
+    "Line": 14864,
     "ID": "DSA-1081-1",
     "Description": "libextractor - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2006-2458}",
-      "Line": 14859,
+      "Line": 14865,
       "Type": "xref",
       "Bugs": [
         "CVE-2006-2458"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[sarge] - libextractor 0.4.2-2sarge5",
-      "Line": 14860,
+      "Line": 14866,
       "Type": "package",
       "Release": "sarge",
       "Package": "libextractor",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[05 Oct 2005] DSA-843-1 arc - insecure temporary file",
-    "Line": 15881,
+    "Line": 15887,
     "ID": "DSA-843-1",
     "Description": "arc - insecure temporary file"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-2945 CVE-2005-2992}",
-      "Line": 15882,
+      "Line": 15888,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-2945",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[sarge] - arc 5.21l-1sarge1",
-      "Line": 15883,
+      "Line": 15889,
       "Type": "package",
       "Release": "sarge",
       "Package": "arc",
@@ -26,7 +26,7 @@
     },
     {
       "Original": "NOTE: fixed in testing at time of DSA",
-      "Line": 15884,
+      "Line": 15890,
       "Type": "NOTE",
       "Description": "fixed in testing at time of DSA"
     }

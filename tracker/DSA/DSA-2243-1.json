@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[27 May 2011] DSA-2243-1 unbound - design flaw",
-    "Line": 10849,
+    "Line": 10855,
     "ID": "DSA-2243-1",
     "Description": "unbound - design flaw"
   },
   "Annotations": [
     {
       "Original": "{CVE-2009-4008}",
-      "Line": 10850,
+      "Line": 10856,
       "Type": "xref",
       "Bugs": [
         "CVE-2009-4008"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[lenny] - unbound 1.4.6-1~lenny1",
-      "Line": 10851,
+      "Line": 10857,
       "Type": "package",
       "Release": "lenny",
       "Package": "unbound",

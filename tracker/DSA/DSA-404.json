@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[04 Dec 2003] DSA-404 rsync - heap overflow",
-    "Line": 17576,
+    "Line": 17582,
     "ID": "DSA-404",
     "Description": "rsync - heap overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2003-0962}",
-      "Line": 17577,
+      "Line": 17583,
       "Type": "xref",
       "Bugs": [
         "CVE-2003-0962"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - rsync 2.5.5-0.2",
-      "Line": 17578,
+      "Line": 17584,
       "Type": "package",
       "Release": "woody",
       "Package": "rsync",

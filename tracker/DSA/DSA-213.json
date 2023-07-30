@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[19 Dec 2002] DSA-213 libpng - buffer overflow",
-    "Line": 18166,
+    "Line": 18172,
     "ID": "DSA-213",
     "Description": "libpng - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2002-1363}",
-      "Line": 18167,
+      "Line": 18173,
       "Type": "xref",
       "Bugs": [
         "CVE-2002-1363"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - libpng 1.0.12-3.woody.3",
-      "Line": 18168,
+      "Line": 18174,
       "Type": "package",
       "Release": "woody",
       "Package": "libpng",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[woody] - libpng3 1.2.1-1.1.woody.3",
-      "Line": 18169,
+      "Line": 18175,
       "Type": "package",
       "Release": "woody",
       "Package": "libpng3",

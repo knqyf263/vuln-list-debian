@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[16 Dec 2015] DSA-3423-1 cacti - security update",
-    "Line": 6839,
+    "Line": 6845,
     "ID": "DSA-3423-1",
     "Description": "cacti - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-8369}",
-      "Line": 6840,
+      "Line": 6846,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-8369"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - cacti 0.8.8a+dfsg-5+deb7u7",
-      "Line": 6841,
+      "Line": 6847,
       "Type": "package",
       "Release": "wheezy",
       "Package": "cacti",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[jessie] - cacti 0.8.8b+dfsg-8+deb8u3",
-      "Line": 6842,
+      "Line": 6848,
       "Type": "package",
       "Release": "jessie",
       "Package": "cacti",

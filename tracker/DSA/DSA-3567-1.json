@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[04 May 2016] DSA-3567-1 libpam-sshauth - security update",
-    "Line": 6308,
+    "Line": 6314,
     "ID": "DSA-3567-1",
     "Description": "libpam-sshauth - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-4422}",
-      "Line": 6309,
+      "Line": 6315,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-4422"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - libpam-sshauth 0.3.1-1+deb8u1",
-      "Line": 6310,
+      "Line": 6316,
       "Type": "package",
       "Release": "jessie",
       "Package": "libpam-sshauth",

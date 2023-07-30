@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[17 Nov 2011] DSA-2348-1 systemtap - several",
-    "Line": 10466,
+    "Line": 10472,
     "ID": "DSA-2348-1",
     "Description": "systemtap - several"
   },
   "Annotations": [
     {
       "Original": "{CVE-2010-4170 CVE-2010-4171 CVE-2011-2503 }",
-      "Line": 10467,
+      "Line": 10473,
       "Type": "xref",
       "Bugs": [
         "CVE-2010-4170",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[squeeze] - systemtap 1.2-5+squeeze1",
-      "Line": 10468,
+      "Line": 10474,
       "Type": "package",
       "Release": "squeeze",
       "Package": "systemtap",
