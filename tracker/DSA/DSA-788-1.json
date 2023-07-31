@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[29 Aug 2005] DSA-788-1 kismet - several",
-    "Line": 16155,
+    "Line": 16159,
     "ID": "DSA-788-1",
     "Description": "kismet - several"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-2626 CVE-2005-2627}",
-      "Line": 16156,
+      "Line": 16160,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-2626",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[woody] - kismet \u003cnot-affected\u003e (not affected according to DSA)",
-      "Line": 16157,
+      "Line": 16161,
       "Type": "package",
       "Release": "woody",
       "Package": "kismet",
@@ -26,7 +26,7 @@
     },
     {
       "Original": "[sarge] - kismet 2005.04.R1-1sarge1 (medium)",
-      "Line": 16158,
+      "Line": 16162,
       "Type": "package",
       "Release": "sarge",
       "Package": "kismet",
@@ -36,13 +36,13 @@
     },
     {
       "Original": "NOTE: not fixed in testing at time of DSA (glibc transition)",
-      "Line": 16159,
+      "Line": 16163,
       "Type": "NOTE",
       "Description": "not fixed in testing at time of DSA (glibc transition)"
     },
     {
       "Original": "NOTE: but fixed in secure-testing repo",
-      "Line": 16160,
+      "Line": 16164,
       "Type": "NOTE",
       "Description": "but fixed in secure-testing repo"
     }

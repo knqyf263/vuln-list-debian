@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[01 Feb 2020] DSA-4615-1 spamassassin - security update",
-    "Line": 2791,
+    "Line": 2795,
     "ID": "DSA-4615-1",
     "Description": "spamassassin - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-1930 CVE-2020-1931}",
-      "Line": 2792,
+      "Line": 2796,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-1930",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[stretch] - spamassassin 3.4.2-1~deb9u3",
-      "Line": 2793,
+      "Line": 2797,
       "Type": "package",
       "Release": "stretch",
       "Package": "spamassassin",
@@ -26,7 +26,7 @@
     },
     {
       "Original": "[buster] - spamassassin 3.4.2-1+deb10u2",
-      "Line": 2794,
+      "Line": 2798,
       "Type": "package",
       "Release": "buster",
       "Package": "spamassassin",

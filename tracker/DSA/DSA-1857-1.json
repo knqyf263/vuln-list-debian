@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[10 Aug 2009] DSA-1857-1 camlimages - arbitrary code execution",
-    "Line": 12200,
+    "Line": 12204,
     "ID": "DSA-1857-1",
     "Description": "camlimages - arbitrary code execution"
   },
   "Annotations": [
     {
       "Original": "{CVE-2009-2660}",
-      "Line": 12201,
+      "Line": 12205,
       "Type": "xref",
       "Bugs": [
         "CVE-2009-2660"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[etch] - camlimages 2.20-8+etch2",
-      "Line": 12202,
+      "Line": 12206,
       "Type": "package",
       "Release": "etch",
       "Package": "camlimages",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[lenny] - camlimages 1:2.2.0-4+lenny2",
-      "Line": 12203,
+      "Line": 12207,
       "Type": "package",
       "Release": "lenny",
       "Package": "camlimages",

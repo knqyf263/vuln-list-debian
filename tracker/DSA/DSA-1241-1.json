@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[25 Dec 2006] DSA-1241-1 squirrelmail",
-    "Line": 14377,
+    "Line": 14381,
     "ID": "DSA-1241-1",
     "Description": "squirrelmail"
   },
   "Annotations": [
     {
       "Original": "{CVE-2006-6142}",
-      "Line": 14378,
+      "Line": 14382,
       "Type": "xref",
       "Bugs": [
         "CVE-2006-6142"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[sarge] - squirrelmail 2:1.4.4-10",
-      "Line": 14379,
+      "Line": 14383,
       "Type": "package",
       "Release": "sarge",
       "Package": "squirrelmail",

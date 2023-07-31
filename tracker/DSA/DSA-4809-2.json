@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[27 Dec 2020] DSA-4809-2 python-apt - regression update",
-    "Line": 2111,
+    "Line": 2115,
     "ID": "DSA-4809-2",
     "Description": "python-apt - regression update"
   },
   "Annotations": [
     {
       "Original": "[buster] - python-apt 1.8.4.3",
-      "Line": 2112,
+      "Line": 2116,
       "Type": "package",
       "Release": "buster",
       "Package": "python-apt",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[31 Jul 2012] DSA-2518-1 krb5 - denial of service",
-    "Line": 9899,
+    "Line": 9903,
     "ID": "DSA-2518-1",
     "Description": "krb5 - denial of service"
   },
   "Annotations": [
     {
       "Original": "{CVE-2012-1014 CVE-2012-1015}",
-      "Line": 9900,
+      "Line": 9904,
       "Type": "xref",
       "Bugs": [
         "CVE-2012-1014",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[squeeze] - krb5 1.8.3+dfsg-4squeeze6",
-      "Line": 9901,
+      "Line": 9905,
       "Type": "package",
       "Release": "squeeze",
       "Package": "krb5",

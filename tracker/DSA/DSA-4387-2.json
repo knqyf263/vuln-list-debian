@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[02 Mar 2019] DSA-4387-2 openssh - security update",
-    "Line": 3531,
+    "Line": 3535,
     "ID": "DSA-4387-2",
     "Description": "openssh - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-6111}",
-      "Line": 3532,
+      "Line": 3536,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-6111"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - openssh 1:7.4p1-10+deb9u6",
-      "Line": 3533,
+      "Line": 3537,
       "Type": "package",
       "Release": "stretch",
       "Package": "openssh",

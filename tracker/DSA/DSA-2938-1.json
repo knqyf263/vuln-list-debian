@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[27 May 2014] DSA-2938-1 squeeze-lts announcement",
-    "Line": 8466,
+    "Line": 8470,
     "ID": "DSA-2938-1",
     "Description": "squeeze-lts announcement"
   },
   "Annotations": [
     {
       "Original": "NOTE: announcement for squeeze-lts",
-      "Line": 8467,
+      "Line": 8471,
       "Type": "NOTE",
       "Description": "announcement for squeeze-lts"
     }

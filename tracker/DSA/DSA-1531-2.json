@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[27 Mar 2008] DSA-1531-2 policyd-weight - insecure temporary files",
-    "Line": 13306,
+    "Line": 13310,
     "ID": "DSA-1531-2",
     "Description": "policyd-weight - insecure temporary files"
   },
   "Annotations": [
     {
       "Original": "{CVE-2008-1569 CVE-2008-1570}",
-      "Line": 13307,
+      "Line": 13311,
       "Type": "xref",
       "Bugs": [
         "CVE-2008-1569",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[etch] - policyd-weight 0.1.14-beta-6etch2",
-      "Line": 13308,
+      "Line": 13312,
       "Type": "package",
       "Release": "etch",
       "Package": "policyd-weight",

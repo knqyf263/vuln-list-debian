@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[05 Jan 2004] DSA-408 screen - integer overflow",
-    "Line": 17570,
+    "Line": 17574,
     "ID": "DSA-408",
     "Description": "screen - integer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2003-0972}",
-      "Line": 17571,
+      "Line": 17575,
       "Type": "xref",
       "Bugs": [
         "CVE-2003-0972"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - screen 3.9.11-5woody1",
-      "Line": 17572,
+      "Line": 17576,
       "Type": "package",
       "Release": "woody",
       "Package": "screen",

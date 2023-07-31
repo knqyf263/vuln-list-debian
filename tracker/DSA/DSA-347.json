@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[08 Jul 2003] DSA-347 teapop - SQL injection",
-    "Line": 17761,
+    "Line": 17765,
     "ID": "DSA-347",
     "Description": "teapop - SQL injection"
   },
   "Annotations": [
     {
       "Original": "{CVE-2003-0515}",
-      "Line": 17762,
+      "Line": 17766,
       "Type": "xref",
       "Bugs": [
         "CVE-2003-0515"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - teapop 0.3.4-1woody2",
-      "Line": 17763,
+      "Line": 17767,
       "Type": "package",
       "Release": "woody",
       "Package": "teapop",

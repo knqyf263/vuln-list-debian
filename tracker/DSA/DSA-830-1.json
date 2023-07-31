@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[30 Sep 2005] DSA-830-1 ntlmaps - wrong permissions",
-    "Line": 15940,
+    "Line": 15944,
     "ID": "DSA-830-1",
     "Description": "ntlmaps - wrong permissions"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-2962}",
-      "Line": 15941,
+      "Line": 15945,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-2962"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[sarge] - ntlmaps 0.9.9-2sarge1",
-      "Line": 15942,
+      "Line": 15946,
       "Type": "package",
       "Release": "sarge",
       "Package": "ntlmaps",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "NOTE: fixed in testing at time of DSA",
-      "Line": 15943,
+      "Line": 15947,
       "Type": "NOTE",
       "Description": "fixed in testing at time of DSA"
     }

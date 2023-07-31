@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[12 Nov 2020] DSA-4790-1 thunderbird - security update",
-    "Line": 2204,
+    "Line": 2208,
     "ID": "DSA-4790-1",
     "Description": "thunderbird - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-26950}",
-      "Line": 2205,
+      "Line": 2209,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-26950"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[buster] - thunderbird 1:78.4.2-1~deb10u1",
-      "Line": 2206,
+      "Line": 2210,
       "Type": "package",
       "Release": "buster",
       "Package": "thunderbird",

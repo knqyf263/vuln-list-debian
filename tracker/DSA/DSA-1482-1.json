@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[05 Feb 2008] DSA-1482-1 squid - programming error",
-    "Line": 13508,
+    "Line": 13512,
     "ID": "DSA-1482-1",
     "Description": "squid - programming error"
   },
   "Annotations": [
     {
       "Original": "{CVE-2007-6239}",
-      "Line": 13509,
+      "Line": 13513,
       "Type": "xref",
       "Bugs": [
         "CVE-2007-6239"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[etch] - squid 2.6.5-6etch1",
-      "Line": 13510,
+      "Line": 13514,
       "Type": "package",
       "Release": "etch",
       "Package": "squid",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "NOTE: temporary i386 update for sarge on: http://people.debian.org/~jmm/squid/",
-      "Line": 13511,
+      "Line": 13515,
       "Type": "NOTE",
       "Description": "temporary i386 update for sarge on: http://people.debian.org/~jmm/squid/"
     }

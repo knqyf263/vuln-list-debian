@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[24 Mar 2017] DSA-3817-1 jbig2dec - security update",
-    "Line": 5536,
+    "Line": 5540,
     "ID": "DSA-3817-1",
     "Description": "jbig2dec - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-9601 CVE-2016-8729}",
-      "Line": 5537,
+      "Line": 5541,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-9601",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[jessie] - jbig2dec 0.13-4~deb8u1",
-      "Line": 5538,
+      "Line": 5542,
       "Type": "package",
       "Release": "jessie",
       "Package": "jbig2dec",

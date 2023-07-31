@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[27 Aug 2021] DSA-4964-1 grilo - security update",
-    "Line": 1666,
+    "Line": 1670,
     "ID": "DSA-4964-1",
     "Description": "grilo - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-39365}",
-      "Line": 1667,
+      "Line": 1671,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-39365"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[buster] - grilo 0.3.7-1+deb10u1",
-      "Line": 1668,
+      "Line": 1672,
       "Type": "package",
       "Release": "buster",
       "Package": "grilo",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[bullseye] - grilo 0.3.13-1+deb11u1",
-      "Line": 1669,
+      "Line": 1673,
       "Type": "package",
       "Release": "bullseye",
       "Package": "grilo",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[23 Apr 2003] DSA-293 kdelibs - insecure execution",
-    "Line": 17929,
+    "Line": 17933,
     "ID": "DSA-293",
     "Description": "kdelibs - insecure execution"
   },
   "Annotations": [
     {
       "Original": "{CVE-2003-0204}",
-      "Line": 17930,
+      "Line": 17934,
       "Type": "xref",
       "Bugs": [
         "CVE-2003-0204"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - kdebase 4:2.2.2-13.woody.7",
-      "Line": 17931,
+      "Line": 17935,
       "Type": "package",
       "Release": "woody",
       "Package": "kdebase",
